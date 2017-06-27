@@ -1,6 +1,19 @@
-# Open Data
+Open Data
+=========
 
-This is the repository for LibrariesWest related Open Data.
+This is the repository for LibrariesWest Open Data.
+
+Our open data is split into folders by category.  Each category of data will have separate documentation for those datasets.
+
+| Category | Readme | Description |
+| -------- | ------ | ----------- |
+| Geography |  |  |
+| Weather |  |  |
+| Transits |  |  |
+| Issues |  |  |
+| Reservations |  |  | 
+| Bills |  |  |
+|  |  |  |
 
 ## Geography boundary lines
 
