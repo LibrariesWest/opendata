@@ -3,54 +3,33 @@ Open Data
 
 This is the repository for LibrariesWest Open Data.
 
+Why open data?
+--------------
+
+In local government there are requirements for certain datasets to be made open, as a minimum. These are laid out as part of the [Local Government Transparency Code 2015](https://www.gov.uk/government/publications/local-government-transparency-code-2015).
+
+The code goes further than specific datasets, and also states:
+
+> the Government believes that in principle all data held and managed by local authorities should be made available to local people unless there are specific sensitivities (eg. protecting vulnerable people or commercial and operational considerations) to doing so. It encourages local authorities to see data as a valuable resource not only to themselves, but also their partners and local people.
+
+LibrariesWest open data
+-----------------------
+
+LibrariesWest manage data for 7 authorities primarily around the Library Management System (LMS).  This covers library borrowing, members, reservations, and the library catalogue.
+
 Our open data is split into folders by category.  Each category of data will have separate documentation for those datasets.
 
-| Category | Readme | Description |
-| -------- | ------ | ----------- |
-| Geography |  |  |
-| Weather |  |  |
-| Transits |  |  |
-| Issues |  |  |
-| Reservations |  |  | 
-| Bills |  |  |
-|  |  |  |
+Not all of this data is released by LibrariesWest.  We will also be including relevant open data from other sources, such as Ordnance Survey data and Office for National Statistics data where this relates to the LibrariesWest area.
 
-## Geography boundary lines
+Categories of Data
+------------------
 
-| Folder | File Name | Description |
-| ------ | --------- | ----------- |
-| geography | boundary_bathandnortheastsomerset.geojson | Boundary line data to represent Bath and North East Somerset.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. |
-| geography | boundary_bathandnortheastsomerset_bng.geojson | Boundary line data to represent Bath and North East Somerset.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_bristol.geojson | Boundary line data to represent Bristol.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. |
-| geography | boundary_bristol_bng.geojson | Boundary line data to represent Bristol.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_dorset.geojson | Boundary line data to represent Dorset.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. |
-| geography | boundary_dorset_bng.geojson | Boundary line data to represent Dorset.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_northsomerset.geojson | Boundary line data to represent North Somerset.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. | 
-| geography | boundary_northsomerset.geojson | Boundary line data to represent North Somerset.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_poole.geojson | Boundary line data to represent Poole.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. | 
-| geography | boundary_poole.geojson | Boundary line data to represent Poole.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_somerset.geojson | Boundary line data to represent Somerset.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. | 
-| geography | boundary_somerset.geojson | Boundary line data to represent Somerset.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_southgloucestershire.geojson | Boundary line data to represent South Gloucestershire.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. | 
-| geography | boundary_southgloucestershire.geojson | Boundary line data to represent South Gloucestershire.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-
-**Licence:**  For all the above, OS boundary data released under the [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).  Contains OS data © Crown copyright and database right 2016. |
-
-## Geography output areas
-
-| Folder | File Name | Description |
-| ------ | --------- | ----------- |
-| geography | boundary_bathandnortheastsomerset.geojson | Boundary line data to represent Bath and North East Somerset.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. |
-| geography | boundary_bathandnortheastsomerset_bng.geojson | Boundary line data to represent Bath and North East Somerset.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_bristol.geojson | Boundary line data to represent Bristol.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. |
-| geography | boundary_bristol_bng.geojson | Boundary line data to represent Bristol.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_dorset.geojson | Boundary line data to represent Dorset.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. |
-| geography | boundary_dorset_bng.geojson | Boundary line data to represent Dorset.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_northsomerset.geojson | Boundary line data to represent North Somerset.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. | 
-| geography | boundary_northsomerset.geojson | Boundary line data to represent North Somerset.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_poole.geojson | Boundary line data to represent Poole.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. | 
-| geography | boundary_poole.geojson | Boundary line data to represent Poole.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_somerset.geojson | Boundary line data to represent Somerset.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. | 
-| geography | boundary_somerset.geojson | Boundary line data to represent Somerset.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
-| geography | boundary_southgloucestershire.geojson | Boundary line data to represent South Gloucestershire.  The Coordinate reference system is **WGS84**, compatible with most online mapping tools.  The features in the GeoJSON file also include population and area. | 
-| geography | boundary_southgloucestershire.geojson | Boundary line data to represent South Gloucestershire.  The Coordinate Reference System is **British National Grid**. The features in the GeoJSON file also include population and area. |
+| Category | Description |
+| -------- | ----------- |
+| Bills | Data relating to bills generated in the system (e.g. charges for items, payments taken for printing) |
+| Geography | Some open geography data covering the area of LibrariesWest.  Primarily taken from Ordnance Survey Open Data |
+| Movement | Movement of stock around the authority |
+| Membership | Our members, demographics, areas of usage, and deprivation indicators  |
+| Reservations | Reservations being placed on stock |
+| Usage | Basic usage of items such as issues and renewals |
+| Weather | Some open climate data.  Interesting for research on usage and weather. |
