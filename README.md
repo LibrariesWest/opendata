@@ -1,6 +1,3 @@
-Open Data
-=========
-
 ![Libraries West Open Data](LW%20Open%20Data.png?raw=true "Libraries West Open Data")
 
 This is the repository for LibrariesWest Open Data.
