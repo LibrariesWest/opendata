@@ -6,29 +6,31 @@
 
 #### Bills and payments
 
-* [Bill and payment data introduction](bills/README.md)
-* [Bill data](bills/bills.md)
-* [Bill payment data](bills/billpayments.md)
+* [Introduction](bills/README.md)
+* [Bills](bills/bills.md)
+* [Bill payments](bills/bill-payments.md)
 
 #### Geography
-* [Geography data introduction](geography/README.md)
+* [Introduction](geography/README.md)
+* [Boundary lines](bills/bills.md)
+* [Super output areas](bills/soas.md)
 
 #### Membership
 
-* [Membership data introduction](members/README.md)
+* [Introduction](members/README.md)
 
 #### Movement of stock
 
-* [Movement of stock data introduction](movement/README.md)
-
-#### Reservations
-
-* [Reservation data introduction](reservations/README.md)
+* [Introduction](movement/README.md)
+* [Transits](movement/transits.md)
 
 #### Usage
 
-* [Usage data introduction](usage/README.md)
+* [Introduction](usage/README.md)
+* [Issues](usage/issues.md)
+* [Reservations](usage/reservations.md)
 
 #### Weather
 
-* [Weather data introduction](weather/README.md)
+* [Introduction](weather/README.md)
+* [Precipitation](bills/precipitation.md)
