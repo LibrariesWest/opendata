@@ -7,6 +7,8 @@
 #### Bills and payments
 
 * [Bill and payment data introduction](bills/README.md)
+* [Bill data](bills/bills.md)
+* [Bill payment data](bills/billpayments.md)
 
 #### Geography
 * [Geography data introduction](geography/README.md)
