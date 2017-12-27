@@ -10,14 +10,21 @@
 * [Bills](bills/bills.md)
 * [Bill payments](bills/bill-payments.md)
 
+#### Catalogue
+
+* [Introduction](catalogue/README.md)
+* [Titles](catalogue/titles.md)
+* [Items](catalogue/items.md)
+
 #### Geography
 * [Introduction](geography/README.md)
-* [Boundary lines](bills/bills.md)
-* [Super output areas](bills/soas.md)
+* [Boundary lines](geography/boundary-lines.md)
+* [Super output areas](geography/soas.md)
 
 #### Membership
 
-* [Introduction](members/README.md)
+* [Introduction](membership/README.md)
+* [Members by library and area](membership/membersbyarea.md)
 
 #### Movement of stock
 
@@ -33,4 +40,4 @@
 #### Weather
 
 * [Introduction](weather/README.md)
-* [Precipitation](bills/precipitation.md)
+* [Rain](weather/rain.md)
