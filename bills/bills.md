@@ -1,12 +1,25 @@
 Bills
 =====
 
-This describes the data we release about bills.
+#### Summary
 
-File definitions
-----------------
+The summary file gives some basic data about the number of bills generated in the Library Management System, separated by Library authority.
 
-#### bills.csv
+[Download bills_summary.csv](bills/bills_summary.csv)
+
+| Field | Description | Example |
+| ----- | ----------- | ------- |
+| Year billed | The year the bill record was created | 2018 |
+| Bill authority | The authority the bill record was created for | Somerset |
+| Bill reason | The reason for the bill | HOLD |
+| Number of bills | The number of bills included in this grouping | 5 |
+| Total billed | The total amount billed in pounds | 5 |
+
+#### Detail
+
+For more detail use the detail download, the columns included are described below.
+
+[Download bills.csv](bills/bills.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -17,4 +30,3 @@ File definitions
 | Bill reason | The reason for the bill | HOLD |
 | Number of bills | The number of bills included in this grouping | 5 |
 | Total billed | The total amount billed in pounds | 5 |
-
