@@ -17,7 +17,7 @@ The summary file gives some basic data about the number of bills generated in th
 
 #### Detail
 
-For more detail use the detail download, the columns included are described below.
+For more detail use this download, the columns included are described below.
 
 [Download bills.csv](bills/bills.csv)
 
