@@ -21,12 +21,10 @@ Paying a bill can be done either by paying the full amount, or it is possible to
 
 This bill payment record is linked to the bill record by User ID and Bill number. When the payment has been made in full, the original bill record is updated to show that the bill is then fully paid. Sometimes bill payment records are created with a type of either FORGIVEN or CANCEL. This means that money hasn't been taken for the bill, staff will have decided that either the bill wasn't valid, or it was valid but that the user should not have to pay it. As far as the system is concerned, the bill has still been paid.
 
+- [Bill data](./bills.md)
+- [Bill payments data](./bill-payments.md)
+
 Open data extracts
 ------------------
 
 The data we provide here is aggregated data to show bill and bill payment amounts by month, by various categories, such as the library and the payment type. It will include bills and bill payments since 'go live' of our current system (7th June 2016).
-
-Update frequency
-----------------
-
-This data will be updated every night.
