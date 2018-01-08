@@ -23,7 +23,15 @@ For more details use the full details download.
 
 | Field | Decription | Example |
 | ----- | ---------- | ------- |
-|  |  |  |
+| Catalogue flex key | A reference to the catalogue key to match with our titles data |  |
+| Item ID | The ID for the item, also the printed barcode found on the item |  |
+| Authority | The authority holding the item | Bath and North East Somerset |
+| Library | The library holding the item | BNBL |
+| Item type | The item type | CH_FIC |
+| Date created | The date the item was created in the system | 2017-01-01 |
+| Price | A price for the item. Not always reliable so wouldn;t use for estimating the value of all stock |  |
+| Issues | The total number of issues for the ite, |  |
+| Renewals | The total number of renewals for the item |  |
 
 - [Download B&NES items](./items_banes.csv)
 - [Download Bristol items](./items_bristol.csv)
