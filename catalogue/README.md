@@ -12,3 +12,7 @@ An item is an individual instance of a title, such as a particular copy of a boo
 | Catalogue key | Item ID | Authority | Library | Item type | Date created | Price | Total checkouts | Total renewals |
 | ------------- | ------- | --------- | ------- | --------- | ------------ | ----- | --------------- | -------------- |
 | i9780261670501 | 1804779308 | Bristol | BSHZ | CH_FIC | 2015-03-14 | 3.99 | 8 | 6 |
+
+#### Open data extracts
+
+Our open data extracts will include all catalogue titles (as long as we hold at least one item), and all items. This should match the data available for searching on the Libraries West catalogue site.
