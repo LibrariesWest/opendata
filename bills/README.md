@@ -24,7 +24,6 @@ This bill payment record is linked to the bill record by User ID and Bill number
 - [Bill data](./bills.md)
 - [Bill payments data](./bill-payments.md)
 
-Open data extracts
-------------------
+#### Open data extracts
 
 The data we provide here is aggregated data to show bill and bill payment amounts by month, by various categories, such as the library and the payment type. It will include bills and bill payments since 'go live' of our current system (7th June 2016).
