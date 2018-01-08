@@ -15,7 +15,7 @@ A summary file gives some basic counts of items by item type and library. This i
 | Issues | The total number of issues across those items | 100 |
 | Renewals | The total number of renewals across those items | 100 |
 
-- [Download items summary](./items_summary.csv)
+- [Download items summary data](./items_summary.csv)
 
 #### Detail
 
@@ -33,10 +33,10 @@ For more details use the full details download.
 | Issues | The total number of issues for the item | 8 |
 | Renewals | The total number of renewals for the item | 6 |
 
-- [Download B&NES items](./items_banes.csv)
-- [Download Bristol items](./items_bristol.csv)
-- [Download Dorset items](./items_dorset.csv)
-- [Download North Somerset items](./items_northsomerset.csv)
-- [Download Poole items](./items_poole.csv)
-- [Download Somerset items](./items_somerset.csv)
-- [Download South Gloucestershire items](./items_southglos.csv)
+- [Download B&NES items data](./items_banes.csv)
+- [Download Bristol items data](./items_bristol.csv)
+- [Download Dorset items data](./items_dorset.csv)
+- [Download North Somerset items data](./items_northsomerset.csv)
+- [Download Poole items data](./items_poole.csv)
+- [Download Somerset items data](./items_somerset.csv)
+- [Download South Gloucestershire items data](./items_southglos.csv)
