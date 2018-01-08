@@ -5,7 +5,7 @@ Bill payments
 
 The summary file gives some basic data about the number of bill payment records recorded in the Library Management System, separated by Library authority.
 
-[Download billpayments_summary.csv](bills/billpayments_summary.csv)
+- [Download bill payments summary data](bills/billpayments_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -20,7 +20,7 @@ The summary file gives some basic data about the number of bill payment records 
 
 For more detail use this download, the columns are described below.
 
-[Download billpayments.csv](bills/billpayments.csv)
+- [Download bill payments data](bills/billpayments.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
