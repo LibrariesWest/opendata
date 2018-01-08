@@ -5,7 +5,7 @@ Bills
 
 The summary file gives some basic data about the number of bills generated in the Library Management System, separated by Library authority.
 
-[Download bills_summary.csv](bills/bills_summary.csv)
+- [Download bills summary data](bills/bills_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -19,7 +19,7 @@ The summary file gives some basic data about the number of bills generated in th
 
 For more detail use this download, the columns included are described below.
 
-[Download bills.csv](bills/bills.csv)
+- [Download bills data](bills/bills.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
