@@ -13,7 +13,7 @@ Membership provides access to:
 
 We don't release data on individual members, but do have data on counts of registered members, including which library those members are registered with.
 
-- [Members by area](./membersbyarea.md)
+- [Members by library and area](./membersbyarea.md)
 
 #### Open data exports
 
