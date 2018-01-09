@@ -11,15 +11,15 @@ For example, a user places a reservation (also known as 'hold') on an item, whic
 | ------- | ----------- | --------- | ----------- | ------------ | ----------- | ----- |
 | 12345 | 1 | 13/06/2017 | HOLD | Bath Central | £1 | No |
 
-Bill records could be paid straight away. For example, if a user returned an item and it was overdue then that would generate a bill of type OVERDUE. This could then be paid before they leave, or left until a later date.
+Bill records could be paid straight away. For example, if a user returned an item and it was overdue then that would generate a bill of type OVERDUE at the point the item is returned. This could then be paid before they leave, or left until a later date.
 
-Paying a bill can be done either by paying the full amount, or it is possible to pay in smaller amounts, multiple times. For any instance of paying a bill, a 'bill payment' record is created:
+Paying a bill can be done either by paying the full amount, or it is possible to pay in smaller amounts, multiple times. When making a payment, a 'bill payment' record is created:
 
 | User ID | Bill number | Payment date | Payment type | Payment library | Amount paid |
-| ------- | ----------- | ------------ | ------------ | ------------ | ----------- |
+| ------- | ----------- | ------------ | ------------ | --------------- | ----------- |
 | 12345 | 1 | 13/06/2017 | CASH | Bath Central | £0.50 |
 
-This bill payment record is linked to the bill record by User ID and Bill number. When the payment has been made in full, the original bill record is updated to show that the bill is then fully paid. Sometimes bill payment records are created with a type of either FORGIVEN or CANCEL. This means that money hasn't been taken for the bill, staff will have decided that either the bill wasn't valid, or it was valid but that the user should not have to pay it. As far as the system is concerned, the bill has still been paid.
+This payment record is linked to the bill record by User ID and Bill number. When the payment has been made in full, the original bill record is updated to show that the bill is fully paid. Sometimes payment records are created with a type of either FORGIVEN or CANCEL. This means that money hasn't been taken for the bill, staff will have decided that either the bill wasn't valid, or it was valid but that the user should not have to pay it. As far as the system is concerned, the bill has been paid.
 
 - [Bill data](./bills.md)
 - [Bill payments data](./bill-payments.md)
