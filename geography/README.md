@@ -9,6 +9,9 @@ It is important then that we have data on these authority boundaries to be able 
 
 It is difficult to make firm conclusions from this data, especially as library membership is only a subset of the population in any area, but these geography files provide supporting information for some of the geographic references within our open data.
 
+- [Boundary lines](./boundary-lines.md)
+- [Super output areas](./soas.md)
+
 #### Open data
 
 The data listed in the Geography section of our open data does not belong to LibrariesWest, we have extracted open data from Ordnance Survey (OS), and from the Office for National Statistics to have these specifically for the LibrariesWest area. In the documentation for each section we will list the licence terms, and provide links to the full datasets.
