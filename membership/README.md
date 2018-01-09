@@ -1,7 +1,7 @@
 Membership
 ==========
 
-To use certain library services, users need to register as a member, and their details are stored in the Library Management System. This includes people who have registered at any of the 7 library services in Libraries West.
+Library user registration details are stored in the Library Management System. This includes people who have registered at any of the 7 library services in Libraries West.
 
 Membership provides access to:
 
@@ -17,4 +17,4 @@ We don't release data on individual members, but do have data on counts of regis
 
 #### Open data exports
 
-We release counts of 'active' members. Active membership means that the account has been active within a year. This could be for a variety of activity - for example logging in to a PC, or borrowing an item.
+We release counts of 'active' members. Active membership means that the account has been active within a year. This could be for a variety of different types of activity - for example logging in to a PC, or borrowing an item.
