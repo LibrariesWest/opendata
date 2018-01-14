@@ -1,7 +1,7 @@
 Super output areas
 ==================
 
-Super output areas are small areas designed to improve reporting of small area statistics. They were last updated in 2011. The files here are provided as GeoJSON files. These are available to view within GitHub, or to download.
+Super output areas are small areas designed to improve reporting of small area statistics. They were last updated in 2011. The files here are provided as GeoJSON files. The links below will allow the area to be viewed, within GitHub, and then downloaded if required.
 
 #### Output areas
 

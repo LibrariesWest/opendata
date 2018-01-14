@@ -1,6 +1,8 @@
 Boundary lines
 ==============
 
+Boundary lines give the border around a local authority. The links below will allow the boundary to be viewed, within GitHub, and then downloaded if required.
+
 - [Boundary Bath and North East Somerset](https://github.com/LibrariesWest/opendata/blob/master/geography/boundary_bathandnortheastsomerset.geojson)
 - [Boundary Bristol](https://github.com/LibrariesWest/opendata/blob/master/geography/boundary_bristol.geojson)
 - [Boundary Dorset](https://github.com/LibrariesWest/opendata/blob/master/geography/boundary_dorset.geojson)

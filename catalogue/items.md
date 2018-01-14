@@ -1,7 +1,7 @@
 Items
 =====
 
-Because we are 7 library services, our item data is quite large as it includes copies of items held by all services (millions of items). We are splitting out these exports to be one file per service to make them more manageable. Plus, because we use GitHub for storage, there is a 100Mb file limit!
+Because we are 7 library services, our item data is quite large as it includes listings of items held by all services (millions of items). We are splitting out these exports to be one file per service to make them more manageable. Plus, because we use GitHub for storage, there is a 100Mb file limit!
 
 #### Summary
 

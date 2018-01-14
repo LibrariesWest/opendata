@@ -4,13 +4,13 @@ In local government there are requirements for certain data to be published. Thi
 
 > the Government believes that in principle all data held and managed by local authorities should be made available to local people unless there are specific sensitivities (eg. protecting vulnerable people or commercial and operational considerations) to doing so. It encourages local authorities to see data as a valuable resource not only to themselves, but also their partners and local people.
 
-#### LibrariesWest open data
-
 LibrariesWest manage data for 7 local authority library services, primarily stored in the Library Management System (LMS). This covers library borrowing, members, reservations, movement of stock, and the library catalogue.
 
 Our open data is split into folders by category. Each category of data will have separate documentation for those datasets.
 
 We will also be including open data from other sources, such as Ordnance Survey data and Office for National Statistics data, where these relate to the LibrariesWest area.
+
+- [All data downloads](./all-files.md)
 
 #### Categories of Data
 
