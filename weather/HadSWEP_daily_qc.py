@@ -8,10 +8,10 @@
 import csv
 import datetime
 
-hadukpfile = open('weather\HadSWEP_daily_qc.txt', 'r')
+hadukpfile = open('HadSWEP_daily_qc.txt', 'r')
 mindate = datetime.datetime(2016,6,7)
 
-with open('weather\HadSWEP.csv', 'w', newline='') as output:
+with open('HadSWEP.csv', 'w', newline='') as output:
     precipitationwriter = csv.writer(output, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     for i, line in enumerate(hadukpfile):
         if (i > 2):
