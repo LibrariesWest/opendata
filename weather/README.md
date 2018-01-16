@@ -1,15 +1,15 @@
 Weather
 =======
 
-Does climate have any effect on library usage? Unfortunately, we don't hold data like footfall - so it's hard to see trends such as people coming into the library more on a rainy day, or perhaps staying for longer. We do have data on the number of reservations placed each day (including whether that's done in the library, or online), and the number of issues of items from libraries each day.
+Does weather have any effect on library usage? LibrariesWest don't hold data like footfall, this is held by individual library services. So it's not possible from this data to see trends such as people coming into the library more on a rainy day, or perhaps staying for longer. We do have data on the number of reservations placed each day (including whether that's done in the library, or online), and the number of issues of items from libraries each day (see our [usage data](./../usage/README.md))
 
-It's worth collating some historic climate data, so if anyone does want to attempt any analysis of library usage, and how that may be affected by the weather, they can do so.
+It's worth collecting some historic climate data, so if anyone does want to attempt any analysis of library usage, and how that may be affected by the weather, they can do so.
 
 - [Rain](./rain.md)
 
 #### Open data
 
-The data listed in the Weather section of our open data does not belong to LibrariesWest, we have extracted open data from other sources. Please check the relevant licence conditions for each dataset.
+The data listed in the Weather section has been extracted from other open data sources. Please check the relevant licence conditions for each dataset.
 
 #### Thoughts from the Systems Team
 

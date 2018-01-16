@@ -19,7 +19,7 @@ The summary file gives basic data about the number of bills generated in the Lib
 
 For more detail use this download, the columns included are described below.
 
-- [Download bills data](bills/bills.csv)
+- Coming soon
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |

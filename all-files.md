@@ -1,18 +1,20 @@
 All file downloads
 ==================
 
-#### Bills
+This page lists all our data downloads. It also includes an update schedule, the majority of these we plan to be nightly updates. We would also like to show when each file was last updated, although in many cases this will be represented in the data.
+
+#### Bills/charges
 
 - [Bills introduction](./bills/README.md)
-- [Bills documentation]()
-- [Bill payments documentation](./bills/billpayments.md)
+- [Bill data documentation]()
+- [Payment data documentation](./bills/billpayments.md)
 
-| File link | Description | Update schedule |
-| --------- | ----------- | --------------- |
-| Bills summary
-| Bills | 
-| Bill payments summary | Summary details of bill payment records |
-| Bill payments | Full details of bill payment records  | Manual |
+| File link | Update schedule |
+| --------- | --------------- |
+| Bills summary | Manual |
+| Bills detail | Coming soon |
+| Bill payments summary | Manual |
+| Bill payments | Full details of bill payment records  | Coming soon |
 
 #### Catalogue
 
