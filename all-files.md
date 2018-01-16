@@ -5,32 +5,32 @@ This page lists all our data downloads. It also includes an update schedule, the
 
 #### Bills/charges
 
-| File link | Update schedule |
-| --------- | --------------- |
-| [Bills summary]() | Manual |
-| [Payments summary]() | Manual |
+| File link | Update schedule | Last Updated |
+| --------- | --------------- | ------------ |
+| [Bills summary]() | Manual | 14/01/2018 |
+| [Payments summary]() | Manual | 14/01/2018 |
 
 #### Catalogue
 
-| File link | Update schedule |
-| --------- | --------------- |
-| [Items summary]() | Manual |
+| File link | Update schedule | Last Updated |
+| --------- | --------------- | ------------ |
+| [Items summary]() | Manual | 14/01/2018 |
 
 #### Membership
 
-| File link | Update schedule |
-| --------- | --------------- |
-| [Membership summary]() | Manual |
+| File link | Update schedule | Last Updated |
+| --------- | --------------- | ------------ |
+| [Membership summary]() | Manual | 14/01/2018 |
 
 #### Movement
 
-| File link | Update schedule |
-| --------- | --------------- |
-| [Items in transit summary]() | Manual |
+| File link | Update schedule | Last Updated |
+| --------- | --------------- | ------------ |
+| [Items in transit summary]() | Manual | 14/01/2018 |
 
 #### Usage
 
-| File link | Update schedule |
-| --------- | --------------- |
-| [Issues summary]() | Manual |
-| [Reservations summary]() | Manual |
+| File link | Update schedule | Last Updated |
+| --------- | --------------- | ------------ |
+| [Issues summary]() | Manual | 14/01/2018 |
+| [Reservations summary]() | Manual | 14/01/2018 |
