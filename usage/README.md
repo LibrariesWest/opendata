@@ -9,5 +9,8 @@ When placing a reservation, the reservation is normally placed against the Title
 
 Regardless of that, when a reservation is placed a reservation record is created, also known as 'hold'.
 
-| 
+| Date Placed | Date expires | User | Item | Library | Pickup library | Position | Client |
+| ----------- | ------------ | ---- | ------- | -------------- |
+| 15/01/2018 | 15/01/2019 | 12345 |  |  |  |
 
+That's a simplified view of a reservation record, but gives some of the key principles. 

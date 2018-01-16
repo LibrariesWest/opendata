@@ -9,6 +9,11 @@ The data is available on a regional basis so we have taken a copy of the South W
 
 - [Download HadSWEP CSV](./HadSWEP.csv)
 
+| Field | Description | Example |
+| ----- | ----------- | ------- |
+| Date | The date measured | 2016-06-19 |
+| Precipitation | Daily Southwest England & Wales precipitation (mm) | 21.50 |
+
 #### Licence
 
-Data is made available under the Open Government Licence, with a requirement to attribute the original source which is the [Met Office Hadley Centre](https://www.metoffice.gov.uk/hadobs/hadukp/).
+Data is made available under the Open Government Licence, with a requirement to attribute the original source, which is the [Met Office Hadley Centre](https://www.metoffice.gov.uk/hadobs/hadukp/).

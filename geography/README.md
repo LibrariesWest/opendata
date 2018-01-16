@@ -15,3 +15,7 @@ It is difficult to make firm conclusions from this data, especially as library m
 #### Open data
 
 The data listed in the Geography section of our open data does not belong to LibrariesWest, we have extracted open data from Ordnance Survey (OS), and from the Office for National Statistics to have these specifically for the LibrariesWest area. In the documentation for each section we will list the licence terms, and provide links to the full datasets.
+
+#### Thoughts from the Systems Team
+
+- [Reporting with Geography](https://librarieswest.github.io/2016/11/21/reporting-geography/)
