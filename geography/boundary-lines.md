@@ -9,7 +9,7 @@ Boundary lines give the border around a local authority. The links below will al
 - [Boundary North Somerset](https://github.com/LibrariesWest/opendata/blob/master/geography/boundary_northsomerset.geojson)
 - [Boundary Poole](https://github.com/LibrariesWest/opendata/blob/master/geography/boundary_poole.geojson)
 - [Boundary Somerset](https://github.com/LibrariesWest/opendata/blob/master/geography/boundary_somerset.geojson)
-- [Boundary South Gloucestershire](https://github.com/LibrariesWest/opendata/blob/master/geography/boundary_southglos.geojson)
+- [Boundary South Gloucestershire](https://github.com/LibrariesWest/opendata/blob/master/geography/boundary_southgloucestershire.geojson)
 
 #### Licence
 

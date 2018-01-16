@@ -14,7 +14,7 @@ Summary data provides basic active member counts per library.
 
 #### Detail
 
-Further detail breaks down the membership counts into statistical areas that represent where the members are based. These use areas such as county, district, and super output areas. For more info on these see our [geography data](./../geography/README.md)
+Further detail breaks down the membership counts into statistical areas that represent where members are based. These use areas such as county, district, and super output areas. For more info on these see our [geography data](./../geography/README.md)
 
 Because this data is reported at fairly detailed geographic detail, we suppress reporting of values less than 5, by using a * in place of a number. This should be taken into account when using the data and trying to sum the values of members in each area. For more accurate total numbers you would be better off using the summary data which is correct to the nearest 10 people.
 
@@ -36,4 +36,4 @@ Because this data is reported at fairly detailed geographic detail, we suppress 
 | LSOA code | The 9 character code for the lower layer super output area | E01029135 |
 | Users | The number of registered members in this grouping | 60 |
 
-(The above examples are not 'real' data)
+(Note: the above examples do not represent 'real' rows of data)

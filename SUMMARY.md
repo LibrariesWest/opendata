@@ -3,24 +3,19 @@
 ### LibrariesWest open data
 
 * [Introduction](README.md)
-* [All downloads](README.md)
+* [All downloads](all-files.md)
 
 #### Bills and payments
 
 * [Bills and Payments](bills/README.md)
 * [Bills](bills/bills.md)
-* [Bill payments](bills/bill-payments.md)
+* [Payments](bills/bill-payments.md)
 
 #### Catalogue
 
 * [Catalogue](catalogue/README.md)
 * [Titles](catalogue/titles.md)
 * [Items](catalogue/items.md)
-
-#### Geography
-* [Geography](geography/README.md)
-* [Boundary lines](geography/boundary-lines.md)
-* [Super output areas](geography/soas.md)
 
 #### Membership
 
@@ -38,7 +33,12 @@
 * [Issues](usage/issues.md)
 * [Reservations](usage/reservations.md)
 
-#### Weather
+#### Other data: geography
+* [Geography](geography/README.md)
+* [Boundary lines](geography/boundary-lines.md)
+* [Super output areas](geography/soas.md)
+
+#### Other data: weather
 
 * [Weather/Climate](weather/README.md)
 * [Rain](weather/rain.md)

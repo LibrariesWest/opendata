@@ -18,9 +18,9 @@ We will also be including open data from other sources, such as Ordnance Survey 
 | -------- | ----------- |
 | [Bills](bills/README.md) | Data relating to system charges (e.g. charges for reservations, overdue fines) |
 | [Catalogue](catalogue/README.md) | Books and other things. What's in our catalogue? |
-| [Geography](geography/README.md) | Some open geography data covering the area of LibrariesWest. Primarily taken from Ordnance Survey. |
 | [Membership](membership/README.md) | Our members and hoow many there are. |
 | [Movement](movement/README.md) | Movement of stock around the services. |
 | [Reservations](reservations/README.md) | Reservations being placed on stock. Also known as Holds. |
 | [Usage](usage/README.md) | Usage of items in the catalogue, such as number of issues and renewals. |
-| [Weather](weather/README.md) | Some open climate data. May be useful for research on usage. |
+| [Other data: geography](geography/README.md) | Some open geography data covering the area of LibrariesWest. Primarily taken from Ordnance Survey. |
+| [Other data: weather](weather/README.md) | Some open climate data. May be useful for research on usage. |

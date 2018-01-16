@@ -9,7 +9,7 @@ Summary data provides counts of the numbers of completed reservations per librar
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
-| Month place | The month the holds were placed | 2016-06 |
+| Month placed | The month the holds were placed | 2016-06 |
 | Item authority | The owning authority of the item | Somerset |
 | Pickup authority | The pickup authority of the item (where the user collects it) | Bath and North East Somerset |
 | Reservations | The number of reservations in this grouping | 10 |

@@ -5,46 +5,32 @@ This page lists all our data downloads. It also includes an update schedule, the
 
 #### Bills/charges
 
-- [Bills introduction](./bills/README.md)
-- [Bill data documentation]()
-- [Payment data documentation](./bills/billpayments.md)
-
 | File link | Update schedule |
 | --------- | --------------- |
-| Bills summary | Manual |
-| Bills detail | Coming soon |
-| Bill payments summary | Manual |
-| Bill payments | Full details of bill payment records  | Coming soon |
+| [Bills summary]() | Manual |
+| [Payments summary]() | Manual |
 
 #### Catalogue
 
-| File link | Description | Update schedule |
-| --------- | ----------- | --------------- |
-
-
-#### Geography
-
-| File link | Description | Update schedule |
-| --------- | ----------- | --------------- |
+| File link | Update schedule |
+| --------- | --------------- |
+| [Items summary]() | Manual |
 
 #### Membership
 
-| File link | Description | Update schedule |
-| --------- | ----------- | --------------- |
+| File link | Update schedule |
+| --------- | --------------- |
+| [Membership summary]() | Manual |
 
 #### Movement
 
-| File link | Description | Update schedule |
-| --------- | ----------- | --------------- |
-
+| File link | Update schedule |
+| --------- | --------------- |
+| [Items in transit summary]() | Manual |
 
 #### Usage
 
-| File link | Description | Update schedule |
-| --------- | ----------- | --------------- |
-
-
-#### Weather
-
-| File link | Description | Update schedule |
-| --------- | ----------- | --------------- |
+| File link | Update schedule |
+| --------- | --------------- |
+| [Issues summary]() | Manual |
+| [Reservations summary]() | Manual |

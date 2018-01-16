@@ -3,7 +3,7 @@ Movement
 
 Library items move around a lot. Particularly when there is a shared catalogue in a consortium like LibrariesWest. For example, within our reservation process, the following could easily occur.
 
-- A Bristol registered member places a reservation on an item. They select to pick that item up at Keynsham library, a Bath and North East Somerset library located near Bristol.
+- A Bristol libraries user places a reservation on an item. They select to pick that item up at Keynsham library, a Bath and North East Somerset library located near Bristol.
 - The item is found at the library it is held at (for example Dorchester, in Dorset).
 - The item is sent to be sorted at the library administration centre in Bridgwater, Somerset.
 - The item is sent out to Keynsham.

@@ -5,7 +5,7 @@ Considering the multiple ways in which people use libraries, we don't hold that 
 
 LibrariesWest manage the Library Management System, so that concerns data about usage of the catalogue. People reserving items, taking out items, and renewing them.
 
-When placing a reservation, the reservation is normally placed against the Title rather then the Item. See our [catalogue data](./../catalogue/README.md) for difference between titles and items. For example, there may be 10 copies of 'Voyage of the Dawn Treader' around LibrariesWest, and if none are avaialble and a user wants to reserve one, the system will need to decide which one of those copies to assign to the reservation. This will be influenced by things such as which library the user wants to pick up the item from, which copies are available, whether the item can be sourced and transferred within a single library service, and other factors. This can also change if a copy becomes available while the reservation is active - that copy would be assigned to the next user in the queue.
+When placing a reservation, the reservation is normally placed against the Title rather then the Item. See our [catalogue data](./../catalogue/README.md) for difference between titles and items. For example, there may be 10 copies of 'Voyage of the Dawn Treader' around LibrariesWest. If none are available and a user wants to reserve one, the system will need to decide which one of those copies to assign to the reservation. This will be influenced by things such as which library the user wants to pick up the item from, which copies are available, whether the item can be sourced and transferred within a single library service, and other factors. This can also change if a copy becomes available while the reservation is active - that copy would normally then be assigned to the next user in the queue.
 
 When a reservation is placed a reservation record is created, also known as 'hold'.
 
@@ -13,7 +13,7 @@ When a reservation is placed a reservation record is created, also known as 'hol
 | ----------- | ------------ | -------------- | ---- | ---- | ------- | -------------- | -------- | ------------------ |
 | 15/01/2018 | 15/01/2019 | | 12345 | 12345 | Bath Central  | Keynsham | 8 | Branch |
 
-That's a simplified view of a reservation record, but gives some of the key principles. If a number of people are waiting for a particular title the system needs to keep track of the current queue (the 'position'), and we can also see the method used to make the reservation. It could be online through the library catalogue, or by coming in to a branch.
+That's a simplified view of a reservation record, but gives some of the key principles. If a number of people are waiting for a particular title, the system needs to keep track of the queue (the 'position'), and we can also see the method used to make the reservation. It could be online through the library catalogue, or by coming in to a branch.
 
 When the item is available the user is notified and it can then be issued to the user. 
 
