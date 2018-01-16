@@ -1,4 +1,4 @@
-Bill payments
+Payments
 =============
 
 For bill data we export two files. A summary for basic data counts, and a full detail file.
@@ -7,7 +7,7 @@ For bill data we export two files. A summary for basic data counts, and a full d
 
 The summary file gives basic data about the number of payment records recorded in the Library Management System, separated by Library authority.
 
-- [Download bill payments summary data](bills/billpayments_summary.csv)
+- [Download bill payments summary data](https://github.com/LibrariesWest/opendata/blob/master/bills/payments_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |

@@ -7,30 +7,30 @@ This page lists all our data downloads. It also includes an update schedule, the
 
 | File link | Update schedule | Last Updated |
 | --------- | --------------- | ------------ |
-| [Bills summary]() | Manual | 14/01/2018 |
-| [Payments summary]() | Manual | 14/01/2018 |
+| [Bills summary](https://github.com/LibrariesWest/opendata/blob/master/bills/bills_summary.csv) | Manual | 14/01/2018 |
+| [Payments summary](https://github.com/LibrariesWest/opendata/blob/master/bills/payments_summary.csv) | Manual | 14/01/2018 |
 
 #### Catalogue
 
 | File link | Update schedule | Last Updated |
 | --------- | --------------- | ------------ |
-| [Items summary]() | Manual | 14/01/2018 |
+| [Items summary](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_summary.csv) | Manual | 14/01/2018 |
 
 #### Membership
 
 | File link | Update schedule | Last Updated |
 | --------- | --------------- | ------------ |
-| [Membership summary]() | Manual | 14/01/2018 |
+| [Membership summary](https://github.com/LibrariesWest/opendata/blob/master/membership/members_summary.csv) | Manual | 14/01/2018 |
 
 #### Movement
 
 | File link | Update schedule | Last Updated |
 | --------- | --------------- | ------------ |
-| [Items in transit summary]() | Manual | 14/01/2018 |
+| [Items in transit summary](https://github.com/LibrariesWest/opendata/blob/master/movement/transits_summary.csv) | Manual | 14/01/2018 |
 
 #### Usage
 
 | File link | Update schedule | Last Updated |
 | --------- | --------------- | ------------ |
-| [Issues summary]() | Manual | 14/01/2018 |
-| [Reservations summary]() | Manual | 14/01/2018 |
+| [Issues summary](https://github.com/LibrariesWest/opendata/blob/master/usage/issues_summary.csv) | Manual | 14/01/2018 |
+| [Reservations summary](https://github.com/LibrariesWest/opendata/blob/master/usage/reservations_summary.csv) | Manual | 14/01/2018 |

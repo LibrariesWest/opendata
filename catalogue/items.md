@@ -7,7 +7,7 @@ Our item data is large as it includes listings of items held by all 7 library se
 
 A summary file gives some basic counts of items, aggregated by item type, and library service. In this case we have one file for all services.
 
-- [Download items summary data](./items_summary.csv)
+- [Download items summary data](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_summary.csv)
 
 | Field | Decription | Example |
 | ----- | ---------- | ------- |

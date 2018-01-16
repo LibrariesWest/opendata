@@ -5,7 +5,7 @@ Transits
 
 Summary data provides counts of the numbers of items moving between libraries, by item type.
 
-- [Download transit summary data](./transits_summary.csv)
+- [Download transit summary data](https://github.com/LibrariesWest/opendata/blob/master/movement/transits_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |

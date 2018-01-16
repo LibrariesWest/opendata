@@ -20,8 +20,8 @@ In local government there are requirements for certain datasets to be published.
 | -------- | ----------- |
 | [Bills](bills/README.md) | Data relating to system charges (e.g. charges for reservations, overdue fines) |
 | [Catalogue](catalogue/README.md) | Books and other things. What's in our catalogue? |
-| [Membership](membership/README.md) | Our members and hoow many there are. |
-| [Movement](movement/README.md) | Movement of stock around the services. |
+| [Membership](membership/README.md) | Our members and how many there are. |
+| [Movement](movement/README.md) | Movement of stock around Libraries West. |
 | [Reservations](reservations/README.md) | Reservations being placed on stock. Also known as Holds. |
 | [Usage](usage/README.md) | Usage of items in the catalogue, such as number of issues and renewals. |
 | [Other data: geography](geography/README.md) | Some open geography data covering the area of LibrariesWest. Primarily taken from Ordnance Survey. |

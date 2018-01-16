@@ -5,7 +5,7 @@ Issues
 
 Summary data provides counts of the numbers of issues per library authority and item type, and month.
 
-- [Download issue summary data]()
+- [Download issue summary data](https://github.com/LibrariesWest/opendata/blob/master/usage/issues_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |

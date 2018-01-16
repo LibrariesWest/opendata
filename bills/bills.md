@@ -5,7 +5,7 @@ Bills
 
 The summary file gives basic data about the number of bills generated in the Library Management System, separated by Library authority.
 
-- [Download bills summary data](bills/bills_summary.csv)
+- [Download bills summary data](https://github.com/LibrariesWest/opendata/blob/master/bills/bills_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
