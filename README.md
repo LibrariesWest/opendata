@@ -18,6 +18,14 @@ In local government there are requirements for certain datasets to be published.
 
 As part of our committment to open data, we have made several datasets available from our Library Management System (LMS). They include data on library membership, movement of stock, the catalogue, as well as other aspects of library use and operations. The datasets are anonomysed, and freely available for anyone to download and use. 
 
+#### Licence
+
+Data is released under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
+#### Disclaimer
+
+Though we attempt to ensure all data is correct and accurate, you may find there are errors, or quirks to the data. If you notice anything odd then please don't hesitate to [contact us](https://lwc.ent.sirsidynix.net.uk/client/en_GB/default/?rm=CONTACT+US1%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue)
+
 #### Categories of data
 
 | Category | Description |
@@ -25,7 +33,7 @@ As part of our committment to open data, we have made several datasets available
 | [Bills](bills/README.md) | Data relating to system charges (e.g. charges for reservations, overdue fines) |
 | [Catalogue](catalogue/README.md) | Books and other things. What's in our catalogue? |
 | [Membership](membership/README.md) | Our members and how many there are. |
-| [Movement of stock](movement/README.md) | Movement of stock around Libraries West libraries. |
+| [Stock movement](movement/README.md) | Movement of stock around Libraries West libraries. |
 | [Usage](usage/README.md) | Usage of items in the catalogue, such as number of issues, renewals, and reservations. |
-| [Other data: geography](geography/README.md) | Some open geography data covering the area of LibrariesWest. Primarily taken from Ordnance Survey. |
-| [Other data: weather](weather/README.md) | Some open climate data. May be useful for research on usage. |
+| [Other: geography](geography/README.md) | Some open geography data covering the area of LibrariesWest. Primarily from Ordnance Survey. |
+| [Other: weather](weather/README.md) | Some open climate data. May be useful for research on usage. |
