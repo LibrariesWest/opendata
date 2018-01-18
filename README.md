@@ -16,7 +16,7 @@ In local government there are requirements for certain datasets to be published.
 
 > the Government believes that in principle all data held and managed by local authorities should be made available to local people unless there are specific sensitivities (eg. protecting vulnerable people or commercial and operational considerations) to doing so. It encourages local authorities to see data as a valuable resource not only to themselves, but also their partners and local people.
 
-As part of our committment to open data, we have made several datasets available from our Library Management System (LMS). They include data on library membership, movement of stock, the catalogue, as well as other aspects of library use and operations. The datasets are anonomysed, and freely available for anyone to download and use. 
+As part of our committment to open data, we have made several datasets available from our Library Management System (LMS). They include data on library membership, movement of stock, the catalogue, as well as other aspects of library use and operations. The datasets are anonymised, and freely available for anyone to download and use. 
 
 #### Licence
 
