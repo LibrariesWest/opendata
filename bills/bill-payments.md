@@ -3,9 +3,9 @@ Payments
 
 For bill data we export two files. A summary for basic data counts, and a full detail file.
 
-#### Summary
+#### Summary file
 
-The summary file gives basic data about the number of payment records recorded in the Library Management System, separated by Library authority.
+The summary gives basic data about the number of payment records recorded in the Library Management System, separated by Library authority, reason for bill, and year of payment.
 
 - [Download bill payments summary data](https://github.com/LibrariesWest/opendata/blob/master/bills/payments_summary.csv)
 
@@ -18,9 +18,9 @@ The summary file gives basic data about the number of payment records recorded i
 | Number of payments | The number of payments in this grouping | 5 |
 | Total paid | The total amount paid | 5 |
 
-#### Detail
+#### Detail file
 
-For more detail use this download, the columns are described below. The data is still aggregated, rather than listing individual bills, but provides extra levels of detail.
+For more detail use this download, the columns are described below. The data is still aggregated, but provides extra levels of detail.
 
 - Coming soon
 

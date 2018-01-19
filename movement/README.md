@@ -15,16 +15,16 @@ When items are sent between libraries they go into 'transit'. We store the date 
 | ------- | ------------ | ---------- | -------------- | ------ |
 | 1234567 | Dorchester | Keynsham | 2018-09-01 | Hold |
 
-Once the item has been received, the record is removed. The user then goes away and takes the book home (perhaps), and once finished with it returns it to the library service. They may return it to a library that wasn't the library they picked it up from. In our example, perhaps they take it back to Bristol Central library. Once Bristol Central receive that item, another transit record is created so that the item can be sent back to it's usual library (Dorchester).
+Once the item has been received, the record is removed. The user then goes away and takes the book home (perhaps), and once finished with it returns it to the library service. They may return it to a library that wasn't the library they picked it up from. In our example, perhaps they take it back to Bristol Central library. Once Bristol Central receive that item, another transit record is created so that the item can be sent back to its usual library (Dorchester).
 
 | Item ID | Library From | Library To | Date transited | Reason |
 | ------- | ------------ | ---------- | -------------- | ------ |
 | 1234567 | Bristol Central | Dorchester | 2018-09-16 | Library |
 
-The constant moving around of stock is interesting for analysis. It could possibly be used to refine the copies held within each library, if particular stock is regularly moving from one library to another. Or show characteristics of missing stock types in different authorities, if certain types of items are often moving from one authority to another.
+This constant moving around of stock is interesting for analysis. It could possibly be used to refine the copies held within each library, if particular stock is regularly moving from one library to another. Or show characteristics of missing stock types in different authorities, if certain types of items are often moving from one authority to another.
 
 - [Items in transit](./transits.md)
 
-#### Open data
+#### Open data exports
 
 We will export all transit records to show the current snapshot of items moving around LibrariesWest.

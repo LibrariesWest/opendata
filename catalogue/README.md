@@ -10,7 +10,7 @@ Catalogue data is made up of items and titles. A title record describes an item 
 An item is an instance of a title, such as a particular copy of a book. It will have associated data such as number of issues, library held at, and price. It can be matched to the relevant title record through a unique identifier (catalogue key).
 
 | Key | Item ID | Authority | Library | Item type | Date created | Price | Total checkouts | Total renewals |
-| ------------- | ------- | --------- | ------- | --------- | ------------ | ----- | --------------- | -------------- |
+| --- | ------- | --------- | ------- | --------- | ------------ | ----- | --------------- | -------------- |
 | i9780261670501 | 1804779308 | Bristol | BSHZ | CH_FIC | 2015-03-14 | 3.99 | 8 | 6 |
 
 - [Titles data](./titles.md)

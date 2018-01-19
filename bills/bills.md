@@ -1,9 +1,9 @@
 Bills
 =====
 
-#### Summary
+#### Summary file
 
-The summary file gives basic data about the number of bills generated in the Library Management System, separated by Library authority.
+The summary gives basic data about the number of bills generated in the Library Management System, separated by bill reason and library authority.
 
 - [Download bills summary data](https://github.com/LibrariesWest/opendata/blob/master/bills/bills_summary.csv)
 
@@ -15,7 +15,7 @@ The summary file gives basic data about the number of bills generated in the Lib
 | Number of bills | The number of bills included in this grouping | 5 |
 | Total billed | The total amount billed in pounds | 5 |
 
-#### Detail
+#### Detail file
 
 For more detail use this download, the columns included are described below.
 

@@ -16,15 +16,13 @@ In local government there are requirements for certain datasets to be published.
 
 > the Government believes that in principle all data held and managed by local authorities should be made available to local people unless there are specific sensitivities (eg. protecting vulnerable people or commercial and operational considerations) to doing so. It encourages local authorities to see data as a valuable resource not only to themselves, but also their partners and local people.
 
-As part of our committment to open data, we have made several datasets available from our Library Management System (LMS). They include data on library membership, movement of stock, the catalogue, as well as other aspects of library use and operations. The datasets are anonymised, and freely available for anyone to download and use. 
+As part of our commitment to open data, we have made several datasets available from our Library Management System (LMS). They include data on library membership, movement of stock, the catalogue, as well as other aspects of library use and operations. The datasets are anonymised, and freely available for anyone to download and use. 
 
 #### Licence
 
-Data is released under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+Data is released under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
-#### Disclaimer
-
-Though we attempt to ensure all data is correct and accurate, you may find there are errors, or quirks to the data. If you notice anything odd then please don't hesitate to [contact us](https://lwc.ent.sirsidynix.net.uk/client/en_GB/default/?rm=CONTACT+US1%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue)
+Though we attempt to ensure all data is correct and accurate, you may find there are errors, or quirks to the data. If you notice anything then please don't hesitate to [contact us](https://lwc.ent.sirsidynix.net.uk/client/en_GB/default/?rm=CONTACT+US1%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue).
 
 #### Categories of data
 
