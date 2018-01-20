@@ -1,0 +1,13 @@
+{
+    "title": "Libraries West Open Data",
+    "description": "A book of open data describing library activity within LibrariesWest libraries",
+    "author": "Libraries West",
+    "plugins": ["scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./bookscript.js"
+            ]
+        }
+    }
+}
