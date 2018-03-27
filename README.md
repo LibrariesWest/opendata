@@ -6,7 +6,7 @@ Our open data is split into folders by category. Each category of data will have
 
 We will also be including open data from other sources, such as Ordnance Survey data and Office for National Statistics data, where these relate to the LibrariesWest area.
 
-- [All data downloads](./all-files.md)
+- [All data downloads](./all-files.md) 
 
 #### Open data
 
