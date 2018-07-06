@@ -10,7 +10,7 @@ We will also be including open data from other sources, such as Ordnance Survey 
 
 #### Open data
 
-Open data is simply data that anyone can access, share, and make use of. [The Open Data Institute provides more information about open data and its potential on their web site](https://theodi.org/what-is-open-data).
+Open data is data that anyone can access, share, and make use of. [The Open Data Institute provides more information about open data and its potential on their web site](https://theodi.org/what-is-open-data).
 
 In local government there are requirements for certain datasets to be published. These are listed in the [Local Government Transparency Code 2015](https://www.gov.uk/government/publications/local-government-transparency-code-2015). The code goes further, and states:
 

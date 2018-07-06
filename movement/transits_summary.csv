@@ -1,929 +1,886 @@
 item_type,from_authority,to_authority,items
-ADU_FIC,Bath and North East Somerset,Bath and North East Somerset,1224
-ADU_FIC,Bath and North East Somerset,Bristol,297
-ADU_FIC,Bath and North East Somerset,Dorset,300
-ADU_FIC,Bath and North East Somerset,North Somerset,133
-ADU_FIC,Bath and North East Somerset,Poole,124
-ADU_FIC,Bath and North East Somerset,Somerset,319
-ADU_FIC,Bath and North East Somerset,South Gloucestershire,175
-ADU_FIC,Bristol,Bath and North East Somerset,399
-ADU_FIC,Bristol,Bristol,1350
-ADU_FIC,Bristol,Dorset,490
-ADU_FIC,Bristol,North Somerset,87
-ADU_FIC,Bristol,Poole,83
-ADU_FIC,Bristol,Somerset,278
-ADU_FIC,Bristol,South Gloucestershire,182
-ADU_FIC,Dorset,Bath and North East Somerset,424
-ADU_FIC,Dorset,Bristol,440
-ADU_FIC,Dorset,Dorset,2654
-ADU_FIC,Dorset,North Somerset,213
-ADU_FIC,Dorset,Poole,256
-ADU_FIC,Dorset,Somerset,495
-ADU_FIC,Dorset,South Gloucestershire,225
-ADU_FIC,North Somerset,Bath and North East Somerset,135
-ADU_FIC,North Somerset,Bristol,145
-ADU_FIC,North Somerset,Dorset,189
-ADU_FIC,North Somerset,North Somerset,890
-ADU_FIC,North Somerset,Poole,43
-ADU_FIC,North Somerset,Somerset,140
-ADU_FIC,North Somerset,South Gloucestershire,50
-ADU_FIC,Poole,Bath and North East Somerset,116
-ADU_FIC,Poole,Bristol,87
-ADU_FIC,Poole,Dorset,237
+ADU_FIC,Bath and North East Somerset,Bath and North East Somerset,1037
+ADU_FIC,Bath and North East Somerset,Bristol,245
+ADU_FIC,Bath and North East Somerset,Dorset,168
+ADU_FIC,Bath and North East Somerset,North Somerset,43
+ADU_FIC,Bath and North East Somerset,Poole,69
+ADU_FIC,Bath and North East Somerset,Somerset,161
+ADU_FIC,Bath and North East Somerset,South Gloucestershire,78
+ADU_FIC,Bristol,Bath and North East Somerset,170
+ADU_FIC,Bristol,Bristol,1364
+ADU_FIC,Bristol,Dorset,521
+ADU_FIC,Bristol,North Somerset,152
+ADU_FIC,Bristol,Poole,98
+ADU_FIC,Bristol,Somerset,276
+ADU_FIC,Bristol,South Gloucestershire,171
+ADU_FIC,Dorset,Bath and North East Somerset,214
+ADU_FIC,Dorset,Bristol,598
+ADU_FIC,Dorset,Dorset,4013
+ADU_FIC,Dorset,North Somerset,163
+ADU_FIC,Dorset,Poole,239
+ADU_FIC,Dorset,Somerset,462
+ADU_FIC,Dorset,South Gloucestershire,232
+ADU_FIC,North Somerset,Bath and North East Somerset,36
+ADU_FIC,North Somerset,Bristol,165
+ADU_FIC,North Somerset,Dorset,211
+ADU_FIC,North Somerset,North Somerset,1292
+ADU_FIC,North Somerset,Poole,50
+ADU_FIC,North Somerset,Somerset,139
+ADU_FIC,North Somerset,South Gloucestershire,52
+ADU_FIC,Poole,Bath and North East Somerset,46
+ADU_FIC,Poole,Bristol,170
+ADU_FIC,Poole,Dorset,284
 ADU_FIC,Poole,North Somerset,53
-ADU_FIC,Poole,Poole,281
-ADU_FIC,Poole,Somerset,81
-ADU_FIC,Poole,South Gloucestershire,59
-ADU_FIC,Somerset,Bath and North East Somerset,397
-ADU_FIC,Somerset,Bristol,247
-ADU_FIC,Somerset,Dorset,586
-ADU_FIC,Somerset,North Somerset,134
-ADU_FIC,Somerset,Poole,82
-ADU_FIC,Somerset,Somerset,2023
-ADU_FIC,Somerset,South Gloucestershire,185
-ADU_FIC,South Gloucestershire,Bath and North East Somerset,251
-ADU_FIC,South Gloucestershire,Bristol,230
-ADU_FIC,South Gloucestershire,Dorset,269
-ADU_FIC,South Gloucestershire,North Somerset,76
-ADU_FIC,South Gloucestershire,Poole,52
-ADU_FIC,South Gloucestershire,Somerset,153
-ADU_FIC,South Gloucestershire,South Gloucestershire,690
-ADU_GRN,Bath and North East Somerset,Bath and North East Somerset,1
-ADU_GRN,Bath and North East Somerset,Bristol,12
-ADU_GRN,Bath and North East Somerset,Dorset,2
-ADU_GRN,Bath and North East Somerset,Somerset,3
-ADU_GRN,Bath and North East Somerset,South Gloucestershire,2
-ADU_GRN,Bristol,Bath and North East Somerset,9
-ADU_GRN,Bristol,Bristol,188
-ADU_GRN,Bristol,Dorset,7
-ADU_GRN,Bristol,North Somerset,3
-ADU_GRN,Bristol,Somerset,5
-ADU_GRN,Bristol,South Gloucestershire,6
-ADU_GRN,Dorset,Bath and North East Somerset,3
-ADU_GRN,Dorset,Bristol,8
-ADU_GRN,Dorset,Dorset,20
-ADU_GRN,North Somerset,Bristol,8
-ADU_GRN,North Somerset,North Somerset,4
-ADU_GRN,Poole,South Gloucestershire,1
-ADU_GRN,Somerset,Bath and North East Somerset,5
-ADU_GRN,Somerset,Bristol,22
-ADU_GRN,Somerset,Dorset,3
-ADU_GRN,Somerset,Somerset,15
-ADU_GRN,Somerset,South Gloucestershire,1
-ADU_GRN,South Gloucestershire,Bristol,13
+ADU_FIC,Poole,Poole,299
+ADU_FIC,Poole,Somerset,85
+ADU_FIC,Poole,South Gloucestershire,35
+ADU_FIC,Somerset,Bath and North East Somerset,207
+ADU_FIC,Somerset,Bristol,434
+ADU_FIC,Somerset,Dorset,555
+ADU_FIC,Somerset,North Somerset,129
+ADU_FIC,Somerset,Poole,115
+ADU_FIC,Somerset,Somerset,1927
+ADU_FIC,Somerset,South Gloucestershire,181
+ADU_FIC,South Gloucestershire,Bath and North East Somerset,108
+ADU_FIC,South Gloucestershire,Bristol,201
+ADU_FIC,South Gloucestershire,Dorset,227
+ADU_FIC,South Gloucestershire,North Somerset,77
+ADU_FIC,South Gloucestershire,Poole,66
+ADU_FIC,South Gloucestershire,Somerset,147
+ADU_FIC,South Gloucestershire,South Gloucestershire,571
+ADU_GRN,Bath and North East Somerset,Bristol,8
+ADU_GRN,Bath and North East Somerset,Somerset,1
+ADU_GRN,Bristol,Bath and North East Somerset,5
+ADU_GRN,Bristol,Bristol,181
+ADU_GRN,Bristol,Dorset,10
+ADU_GRN,Bristol,North Somerset,6
+ADU_GRN,Bristol,Poole,1
+ADU_GRN,Bristol,Somerset,12
+ADU_GRN,Bristol,South Gloucestershire,9
+ADU_GRN,Dorset,Bath and North East Somerset,6
+ADU_GRN,Dorset,Bristol,7
+ADU_GRN,Dorset,Dorset,24
+ADU_GRN,Dorset,Poole,3
+ADU_GRN,Dorset,Somerset,3
+ADU_GRN,Dorset,South Gloucestershire,3
+ADU_GRN,North Somerset,Bristol,1
+ADU_GRN,North Somerset,Dorset,1
+ADU_GRN,North Somerset,North Somerset,2
+ADU_GRN,North Somerset,South Gloucestershire,1
+ADU_GRN,Poole,Bristol,2
+ADU_GRN,Poole,Dorset,1
+ADU_GRN,Somerset,Bath and North East Somerset,1
+ADU_GRN,Somerset,Bristol,14
+ADU_GRN,Somerset,Dorset,1
+ADU_GRN,Somerset,Somerset,45
+ADU_GRN,Somerset,South Gloucestershire,3
+ADU_GRN,South Gloucestershire,Bath and North East Somerset,2
+ADU_GRN,South Gloucestershire,Bristol,6
 ADU_GRN,South Gloucestershire,Dorset,2
-ADU_GRN,South Gloucestershire,South Gloucestershire,6
-ADU_NF,Bath and North East Somerset,Bath and North East Somerset,631
-ADU_NF,Bath and North East Somerset,Bristol,301
-ADU_NF,Bath and North East Somerset,Dorset,279
-ADU_NF,Bath and North East Somerset,North Somerset,84
-ADU_NF,Bath and North East Somerset,Poole,93
-ADU_NF,Bath and North East Somerset,Somerset,259
-ADU_NF,Bath and North East Somerset,South Gloucestershire,108
-ADU_NF,Bristol,Bath and North East Somerset,371
-ADU_NF,Bristol,Bristol,800
-ADU_NF,Bristol,Dorset,426
-ADU_NF,Bristol,North Somerset,103
-ADU_NF,Bristol,Poole,48
-ADU_NF,Bristol,Somerset,222
-ADU_NF,Bristol,South Gloucestershire,136
-ADU_NF,Dorset,Bath and North East Somerset,356
-ADU_NF,Dorset,Bristol,425
-ADU_NF,Dorset,Dorset,1173
-ADU_NF,Dorset,North Somerset,139
-ADU_NF,Dorset,Poole,126
-ADU_NF,Dorset,Somerset,335
-ADU_NF,Dorset,South Gloucestershire,135
-ADU_NF,North Somerset,Bath and North East Somerset,94
+ADU_GRN,South Gloucestershire,North Somerset,2
+ADU_GRN,South Gloucestershire,South Gloucestershire,7
+ADU_NF,Bath and North East Somerset,Bath and North East Somerset,317
+ADU_NF,Bath and North East Somerset,Bristol,187
+ADU_NF,Bath and North East Somerset,Dorset,162
+ADU_NF,Bath and North East Somerset,North Somerset,38
+ADU_NF,Bath and North East Somerset,Poole,48
+ADU_NF,Bath and North East Somerset,Somerset,104
+ADU_NF,Bath and North East Somerset,South Gloucestershire,65
+ADU_NF,Bristol,Bath and North East Somerset,167
+ADU_NF,Bristol,Bristol,782
+ADU_NF,Bristol,Dorset,468
+ADU_NF,Bristol,North Somerset,70
+ADU_NF,Bristol,Poole,77
+ADU_NF,Bristol,Somerset,195
+ADU_NF,Bristol,South Gloucestershire,111
+ADU_NF,Dorset,Bath and North East Somerset,162
+ADU_NF,Dorset,Bristol,416
+ADU_NF,Dorset,Dorset,1778
+ADU_NF,Dorset,North Somerset,116
+ADU_NF,Dorset,Poole,139
+ADU_NF,Dorset,Somerset,302
+ADU_NF,Dorset,South Gloucestershire,134
+ADU_NF,North Somerset,Bath and North East Somerset,38
 ADU_NF,North Somerset,Bristol,95
-ADU_NF,North Somerset,Dorset,124
-ADU_NF,North Somerset,North Somerset,467
-ADU_NF,North Somerset,Poole,31
-ADU_NF,North Somerset,Somerset,78
-ADU_NF,North Somerset,South Gloucestershire,28
-ADU_NF,Poole,Bath and North East Somerset,82
-ADU_NF,Poole,Bristol,74
-ADU_NF,Poole,Dorset,148
-ADU_NF,Poole,North Somerset,26
-ADU_NF,Poole,Poole,108
-ADU_NF,Poole,Somerset,49
-ADU_NF,Poole,South Gloucestershire,28
-ADU_NF,Somerset,Bath and North East Somerset,330
-ADU_NF,Somerset,Bristol,206
-ADU_NF,Somerset,Dorset,373
-ADU_NF,Somerset,North Somerset,82
-ADU_NF,Somerset,Poole,37
-ADU_NF,Somerset,Somerset,708
-ADU_NF,Somerset,South Gloucestershire,100
-ADU_NF,South Gloucestershire,Bath and North East Somerset,171
-ADU_NF,South Gloucestershire,Bristol,148
-ADU_NF,South Gloucestershire,Dorset,155
-ADU_NF,South Gloucestershire,North Somerset,30
-ADU_NF,South Gloucestershire,Poole,24
-ADU_NF,South Gloucestershire,Somerset,74
-ADU_NF,South Gloucestershire,South Gloucestershire,328
-ADU_REF,Bath and North East Somerset,Bath and North East Somerset,17
-ADU_REF,Bath and North East Somerset,Dorset,1
-ADU_REF,Bath and North East Somerset,North Somerset,1
-ADU_REF,Bristol,Bristol,2
+ADU_NF,North Somerset,Dorset,119
+ADU_NF,North Somerset,North Somerset,536
+ADU_NF,North Somerset,Poole,24
+ADU_NF,North Somerset,Somerset,72
+ADU_NF,North Somerset,South Gloucestershire,32
+ADU_NF,Poole,Bath and North East Somerset,39
+ADU_NF,Poole,Bristol,106
+ADU_NF,Poole,Dorset,101
+ADU_NF,Poole,North Somerset,24
+ADU_NF,Poole,Poole,110
+ADU_NF,Poole,Somerset,47
+ADU_NF,Poole,South Gloucestershire,18
+ADU_NF,Somerset,Bath and North East Somerset,160
+ADU_NF,Somerset,Bristol,303
+ADU_NF,Somerset,Dorset,323
+ADU_NF,Somerset,North Somerset,64
+ADU_NF,Somerset,Poole,53
+ADU_NF,Somerset,Somerset,801
+ADU_NF,Somerset,South Gloucestershire,57
+ADU_NF,South Gloucestershire,Bath and North East Somerset,61
+ADU_NF,South Gloucestershire,Bristol,159
+ADU_NF,South Gloucestershire,Dorset,142
+ADU_NF,South Gloucestershire,North Somerset,23
+ADU_NF,South Gloucestershire,Poole,23
+ADU_NF,South Gloucestershire,Somerset,68
+ADU_NF,South Gloucestershire,South Gloucestershire,336
+ADU_REF,Bath and North East Somerset,Bath and North East Somerset,12
 ADU_REF,Dorset,Bristol,2
-ADU_REF,Dorset,Dorset,3
-ADU_REF,Dorset,Poole,1
-ADU_REF,North Somerset,North Somerset,6
-ADU_REF,Somerset,Bristol,1
-ADU_REF,Somerset,Somerset,12
-ADU_REF,South Gloucestershire,South Gloucestershire,1
-ASPW,Bath and North East Somerset,Bath and North East Somerset,343
-ASPW,Bath and North East Somerset,Bristol,22
-ASPW,Bath and North East Somerset,Dorset,58
-ASPW,Bath and North East Somerset,North Somerset,19
-ASPW,Bath and North East Somerset,Poole,10
-ASPW,Bath and North East Somerset,Somerset,64
-ASPW,Bath and North East Somerset,South Gloucestershire,21
-ASPW,Bristol,Bath and North East Somerset,54
-ASPW,Bristol,Bristol,250
-ASPW,Bristol,Dorset,132
-ASPW,Bristol,North Somerset,18
-ASPW,Bristol,Poole,6
-ASPW,Bristol,Somerset,37
+ADU_REF,Dorset,Dorset,1
+ADU_REF,North Somerset,North Somerset,16
+ADU_REF,Somerset,Somerset,2
+ASPW,Bath and North East Somerset,Bath and North East Somerset,267
+ASPW,Bath and North East Somerset,Bristol,18
+ASPW,Bath and North East Somerset,Dorset,27
+ASPW,Bath and North East Somerset,North Somerset,6
+ASPW,Bath and North East Somerset,Poole,8
+ASPW,Bath and North East Somerset,Somerset,21
+ASPW,Bath and North East Somerset,South Gloucestershire,3
+ASPW,Bristol,Bath and North East Somerset,11
+ASPW,Bristol,Bristol,495
+ASPW,Bristol,Dorset,126
+ASPW,Bristol,North Somerset,8
+ASPW,Bristol,Poole,12
+ASPW,Bristol,Somerset,31
 ASPW,Bristol,South Gloucestershire,28
-ASPW,Dorset,Bath and North East Somerset,51
-ASPW,Dorset,Bristol,137
-ASPW,Dorset,Dorset,283
-ASPW,Dorset,North Somerset,41
-ASPW,Dorset,Poole,39
-ASPW,Dorset,Somerset,124
-ASPW,Dorset,South Gloucestershire,87
-ASPW,North Somerset,Bath and North East Somerset,10
-ASPW,North Somerset,Bristol,13
-ASPW,North Somerset,Dorset,35
-ASPW,North Somerset,North Somerset,99
-ASPW,North Somerset,Poole,4
-ASPW,North Somerset,Somerset,19
+ASPW,Dorset,Bath and North East Somerset,32
+ASPW,Dorset,Bristol,151
+ASPW,Dorset,Dorset,349
+ASPW,Dorset,North Somerset,31
+ASPW,Dorset,Poole,24
+ASPW,Dorset,Somerset,123
+ASPW,Dorset,South Gloucestershire,69
+ASPW,North Somerset,Bath and North East Somerset,4
+ASPW,North Somerset,Bristol,11
+ASPW,North Somerset,Dorset,33
+ASPW,North Somerset,North Somerset,186
+ASPW,North Somerset,Poole,7
+ASPW,North Somerset,Somerset,25
 ASPW,North Somerset,South Gloucestershire,10
-ASPW,Poole,Bath and North East Somerset,8
-ASPW,Poole,Bristol,11
-ASPW,Poole,Dorset,55
-ASPW,Poole,North Somerset,7
-ASPW,Poole,Poole,39
-ASPW,Poole,Somerset,15
-ASPW,Poole,South Gloucestershire,8
-ASPW,Somerset,Bath and North East Somerset,42
-ASPW,Somerset,Bristol,42
-ASPW,Somerset,Dorset,141
-ASPW,Somerset,North Somerset,25
-ASPW,Somerset,Poole,7
-ASPW,Somerset,Somerset,396
-ASPW,Somerset,South Gloucestershire,29
-ASPW,South Gloucestershire,Bath and North East Somerset,23
-ASPW,South Gloucestershire,Bristol,18
-ASPW,South Gloucestershire,Dorset,62
-ASPW,South Gloucestershire,North Somerset,4
-ASPW,South Gloucestershire,Poole,6
-ASPW,South Gloucestershire,Somerset,19
-ASPW,South Gloucestershire,South Gloucestershire,66
-B-O-P,Bath and North East Somerset,Bath and North East Somerset,8
-B-O-P,Bath and North East Somerset,North Somerset,1
-B-O-P,Bath and North East Somerset,Somerset,2
-B-O-P,Bristol,Bristol,7
+ASPW,Poole,Bath and North East Somerset,3
+ASPW,Poole,Bristol,10
+ASPW,Poole,Dorset,45
+ASPW,Poole,North Somerset,5
+ASPW,Poole,Poole,20
+ASPW,Poole,Somerset,19
+ASPW,Poole,South Gloucestershire,2
+ASPW,Somerset,Bath and North East Somerset,17
+ASPW,Somerset,Bristol,57
+ASPW,Somerset,Dorset,111
+ASPW,Somerset,North Somerset,16
+ASPW,Somerset,Poole,15
+ASPW,Somerset,Somerset,271
+ASPW,Somerset,South Gloucestershire,32
+ASPW,South Gloucestershire,Bath and North East Somerset,13
+ASPW,South Gloucestershire,Bristol,42
+ASPW,South Gloucestershire,Dorset,73
+ASPW,South Gloucestershire,North Somerset,8
+ASPW,South Gloucestershire,Poole,7
+ASPW,South Gloucestershire,Somerset,18
+ASPW,South Gloucestershire,South Gloucestershire,69
+B-O-P,Bath and North East Somerset,Bath and North East Somerset,4
+B-O-P,Bath and North East Somerset,Bristol,1
+B-O-P,Bath and North East Somerset,South Gloucestershire,1
+B-O-P,Bristol,Bath and North East Somerset,1
+B-O-P,Bristol,Bristol,5
 B-O-P,Bristol,North Somerset,1
 B-O-P,Bristol,Somerset,1
-B-O-P,Bristol,South Gloucestershire,3
+B-O-P,Bristol,South Gloucestershire,1
 B-O-P,Dorset,Bath and North East Somerset,1
-B-O-P,Dorset,Dorset,10
+B-O-P,Dorset,Bristol,2
+B-O-P,Dorset,Dorset,21
 B-O-P,Dorset,Poole,3
-B-O-P,Dorset,Somerset,1
-B-O-P,Dorset,South Gloucestershire,3
+B-O-P,Dorset,South Gloucestershire,2
 B-O-P,North Somerset,Bristol,2
-B-O-P,North Somerset,Dorset,1
-B-O-P,North Somerset,North Somerset,12
-B-O-P,North Somerset,Somerset,4
-B-O-P,Poole,Dorset,1
-B-O-P,Poole,Poole,3
-B-O-P,Somerset,Bristol,2
-B-O-P,Somerset,Dorset,2
-B-O-P,Somerset,Somerset,17
-B-O-P,South Gloucestershire,Bath and North East Somerset,2
+B-O-P,North Somerset,North Somerset,57
+B-O-P,North Somerset,South Gloucestershire,1
+B-O-P,Poole,Poole,76
+B-O-P,Poole,Somerset,1
+B-O-P,Somerset,Bristol,3
+B-O-P,Somerset,Dorset,4
+B-O-P,Somerset,North Somerset,1
+B-O-P,Somerset,Somerset,49
+B-O-P,Somerset,South Gloucestershire,1
+B-O-P,South Gloucestershire,Bath and North East Somerset,1
 B-O-P,South Gloucestershire,Bristol,1
 B-O-P,South Gloucestershire,Dorset,2
-B-O-P,South Gloucestershire,Poole,1
-B-O-P,South Gloucestershire,South Gloucestershire,11
-CH_FIC,Bath and North East Somerset,Bath and North East Somerset,1077
-CH_FIC,Bath and North East Somerset,Bristol,133
-CH_FIC,Bath and North East Somerset,Dorset,138
-CH_FIC,Bath and North East Somerset,North Somerset,59
-CH_FIC,Bath and North East Somerset,Poole,53
-CH_FIC,Bath and North East Somerset,Somerset,172
-CH_FIC,Bath and North East Somerset,South Gloucestershire,128
-CH_FIC,Bristol,Bath and North East Somerset,181
-CH_FIC,Bristol,Bristol,1511
-CH_FIC,Bristol,Dorset,150
-CH_FIC,Bristol,North Somerset,75
-CH_FIC,Bristol,Poole,30
-CH_FIC,Bristol,Somerset,75
-CH_FIC,Bristol,South Gloucestershire,219
-CH_FIC,Dorset,Bath and North East Somerset,141
-CH_FIC,Dorset,Bristol,154
-CH_FIC,Dorset,Dorset,1558
-CH_FIC,Dorset,North Somerset,60
-CH_FIC,Dorset,Poole,103
-CH_FIC,Dorset,Somerset,125
-CH_FIC,Dorset,South Gloucestershire,84
-CH_FIC,North Somerset,Bath and North East Somerset,59
-CH_FIC,North Somerset,Bristol,97
-CH_FIC,North Somerset,Dorset,58
-CH_FIC,North Somerset,North Somerset,547
-CH_FIC,North Somerset,Poole,10
-CH_FIC,North Somerset,Somerset,58
-CH_FIC,North Somerset,South Gloucestershire,30
-CH_FIC,Poole,Bath and North East Somerset,42
-CH_FIC,Poole,Bristol,43
-CH_FIC,Poole,Dorset,94
-CH_FIC,Poole,North Somerset,31
-CH_FIC,Poole,Poole,233
-CH_FIC,Poole,Somerset,36
-CH_FIC,Poole,South Gloucestershire,25
-CH_FIC,Somerset,Bath and North East Somerset,169
-CH_FIC,Somerset,Bristol,115
-CH_FIC,Somerset,Dorset,112
-CH_FIC,Somerset,North Somerset,46
-CH_FIC,Somerset,Poole,15
-CH_FIC,Somerset,Somerset,1075
-CH_FIC,Somerset,South Gloucestershire,53
-CH_FIC,South Gloucestershire,Bath and North East Somerset,100
-CH_FIC,South Gloucestershire,Bristol,141
-CH_FIC,South Gloucestershire,Dorset,87
-CH_FIC,South Gloucestershire,North Somerset,26
-CH_FIC,South Gloucestershire,Poole,25
-CH_FIC,South Gloucestershire,Somerset,36
-CH_FIC,South Gloucestershire,South Gloucestershire,766
-CH_NF,Bath and North East Somerset,Bath and North East Somerset,116
-CH_NF,Bath and North East Somerset,Bristol,24
-CH_NF,Bath and North East Somerset,Dorset,33
-CH_NF,Bath and North East Somerset,North Somerset,7
-CH_NF,Bath and North East Somerset,Poole,12
-CH_NF,Bath and North East Somerset,Somerset,14
-CH_NF,Bath and North East Somerset,South Gloucestershire,20
-CH_NF,Bristol,Bath and North East Somerset,25
-CH_NF,Bristol,Bristol,208
-CH_NF,Bristol,Dorset,36
-CH_NF,Bristol,North Somerset,25
-CH_NF,Bristol,Poole,13
-CH_NF,Bristol,Somerset,30
-CH_NF,Bristol,South Gloucestershire,38
-CH_NF,Dorset,Bath and North East Somerset,20
-CH_NF,Dorset,Bristol,52
-CH_NF,Dorset,Dorset,322
-CH_NF,Dorset,North Somerset,20
-CH_NF,Dorset,Poole,19
-CH_NF,Dorset,Somerset,28
-CH_NF,Dorset,South Gloucestershire,18
-CH_NF,North Somerset,Bath and North East Somerset,9
-CH_NF,North Somerset,Bristol,20
-CH_NF,North Somerset,Dorset,18
-CH_NF,North Somerset,North Somerset,120
-CH_NF,North Somerset,Poole,8
-CH_NF,North Somerset,Somerset,9
-CH_NF,North Somerset,South Gloucestershire,7
-CH_NF,Poole,Bath and North East Somerset,7
-CH_NF,Poole,Bristol,15
-CH_NF,Poole,Dorset,29
-CH_NF,Poole,North Somerset,10
-CH_NF,Poole,Poole,75
-CH_NF,Poole,Somerset,13
-CH_NF,Poole,South Gloucestershire,9
-CH_NF,Somerset,Bath and North East Somerset,26
-CH_NF,Somerset,Bristol,29
-CH_NF,Somerset,Dorset,28
-CH_NF,Somerset,North Somerset,16
-CH_NF,Somerset,Poole,5
-CH_NF,Somerset,Somerset,190
-CH_NF,Somerset,South Gloucestershire,11
-CH_NF,South Gloucestershire,Bath and North East Somerset,24
-CH_NF,South Gloucestershire,Bristol,29
-CH_NF,South Gloucestershire,Dorset,15
-CH_NF,South Gloucestershire,North Somerset,13
-CH_NF,South Gloucestershire,Poole,14
-CH_NF,South Gloucestershire,Somerset,15
-CH_NF,South Gloucestershire,South Gloucestershire,134
-CH_REF,North Somerset,North Somerset,18
-CSPW,Bath and North East Somerset,Bath and North East Somerset,91
-CSPW,Bath and North East Somerset,Bristol,8
-CSPW,Bath and North East Somerset,Dorset,10
-CSPW,Bath and North East Somerset,North Somerset,7
-CSPW,Bath and North East Somerset,Poole,3
-CSPW,Bath and North East Somerset,Somerset,4
-CSPW,Bath and North East Somerset,South Gloucestershire,9
-CSPW,Bristol,Bath and North East Somerset,16
-CSPW,Bristol,Bristol,101
-CSPW,Bristol,Dorset,5
+B-O-P,South Gloucestershire,Somerset,1
+B-O-P,South Gloucestershire,South Gloucestershire,7
+CH_FIC,Bath and North East Somerset,Bath and North East Somerset,516
+CH_FIC,Bath and North East Somerset,Bristol,92
+CH_FIC,Bath and North East Somerset,Dorset,63
+CH_FIC,Bath and North East Somerset,North Somerset,15
+CH_FIC,Bath and North East Somerset,Poole,15
+CH_FIC,Bath and North East Somerset,Somerset,65
+CH_FIC,Bath and North East Somerset,South Gloucestershire,48
+CH_FIC,Bristol,Bath and North East Somerset,83
+CH_FIC,Bristol,Bristol,1351
+CH_FIC,Bristol,Dorset,144
+CH_FIC,Bristol,North Somerset,63
+CH_FIC,Bristol,Poole,58
+CH_FIC,Bristol,Somerset,92
+CH_FIC,Bristol,South Gloucestershire,115
+CH_FIC,Dorset,Bath and North East Somerset,49
+CH_FIC,Dorset,Bristol,170
+CH_FIC,Dorset,Dorset,2642
+CH_FIC,Dorset,North Somerset,44
+CH_FIC,Dorset,Poole,99
+CH_FIC,Dorset,Somerset,123
+CH_FIC,Dorset,South Gloucestershire,71
+CH_FIC,North Somerset,Bath and North East Somerset,18
+CH_FIC,North Somerset,Bristol,69
+CH_FIC,North Somerset,Dorset,54
+CH_FIC,North Somerset,North Somerset,708
+CH_FIC,North Somerset,Poole,19
+CH_FIC,North Somerset,Somerset,56
+CH_FIC,North Somerset,South Gloucestershire,34
+CH_FIC,Poole,Bath and North East Somerset,24
+CH_FIC,Poole,Bristol,86
+CH_FIC,Poole,Dorset,123
+CH_FIC,Poole,North Somerset,18
+CH_FIC,Poole,Poole,518
+CH_FIC,Poole,Somerset,41
+CH_FIC,Poole,South Gloucestershire,28
+CH_FIC,Somerset,Bath and North East Somerset,107
+CH_FIC,Somerset,Bristol,125
+CH_FIC,Somerset,Dorset,119
+CH_FIC,Somerset,North Somerset,44
+CH_FIC,Somerset,Poole,30
+CH_FIC,Somerset,Somerset,834
+CH_FIC,Somerset,South Gloucestershire,62
+CH_FIC,South Gloucestershire,Bath and North East Somerset,50
+CH_FIC,South Gloucestershire,Bristol,189
+CH_FIC,South Gloucestershire,Dorset,111
+CH_FIC,South Gloucestershire,North Somerset,35
+CH_FIC,South Gloucestershire,Poole,24
+CH_FIC,South Gloucestershire,Somerset,70
+CH_FIC,South Gloucestershire,South Gloucestershire,721
+CH_NF,Bath and North East Somerset,Bath and North East Somerset,64
+CH_NF,Bath and North East Somerset,Bristol,17
+CH_NF,Bath and North East Somerset,Dorset,12
+CH_NF,Bath and North East Somerset,North Somerset,4
+CH_NF,Bath and North East Somerset,Poole,3
+CH_NF,Bath and North East Somerset,Somerset,7
+CH_NF,Bath and North East Somerset,South Gloucestershire,2
+CH_NF,Bristol,Bath and North East Somerset,5
+CH_NF,Bristol,Bristol,166
+CH_NF,Bristol,Dorset,29
+CH_NF,Bristol,North Somerset,14
+CH_NF,Bristol,Poole,12
+CH_NF,Bristol,Somerset,24
+CH_NF,Bristol,South Gloucestershire,17
+CH_NF,Dorset,Bath and North East Somerset,16
+CH_NF,Dorset,Bristol,46
+CH_NF,Dorset,Dorset,254
+CH_NF,Dorset,North Somerset,13
+CH_NF,Dorset,Poole,12
+CH_NF,Dorset,Somerset,34
+CH_NF,Dorset,South Gloucestershire,17
+CH_NF,North Somerset,Bath and North East Somerset,3
+CH_NF,North Somerset,Bristol,14
+CH_NF,North Somerset,Dorset,14
+CH_NF,North Somerset,North Somerset,196
+CH_NF,North Somerset,Poole,1
+CH_NF,North Somerset,Somerset,10
+CH_NF,North Somerset,South Gloucestershire,10
+CH_NF,Poole,Bath and North East Somerset,5
+CH_NF,Poole,Bristol,17
+CH_NF,Poole,Dorset,28
+CH_NF,Poole,North Somerset,1
+CH_NF,Poole,Poole,851
+CH_NF,Poole,Somerset,4
+CH_NF,Poole,South Gloucestershire,4
+CH_NF,Somerset,Bath and North East Somerset,14
+CH_NF,Somerset,Bristol,27
+CH_NF,Somerset,Dorset,21
+CH_NF,Somerset,North Somerset,6
+CH_NF,Somerset,Poole,8
+CH_NF,Somerset,Somerset,97
+CH_NF,Somerset,South Gloucestershire,13
+CH_NF,South Gloucestershire,Bath and North East Somerset,19
+CH_NF,South Gloucestershire,Bristol,30
+CH_NF,South Gloucestershire,Dorset,19
+CH_NF,South Gloucestershire,North Somerset,6
+CH_NF,South Gloucestershire,Poole,4
+CH_NF,South Gloucestershire,Somerset,18
+CH_NF,South Gloucestershire,South Gloucestershire,166
+CH_REF,Bath and North East Somerset,Bath and North East Somerset,1
+CH_REF,Bristol,Bristol,1
+CH_REF,North Somerset,North Somerset,2
+CSPW,Bath and North East Somerset,Bath and North East Somerset,18
+CSPW,Bath and North East Somerset,Bristol,6
+CSPW,Bath and North East Somerset,Dorset,6
+CSPW,Bath and North East Somerset,North Somerset,1
+CSPW,Bath and North East Somerset,Poole,1
+CSPW,Bath and North East Somerset,Somerset,3
+CSPW,Bath and North East Somerset,South Gloucestershire,3
+CSPW,Bristol,Bath and North East Somerset,9
+CSPW,Bristol,Bristol,169
+CSPW,Bristol,Dorset,4
 CSPW,Bristol,North Somerset,4
-CSPW,Bristol,Poole,1
-CSPW,Bristol,Somerset,1
-CSPW,Bristol,South Gloucestershire,10
-CSPW,Dorset,Bath and North East Somerset,8
-CSPW,Dorset,Bristol,8
-CSPW,Dorset,Dorset,31
-CSPW,Dorset,North Somerset,3
-CSPW,Dorset,Poole,1
-CSPW,Dorset,Somerset,8
-CSPW,Dorset,South Gloucestershire,6
-CSPW,North Somerset,Bath and North East Somerset,1
-CSPW,North Somerset,Bristol,2
+CSPW,Bristol,Poole,2
+CSPW,Bristol,Somerset,4
+CSPW,Bristol,South Gloucestershire,5
+CSPW,Dorset,Bath and North East Somerset,3
+CSPW,Dorset,Bristol,13
+CSPW,Dorset,Dorset,28
+CSPW,Dorset,North Somerset,1
+CSPW,Dorset,Somerset,5
+CSPW,Dorset,South Gloucestershire,2
+CSPW,North Somerset,Bristol,4
 CSPW,North Somerset,Dorset,5
-CSPW,North Somerset,North Somerset,36
-CSPW,North Somerset,South Gloucestershire,2
-CSPW,Poole,Bath and North East Somerset,3
-CSPW,Poole,Bristol,2
-CSPW,Poole,Dorset,6
-CSPW,Poole,North Somerset,2
-CSPW,Poole,Poole,11
-CSPW,Somerset,Bath and North East Somerset,9
-CSPW,Somerset,Bristol,2
-CSPW,Somerset,North Somerset,1
-CSPW,Somerset,Poole,1
-CSPW,Somerset,Somerset,21
-CSPW,Somerset,South Gloucestershire,3
-CSPW,South Gloucestershire,Bath and North East Somerset,10
-CSPW,South Gloucestershire,Bristol,7
-CSPW,South Gloucestershire,Dorset,7
-CSPW,South Gloucestershire,North Somerset,2
+CSPW,North Somerset,North Somerset,42
+CSPW,North Somerset,Poole,3
+CSPW,North Somerset,South Gloucestershire,1
+CSPW,Poole,Bristol,1
+CSPW,Poole,Dorset,3
+CSPW,Poole,North Somerset,1
+CSPW,Poole,Poole,7
+CSPW,Poole,Somerset,2
+CSPW,Poole,South Gloucestershire,1
+CSPW,Somerset,Bath and North East Somerset,2
+CSPW,Somerset,Bristol,5
+CSPW,Somerset,Dorset,4
+CSPW,Somerset,North Somerset,4
+CSPW,Somerset,Somerset,73
+CSPW,Somerset,South Gloucestershire,2
+CSPW,South Gloucestershire,Bath and North East Somerset,6
+CSPW,South Gloucestershire,Bristol,6
+CSPW,South Gloucestershire,Dorset,8
+CSPW,South Gloucestershire,North Somerset,3
 CSPW,South Gloucestershire,Poole,1
-CSPW,South Gloucestershire,Somerset,4
-CSPW,South Gloucestershire,South Gloucestershire,29
+CSPW,South Gloucestershire,Somerset,1
+CSPW,South Gloucestershire,South Gloucestershire,37
+DRA-SET,Bristol,Dorset,2
 DRA-SET,Dorset,Bristol,1
-DRA-SET,Dorset,Dorset,16
-DRA-SET,North Somerset,Dorset,1
+DRA-SET,Dorset,Dorset,9
+DRA-SET,North Somerset,Bristol,1
 DRA-SET,Poole,Dorset,1
-DRA-SING,Bath and North East Somerset,Dorset,1
-DRA-SING,Bristol,Bath and North East Somerset,2
-DRA-SING,Bristol,Bristol,1
-DRA-SING,Bristol,Dorset,3
-DRA-SING,Bristol,Somerset,3
-DRA-SING,Dorset,Bristol,3
-DRA-SING,Dorset,Dorset,2
-DRA-SING,Dorset,Somerset,4
+DRA-SING,Bath and North East Somerset,Somerset,3
+DRA-SING,Bristol,Bristol,6
+DRA-SING,Bristol,Dorset,4
+DRA-SING,Bristol,Somerset,4
+DRA-SING,Dorset,Bristol,1
+DRA-SING,Dorset,Dorset,1
+DRA-SING,Dorset,Poole,1
+DRA-SING,Dorset,Somerset,17
 DRA-SING,North Somerset,Somerset,1
-DRA-SING,Poole,Somerset,1
-DRA-SING,Somerset,Bristol,4
-DRA-SING,Somerset,Dorset,2
-DRA-SING,Somerset,Poole,1
-DRA-SING,Somerset,Somerset,56
-DRA-SING,South Gloucestershire,Bristol,2
-DRA-SING,South Gloucestershire,Somerset,9
-DRA-SING,South Gloucestershire,South Gloucestershire,1
-DVD_12_PR,Bath and North East Somerset,Bath and North East Somerset,1
-DVD_12_PR,Bath and North East Somerset,Somerset,1
-DVD_12_PR,Bath and North East Somerset,South Gloucestershire,1
-DVD_12_PR,Bristol,Bath and North East Somerset,1
-DVD_12_PR,Bristol,Bristol,6
-DVD_12_PR,Dorset,Dorset,4
-DVD_12_PR,Poole,Dorset,2
+DRA-SING,Poole,Somerset,10
+DRA-SING,Somerset,Dorset,3
+DRA-SING,Somerset,Somerset,49
+DRA-SING,South Gloucestershire,Somerset,5
+DVD_12_PR,Bristol,Bristol,4
+DVD_12_PR,Dorset,Dorset,3
+DVD_12_PR,Poole,Bristol,1
+DVD_12_PR,Poole,Dorset,1
+DVD_12_PR,Poole,Poole,1
 DVD_12_PR,Somerset,Somerset,5
-DVD_12_PR,South Gloucestershire,South Gloucestershire,4
-DVD_12_ST,Bath and North East Somerset,Bath and North East Somerset,47
-DVD_12_ST,Bath and North East Somerset,Bristol,1
-DVD_12_ST,Bath and North East Somerset,Dorset,2
+DVD_12_PR,South Gloucestershire,Bath and North East Somerset,1
+DVD_12_PR,South Gloucestershire,South Gloucestershire,2
+DVD_12_ST,Bath and North East Somerset,Bath and North East Somerset,32
+DVD_12_ST,Bath and North East Somerset,Bristol,3
+DVD_12_ST,Bath and North East Somerset,Dorset,1
+DVD_12_ST,Bath and North East Somerset,North Somerset,1
 DVD_12_ST,Bath and North East Somerset,Somerset,1
-DVD_12_ST,Bath and North East Somerset,South Gloucestershire,2
-DVD_12_ST,Bristol,Bath and North East Somerset,2
-DVD_12_ST,Bristol,Bristol,37
-DVD_12_ST,Bristol,Dorset,2
-DVD_12_ST,Bristol,Poole,2
-DVD_12_ST,Bristol,Somerset,4
-DVD_12_ST,Bristol,South Gloucestershire,3
-DVD_12_ST,Dorset,Bath and North East Somerset,2
+DVD_12_ST,Bristol,Bath and North East Somerset,1
+DVD_12_ST,Bristol,Bristol,27
+DVD_12_ST,Bristol,Dorset,7
+DVD_12_ST,Bristol,North Somerset,1
+DVD_12_ST,Bristol,Poole,1
+DVD_12_ST,Bristol,Somerset,3
+DVD_12_ST,Bristol,South Gloucestershire,2
 DVD_12_ST,Dorset,Bristol,5
-DVD_12_ST,Dorset,Dorset,55
-DVD_12_ST,Dorset,North Somerset,1
-DVD_12_ST,Dorset,Somerset,10
-DVD_12_ST,Dorset,South Gloucestershire,3
-DVD_12_ST,North Somerset,Bristol,2
+DVD_12_ST,Dorset,Dorset,62
+DVD_12_ST,Dorset,Poole,1
+DVD_12_ST,Dorset,Somerset,3
+DVD_12_ST,Dorset,South Gloucestershire,1
 DVD_12_ST,North Somerset,Dorset,1
-DVD_12_ST,North Somerset,North Somerset,6
-DVD_12_ST,Poole,Bath and North East Somerset,2
-DVD_12_ST,Poole,Bristol,1
-DVD_12_ST,Poole,Dorset,3
+DVD_12_ST,North Somerset,Somerset,1
+DVD_12_ST,Poole,Dorset,6
 DVD_12_ST,Poole,North Somerset,1
-DVD_12_ST,Poole,Poole,5
+DVD_12_ST,Poole,Poole,2
 DVD_12_ST,Poole,Somerset,1
-DVD_12_ST,Poole,South Gloucestershire,3
-DVD_12_ST,Somerset,Dorset,5
+DVD_12_ST,Poole,South Gloucestershire,1
+DVD_12_ST,Somerset,Bath and North East Somerset,1
+DVD_12_ST,Somerset,Bristol,5
+DVD_12_ST,Somerset,Dorset,2
 DVD_12_ST,Somerset,Poole,1
-DVD_12_ST,Somerset,Somerset,49
-DVD_12_ST,South Gloucestershire,Bath and North East Somerset,1
+DVD_12_ST,Somerset,Somerset,70
+DVD_12_ST,South Gloucestershire,Bath and North East Somerset,3
 DVD_12_ST,South Gloucestershire,Bristol,1
-DVD_12_ST,South Gloucestershire,Dorset,4
-DVD_12_ST,South Gloucestershire,North Somerset,2
-DVD_12_ST,South Gloucestershire,Somerset,1
-DVD_12_ST,South Gloucestershire,South Gloucestershire,19
-DVD_15_PR,Bath and North East Somerset,Bath and North East Somerset,3
-DVD_15_PR,Bath and North East Somerset,Bristol,1
-DVD_15_PR,Bath and North East Somerset,North Somerset,1
-DVD_15_PR,Bath and North East Somerset,Somerset,2
-DVD_15_PR,Bristol,Bristol,3
-DVD_15_PR,Bristol,North Somerset,2
-DVD_15_PR,Bristol,South Gloucestershire,1
+DVD_12_ST,South Gloucestershire,Dorset,5
+DVD_12_ST,South Gloucestershire,Poole,1
+DVD_12_ST,South Gloucestershire,Somerset,2
+DVD_12_ST,South Gloucestershire,South Gloucestershire,16
+DVD_15_PR,Bristol,Bristol,7
+DVD_15_PR,Bristol,Poole,1
 DVD_15_PR,Dorset,Dorset,2
-DVD_15_PR,North Somerset,Bristol,1
-DVD_15_PR,Poole,Dorset,1
-DVD_15_PR,Somerset,Somerset,2
-DVD_15_PR,South Gloucestershire,South Gloucestershire,5
-DVD_15_ST,Bath and North East Somerset,Bath and North East Somerset,36
-DVD_15_ST,Bath and North East Somerset,Bristol,7
-DVD_15_ST,Bath and North East Somerset,Dorset,3
-DVD_15_ST,Bath and North East Somerset,North Somerset,1
-DVD_15_ST,Bath and North East Somerset,Poole,2
-DVD_15_ST,Bath and North East Somerset,Somerset,1
-DVD_15_ST,Bath and North East Somerset,South Gloucestershire,4
-DVD_15_ST,Bristol,Bath and North East Somerset,5
-DVD_15_ST,Bristol,Bristol,42
+DVD_15_PR,Dorset,Poole,2
+DVD_15_PR,Somerset,Somerset,4
+DVD_15_PR,South Gloucestershire,Bath and North East Somerset,1
+DVD_15_PR,South Gloucestershire,North Somerset,1
+DVD_15_PR,South Gloucestershire,Poole,1
+DVD_15_PR,South Gloucestershire,South Gloucestershire,2
+DVD_15_ST,Bath and North East Somerset,Bath and North East Somerset,39
+DVD_15_ST,Bath and North East Somerset,Bristol,1
+DVD_15_ST,Bath and North East Somerset,Dorset,1
+DVD_15_ST,Bristol,Bath and North East Somerset,2
+DVD_15_ST,Bristol,Bristol,41
 DVD_15_ST,Bristol,Dorset,8
-DVD_15_ST,Bristol,Poole,3
-DVD_15_ST,Bristol,Somerset,5
-DVD_15_ST,Bristol,South Gloucestershire,8
-DVD_15_ST,Dorset,Bath and North East Somerset,3
-DVD_15_ST,Dorset,Bristol,10
-DVD_15_ST,Dorset,Dorset,78
-DVD_15_ST,Dorset,North Somerset,1
-DVD_15_ST,Dorset,Poole,3
-DVD_15_ST,Dorset,Somerset,5
+DVD_15_ST,Bristol,North Somerset,2
+DVD_15_ST,Bristol,Poole,6
+DVD_15_ST,Bristol,Somerset,4
+DVD_15_ST,Bristol,South Gloucestershire,1
+DVD_15_ST,Dorset,Bath and North East Somerset,1
+DVD_15_ST,Dorset,Bristol,8
+DVD_15_ST,Dorset,Dorset,85
+DVD_15_ST,Dorset,Poole,4
+DVD_15_ST,Dorset,Somerset,7
 DVD_15_ST,Dorset,South Gloucestershire,5
-DVD_15_ST,North Somerset,Bath and North East Somerset,2
-DVD_15_ST,North Somerset,Bristol,1
+DVD_15_ST,North Somerset,Bath and North East Somerset,1
 DVD_15_ST,North Somerset,Dorset,1
-DVD_15_ST,North Somerset,North Somerset,6
-DVD_15_ST,North Somerset,Poole,1
+DVD_15_ST,North Somerset,North Somerset,2
 DVD_15_ST,North Somerset,Somerset,1
-DVD_15_ST,Poole,Bath and North East Somerset,5
-DVD_15_ST,Poole,Bristol,1
-DVD_15_ST,Poole,Dorset,4
-DVD_15_ST,Poole,Poole,7
-DVD_15_ST,Poole,Somerset,2
-DVD_15_ST,Somerset,Bath and North East Somerset,4
-DVD_15_ST,Somerset,Bristol,4
-DVD_15_ST,Somerset,Dorset,2
-DVD_15_ST,Somerset,Poole,3
-DVD_15_ST,Somerset,Somerset,37
-DVD_15_ST,South Gloucestershire,Bath and North East Somerset,3
-DVD_15_ST,South Gloucestershire,Bristol,6
-DVD_15_ST,South Gloucestershire,Dorset,5
-DVD_15_ST,South Gloucestershire,North Somerset,1
-DVD_15_ST,South Gloucestershire,Somerset,1
-DVD_15_ST,South Gloucestershire,South Gloucestershire,21
-DVD_18_PR,Bristol,Bristol,1
+DVD_15_ST,Poole,Bath and North East Somerset,1
+DVD_15_ST,Poole,Bristol,5
+DVD_15_ST,Poole,Dorset,3
+DVD_15_ST,Poole,North Somerset,1
+DVD_15_ST,Poole,Poole,4
+DVD_15_ST,Poole,Somerset,3
+DVD_15_ST,Poole,South Gloucestershire,3
+DVD_15_ST,Somerset,Bath and North East Somerset,2
+DVD_15_ST,Somerset,Bristol,2
+DVD_15_ST,Somerset,Dorset,3
+DVD_15_ST,Somerset,Somerset,81
+DVD_15_ST,Somerset,South Gloucestershire,1
+DVD_15_ST,South Gloucestershire,Bath and North East Somerset,2
+DVD_15_ST,South Gloucestershire,Bristol,4
+DVD_15_ST,South Gloucestershire,Dorset,7
+DVD_15_ST,South Gloucestershire,Poole,1
+DVD_15_ST,South Gloucestershire,Somerset,4
+DVD_15_ST,South Gloucestershire,South Gloucestershire,3
 DVD_18_ST,Bath and North East Somerset,Bath and North East Somerset,1
-DVD_18_ST,Bath and North East Somerset,Bristol,1
-DVD_18_ST,Bath and North East Somerset,Dorset,1
-DVD_18_ST,Bath and North East Somerset,Somerset,2
-DVD_18_ST,Bristol,Bristol,7
-DVD_18_ST,Bristol,Dorset,1
-DVD_18_ST,Bristol,Poole,1
+DVD_18_ST,Bath and North East Somerset,Poole,1
+DVD_18_ST,Bath and North East Somerset,Somerset,1
+DVD_18_ST,Bristol,Bristol,3
 DVD_18_ST,Bristol,South Gloucestershire,2
-DVD_18_ST,Dorset,Bath and North East Somerset,1
-DVD_18_ST,Dorset,Bristol,3
-DVD_18_ST,Dorset,Dorset,10
-DVD_18_ST,Dorset,Poole,1
-DVD_18_ST,Dorset,Somerset,1
-DVD_18_ST,North Somerset,North Somerset,2
-DVD_18_ST,Poole,Bath and North East Somerset,1
-DVD_18_ST,Somerset,Bath and North East Somerset,1
-DVD_18_ST,Somerset,Bristol,1
+DVD_18_ST,Dorset,Bristol,8
+DVD_18_ST,Dorset,Dorset,5
+DVD_18_ST,Dorset,Poole,3
+DVD_18_ST,Poole,Bristol,3
+DVD_18_ST,Poole,Somerset,1
 DVD_18_ST,Somerset,Dorset,3
-DVD_18_ST,Somerset,Somerset,3
-DVD_18_ST,South Gloucestershire,Bristol,1
-DVD_18_ST,South Gloucestershire,Poole,2
-DVD_18_ST,South Gloucestershire,South Gloucestershire,3
-DVD_BX_12,Bath and North East Somerset,Bath and North East Somerset,1
+DVD_18_ST,Somerset,Somerset,4
+DVD_18_ST,South Gloucestershire,Somerset,1
+DVD_18_ST,South Gloucestershire,South Gloucestershire,1
+DVD_BX_12,Bath and North East Somerset,Dorset,1
 DVD_BX_12,Bath and North East Somerset,Poole,1
-DVD_BX_12,Bristol,Bristol,3
-DVD_BX_12,Bristol,Dorset,1
-DVD_BX_12,Dorset,Bristol,1
-DVD_BX_12,Dorset,South Gloucestershire,1
-DVD_BX_12,Poole,Bristol,1
-DVD_BX_12,Poole,Poole,1
-DVD_BX_12,Poole,Somerset,2
+DVD_BX_12,Bristol,Poole,2
+DVD_BX_12,Bristol,Somerset,1
+DVD_BX_12,Poole,Bath and North East Somerset,1
+DVD_BX_12,Poole,Bristol,2
 DVD_BX_12,Poole,South Gloucestershire,1
-DVD_BX_12,Somerset,Bath and North East Somerset,1
-DVD_BX_12,Somerset,Poole,2
-DVD_BX_12,Somerset,Somerset,3
-DVD_BX_12,Somerset,South Gloucestershire,1
-DVD_BX_12,South Gloucestershire,South Gloucestershire,2
+DVD_BX_12,Somerset,Poole,1
+DVD_BX_12,Somerset,Somerset,1
+DVD_BX_12,South Gloucestershire,Poole,1
+DVD_BX_12,South Gloucestershire,Somerset,1
+DVD_BX_12,South Gloucestershire,South Gloucestershire,3
 DVD_BX_15,Bath and North East Somerset,Bath and North East Somerset,4
 DVD_BX_15,Bath and North East Somerset,Bristol,3
-DVD_BX_15,Bath and North East Somerset,Somerset,1
-DVD_BX_15,Bath and North East Somerset,South Gloucestershire,1
+DVD_BX_15,Bath and North East Somerset,Dorset,1
+DVD_BX_15,Bath and North East Somerset,Poole,1
 DVD_BX_15,Bristol,Bath and North East Somerset,1
-DVD_BX_15,Bristol,Bristol,4
-DVD_BX_15,Bristol,Dorset,1
-DVD_BX_15,Bristol,Poole,3
-DVD_BX_15,Bristol,South Gloucestershire,3
+DVD_BX_15,Bristol,Dorset,3
+DVD_BX_15,Bristol,Poole,4
+DVD_BX_15,Bristol,Somerset,1
+DVD_BX_15,Bristol,South Gloucestershire,2
+DVD_BX_15,Dorset,Bath and North East Somerset,1
 DVD_BX_15,Dorset,Bristol,2
-DVD_BX_15,Dorset,Dorset,1
-DVD_BX_15,Dorset,Poole,1
+DVD_BX_15,Dorset,Poole,2
 DVD_BX_15,Dorset,Somerset,1
-DVD_BX_15,Dorset,South Gloucestershire,3
+DVD_BX_15,Dorset,South Gloucestershire,2
 DVD_BX_15,North Somerset,North Somerset,1
-DVD_BX_15,Poole,Bath and North East Somerset,1
+DVD_BX_15,North Somerset,Poole,1
 DVD_BX_15,Poole,Bristol,2
-DVD_BX_15,Poole,Poole,3
-DVD_BX_15,Poole,Somerset,1
-DVD_BX_15,Poole,South Gloucestershire,4
-DVD_BX_15,Somerset,Bath and North East Somerset,3
-DVD_BX_15,Somerset,Bristol,2
+DVD_BX_15,Poole,Poole,1
+DVD_BX_15,Somerset,Dorset,1
 DVD_BX_15,Somerset,North Somerset,1
-DVD_BX_15,Somerset,Somerset,2
-DVD_BX_15,Somerset,South Gloucestershire,1
-DVD_BX_15,South Gloucestershire,Bath and North East Somerset,1
-DVD_BX_15,South Gloucestershire,Bristol,1
-DVD_BX_15,South Gloucestershire,Dorset,3
-DVD_BX_15,South Gloucestershire,Poole,5
-DVD_BX_15,South Gloucestershire,South Gloucestershire,1
-DVD_BX_18,Bath and North East Somerset,Bath and North East Somerset,1
-DVD_BX_18,Bath and North East Somerset,Bristol,4
-DVD_BX_18,Bath and North East Somerset,South Gloucestershire,2
-DVD_BX_18,Bristol,Bristol,7
-DVD_BX_18,Bristol,Poole,1
-DVD_BX_18,Bristol,Somerset,2
+DVD_BX_15,Somerset,Poole,1
+DVD_BX_15,Somerset,Somerset,6
+DVD_BX_15,South Gloucestershire,Bristol,2
+DVD_BX_15,South Gloucestershire,Poole,3
+DVD_BX_15,South Gloucestershire,Somerset,1
+DVD_BX_15,South Gloucestershire,South Gloucestershire,3
+DVD_BX_18,Bath and North East Somerset,Bristol,2
+DVD_BX_18,Bristol,Bristol,6
+DVD_BX_18,Bristol,North Somerset,1
+DVD_BX_18,Bristol,Poole,2
+DVD_BX_18,Dorset,Bath and North East Somerset,1
 DVD_BX_18,Dorset,Bristol,1
-DVD_BX_18,Dorset,Poole,2
-DVD_BX_18,Dorset,Somerset,1
-DVD_BX_18,Poole,Bath and North East Somerset,1
-DVD_BX_18,Poole,Bristol,3
-DVD_BX_18,Poole,South Gloucestershire,1
-DVD_BX_18,Somerset,Bath and North East Somerset,1
-DVD_BX_18,Somerset,Somerset,1
-DVD_BX_18,South Gloucestershire,Bath and North East Somerset,1
-DVD_BX_18,South Gloucestershire,Bristol,1
-DVD_BX_18,South Gloucestershire,Dorset,3
-DVD_BX_18,South Gloucestershire,South Gloucestershire,2
-DVD_BX_PG,Bristol,Bristol,3
-DVD_BX_PG,Poole,Bristol,1
-DVD_BX_PG,Poole,Dorset,1
-DVD_BX_PG,South Gloucestershire,Poole,1
-DVD_BX_PG,South Gloucestershire,South Gloucestershire,1
-DVD_BX_U,North Somerset,North Somerset,1
+DVD_BX_18,Dorset,Dorset,1
+DVD_BX_18,Dorset,Poole,1
+DVD_BX_18,North Somerset,Poole,1
+DVD_BX_18,Poole,North Somerset,1
+DVD_BX_18,Somerset,Bristol,1
+DVD_BX_18,Somerset,Somerset,4
+DVD_BX_18,South Gloucestershire,Dorset,1
+DVD_BX_EX,North Somerset,North Somerset,1
+DVD_BX_PG,Bristol,Dorset,1
+DVD_BX_PG,Somerset,Bristol,1
+DVD_BX_PG,Somerset,Poole,1
+DVD_BX_PG,Somerset,Somerset,1
+DVD_BX_U,Dorset,South Gloucestershire,1
 DVD_EX,Bath and North East Somerset,Bath and North East Somerset,1
-DVD_EX,Bath and North East Somerset,Bristol,1
+DVD_EX,Bristol,Bristol,1
 DVD_EX,Dorset,Bath and North East Somerset,2
-DVD_EX,Dorset,Dorset,4
-DVD_EX,North Somerset,Dorset,1
-DVD_EX,North Somerset,North Somerset,1
-DVD_EX,Poole,South Gloucestershire,1
-DVD_EX,Somerset,Somerset,2
+DVD_EX,Dorset,Bristol,2
+DVD_EX,Dorset,Dorset,7
+DVD_EX,Dorset,Somerset,1
+DVD_EX,Somerset,Somerset,1
 DVD_EX,South Gloucestershire,Dorset,1
 DVD_EX,South Gloucestershire,South Gloucestershire,1
+DVD_PG_PR,Bath and North East Somerset,Bath and North East Somerset,3
 DVD_PG_PR,Bath and North East Somerset,Somerset,1
-DVD_PG_PR,Bristol,Bristol,7
-DVD_PG_PR,Dorset,Dorset,2
-DVD_PG_PR,Dorset,Somerset,1
-DVD_PG_PR,South Gloucestershire,Bristol,1
-DVD_PG_ST,Bath and North East Somerset,Bath and North East Somerset,14
-DVD_PG_ST,Bath and North East Somerset,Bristol,1
-DVD_PG_ST,Bath and North East Somerset,Dorset,3
-DVD_PG_ST,Bristol,Bath and North East Somerset,1
-DVD_PG_ST,Bristol,Bristol,17
-DVD_PG_ST,Bristol,Dorset,2
-DVD_PG_ST,Bristol,Poole,1
-DVD_PG_ST,Bristol,South Gloucestershire,2
-DVD_PG_ST,Dorset,Bristol,3
-DVD_PG_ST,Dorset,Dorset,16
+DVD_PG_PR,Bristol,Bristol,3
+DVD_PG_PR,Bristol,Poole,1
+DVD_PG_PR,Bristol,Somerset,1
+DVD_PG_PR,Dorset,Dorset,1
+DVD_PG_PR,North Somerset,North Somerset,1
+DVD_PG_PR,Somerset,Somerset,5
+DVD_PG_PR,South Gloucestershire,Dorset,1
+DVD_PG_PR,South Gloucestershire,South Gloucestershire,1
+DVD_PG_ST,Bath and North East Somerset,Bath and North East Somerset,8
+DVD_PG_ST,Bath and North East Somerset,North Somerset,1
+DVD_PG_ST,Bath and North East Somerset,Somerset,1
+DVD_PG_ST,Bristol,Bath and North East Somerset,2
+DVD_PG_ST,Bristol,Bristol,14
+DVD_PG_ST,Bristol,Dorset,4
+DVD_PG_ST,Bristol,North Somerset,1
+DVD_PG_ST,Bristol,Poole,5
+DVD_PG_ST,Bristol,Somerset,2
+DVD_PG_ST,Bristol,South Gloucestershire,3
+DVD_PG_ST,Dorset,Bath and North East Somerset,1
+DVD_PG_ST,Dorset,Bristol,6
+DVD_PG_ST,Dorset,Dorset,31
 DVD_PG_ST,Dorset,Poole,2
-DVD_PG_ST,Dorset,Somerset,1
-DVD_PG_ST,Dorset,South Gloucestershire,1
-DVD_PG_ST,North Somerset,Bristol,2
-DVD_PG_ST,North Somerset,North Somerset,3
-DVD_PG_ST,Poole,Bath and North East Somerset,2
-DVD_PG_ST,Poole,Bristol,4
-DVD_PG_ST,Poole,Dorset,2
-DVD_PG_ST,Poole,Poole,1
-DVD_PG_ST,Poole,South Gloucestershire,2
-DVD_PG_ST,Somerset,Bath and North East Somerset,2
+DVD_PG_ST,North Somerset,Bristol,1
+DVD_PG_ST,North Somerset,North Somerset,2
+DVD_PG_ST,North Somerset,Somerset,1
+DVD_PG_ST,North Somerset,South Gloucestershire,1
+DVD_PG_ST,Poole,Bath and North East Somerset,1
+DVD_PG_ST,Poole,Bristol,3
+DVD_PG_ST,Poole,Dorset,4
+DVD_PG_ST,Poole,Poole,3
+DVD_PG_ST,Somerset,Bath and North East Somerset,1
 DVD_PG_ST,Somerset,Bristol,1
-DVD_PG_ST,Somerset,Dorset,1
-DVD_PG_ST,Somerset,Somerset,11
-DVD_PG_ST,South Gloucestershire,Bristol,3
-DVD_PG_ST,South Gloucestershire,South Gloucestershire,7
-DVD_U_PR,Bristol,Bristol,1
-DVD_U_PR,North Somerset,North Somerset,1
-DVD_U_ST,Bath and North East Somerset,Bath and North East Somerset,18
-DVD_U_ST,Bath and North East Somerset,Bristol,2
-DVD_U_ST,Bath and North East Somerset,Dorset,4
-DVD_U_ST,Bath and North East Somerset,North Somerset,1
-DVD_U_ST,Bath and North East Somerset,Somerset,1
-DVD_U_ST,Bath and North East Somerset,South Gloucestershire,4
-DVD_U_ST,Bristol,Bath and North East Somerset,9
-DVD_U_ST,Bristol,Bristol,22
-DVD_U_ST,Bristol,Dorset,1
-DVD_U_ST,Bristol,North Somerset,1
-DVD_U_ST,Bristol,Poole,1
-DVD_U_ST,Bristol,South Gloucestershire,3
-DVD_U_ST,Dorset,Dorset,16
-DVD_U_ST,Dorset,Poole,1
-DVD_U_ST,Dorset,Somerset,3
-DVD_U_ST,North Somerset,Bristol,2
-DVD_U_ST,North Somerset,North Somerset,4
+DVD_PG_ST,Somerset,Poole,3
+DVD_PG_ST,Somerset,Somerset,18
+DVD_PG_ST,South Gloucestershire,Bristol,1
+DVD_PG_ST,South Gloucestershire,Dorset,2
+DVD_PG_ST,South Gloucestershire,Poole,1
+DVD_PG_ST,South Gloucestershire,Somerset,3
+DVD_PG_ST,South Gloucestershire,South Gloucestershire,9
+DVD_U_PR,Dorset,Poole,1
+DVD_U_ST,Bath and North East Somerset,Bath and North East Somerset,8
+DVD_U_ST,Bath and North East Somerset,Bristol,1
+DVD_U_ST,Bath and North East Somerset,Dorset,1
+DVD_U_ST,Bristol,Bristol,16
+DVD_U_ST,Bristol,Dorset,7
+DVD_U_ST,Bristol,Poole,3
+DVD_U_ST,Bristol,South Gloucestershire,1
+DVD_U_ST,Dorset,Bristol,2
+DVD_U_ST,Dorset,Dorset,22
+DVD_U_ST,Dorset,North Somerset,1
+DVD_U_ST,Dorset,Poole,6
+DVD_U_ST,Dorset,Somerset,1
+DVD_U_ST,North Somerset,North Somerset,6
 DVD_U_ST,North Somerset,Poole,1
+DVD_U_ST,Poole,Bath and North East Somerset,2
 DVD_U_ST,Poole,Bristol,1
-DVD_U_ST,Poole,Poole,4
-DVD_U_ST,Somerset,Bristol,1
-DVD_U_ST,Somerset,Dorset,1
-DVD_U_ST,Somerset,Somerset,22
+DVD_U_ST,Poole,Dorset,2
+DVD_U_ST,Poole,North Somerset,1
+DVD_U_ST,Poole,Poole,5
+DVD_U_ST,Poole,South Gloucestershire,1
+DVD_U_ST,Somerset,Poole,4
+DVD_U_ST,Somerset,Somerset,23
+DVD_U_ST,South Gloucestershire,Bath and North East Somerset,1
+DVD_U_ST,South Gloucestershire,Bristol,2
 DVD_U_ST,South Gloucestershire,Dorset,1
-DVD_U_ST,South Gloucestershire,Somerset,1
-DVD_U_ST,South Gloucestershire,South Gloucestershire,18
-EQU,Bristol,Bristol,1
-EQU,South Gloucestershire,South Gloucestershire,1
-FAST,Bath and North East Somerset,Bristol,4
-FAST,Bath and North East Somerset,South Gloucestershire,4
-FAST,Bristol,Bristol,23
-FAST,Bristol,South Gloucestershire,2
-FAST,North Somerset,Bristol,7
-FAST,North Somerset,South Gloucestershire,1
-FAST,South Gloucestershire,Bristol,1
+DVD_U_ST,South Gloucestershire,South Gloucestershire,9
+EQU,Bristol,Bristol,5
+EQU,Dorset,Dorset,1
+EQU,Dorset,Poole,1
+EQU,Somerset,Somerset,1
+EQU,South Gloucestershire,South Gloucestershire,3
+FAST,Bath and North East Somerset,Bristol,3
+FAST,Bath and North East Somerset,South Gloucestershire,1
+FAST,Bristol,Bristol,32
+FAST,Bristol,South Gloucestershire,3
+FAST,Dorset,Dorset,2
+FAST,North Somerset,Bristol,1
+FAST,Somerset,Bristol,2
+FAST,South Gloucestershire,Bristol,6
 FAST,South Gloucestershire,South Gloucestershire,29
-LANG,Bath and North East Somerset,Bristol,2
-LANG,Bath and North East Somerset,North Somerset,1
-LANG,Bath and North East Somerset,Somerset,2
-LANG,Bristol,Bath and North East Somerset,3
+LANG,Bath and North East Somerset,Bristol,1
+LANG,Bath and North East Somerset,South Gloucestershire,2
+LANG,Bristol,Bath and North East Somerset,1
 LANG,Bristol,Bristol,4
 LANG,Bristol,Dorset,3
-LANG,Bristol,Somerset,3
+LANG,Bristol,Somerset,7
 LANG,Bristol,South Gloucestershire,1
-LANG,Dorset,Bath and North East Somerset,1
-LANG,Dorset,Bristol,3
-LANG,Dorset,Dorset,3
-LANG,Dorset,Somerset,1
-LANG,Dorset,South Gloucestershire,1
-LANG,North Somerset,Bath and North East Somerset,1
-LANG,North Somerset,North Somerset,1
-LANG,Poole,Bristol,1
-LANG,Poole,Dorset,1
-LANG,Poole,North Somerset,2
-LANG,Somerset,Bath and North East Somerset,1
+LANG,Dorset,Bristol,1
+LANG,Dorset,Dorset,2
+LANG,Dorset,Somerset,2
+LANG,Dorset,South Gloucestershire,2
+LANG,Somerset,Bath and North East Somerset,4
 LANG,Somerset,Bristol,2
-LANG,Somerset,Somerset,1
-LANG,Somerset,South Gloucestershire,1
+LANG,Somerset,North Somerset,1
+LANG,Somerset,Somerset,4
 LANG,South Gloucestershire,Bath and North East Somerset,1
-LANG,South Gloucestershire,Bristol,1
-LANG,South Gloucestershire,Dorset,3
+LANG,South Gloucestershire,Dorset,1
 LANG,South Gloucestershire,Somerset,1
-LP_CHI,Bath and North East Somerset,Bath and North East Somerset,1
-LP_CHI,Bath and North East Somerset,North Somerset,1
-LP_CHI,Bath and North East Somerset,Somerset,2
-LP_CHI,Bristol,Bristol,3
+LANG,South Gloucestershire,South Gloucestershire,2
+LP_CHI,Bath and North East Somerset,Somerset,1
+LP_CHI,Bristol,Bath and North East Somerset,1
+LP_CHI,Bristol,Bristol,6
 LP_CHI,Bristol,Dorset,3
-LP_CHI,Bristol,South Gloucestershire,1
-LP_CHI,Dorset,Bath and North East Somerset,4
+LP_CHI,Bristol,North Somerset,2
+LP_CHI,Bristol,Somerset,1
+LP_CHI,Dorset,Bath and North East Somerset,1
 LP_CHI,Dorset,Bristol,2
-LP_CHI,Dorset,Dorset,4
-LP_CHI,Dorset,Poole,1
-LP_CHI,North Somerset,Bristol,2
-LP_CHI,North Somerset,Dorset,1
-LP_CHI,North Somerset,North Somerset,4
-LP_CHI,Poole,Bristol,1
-LP_CHI,Poole,Dorset,1
-LP_CHI,Somerset,Dorset,1
-LP_CHI,Somerset,North Somerset,1
+LP_CHI,Dorset,Dorset,5
+LP_CHI,Dorset,Poole,7
+LP_CHI,Dorset,Somerset,1
+LP_CHI,North Somerset,North Somerset,13
+LP_CHI,Somerset,Bristol,3
 LP_CHI,Somerset,Somerset,3
 LP_CHI,South Gloucestershire,Bristol,1
-LP_CHI,South Gloucestershire,South Gloucestershire,3
-LP_FIC,Bath and North East Somerset,Bath and North East Somerset,150
-LP_FIC,Bath and North East Somerset,Bristol,17
-LP_FIC,Bath and North East Somerset,Dorset,38
-LP_FIC,Bath and North East Somerset,North Somerset,26
-LP_FIC,Bath and North East Somerset,Poole,10
-LP_FIC,Bath and North East Somerset,Somerset,35
-LP_FIC,Bath and North East Somerset,South Gloucestershire,27
-LP_FIC,Bristol,Bath and North East Somerset,27
-LP_FIC,Bristol,Bristol,263
-LP_FIC,Bristol,Dorset,61
-LP_FIC,Bristol,North Somerset,25
+LP_CHI,South Gloucestershire,Dorset,1
+LP_CHI,South Gloucestershire,North Somerset,1
+LP_CHI,South Gloucestershire,Poole,1
+LP_FIC,Bath and North East Somerset,Bath and North East Somerset,63
+LP_FIC,Bath and North East Somerset,Bristol,24
+LP_FIC,Bath and North East Somerset,Dorset,34
+LP_FIC,Bath and North East Somerset,North Somerset,8
+LP_FIC,Bath and North East Somerset,Poole,8
+LP_FIC,Bath and North East Somerset,Somerset,14
+LP_FIC,Bath and North East Somerset,South Gloucestershire,9
+LP_FIC,Bristol,Bath and North East Somerset,17
+LP_FIC,Bristol,Bristol,173
+LP_FIC,Bristol,Dorset,81
+LP_FIC,Bristol,North Somerset,16
 LP_FIC,Bristol,Poole,13
 LP_FIC,Bristol,Somerset,37
-LP_FIC,Bristol,South Gloucestershire,18
-LP_FIC,Dorset,Bath and North East Somerset,43
-LP_FIC,Dorset,Bristol,61
-LP_FIC,Dorset,Dorset,495
-LP_FIC,Dorset,North Somerset,38
-LP_FIC,Dorset,Poole,31
-LP_FIC,Dorset,Somerset,95
-LP_FIC,Dorset,South Gloucestershire,53
-LP_FIC,North Somerset,Bath and North East Somerset,17
-LP_FIC,North Somerset,Bristol,16
-LP_FIC,North Somerset,Dorset,46
-LP_FIC,North Somerset,North Somerset,161
-LP_FIC,North Somerset,Poole,7
-LP_FIC,North Somerset,Somerset,20
-LP_FIC,North Somerset,South Gloucestershire,12
-LP_FIC,Poole,Bath and North East Somerset,17
-LP_FIC,Poole,Bristol,7
-LP_FIC,Poole,Dorset,42
-LP_FIC,Poole,North Somerset,11
-LP_FIC,Poole,Poole,66
-LP_FIC,Poole,Somerset,6
-LP_FIC,Poole,South Gloucestershire,8
-LP_FIC,Somerset,Bath and North East Somerset,33
-LP_FIC,Somerset,Bristol,36
-LP_FIC,Somerset,Dorset,124
-LP_FIC,Somerset,North Somerset,20
-LP_FIC,Somerset,Poole,13
-LP_FIC,Somerset,Somerset,606
-LP_FIC,Somerset,South Gloucestershire,12
-LP_FIC,South Gloucestershire,Bath and North East Somerset,21
-LP_FIC,South Gloucestershire,Bristol,20
-LP_FIC,South Gloucestershire,Dorset,51
-LP_FIC,South Gloucestershire,North Somerset,15
-LP_FIC,South Gloucestershire,Poole,5
-LP_FIC,South Gloucestershire,Somerset,27
-LP_FIC,South Gloucestershire,South Gloucestershire,112
-LP_FIC,,South Gloucestershire,1
-LP_NF,Bath and North East Somerset,Bath and North East Somerset,14
-LP_NF,Bath and North East Somerset,Dorset,5
-LP_NF,Bath and North East Somerset,North Somerset,2
-LP_NF,Bath and North East Somerset,Poole,1
-LP_NF,Bath and North East Somerset,Somerset,1
+LP_FIC,Bristol,South Gloucestershire,16
+LP_FIC,Dorset,Bath and North East Somerset,27
+LP_FIC,Dorset,Bristol,92
+LP_FIC,Dorset,Dorset,834
+LP_FIC,Dorset,North Somerset,35
+LP_FIC,Dorset,Poole,38
+LP_FIC,Dorset,Somerset,116
+LP_FIC,Dorset,South Gloucestershire,34
+LP_FIC,North Somerset,Bath and North East Somerset,5
+LP_FIC,North Somerset,Bristol,17
+LP_FIC,North Somerset,Dorset,47
+LP_FIC,North Somerset,North Somerset,531
+LP_FIC,North Somerset,Poole,6
+LP_FIC,North Somerset,Somerset,18
+LP_FIC,North Somerset,South Gloucestershire,11
+LP_FIC,Poole,Bath and North East Somerset,5
+LP_FIC,Poole,Bristol,13
+LP_FIC,Poole,Dorset,38
+LP_FIC,Poole,North Somerset,1
+LP_FIC,Poole,Poole,46
+LP_FIC,Poole,Somerset,13
+LP_FIC,Poole,South Gloucestershire,11
+LP_FIC,Somerset,Bath and North East Somerset,11
+LP_FIC,Somerset,Bristol,49
+LP_FIC,Somerset,Dorset,89
+LP_FIC,Somerset,North Somerset,7
+LP_FIC,Somerset,Poole,8
+LP_FIC,Somerset,Somerset,629
+LP_FIC,Somerset,South Gloucestershire,15
+LP_FIC,South Gloucestershire,Bath and North East Somerset,10
+LP_FIC,South Gloucestershire,Bristol,26
+LP_FIC,South Gloucestershire,Dorset,56
+LP_FIC,South Gloucestershire,North Somerset,10
+LP_FIC,South Gloucestershire,Poole,6
+LP_FIC,South Gloucestershire,Somerset,29
+LP_FIC,South Gloucestershire,South Gloucestershire,88
+LP_NF,Bath and North East Somerset,Bath and North East Somerset,41
+LP_NF,Bath and North East Somerset,Bristol,4
+LP_NF,Bath and North East Somerset,Dorset,4
+LP_NF,Bath and North East Somerset,North Somerset,3
+LP_NF,Bath and North East Somerset,Somerset,2
 LP_NF,Bath and North East Somerset,South Gloucestershire,1
-LP_NF,Bristol,Bath and North East Somerset,3
-LP_NF,Bristol,Bristol,23
-LP_NF,Bristol,Dorset,9
-LP_NF,Bristol,North Somerset,1
+LP_NF,Bristol,Bath and North East Somerset,2
+LP_NF,Bristol,Bristol,14
+LP_NF,Bristol,Dorset,2
+LP_NF,Bristol,North Somerset,2
 LP_NF,Bristol,Poole,1
-LP_NF,Bristol,Somerset,3
-LP_NF,Bristol,South Gloucestershire,1
-LP_NF,Dorset,Bath and North East Somerset,3
-LP_NF,Dorset,Bristol,7
-LP_NF,Dorset,Dorset,50
-LP_NF,Dorset,North Somerset,3
-LP_NF,Dorset,Poole,1
-LP_NF,Dorset,Somerset,6
-LP_NF,Dorset,South Gloucestershire,3
-LP_NF,North Somerset,Bath and North East Somerset,1
-LP_NF,North Somerset,Dorset,3
-LP_NF,North Somerset,North Somerset,25
-LP_NF,North Somerset,Somerset,3
-LP_NF,Poole,Bath and North East Somerset,1
-LP_NF,Poole,Dorset,3
-LP_NF,Poole,North Somerset,1
-LP_NF,Poole,Poole,10
-LP_NF,Poole,Somerset,1
-LP_NF,Somerset,Bristol,2
-LP_NF,Somerset,Dorset,7
-LP_NF,Somerset,North Somerset,7
-LP_NF,Somerset,Poole,1
-LP_NF,Somerset,Somerset,54
-LP_NF,Somerset,South Gloucestershire,3
-LP_NF,South Gloucestershire,Bath and North East Somerset,2
-LP_NF,South Gloucestershire,Bristol,3
-LP_NF,South Gloucestershire,Dorset,2
-LP_NF,South Gloucestershire,North Somerset,1
-LP_NF,South Gloucestershire,Poole,1
-LP_NF,South Gloucestershire,Somerset,2
-LP_NF,South Gloucestershire,South Gloucestershire,11
-MUS_CD,Bath and North East Somerset,Bath and North East Somerset,2
-MUS_CD,Bath and North East Somerset,Bristol,20
-MUS_CD,Bath and North East Somerset,Dorset,5
-MUS_CD,Bath and North East Somerset,North Somerset,6
-MUS_CD,Bath and North East Somerset,Poole,1
-MUS_CD,Bath and North East Somerset,Somerset,7
-MUS_CD,Bath and North East Somerset,South Gloucestershire,3
-MUS_CD,Bristol,Bath and North East Somerset,15
-MUS_CD,Bristol,Bristol,28
-MUS_CD,Bristol,Dorset,12
-MUS_CD,Bristol,North Somerset,9
-MUS_CD,Bristol,Poole,4
-MUS_CD,Bristol,Somerset,8
-MUS_CD,Bristol,South Gloucestershire,3
-MUS_CD,Dorset,Bath and North East Somerset,14
-MUS_CD,Dorset,Bristol,8
+LP_NF,Bristol,Somerset,1
+LP_NF,Bristol,South Gloucestershire,3
+LP_NF,Dorset,Bath and North East Somerset,1
+LP_NF,Dorset,Bristol,5
+LP_NF,Dorset,Dorset,74
+LP_NF,Dorset,North Somerset,1
+LP_NF,Dorset,Poole,3
+LP_NF,Dorset,Somerset,4
+LP_NF,Dorset,South Gloucestershire,1
+LP_NF,North Somerset,Dorset,5
+LP_NF,North Somerset,North Somerset,82
+LP_NF,North Somerset,Poole,2
+LP_NF,North Somerset,Somerset,6
+LP_NF,Poole,Bath and North East Somerset,2
+LP_NF,Poole,Bristol,2
+LP_NF,Poole,Dorset,6
+LP_NF,Poole,Poole,5
+LP_NF,Somerset,Bath and North East Somerset,2
+LP_NF,Somerset,Bristol,3
+LP_NF,Somerset,Dorset,3
+LP_NF,Somerset,Poole,4
+LP_NF,Somerset,Somerset,66
+LP_NF,Somerset,South Gloucestershire,1
+LP_NF,South Gloucestershire,Bristol,1
+LP_NF,South Gloucestershire,Dorset,5
+LP_NF,South Gloucestershire,North Somerset,2
+LP_NF,South Gloucestershire,Poole,2
+LP_NF,South Gloucestershire,Somerset,4
+LP_NF,South Gloucestershire,South Gloucestershire,3
+MUS_CD,Bath and North East Somerset,Bristol,8
+MUS_CD,Bath and North East Somerset,Dorset,1
+MUS_CD,Bath and North East Somerset,North Somerset,1
+MUS_CD,Bath and North East Somerset,Poole,2
+MUS_CD,Bath and North East Somerset,Somerset,2
+MUS_CD,Bath and North East Somerset,South Gloucestershire,1
+MUS_CD,Bristol,Bath and North East Somerset,4
+MUS_CD,Bristol,Bristol,27
+MUS_CD,Bristol,Dorset,11
+MUS_CD,Bristol,North Somerset,6
+MUS_CD,Bristol,Poole,11
+MUS_CD,Bristol,Somerset,7
+MUS_CD,Bristol,South Gloucestershire,4
+MUS_CD,Dorset,Bath and North East Somerset,5
+MUS_CD,Dorset,Bristol,3
 MUS_CD,Dorset,Dorset,5
-MUS_CD,Dorset,North Somerset,3
-MUS_CD,Dorset,Poole,14
-MUS_CD,Dorset,Somerset,4
-MUS_CD,Dorset,South Gloucestershire,4
-MUS_CD,North Somerset,Bath and North East Somerset,9
-MUS_CD,North Somerset,Bristol,5
-MUS_CD,North Somerset,Dorset,7
-MUS_CD,North Somerset,North Somerset,32
-MUS_CD,North Somerset,Poole,6
-MUS_CD,North Somerset,Somerset,2
-MUS_CD,North Somerset,South Gloucestershire,2
-MUS_CD,Poole,Bath and North East Somerset,2
-MUS_CD,Poole,Bristol,7
+MUS_CD,Dorset,North Somerset,2
+MUS_CD,Dorset,Poole,10
+MUS_CD,Dorset,Somerset,6
+MUS_CD,Dorset,South Gloucestershire,6
+MUS_CD,North Somerset,Bath and North East Somerset,3
+MUS_CD,North Somerset,Bristol,7
+MUS_CD,North Somerset,Dorset,3
+MUS_CD,North Somerset,North Somerset,25
+MUS_CD,North Somerset,Poole,4
+MUS_CD,North Somerset,Somerset,1
+MUS_CD,North Somerset,South Gloucestershire,1
+MUS_CD,Poole,Bath and North East Somerset,1
+MUS_CD,Poole,Bristol,10
 MUS_CD,Poole,Dorset,2
-MUS_CD,Poole,North Somerset,3
-MUS_CD,Poole,Poole,10
+MUS_CD,Poole,North Somerset,1
+MUS_CD,Poole,Poole,14
 MUS_CD,Poole,Somerset,3
-MUS_CD,Poole,South Gloucestershire,2
-MUS_CD,Somerset,Bath and North East Somerset,10
+MUS_CD,Poole,South Gloucestershire,1
+MUS_CD,Somerset,Bath and North East Somerset,2
 MUS_CD,Somerset,Bristol,8
-MUS_CD,Somerset,Dorset,2
-MUS_CD,Somerset,North Somerset,1
-MUS_CD,Somerset,Poole,7
-MUS_CD,Somerset,Somerset,8
-MUS_CD,Somerset,South Gloucestershire,5
-MUS_CD,South Gloucestershire,Bath and North East Somerset,18
-MUS_CD,South Gloucestershire,Bristol,6
-MUS_CD,South Gloucestershire,Dorset,6
-MUS_CD,South Gloucestershire,North Somerset,1
-MUS_CD,South Gloucestershire,Poole,4
-MUS_CD,South Gloucestershire,South Gloucestershire,4
-MUS_SCORE,Bath and North East Somerset,Bath and North East Somerset,3
-MUS_SCORE,Bath and North East Somerset,Bristol,4
-MUS_SCORE,Bath and North East Somerset,Dorset,1
-MUS_SCORE,Bath and North East Somerset,North Somerset,4
-MUS_SCORE,Bath and North East Somerset,Somerset,4
-MUS_SCORE,Bath and North East Somerset,South Gloucestershire,1
-MUS_SCORE,Bristol,Bath and North East Somerset,1
-MUS_SCORE,Bristol,Bristol,6
-MUS_SCORE,Bristol,Somerset,5
-MUS_SCORE,Dorset,Bath and North East Somerset,1
-MUS_SCORE,Dorset,Dorset,3
+MUS_CD,Somerset,Dorset,4
+MUS_CD,Somerset,Somerset,4
+MUS_CD,South Gloucestershire,Bath and North East Somerset,3
+MUS_CD,South Gloucestershire,Bristol,8
+MUS_CD,South Gloucestershire,North Somerset,2
+MUS_CD,South Gloucestershire,Poole,7
+MUS_CD,South Gloucestershire,South Gloucestershire,11
+MUS_SCORE,Bath and North East Somerset,Bath and North East Somerset,1
+MUS_SCORE,Bath and North East Somerset,Bristol,1
+MUS_SCORE,Bristol,Bristol,3
+MUS_SCORE,Bristol,Dorset,7
+MUS_SCORE,Bristol,North Somerset,2
+MUS_SCORE,Bristol,Somerset,19
+MUS_SCORE,Bristol,South Gloucestershire,4
+MUS_SCORE,Dorset,Bristol,4
+MUS_SCORE,Dorset,Dorset,7
 MUS_SCORE,Dorset,Somerset,3
-MUS_SCORE,Dorset,South Gloucestershire,1
-MUS_SCORE,North Somerset,Bristol,2
-MUS_SCORE,Somerset,Bath and North East Somerset,3
+MUS_SCORE,North Somerset,Bristol,1
+MUS_SCORE,North Somerset,Dorset,2
+MUS_SCORE,North Somerset,North Somerset,1
+MUS_SCORE,North Somerset,Somerset,3
 MUS_SCORE,Somerset,Bristol,3
-MUS_SCORE,Somerset,Dorset,4
-MUS_SCORE,Somerset,Poole,1
-MUS_SCORE,Somerset,Somerset,4
-MUS_SCORE,Somerset,South Gloucestershire,1
-MUS_SCORE,South Gloucestershire,Bath and North East Somerset,1
-MUS_SCORE,South Gloucestershire,Bristol,2
-MUS_SCORE,South Gloucestershire,Somerset,1
-MUS_SET,Bristol,Somerset,1
+MUS_SCORE,Somerset,Dorset,1
+MUS_SCORE,Somerset,North Somerset,1
+MUS_SCORE,Somerset,Somerset,148
 VISUAL,Bath and North East Somerset,Bath and North East Somerset,1
-YA_FIC,Bath and North East Somerset,Bath and North East Somerset,144
-YA_FIC,Bath and North East Somerset,Bristol,22
-YA_FIC,Bath and North East Somerset,Dorset,22
-YA_FIC,Bath and North East Somerset,North Somerset,12
-YA_FIC,Bath and North East Somerset,Poole,15
-YA_FIC,Bath and North East Somerset,Somerset,34
-YA_FIC,Bath and North East Somerset,South Gloucestershire,18
-YA_FIC,Bristol,Bath and North East Somerset,35
-YA_FIC,Bristol,Bristol,174
-YA_FIC,Bristol,Dorset,35
-YA_FIC,Bristol,North Somerset,10
-YA_FIC,Bristol,Poole,5
-YA_FIC,Bristol,Somerset,24
-YA_FIC,Bristol,South Gloucestershire,23
-YA_FIC,Dorset,Bath and North East Somerset,44
-YA_FIC,Dorset,Bristol,25
-YA_FIC,Dorset,Dorset,276
-YA_FIC,Dorset,North Somerset,13
-YA_FIC,Dorset,Poole,12
-YA_FIC,Dorset,Somerset,32
-YA_FIC,Dorset,South Gloucestershire,13
-YA_FIC,North Somerset,Bath and North East Somerset,7
-YA_FIC,North Somerset,Bristol,19
-YA_FIC,North Somerset,Dorset,15
-YA_FIC,North Somerset,North Somerset,56
+YA_FIC,Bath and North East Somerset,Bath and North East Somerset,29
+YA_FIC,Bath and North East Somerset,Bristol,16
+YA_FIC,Bath and North East Somerset,Dorset,16
+YA_FIC,Bath and North East Somerset,North Somerset,3
+YA_FIC,Bath and North East Somerset,Poole,5
+YA_FIC,Bath and North East Somerset,Somerset,12
+YA_FIC,Bath and North East Somerset,South Gloucestershire,7
+YA_FIC,Bristol,Bath and North East Somerset,21
+YA_FIC,Bristol,Bristol,224
+YA_FIC,Bristol,Dorset,39
+YA_FIC,Bristol,North Somerset,15
+YA_FIC,Bristol,Poole,12
+YA_FIC,Bristol,Somerset,21
+YA_FIC,Bristol,South Gloucestershire,14
+YA_FIC,Dorset,Bath and North East Somerset,18
+YA_FIC,Dorset,Bristol,42
+YA_FIC,Dorset,Dorset,645
+YA_FIC,Dorset,North Somerset,16
+YA_FIC,Dorset,Poole,16
+YA_FIC,Dorset,Somerset,25
+YA_FIC,Dorset,South Gloucestershire,16
+YA_FIC,North Somerset,Bath and North East Somerset,3
+YA_FIC,North Somerset,Bristol,10
+YA_FIC,North Somerset,Dorset,12
+YA_FIC,North Somerset,North Somerset,119
 YA_FIC,North Somerset,Poole,3
-YA_FIC,North Somerset,Somerset,8
-YA_FIC,North Somerset,South Gloucestershire,1
-YA_FIC,Poole,Bath and North East Somerset,7
-YA_FIC,Poole,Bristol,10
-YA_FIC,Poole,Dorset,20
-YA_FIC,Poole,North Somerset,7
-YA_FIC,Poole,Poole,69
-YA_FIC,Poole,Somerset,9
-YA_FIC,Poole,South Gloucestershire,7
-YA_FIC,Somerset,Bath and North East Somerset,17
-YA_FIC,Somerset,Bristol,17
-YA_FIC,Somerset,Dorset,19
-YA_FIC,Somerset,North Somerset,5
-YA_FIC,Somerset,Poole,6
-YA_FIC,Somerset,Somerset,95
-YA_FIC,Somerset,South Gloucestershire,15
-YA_FIC,South Gloucestershire,Bath and North East Somerset,26
-YA_FIC,South Gloucestershire,Bristol,19
-YA_FIC,South Gloucestershire,Dorset,18
-YA_FIC,South Gloucestershire,North Somerset,5
-YA_FIC,South Gloucestershire,Poole,7
+YA_FIC,North Somerset,Somerset,5
+YA_FIC,North Somerset,South Gloucestershire,4
+YA_FIC,Poole,Bath and North East Somerset,4
+YA_FIC,Poole,Bristol,18
+YA_FIC,Poole,Dorset,23
+YA_FIC,Poole,North Somerset,4
+YA_FIC,Poole,Poole,1340
+YA_FIC,Poole,Somerset,3
+YA_FIC,Poole,South Gloucestershire,3
+YA_FIC,Somerset,Bath and North East Somerset,14
+YA_FIC,Somerset,Bristol,24
+YA_FIC,Somerset,Dorset,16
+YA_FIC,Somerset,North Somerset,11
+YA_FIC,Somerset,Poole,4
+YA_FIC,Somerset,Somerset,122
+YA_FIC,Somerset,South Gloucestershire,17
+YA_FIC,South Gloucestershire,Bath and North East Somerset,9
+YA_FIC,South Gloucestershire,Bristol,8
+YA_FIC,South Gloucestershire,Dorset,17
+YA_FIC,South Gloucestershire,North Somerset,8
+YA_FIC,South Gloucestershire,Poole,5
 YA_FIC,South Gloucestershire,Somerset,12
-YA_FIC,South Gloucestershire,South Gloucestershire,78
-YA_NF,Bath and North East Somerset,Bath and North East Somerset,1
+YA_FIC,South Gloucestershire,South Gloucestershire,77
 YA_NF,Bath and North East Somerset,Dorset,1
 YA_NF,Bath and North East Somerset,North Somerset,1
+YA_NF,Bath and North East Somerset,Poole,1
 YA_NF,Bristol,Bristol,7
+YA_NF,Bristol,Dorset,1
 YA_NF,Bristol,North Somerset,2
 YA_NF,Bristol,Poole,1
-YA_NF,Dorset,Bath and North East Somerset,2
-YA_NF,Dorset,Bristol,3
-YA_NF,Dorset,Dorset,27
-YA_NF,Dorset,North Somerset,2
-YA_NF,Dorset,Poole,3
-YA_NF,Dorset,South Gloucestershire,1
+YA_NF,Dorset,Bath and North East Somerset,1
+YA_NF,Dorset,Bristol,1
+YA_NF,Dorset,Dorset,50
+YA_NF,Dorset,South Gloucestershire,2
+YA_NF,North Somerset,Bristol,1
 YA_NF,North Somerset,Dorset,1
-YA_NF,North Somerset,North Somerset,3
-YA_NF,Poole,Bristol,1
-YA_NF,Poole,Dorset,2
-YA_NF,Poole,North Somerset,3
-YA_NF,Poole,Poole,11
-YA_NF,Poole,South Gloucestershire,1
-YA_NF,Somerset,Bath and North East Somerset,1
-YA_NF,Somerset,Bristol,1
-YA_NF,Somerset,Somerset,1
-YA_NF,South Gloucestershire,Bath and North East Somerset,1
-YA_NF,South Gloucestershire,Somerset,1
-YA_NF,South Gloucestershire,South Gloucestershire,2
+YA_NF,North Somerset,North Somerset,5
+YA_NF,Poole,Bristol,3
+YA_NF,Poole,Dorset,4
+YA_NF,Poole,Poole,134
+YA_NF,Somerset,Bristol,2
+YA_NF,Somerset,Dorset,3
+YA_NF,Somerset,Somerset,2
+YA_NF,South Gloucestershire,Dorset,2
+YA_NF,South Gloucestershire,South Gloucestershire,3
