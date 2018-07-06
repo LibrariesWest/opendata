@@ -14,14 +14,10 @@ var getJSON = function (url, callback) {
 	xhr.send();
 };
 
-document.addEventListener("DOMContentLoaded", function () {
+var updateDates = function () {
 	// Get the current page
 	var path = window.location.pathname;
 	var page = path.split("/").pop();
-
-	gitbook.events.bind("page.change", function () {
-		console.log('Page changed');
-	});
 
 	if (page === 'all-files.html') {
 		var data_attributes = document.querySelectorAll('[data-updated]');
@@ -46,4 +42,16 @@ document.addEventListener("DOMContentLoaded", function () {
 			});
 		}
 	}
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+	// Get the current page
+	var path = window.location.pathname;
+	var page = path.split("/").pop();
+
+	updateDates();
+	document.addEventListener("page.change", function () {
+		console.log('Page changed');
+		updateDates();
+	});
 });
