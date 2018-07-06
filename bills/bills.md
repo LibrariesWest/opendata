@@ -9,7 +9,7 @@ The summary gives basic data about the number of bills generated in the Library 
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
-| Year billed | The year the bill record was created | 2018 |
+| Financial year billed | The financial year the bill record was created | 2017/2018 |
 | Bill authority | The authority the bill record was created for | Somerset |
 | Bill reason | The reason for the bill | HOLD |
 | Number of bills | The number of bills included in this grouping | 5 |
