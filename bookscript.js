@@ -19,6 +19,10 @@ document.addEventListener("DOMContentLoaded", function () {
 	var path = window.location.pathname;
 	var page = path.split("/").pop();
 
+	gitbook.events.bind("page.change", function () {
+		console.log('Page changed');
+	});
+
 	if (page === 'all-files.html') {
 		var data_attributes = document.querySelectorAll('[data-updated]');
 		if (data_attributes && data_attributes.length > 0) {
@@ -33,8 +37,8 @@ document.addEventListener("DOMContentLoaded", function () {
 						function (err, data) {
 							if (data && data.length && data.length > 0) {
 								var latest = data[0];
-								var date = latest.commit.committer.date;
-								txt = document.createTextNode(date);
+								var date = new Date(latest.commit.committer.date);
+								txt = document.createTextNode(date.toLocaleDateString("en-GB"));
 								span.appendChild(txt);
 							}
 						});
