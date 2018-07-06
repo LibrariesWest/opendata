@@ -1,14 +1,19 @@
 {
-    "title": "Libraries West Open Data",
-    "description": "A book of open data describing library activity within LibrariesWest libraries",
-    "author": "Libraries West",
-    "plugins": ["scripts", "chartjs"],
-    "pluginsConfig": {
-        "scripts": {
-            "files": [
-                "./bookscript.js"
-            ]
-        },
+	"title": "Libraries West Open Data",
+	"description": "A book of open data describing library activity within LibrariesWest libraries",
+	"author": "Libraries West",
+	"plugins": [
+		"add-js-css",
+		"chartjs"
+	],
+	"pluginsConfig": {
+		"add-js-css": {
+			"js": [
+				"./bookscript.js"
+			],
+			"css": [
+			]
+		},
         "chartjs": {}
-    }
+	}
 }
