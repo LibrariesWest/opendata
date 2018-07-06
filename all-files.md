@@ -1,7 +1,7 @@
 All file downloads
 ==================
 
-This page lists all our data downloads. It also includes an update schedule, the majority of these we plan to be nightly updates.
+This page lists all our data downloads and when they were last updated.
 
 #### Bills/charges
 
