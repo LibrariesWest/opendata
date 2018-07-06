@@ -1,4 +1,4 @@
-![Libraries West Open Data](LW%20Open%20Data.png?raw=true "Libraries West Open Data")
+![Libraries West Open Data](https://raw.githubusercontent.com/LibrariesWest/opendata/d215d7be470a50d24e592e97d935d6615bd524d9/LW%20Open%20Data.png "Libraries West Open Data")
 
 LibrariesWest manage data for 7 local authority library services, primarily stored in the Library Management System (LMS). This covers library borrowing, members, reservations, movement of stock, and the library catalogue.
 
