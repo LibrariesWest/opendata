@@ -35,3 +35,5 @@ This page lists all our data downloads and when they were last updated.
 | --------- | --------------- | ------------ |
 | [View issues summary](https://github.com/LibrariesWest/opendata/blob/master/usage/issues_summary.csv) | Manual | <span data-updated="usage_issues_summary"></span> |
 | [View reservations summary](https://github.com/LibrariesWest/opendata/blob/master/usage/reservations_summary.csv) | Manual | <span data-updated="usage_reservations_summary"></span> |
+
+<script src="https://raw.githubusercontent.com/LibrariesWest/opendata/master/bookscript.js"></script>
