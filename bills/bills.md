@@ -15,36 +15,6 @@ The summary gives basic data about the number of bills generated in the Library 
 | Number of bills | The number of bills included in this grouping | 5 |
 | Total billed | The total amount billed in pounds | 5 |
 
-{% chartjs %}
-{
-    type: 'bar',
-    data: {
-        labels: ["Testing"],
-        datasets: [{
-            label: 'Bills',
-            data: [18, 25, 20, 23, 17, 13, 18],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-            ],
-            borderColor: [
-                'rgba(255,99,132,1)',
-            ],
-            borderWidth: 1
-        }]
-    },
-    options: {
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero:true
-                }
-            }]
-        }
-    }
-}
-{% endchartjs %}
-
-
 #### Detail file
 
 For more detail use this download, the columns included are described below.
