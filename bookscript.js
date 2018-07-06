@@ -20,11 +20,26 @@ document.addEventListener("DOMContentLoaded", function () {
 	var page = path.split("/").pop();
 
 	if (page === 'all-files.html') {
-		getJSON('https://api.github.com/repos/librarieswest/opendata/commits',
-			function (err, data) {
-				if (data) {
-					console.log(data);
+		var data_attributes = document.querySelectorAll('[data-updated]');
+		if (data_attributes && data_attributes.length > 0) {
+			// For each one we have to call the Github API to get the latest commit
+			data_attributes.forEach(function (span) {
+				// Find the first instance appearing in our commits
+				var file = span.dataset.updated;
+				if (file) {
+					var folder = file.split('_')[0];
+					var file = file.replace(folder + '_', '') + '.csv';
+					getJSON('https://api.github.com/repos/librarieswest/opendata/commits?path=' + folder + '/' + file,
+						function (err, data) {
+							if (data && data.length && data.length > 0) {
+								var latest = data[0];
+								var date = latest.commit.committer.date;
+								txt = document.createTextNode(date);
+								span.appendChild(txt);
+							}
+						});
 				}
 			});
+		}
 	}
 });
