@@ -1,9 +1,9 @@
 Bills and payments
 ==================
 
-'Bills and payments' is how we describe the library charges that can occur through the use of LibrariesWest libraries (e.g. an overdue fine). A bill is a record of money owing between the user and the library. A payment is a payment to pay off that bill.
+*Bills and payments* is how we describe library charges that can occur through the use of LibrariesWest libraries (e.g. an overdue fine). A bill is a record of money owing between the user and the library. A payment is a payment made to pay off that bill.
 
-For example, a user places a reservation (also known as 'hold') on an item, which may incur a small charge, depending on local policies. A bill record is created:
+For example, a user places a reservation (also known as 'hold') on an item, which may incur a small charge. A bill record is created.
 
 | User ID | Bill number | Bill date | Bill reason | Bill library | Bill amount | Paid? |
 | ------- | ----------- | --------- | ----------- | ------------ | ----------- | ----- |
@@ -11,13 +11,13 @@ For example, a user places a reservation (also known as 'hold') on an item, whic
 
 This bill could be paid straight away. On collecting the item, the user would be alerted to a charge on their account and could pay it. Or it could be left until a later date.
 
-Paying a bill can be done by paying the full amount, or it's also possible to pay in smaller amounts. When making a payment, another record is created:
+Paying a bill can be done by paying the full amount, or it's also possible to pay in smaller amounts. When making a payment, another record is created.
 
 | User ID | Bill number | Payment date | Payment type | Payment library | Amount paid |
 | ------- | ----------- | ------------ | ------------ | --------------- | ----------- |
 | 12345 | 1 | 13/06/2017 | CASH | Bath Central | £0.50 |
 
-When enough payments have been made the original bill record is updated to show that the bill is fully paid. Sometimes payment records have a payment type of either FORGIVEN or CANCEL. This means that 'real' money hasn't been taken for the bill. Library staff may have decided that either the bill wasn't valid, or it was valid but that the user should not have to pay it. But as far as the system is concerned, the bill has been paid.
+When enough payments have been made, the original bill record is updated to show that it's been fully paid. Sometimes payments have a payment type of either FORGIVEN or CANCEL. This means that 'real' money hasn't been taken for the bill. Library staff may have decided that either the bill wasn't valid, or it was valid but that the user should not have to pay it. But as far as the system is concerned, the bill has been paid.
 
 - [Bill data](./bills.md)
 - [Payments data](./bill-payments.md)

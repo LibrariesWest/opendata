@@ -1,44 +1,43 @@
 # Summary
 
-### LibrariesWest open data
-
 * [Introduction](README.md)
 * [All downloads](all-files.md)
 
 ### Bills and payments
 
-* [Bills and Payments](bills/README.md)
+* [Information](bills/README.md)
 * [Bills](bills/bills.md)
 * [Payments](bills/bill-payments.md)
 
 ### Catalogue
 
-* [Catalogue](catalogue/README.md)
+* [Information](catalogue/README.md)
 * [Titles](catalogue/titles.md)
 * [Items](catalogue/items.md)
 
 ### Membership
 
-* [Membership](membership/README.md)
+* [Information](membership/README.md)
 * [Members by library and area](membership/membersbyarea.md)
 
 ### Movement of stock
 
-* [Stock movement](movement/README.md)
+* [Information](movement/README.md)
 * [Transits](movement/transits.md)
 
 ### Usage
 
-* [Usage](usage/README.md)
+* [Information](usage/README.md)
 * [Issues](usage/issues.md)
 * [Reservations](usage/reservations.md)
 
 ### Other data: geography
-* [Geography](geography/README.md)
+
+* [Information](geography/README.md)
 * [Boundary lines](geography/boundary-lines.md)
 * [Super output areas](geography/soas.md)
 
-### Other data: weather
+### Other data: climate
 
-* [Weather/Climate](weather/README.md)
+* [Information](weather/README.md)
 * [Rain](weather/rain.md)
