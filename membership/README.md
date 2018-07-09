@@ -17,4 +17,4 @@ We don't release data on individual members, but do have counts of active regist
 
 #### Open data exports
 
-We release counts of 'active' members. Active membership means that the account has been active within a year. This could be for a variety of different types of activity, for example logging in to a PC, or borrowing an item.
+We release counts of 'active' members. Active membership means that the account has been active within the last year. This could be for a variety of different types of activity, for example logging in to a PC, or borrowing a book.

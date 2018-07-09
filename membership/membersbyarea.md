@@ -14,11 +14,9 @@ Summary data provides basic active member counts per library.
 
 #### Detail
 
-Further detail breaks down the membership counts into statistical areas that represent where members are based. These use areas such as county, district, and super output areas. For more info on these see our [geography data](./../geography/README.md)
+Further detail breaks down the membership counts into statistical areas that represent where members are based. These are listed by county, district, and super output areas. For more info on these see our [geography data](./../geography/README.md)
 
-Because this data is reported at fairly detailed geographic detail, we suppress reporting of values less than 5, by using a * in place of a number. This should be taken into account when using the data and trying to sum the values of members in each area. For more accurate total numbers you would be better off using the summary data which is correct to the nearest 10 people.
-
-- Coming soon
+Because this data is reported at fairly detailed geographic detail, we suppress reporting of values less than 5, by using a * in place of a number. This should be taken into account when using the data, and trying to sum the values of members in each area. For more accurate total numbers you would be better off using the summary data which is correct to the nearest 10 people.
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |

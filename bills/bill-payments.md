@@ -1,28 +1,27 @@
 Payments
 =============
 
-For bill data we export two files. A summary for basic data counts, and a full detail file.
+We export two payment data files. A summary for basic data counts, and a full detail file.
 
 #### Summary file
 
-The summary gives basic data about the number of payment records recorded in the Library Management System, separated by Library authority, reason for bill, and year of payment.
+The summary gives basic data about the number of payment records recorded in the Library Management System, separated by Library authority, the bill reason, and financial year of payment. This will cover the previous financial year and the current.
 
-- [Download bill payments summary data](https://github.com/LibrariesWest/opendata/blob/master/bills/payments_summary.csv)
+- [View bill payments summary data](https://github.com/LibrariesWest/opendata/blob/master/bills/payments_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
-| Year paid | The year the payment was made | 2018 |
+| Financial year paid | The financial year the payment was made | 2017/2018 |
 | Payment authority | The authority the payment was taken at | Somerset |
-| Bill reason | The reason for the bill | HOLD |
+| Bill reason | The reason for the original bill | Bill for repacement |
 | Payment type | The type of payment | CASH |
 | Number of payments | The number of payments in this grouping | 5 |
-| Total paid | The total amount paid | 5 |
+| System paid | The total amount from the payments | 5 |
+| Real amount paid | The real amount taken from the payments. This takes into account that no income is received from CANCEL and FORGIVEN payments. | 5 |
 
 #### Detail file
 
 For more detail use this download, the columns are described below. The data is still aggregated, but provides extra levels of detail.
-
-- Coming soon
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -32,4 +31,5 @@ For more detail use this download, the columns are described below. The data is 
 | Bill reason | The reason for the bill | HOLD |
 | Payment type | The type of payment | CASH |
 | Number of payments | The number of payments in this grouping | 5 |
-| Total paid | The total amount paid | 5 |
+| System paid | The total amount paid | 5 |
+| Real amount paid | The real amount taken from the payments. This takes into account that no income is received from CANCEL and FORGIVEN payments. | 5 |

@@ -13,4 +13,4 @@ The data listed in the Weather section has been extracted from other open data s
 
 #### Thoughts from the Systems Team
 
-- [Visit the library on a rainy day](https://librarieswest.github.io/2016/12/10/weather/)
+- [Visit the library on a rainy day](https://librarieswest.github.io/weather)

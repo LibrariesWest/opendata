@@ -19,8 +19,6 @@ The summary gives basic data about the number of bills generated in the Library 
 
 For more detail use this download, the columns included are described below.
 
-- Coming soon
-
 | Field | Description | Example |
 | ----- | ----------- | ------- |
 | Month billed | The month the bill record was created | 2017-11 |

@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [All downloads](all-files.md)
 
 ### Bills and payments
