@@ -3890,7 +3890,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-09,Somerset,Chard Library,HOLD,FORGIVEN,10,10,0
 2016-09,Somerset,Chard Library,LOST,CANCEL,0,10,0
 2016-09,Somerset,Chard Library,OVERDUE,CANCEL,20,10,0
-2016-09,Somerset,Chard Library,OVERDUE,CASH,220,190,190
+2016-09,Somerset,Chard Library,OVERDUE,CASH,210,190,190
 2016-09,Somerset,Chard Library,OVERDUE,DEBITCARD,20,20,20
 2016-09,Somerset,Chard Library,OVERDUE,FORGIVEN,30,50,0
 2016-09,Somerset,Cheddar Library,CHARGE,CANCEL,10,20,0
@@ -5140,7 +5140,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-10,North Somerset,North Somerset Mobile,CHARGE,CASH,10,10,10
 2016-10,North Somerset,North Somerset Mobile,HOLD,CASH,60,30,30
 2016-10,North Somerset,North Somerset Mobile,HOLD,CREDITACCT,10,0,0
-2016-10,North Somerset,North Somerset Mobile,LOST,CANCEL,20,130,0
+2016-10,North Somerset,North Somerset Mobile,LOST,CANCEL,20,120,0
 2016-10,North Somerset,North Somerset Mobile,OVERDUE,CANCEL,0,0,0
 2016-10,North Somerset,North Somerset Reserve,BFR,CANCEL,0,10,0
 2016-10,North Somerset,Pill Library,CHARGE,CASH,10,10,10
@@ -10954,7 +10954,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,Somerset,Chard Library,OVERDUE,CASH,120,110,110
 2017-02,Somerset,Chard Library,OVERDUE,CREDITACCT,10,0,0
 2017-02,Somerset,Chard Library,OVERDUE,DEBITCARD,20,60,60
-2017-02,Somerset,Chard Library,OVERDUE,FORGIVEN,10,0,0
+2017-02,Somerset,Chard Library,OVERDUE,FORGIVEN,0,0,0
 2017-02,Somerset,Chard Library,PROCESSFEE,CANCEL,0,0,0
 2017-02,Somerset,Cheddar Library,CHARGE,CANCEL,0,10,0
 2017-02,Somerset,Cheddar Library,CHARGE,CASH,70,130,130
@@ -16313,7 +16313,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Somerset,Chard Library,LOST,CASH,0,20,20
 2017-06,Somerset,Chard Library,LOST,CREDITCARD,0,30,30
 2017-06,Somerset,Chard Library,OVERDUE,CANCEL,10,30,0
-2017-06,Somerset,Chard Library,OVERDUE,CASH,110,120,120
+2017-06,Somerset,Chard Library,OVERDUE,CASH,100,110,110
 2017-06,Somerset,Chard Library,OVERDUE,DEBITCARD,20,30,30
 2017-06,Somerset,Chard Library,OVERDUE,FORGIVEN,10,10,0
 2017-06,Somerset,Chard Library,PROCESSFEE,CASH,0,0,0
@@ -32362,7 +32362,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Wiveliscombe Library,CHARGE,CASH,10,20,20
 2018-06,Somerset,Wiveliscombe Library,HOLD,CASH,60,60,60
 2018-06,Somerset,Wiveliscombe Library,HOLD,FORGIVEN,0,0,0
-2018-06,Somerset,Wiveliscombe Library,LOST,CANCEL,10,80,0
+2018-06,Somerset,Wiveliscombe Library,LOST,CANCEL,0,70,0
 2018-06,Somerset,Wiveliscombe Library,LOST,CASH,0,30,30
 2018-06,Somerset,Wiveliscombe Library,OVERDUE,CANCEL,0,10,0
 2018-06,Somerset,Wiveliscombe Library,OVERDUE,CASH,100,80,80
