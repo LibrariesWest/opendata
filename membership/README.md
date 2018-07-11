@@ -11,7 +11,7 @@ Membership provides access to:
 - access to WiFi in libraries (where this is authenticated by library membership)
 - various other benefits, sometimes depending on the particular library services
 
-We don't release data on individual members, but do have counts of active registered members, including which library those members are registered with.
+We don't release data on individual members, but do have counts of active members, including which library those members are registered with.
 
 - [Active members by library and area](./membersbyarea.md)
 

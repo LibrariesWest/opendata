@@ -18,12 +18,12 @@ Summary data provides counts of the numbers of items moving between libraries, b
 
 Further detail includes every transit record, and includes the date, item type, and where the item is going from and to.
 
-
+- [View transits](https://github.com/LibrariesWest/opendata/blob/master/movement/transits.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
 | Date transited | The date the item was put into transit | 2018-01-01 |
-| Item type | The item type | ADU FIC |
+| Item type | The item type | Adult Fiction |
 | From authority | The authority the item is being transferred from | Somerset |
 | From library | The library the item is being transferred from | Taunton |
 | To authority | The library service the item is bing transferred to | Bath and North East Somerset |

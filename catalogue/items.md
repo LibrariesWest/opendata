@@ -1,11 +1,11 @@
 Items
 =====
 
-Our item data includes listings of items held by all 7 library services (millions of items). We are splitting out these exports to be one file per service, to make them more manageable. Plus, because we use GitHub for storage, there is a 100Mb file limit!
+Our item data includes millions of items held by all 7 library services. We are splitting out these exports into one file per service, to make them more manageable. Plus, because we use GitHub for storage, there is a 100Mb file limit!
 
 #### Summary file
 
-A summary file gives some basic counts of items, aggregated by item type, and library service. In this case we have one summary file for all services.
+A summary file includes counts of items, aggregated by item type, and library service. In this case we have one summary file for all services.
 
 - [View items summary data](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_summary.csv)
 

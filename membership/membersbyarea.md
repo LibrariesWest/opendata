@@ -3,9 +3,9 @@ Active members by area
 
 #### Summary
 
-Summary data provides basic active member counts per library.
+Summary data provides basic active member counts per library. Counts are rounded to the nearest 10.
 
-- [Download membership summary data](https://github.com/LibrariesWest/opendata/blob/master/membership/members_summary.csv)
+- [View membership summary data](https://github.com/LibrariesWest/opendata/blob/master/membership/members_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -16,7 +16,9 @@ Summary data provides basic active member counts per library.
 
 Further detail breaks down the membership counts into statistical areas that represent where members are based. These are listed by county, district, and super output areas. For more info on these see our [geography data](./../geography/README.md)
 
-Because this data is reported at fairly detailed geographic detail, we suppress reporting of values less than 5, by using a * in place of a number. This should be taken into account when using the data, and trying to sum the values of members in each area. For more accurate total numbers you would be better off using the summary data which is correct to the nearest 10 people.
+Because this data is reported at fairly detailed geographic detail, we suppress counts of less than 5, by using a * in place of a number. This should be taken into account if trying to sum the values of members in each area. For more accurate total numbers you would be better off using the summary data.
+
+- [View membership](https://github.com/LibrariesWest/opendata/blob/master/membership/members.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |

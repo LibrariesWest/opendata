@@ -1,10 +1,10 @@
 ![Libraries West Open Data](https://raw.githubusercontent.com/LibrariesWest/opendata/d215d7be470a50d24e592e97d935d6615bd524d9/LW%20Open%20Data.png "Libraries West Open Data")
 
-LibrariesWest manage a single shared Library Management System (LMS) for 7 public library services. Data held in this system includes library borrowing, members, reservations, movement of stock, and the library catalogue.
+LibrariesWest manage a single Library Management System (LMS) for 7 public library services. Data held in this system includes library borrowing, members, reservations, movement of stock, and the library catalogue.
 
-Our open data is split into categories, each category of data will have separate documentation for those datasets.
+Our open data is split into categories, each category of data will have separate documentation.
 
-We will also be including open data from other sources, such as Ordnance Survey data and Office for National Statistics data, where these relate to the LibrariesWest area, or we have used them to enhance our data exports.
+We will also be including open data from other sources, such as Ordnance Survey data and Office for National Statistics data, where these relate to the LibrariesWest area, or where we have used them to enhance our data exports.
 
 - [All data downloads](./all-files.md)
 
@@ -12,7 +12,7 @@ We will also be including open data from other sources, such as Ordnance Survey 
 
 Open data is data that anyone can access, share, and make use of. [The Open Data Institute provides more information about open data and its potential on their web site](https://theodi.org/what-is-open-data).
 
-In local government there are requirements for certain datasets to be published. These are listed in the [Local Government Transparency Code 2015](https://www.gov.uk/government/publications/local-government-transparency-code-2015). The code goes further, and states:
+In local government there are requirements for certain datasets to be published. These are listed in the [Local Government Transparency Code 2015](https://www.gov.uk/government/publications/local-government-transparency-code-2015). The code also states:
 
 > all data held and managed by local authorities should be made available to local people unless there are specific sensitivities (eg. protecting vulnerable people or commercial and operational considerations) to doing so.
 

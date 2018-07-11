@@ -3,9 +3,9 @@ Reservations
 
 #### Summary
 
-Summary data provides counts of the numbers of completed reservations per library authority and the average number of days to fulfil those reservations.
+Summary data provides counts of completed reservations per library authority, and the average number of days to fulfil those reservations.
 
-- [Download issue summary data](https://github.com/LibrariesWest/opendata/blob/master/usage/reservations_summary.csv)
+- [View reservation summary data](https://github.com/LibrariesWest/opendata/blob/master/usage/reservations_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -17,7 +17,7 @@ Summary data provides counts of the numbers of completed reservations per librar
 
 #### Detail
 
-- Coming soon
+- [View reservations](https://github.com/LibrariesWest/opendata/blob/master/usage/reservations.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
