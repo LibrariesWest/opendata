@@ -7775,7 +7775,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,Dorset,Highcliffe Library,CHARGE,FORGIVEN,0,0,0
 2016-12,Dorset,Highcliffe Library,HOLD,FORGIVEN,0,0,0
 2016-12,Dorset,Highcliffe Library,LOST,CANCEL,10,50,0
-2016-12,Dorset,Highcliffe Library,OVERDUE,CANCEL,10,20,0
+2016-12,Dorset,Highcliffe Library,OVERDUE,CANCEL,10,10,0
 2016-12,Dorset,Highcliffe Library,OVERDUE,CASH,60,70,70
 2016-12,Dorset,Highcliffe Library,OVERDUE,FORGIVEN,10,0,0
 2016-12,Dorset,Littlemoor Library,CHARGE,CASH,20,30,30
@@ -16748,9 +16748,9 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,South Gloucestershire,Kingswood Library,LOST,CASH,10,40,40
 2017-06,South Gloucestershire,Kingswood Library,LOST,FORGIVEN,0,30,0
 2017-06,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,0,0,0
-2017-06,South Gloucestershire,Kingswood Library,OVERDUE,CASH,210,160,160
+2017-06,South Gloucestershire,Kingswood Library,OVERDUE,CASH,210,150,150
 2017-06,South Gloucestershire,Kingswood Library,OVERDUE,CREDITACCT,0,0,0
-2017-06,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,40,80,0
+2017-06,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,40,70,0
 2017-06,South Gloucestershire,Kingswood Library,PROCESSFEE,CASH,0,0,0
 2017-06,South Gloucestershire,Patchway Library,CHARGE,CANCEL,10,0,0
 2017-06,South Gloucestershire,Patchway Library,CHARGE,CASH,50,50,50
@@ -18908,7 +18908,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Dorset,Wyke Regis Library,CHARGE,FORGIVEN,0,0,0
 2017-08,Dorset,Wyke Regis Library,ILL,CASH,0,10,10
 2017-08,Dorset,Wyke Regis Library,LOST,CANCEL,10,20,0
-2017-08,Dorset,Wyke Regis Library,OVERDUE,CASH,30,30,30
+2017-08,Dorset,Wyke Regis Library,OVERDUE,CASH,20,30,30
 2017-08,Dorset,Wyke Regis Library,OVERDUE,FORGIVEN,10,10,0
 2017-08,North Somerset,Campus Library,BFR,DEBITCARD,10,70,70
 2017-08,North Somerset,Campus Library,BFR,FORGIVEN,0,10,0
@@ -21102,7 +21102,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,South Gloucestershire,Kingswood Library,HOLD,CASH,70,50,50
 2017-09,South Gloucestershire,Kingswood Library,LOST,CANCEL,30,150,0
 2017-09,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,0,0,0
-2017-09,South Gloucestershire,Kingswood Library,OVERDUE,CASH,180,170,170
+2017-09,South Gloucestershire,Kingswood Library,OVERDUE,CASH,180,160,160
 2017-09,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,40,60,0
 2017-09,South Gloucestershire,Marshfield Community Library,LOST,CANCEL,0,0,0
 2017-09,South Gloucestershire,Patchway Library,CHARGE,CANCEL,0,0,0
@@ -26298,7 +26298,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,South Gloucestershire,Kingswood Library,LOST,CASH,10,40,40
 2018-01,South Gloucestershire,Kingswood Library,LOST,FORGIVEN,0,10,0
 2018-01,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,50,80,0
-2018-01,South Gloucestershire,Kingswood Library,OVERDUE,CASH,130,120,120
+2018-01,South Gloucestershire,Kingswood Library,OVERDUE,CASH,120,120,120
 2018-01,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,20,30,0
 2018-01,South Gloucestershire,Patchway Library,CHARGE,CASH,30,40,40
 2018-01,South Gloucestershire,Patchway Library,CHARGE,FORGIVEN,10,10,0
@@ -28417,7 +28417,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Chard Library,CHARGE,DEBITCARD,10,20,20
 2018-03,Somerset,Chard Library,CHARGE,FORGIVEN,0,0,0
 2018-03,Somerset,Chard Library,HOLD,CANCEL,0,0,0
-2018-03,Somerset,Chard Library,HOLD,CASH,110,120,120
+2018-03,Somerset,Chard Library,HOLD,CASH,110,110,110
 2018-03,Somerset,Chard Library,HOLD,FORGIVEN,0,0,0
 2018-03,Somerset,Chard Library,LOST,CANCEL,20,120,0
 2018-03,Somerset,Chard Library,OVERDUE,CANCEL,40,100,0
@@ -30899,7 +30899,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Somerset,Cheddar Library,CHARGE,DEBITCARD,0,10,10
 2018-05,Somerset,Cheddar Library,CHARGE,FORGIVEN,0,0,0
 2018-05,Somerset,Cheddar Library,HOLD,CANCEL,0,10,0
-2018-05,Somerset,Cheddar Library,HOLD,CASH,90,100,100
+2018-05,Somerset,Cheddar Library,HOLD,CASH,90,90,90
 2018-05,Somerset,Cheddar Library,HOLD,FORGIVEN,0,0,0
 2018-05,Somerset,Cheddar Library,LOST,CASH,0,10,10
 2018-05,Somerset,Cheddar Library,OVERDUE,CASH,100,50,50
@@ -31267,7 +31267,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,South Gloucestershire,Kingswood Library,LOST,CANCEL,30,190,0
 2018-05,South Gloucestershire,Kingswood Library,LOST,CASH,0,0,0
 2018-05,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,10,20,0
-2018-05,South Gloucestershire,Kingswood Library,OVERDUE,CASH,160,170,170
+2018-05,South Gloucestershire,Kingswood Library,OVERDUE,CASH,150,170,170
 2018-05,South Gloucestershire,Kingswood Library,OVERDUE,CREDITACCT,0,0,0
 2018-05,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,10,40,0
 2018-05,South Gloucestershire,Patchway Library,CHARGE,CASH,30,40,40
@@ -31329,8 +31329,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITACCT,0,0,0
 2018-06,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,220,410,410
 2018-06,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,20,30,0
-2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,40,0
-2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,40,40
+2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,30,0
+2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,30,30
 2018-06,Bath and North East Somerset,Bath Central Library,LOST,CANCEL,0,40,0
 2018-06,Bath and North East Somerset,Bath Central Library,LOST,CASH,0,20,20
 2018-06,Bath and North East Somerset,Bath Central Library,LOST,CREDITCARD,0,20,20
@@ -32285,7 +32285,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Taunton Library,CHARGE,FORGIVEN,20,30,0
 2018-06,Somerset,Taunton Library,DAMAGE,DEBITCARD,0,10,10
 2018-06,Somerset,Taunton Library,HOLD,CANCEL,0,0,0
-2018-06,Somerset,Taunton Library,HOLD,CASH,500,500,500
+2018-06,Somerset,Taunton Library,HOLD,CASH,500,490,490
 2018-06,Somerset,Taunton Library,HOLD,CREDITCARD,10,10,10
 2018-06,Somerset,Taunton Library,HOLD,DEBITCARD,20,20,20
 2018-06,Somerset,Taunton Library,HOLD,FORGIVEN,10,10,0
@@ -32491,7 +32491,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,South Gloucestershire,Thornbury Library,CHARGE,FORGIVEN,0,0,0
 2018-06,South Gloucestershire,Thornbury Library,CHARGE,NONE,0,0,0
 2018-06,South Gloucestershire,Thornbury Library,HOLD,CANCEL,0,0,0
-2018-06,South Gloucestershire,Thornbury Library,HOLD,CASH,150,100,100
+2018-06,South Gloucestershire,Thornbury Library,HOLD,CASH,150,90,90
 2018-06,South Gloucestershire,Thornbury Library,HOLD,FORGIVEN,0,0,0
 2018-06,South Gloucestershire,Thornbury Library,LOST,CANCEL,20,70,0
 2018-06,South Gloucestershire,Thornbury Library,LOST,CASH,0,20,20
