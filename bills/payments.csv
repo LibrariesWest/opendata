@@ -335,7 +335,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-07,Dorset,Bridport Library,BFR,CASH,0,10,10
 2016-07,Dorset,Bridport Library,BFR,FORGIVEN,10,80,0
 2016-07,Dorset,Bridport Library,CHARGE,CANCEL,10,30,0
-2016-07,Dorset,Bridport Library,CHARGE,CASH,220,420,420
+2016-07,Dorset,Bridport Library,CHARGE,CASH,210,410,410
 2016-07,Dorset,Bridport Library,CHARGE,FORGIVEN,10,60,0
 2016-07,Dorset,Bridport Library,HOLD,CASH,0,0,0
 2016-07,Dorset,Bridport Library,LOST,CANCEL,0,0,0
@@ -571,7 +571,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-07,North Somerset,Campus Library,HOLD,CASH,30,30,30
 2016-07,North Somerset,Campus Library,HOLD,FORGIVEN,10,10,0
 2016-07,North Somerset,Campus Library,LOST,DEBITCARD,0,0,0
-2016-07,North Somerset,Campus Library,OVERDUE,CASH,290,130,130
+2016-07,North Somerset,Campus Library,OVERDUE,CASH,280,130,130
 2016-07,North Somerset,Campus Library,OVERDUE,CREDITACCT,0,0,0
 2016-07,North Somerset,Campus Library,OVERDUE,DEBITCARD,70,60,60
 2016-07,North Somerset,Campus Library,OVERDUE,FORGIVEN,150,120,0
@@ -1783,7 +1783,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-08,Dorset,Bridport Library,BFR,CANCEL,0,10,0
 2016-08,Dorset,Bridport Library,BFR,FORGIVEN,10,40,0
 2016-08,Dorset,Bridport Library,CHARGE,CANCEL,10,10,0
-2016-08,Dorset,Bridport Library,CHARGE,CASH,190,370,370
+2016-08,Dorset,Bridport Library,CHARGE,CASH,190,360,360
 2016-08,Dorset,Bridport Library,CHARGE,CHEQUE,20,20,20
 2016-08,Dorset,Bridport Library,CHARGE,FORGIVEN,20,30,0
 2016-08,Dorset,Bridport Library,HOLD,CASH,0,0,0
@@ -3328,7 +3328,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-09,Dorset,Bridport Library,BFR,CASH,0,10,10
 2016-09,Dorset,Bridport Library,BFR,FORGIVEN,0,20,0
 2016-09,Dorset,Bridport Library,CHARGE,CANCEL,0,10,0
-2016-09,Dorset,Bridport Library,CHARGE,CASH,190,390,390
+2016-09,Dorset,Bridport Library,CHARGE,CASH,180,390,390
 2016-09,Dorset,Bridport Library,CHARGE,FORGIVEN,0,10,0
 2016-09,Dorset,Bridport Library,HOLD,CASH,0,0,0
 2016-09,Dorset,Bridport Library,LOST,CANCEL,50,270,0
@@ -4831,7 +4831,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-10,Dorset,Blandford Library,OVERDUE,CASH,150,180,180
 2016-10,Dorset,Blandford Library,OVERDUE,FORGIVEN,30,40,0
 2016-10,Dorset,Bridport Library,BFR,CANCEL,0,10,0
-2016-10,Dorset,Bridport Library,CHARGE,CASH,160,330,330
+2016-10,Dorset,Bridport Library,CHARGE,CASH,150,330,330
 2016-10,Dorset,Bridport Library,CHARGE,FORGIVEN,0,0,0
 2016-10,Dorset,Bridport Library,HOLD,CASH,0,0,0
 2016-10,Dorset,Bridport Library,LOST,CANCEL,40,220,0
@@ -14467,7 +14467,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Dorset,Blandford Library,PROCESSFEE,CASH,0,0,0
 2017-05,Dorset,Bridport Library,BFR,CASH,0,20,20
 2017-05,Dorset,Bridport Library,CHARGE,CANCEL,0,10,0
-2017-05,Dorset,Bridport Library,CHARGE,CASH,170,400,400
+2017-05,Dorset,Bridport Library,CHARGE,CASH,170,390,390
 2017-05,Dorset,Bridport Library,CHARGE,FORGIVEN,10,10,0
 2017-05,Dorset,Bridport Library,HOLD,CASH,10,10,10
 2017-05,Dorset,Bridport Library,ILL,CASH,0,10,10
@@ -15789,7 +15789,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Dorset,Blandford Library,OVERDUE,FORGIVEN,10,10,0
 2017-06,Dorset,Blandford Library,PROCESSFEE,CHEQUE,0,0,0
 2017-06,Dorset,Bridport Library,CHARGE,CANCEL,0,20,0
-2017-06,Dorset,Bridport Library,CHARGE,CASH,150,340,340
+2017-06,Dorset,Bridport Library,CHARGE,CASH,150,330,330
 2017-06,Dorset,Bridport Library,CHARGE,FORGIVEN,0,10,0
 2017-06,Dorset,Bridport Library,HOLD,CANCEL,0,0,0
 2017-06,Dorset,Bridport Library,HOLD,CASH,10,10,10
@@ -17195,7 +17195,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Dorset,Bridport Library,BFR,CANCEL,10,80,0
 2017-07,Dorset,Bridport Library,BFR,CASH,0,0,0
 2017-07,Dorset,Bridport Library,CHARGE,CANCEL,10,20,0
-2017-07,Dorset,Bridport Library,CHARGE,CASH,200,460,460
+2017-07,Dorset,Bridport Library,CHARGE,CASH,200,450,450
 2017-07,Dorset,Bridport Library,CHARGE,FORGIVEN,10,20,0
 2017-07,Dorset,Bridport Library,HOLD,FORGIVEN,0,0,0
 2017-07,Dorset,Bridport Library,LOST,CANCEL,90,400,0
@@ -18655,7 +18655,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Dorset,Blandford Library,OVERDUE,CASH,140,160,160
 2017-08,Dorset,Blandford Library,OVERDUE,FORGIVEN,0,10,0
 2017-08,Dorset,Bridport Library,CHARGE,CANCEL,10,10,0
-2017-08,Dorset,Bridport Library,CHARGE,CASH,180,400,400
+2017-08,Dorset,Bridport Library,CHARGE,CASH,170,390,390
 2017-08,Dorset,Bridport Library,CHARGE,FORGIVEN,0,10,0
 2017-08,Dorset,Bridport Library,HOLD,CASH,0,0,0
 2017-08,Dorset,Bridport Library,LOST,CANCEL,20,110,0
@@ -20106,7 +20106,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Dorset,Blandford Library,OVERDUE,FORGIVEN,10,40,0
 2017-09,Dorset,Bridport Library,BFR,CASH,0,0,0
 2017-09,Dorset,Bridport Library,CHARGE,CANCEL,0,0,0
-2017-09,Dorset,Bridport Library,CHARGE,CASH,150,330,330
+2017-09,Dorset,Bridport Library,CHARGE,CASH,140,320,320
 2017-09,Dorset,Bridport Library,CHARGE,FORGIVEN,10,10,0
 2017-09,Dorset,Bridport Library,HOLD,CASH,0,0,0
 2017-09,Dorset,Bridport Library,LOST,CANCEL,40,200,0
@@ -30157,7 +30157,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Bristol,Bedminster Library,OVERDUE,CREDITCARD,160,190,190
 2018-05,Bristol,Bedminster Library,OVERDUE,FORGIVEN,40,110,0
 2018-05,Bristol,Bedminster Library,PROCESSFEE,CASH,0,0,0
-2018-05,Bristol,Bishopston Library,CHARGE,CASH,50,60,60
+2018-05,Bristol,Bishopston Library,CHARGE,CASH,40,60,60
 2018-05,Bristol,Bishopston Library,CHARGE,CREDITCARD,0,10,10
 2018-05,Bristol,Bishopston Library,CHARGE,FORGIVEN,10,10,0
 2018-05,Bristol,Bishopston Library,HOLD,CANCEL,0,0,0
