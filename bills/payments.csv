@@ -197,7 +197,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-07,Bristol,Hillfields Library,OVERDUE,FORGIVEN,10,30,0
 2016-07,Bristol,Horfield Library,BFR,CANCEL,0,10,0
 2016-07,Bristol,Horfield Library,BFR,CASH,0,0,0
-2016-07,Bristol,Horfield Library,BFR,FORGIVEN,10,70,0
+2016-07,Bristol,Horfield Library,BFR,FORGIVEN,10,50,0
 2016-07,Bristol,Horfield Library,CHARGE,CANCEL,0,0,0
 2016-07,Bristol,Horfield Library,CHARGE,CASH,40,40,40
 2016-07,Bristol,Horfield Library,CHARGE,FORGIVEN,10,10,0
@@ -2482,7 +2482,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-08,Somerset,Milborne Port Library,OVERDUE,CASH,70,40,40
 2016-08,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,0,0,0
 2016-08,Somerset,Minehead Library,CHARGE,CANCEL,20,40,0
-2016-08,Somerset,Minehead Library,CHARGE,CASH,220,400,400
+2016-08,Somerset,Minehead Library,CHARGE,CASH,210,400,400
 2016-08,Somerset,Minehead Library,CHARGE,DEBITCARD,10,30,30
 2016-08,Somerset,Minehead Library,CHARGE,FORGIVEN,10,20,0
 2016-08,Somerset,Minehead Library,DAMAGE,CASH,0,20,20
@@ -4012,7 +4012,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-09,Somerset,Milborne Port Library,OVERDUE,CASH,40,10,10
 2016-09,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,10,0,0
 2016-09,Somerset,Minehead Library,CHARGE,CANCEL,10,20,0
-2016-09,Somerset,Minehead Library,CHARGE,CASH,190,300,300
+2016-09,Somerset,Minehead Library,CHARGE,CASH,180,300,300
 2016-09,Somerset,Minehead Library,CHARGE,DEBITCARD,10,20,20
 2016-09,Somerset,Minehead Library,CHARGE,FORGIVEN,10,0,0
 2016-09,Somerset,Minehead Library,HOLD,CANCEL,0,0,0
@@ -5469,7 +5469,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-10,Somerset,Milborne Port Library,OVERDUE,CASH,20,10,10
 2016-10,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,10,0,0
 2016-10,Somerset,Minehead Library,CHARGE,CANCEL,10,20,0
-2016-10,Somerset,Minehead Library,CHARGE,CASH,170,310,310
+2016-10,Somerset,Minehead Library,CHARGE,CASH,160,300,300
 2016-10,Somerset,Minehead Library,CHARGE,CREDITCARD,0,20,20
 2016-10,Somerset,Minehead Library,CHARGE,DEBITCARD,20,30,30
 2016-10,Somerset,Minehead Library,CHARGE,FORGIVEN,10,10,0
@@ -6943,7 +6943,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,Somerset,Milborne Port Library,OVERDUE,CASH,10,10,10
 2016-11,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,10,10,0
 2016-11,Somerset,Minehead Library,CHARGE,CANCEL,0,10,0
-2016-11,Somerset,Minehead Library,CHARGE,CASH,130,260,260
+2016-11,Somerset,Minehead Library,CHARGE,CASH,120,260,260
 2016-11,Somerset,Minehead Library,CHARGE,CREDITCARD,0,0,0
 2016-11,Somerset,Minehead Library,CHARGE,DEBITCARD,10,10,10
 2016-11,Somerset,Minehead Library,CHARGE,FORGIVEN,0,10,0
@@ -8927,8 +8927,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Bristol,Horfield Library,CHARGE,CANCEL,0,0,0
 2017-01,Bristol,Horfield Library,CHARGE,CASH,60,70,70
 2017-01,Bristol,Horfield Library,CHARGE,FORGIVEN,10,10,0
-2017-01,Bristol,Horfield Library,LOST,CANCEL,70,320,0
-2017-01,Bristol,Horfield Library,LOST,FORGIVEN,30,110,0
+2017-01,Bristol,Horfield Library,LOST,CANCEL,60,290,0
+2017-01,Bristol,Horfield Library,LOST,FORGIVEN,30,100,0
 2017-01,Bristol,Horfield Library,OVERDUE,CANCEL,0,10,0
 2017-01,Bristol,Horfield Library,OVERDUE,CASH,130,90,90
 2017-01,Bristol,Horfield Library,OVERDUE,CREDITACCT,0,0,0
@@ -11070,7 +11070,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,Somerset,Milborne Port Library,OVERDUE,CASH,20,20,20
 2017-02,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,0,0,0
 2017-02,Somerset,Minehead Library,CHARGE,CANCEL,0,10,0
-2017-02,Somerset,Minehead Library,CHARGE,CASH,150,300,300
+2017-02,Somerset,Minehead Library,CHARGE,CASH,150,290,290
 2017-02,Somerset,Minehead Library,CHARGE,DEBITCARD,0,0,0
 2017-02,Somerset,Minehead Library,CHARGE,FORGIVEN,10,10,0
 2017-02,Somerset,Minehead Library,HOLD,CANCEL,0,0,0
@@ -12457,7 +12457,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Somerset,Milborne Port Library,OVERDUE,CANCEL,10,10,0
 2017-03,Somerset,Milborne Port Library,OVERDUE,CASH,20,10,10
 2017-03,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,10,20,0
-2017-03,Somerset,Minehead Library,CHARGE,CASH,130,280,280
+2017-03,Somerset,Minehead Library,CHARGE,CASH,130,270,270
 2017-03,Somerset,Minehead Library,CHARGE,FORGIVEN,0,0,0
 2017-03,Somerset,Minehead Library,DAMAGE,CASH,0,0,0
 2017-03,Somerset,Minehead Library,HOLD,CASH,190,180,180
@@ -15065,7 +15065,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Somerset,Milborne Port Library,OVERDUE,CASH,30,20,20
 2017-05,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,0,0,0
 2017-05,Somerset,Minehead Library,CHARGE,CANCEL,0,10,0
-2017-05,Somerset,Minehead Library,CHARGE,CASH,150,270,270
+2017-05,Somerset,Minehead Library,CHARGE,CASH,140,260,260
 2017-05,Somerset,Minehead Library,CHARGE,DEBITCARD,10,20,20
 2017-05,Somerset,Minehead Library,CHARGE,FORGIVEN,0,0,0
 2017-05,Somerset,Minehead Library,CHARGE,VOUCH,0,0,0
@@ -20744,7 +20744,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Milborne Port Library,OVERDUE,CASH,40,10,10
 2017-09,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,10,0,0
 2017-09,Somerset,Minehead Library,CHARGE,CANCEL,0,0,0
-2017-09,Somerset,Minehead Library,CHARGE,CASH,110,220,220
+2017-09,Somerset,Minehead Library,CHARGE,CASH,110,210,210
 2017-09,Somerset,Minehead Library,CHARGE,CREDITCARD,0,0,0
 2017-09,Somerset,Minehead Library,CHARGE,DEBITCARD,0,10,10
 2017-09,Somerset,Minehead Library,CHARGE,FORGIVEN,0,0,0
@@ -23435,7 +23435,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Somerset,Milborne Port Library,OVERDUE,CASH,20,10,10
 2017-11,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,10,10,0
 2017-11,Somerset,Minehead Library,CHARGE,CANCEL,0,0,0
-2017-11,Somerset,Minehead Library,CHARGE,CASH,100,200,200
+2017-11,Somerset,Minehead Library,CHARGE,CASH,90,190,190
 2017-11,Somerset,Minehead Library,CHARGE,CREDITACCT,0,0,0
 2017-11,Somerset,Minehead Library,CHARGE,FORGIVEN,0,0,0
 2017-11,Somerset,Minehead Library,HOLD,CASH,170,170,170
@@ -24669,7 +24669,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Somerset,Milborne Port Library,HOLD,FORGIVEN,0,0,0
 2017-12,Somerset,Milborne Port Library,OVERDUE,CASH,30,10,10
 2017-12,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,0,0,0
-2017-12,Somerset,Minehead Library,CHARGE,CASH,100,190,190
+2017-12,Somerset,Minehead Library,CHARGE,CASH,100,180,180
 2017-12,Somerset,Minehead Library,CHARGE,DEBITCARD,20,20,20
 2017-12,Somerset,Minehead Library,CHARGE,FORGIVEN,0,0,0
 2017-12,Somerset,Minehead Library,HOLD,CASH,130,130,130
@@ -25816,7 +25816,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Burnham Library,LOST,CASH,0,0,0
 2018-01,Somerset,Burnham Library,LOST,FORGIVEN,0,20,0
 2018-01,Somerset,Burnham Library,OVERDUE,CANCEL,10,10,0
-2018-01,Somerset,Burnham Library,OVERDUE,CASH,290,190,190
+2018-01,Somerset,Burnham Library,OVERDUE,CASH,280,190,190
 2018-01,Somerset,Burnham Library,OVERDUE,DEBITCARD,10,20,20
 2018-01,Somerset,Burnham Library,OVERDUE,FORGIVEN,40,30,0
 2018-01,Somerset,Burnham Library,PROCESSFEE,CASH,0,0,0
@@ -28475,7 +28475,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Milborne Port Library,OVERDUE,CANCEL,0,0,0
 2018-03,Somerset,Milborne Port Library,OVERDUE,CASH,20,0,0
 2018-03,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,0,0,0
-2018-03,Somerset,Minehead Library,CHARGE,CASH,100,210,210
+2018-03,Somerset,Minehead Library,CHARGE,CASH,100,200,200
 2018-03,Somerset,Minehead Library,CHARGE,DEBITCARD,0,10,10
 2018-03,Somerset,Minehead Library,CHARGE,FORGIVEN,0,10,0
 2018-03,Somerset,Minehead Library,DAMAGE,CASH,0,10,10
@@ -31028,7 +31028,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Somerset,Taunton Library,OVERDUE,CANCEL,50,10,0
 2018-05,Somerset,Taunton Library,OVERDUE,CASH,890,610,610
 2018-05,Somerset,Taunton Library,OVERDUE,CREDITACCT,0,0,0
-2018-05,Somerset,Taunton Library,OVERDUE,CREDITCARD,40,100,100
+2018-05,Somerset,Taunton Library,OVERDUE,CREDITCARD,40,80,80
 2018-05,Somerset,Taunton Library,OVERDUE,DEBITCARD,230,280,280
 2018-05,Somerset,Taunton Library,OVERDUE,FORGIVEN,70,100,0
 2018-05,Somerset,Taunton Mobile,CHARGE,CANCEL,0,0,0
@@ -31455,7 +31455,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Horfield Library,CHARGE,CASH,20,30,30
 2018-06,Bristol,Horfield Library,CHARGE,FORGIVEN,10,10,0
 2018-06,Bristol,Horfield Library,HOLD,CASH,10,10,10
-2018-06,Bristol,Horfield Library,LOST,CANCEL,50,220,0
+2018-06,Bristol,Horfield Library,LOST,CANCEL,40,200,0
 2018-06,Bristol,Horfield Library,LOST,CASH,0,10,10
 2018-06,Bristol,Horfield Library,OVERDUE,CANCEL,10,20,0
 2018-06,Bristol,Horfield Library,OVERDUE,CASH,100,100,100
@@ -32120,7 +32120,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Milborne Port Library,OVERDUE,CASH,20,20,20
 2018-06,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,0,0,0
 2018-06,Somerset,Minehead Library,CHARGE,CANCEL,0,0,0
-2018-06,Somerset,Minehead Library,CHARGE,CASH,110,220,220
+2018-06,Somerset,Minehead Library,CHARGE,CASH,100,210,210
 2018-06,Somerset,Minehead Library,CHARGE,DEBITCARD,0,0,0
 2018-06,Somerset,Minehead Library,CHARGE,FORGIVEN,0,0,0
 2018-06,Somerset,Minehead Library,DAMAGE,CASH,0,0,0
@@ -32220,7 +32220,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Taunton Library,LOST,DEBITCARD,0,0,0
 2018-06,Somerset,Taunton Library,LOST,FORGIVEN,0,0,0
 2018-06,Somerset,Taunton Library,OVERDUE,CANCEL,20,30,0
-2018-06,Somerset,Taunton Library,OVERDUE,CASH,740,550,550
+2018-06,Somerset,Taunton Library,OVERDUE,CASH,740,530,530
 2018-06,Somerset,Taunton Library,OVERDUE,CREDITACCT,0,0,0
 2018-06,Somerset,Taunton Library,OVERDUE,CREDITCARD,60,30,30
 2018-06,Somerset,Taunton Library,OVERDUE,DEBITCARD,310,460,460
