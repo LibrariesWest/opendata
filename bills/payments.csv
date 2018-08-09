@@ -1970,7 +1970,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-09,Dorset,Christchurch Library,LOST,CASH,10,30,30
 2016-09,Dorset,Christchurch Library,LOST,FORGIVEN,0,20,0
 2016-09,Dorset,Christchurch Library,OVERDUE,CANCEL,10,50,0
-2016-09,Dorset,Christchurch Library,OVERDUE,CASH,310,270,270
+2016-09,Dorset,Christchurch Library,OVERDUE,CASH,310,260,260
 2016-09,Dorset,Christchurch Library,OVERDUE,FORGIVEN,30,50,0
 2016-09,Dorset,Christchurch Library,PROCESSFEE,CASH,0,0,0
 2016-09,Dorset,Colehill Library,CHARGE,CASH,10,20,20
@@ -2437,7 +2437,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-09,Poole,Poole Central Library,HOLD,FORGIVEN,0,0,0
 2016-09,Poole,Poole Central Library,LOST,FORGIVEN,0,30,0
 2016-09,Poole,Poole Central Library,OVERDUE,CANCEL,20,70,0
-2016-09,Poole,Poole Central Library,OVERDUE,CASH,430,600,600
+2016-09,Poole,Poole Central Library,OVERDUE,CASH,420,600,600
 2016-09,Poole,Poole Central Library,OVERDUE,DEBITCARD,10,30,30
 2016-09,Poole,Poole Central Library,OVERDUE,FORGIVEN,90,290,0
 2016-09,Poole,Poole Customer Services,OVERDUE,FORGIVEN,0,0,0
@@ -10459,7 +10459,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Dorset,Christchurch Library,LOST,CASH,10,20,20
 2017-03,Dorset,Christchurch Library,LOST,FORGIVEN,0,0,0
 2017-03,Dorset,Christchurch Library,OVERDUE,CANCEL,20,180,0
-2017-03,Dorset,Christchurch Library,OVERDUE,CASH,390,360,360
+2017-03,Dorset,Christchurch Library,OVERDUE,CASH,380,350,350
 2017-03,Dorset,Christchurch Library,OVERDUE,FORGIVEN,10,30,0
 2017-03,Dorset,Christchurch Library,PROCESSFEE,CASH,0,0,0
 2017-03,Dorset,Colehill Library,CHARGE,CANCEL,0,10,0
@@ -10618,7 +10618,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Dorset,Wareham Library,LOST,CASH,0,10,10
 2017-03,Dorset,Wareham Library,OVERDUE,CANCEL,10,90,0
 2017-03,Dorset,Wareham Library,OVERDUE,CASH,120,110,110
-2017-03,Dorset,Wareham Library,OVERDUE,FORGIVEN,20,40,0
+2017-03,Dorset,Wareham Library,OVERDUE,FORGIVEN,10,40,0
 2017-03,Dorset,West Moors Library,BFR,FORGIVEN,10,30,0
 2017-03,Dorset,West Moors Library,CHARGE,CASH,10,20,20
 2017-03,Dorset,West Moors Library,DAMAGE,CASH,0,10,10
@@ -11785,7 +11785,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Dorset,Beaminster Library,PROCESSFEE,CASH,0,0,0
 2017-04,Dorset,Blandford Library,BFR,CASH,0,10,10
 2017-04,Dorset,Blandford Library,CHARGE,CANCEL,0,0,0
-2017-04,Dorset,Blandford Library,CHARGE,CASH,90,210,210
+2017-04,Dorset,Blandford Library,CHARGE,CASH,90,200,200
 2017-04,Dorset,Blandford Library,CHARGE,FORGIVEN,0,10,0
 2017-04,Dorset,Blandford Library,DAMAGE,CASH,0,10,10
 2017-04,Dorset,Blandford Library,ILL,CASH,0,10,10
@@ -13102,7 +13102,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Dorset,Christchurch Library,LOST,CASH,0,10,10
 2017-05,Dorset,Christchurch Library,LOST,FORGIVEN,0,10,0
 2017-05,Dorset,Christchurch Library,OVERDUE,CANCEL,10,40,0
-2017-05,Dorset,Christchurch Library,OVERDUE,CASH,300,220,220
+2017-05,Dorset,Christchurch Library,OVERDUE,CASH,290,220,220
 2017-05,Dorset,Christchurch Library,OVERDUE,FORGIVEN,20,60,0
 2017-05,Dorset,Christchurch Library,OVERDUE,VOUCH,0,10,10
 2017-05,Dorset,Colehill Library,CHARGE,CANCEL,0,30,0
@@ -14431,7 +14431,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Dorset,Christchurch Library,LOST,CASH,0,0,0
 2017-06,Dorset,Christchurch Library,LOST,FORGIVEN,0,20,0
 2017-06,Dorset,Christchurch Library,OVERDUE,CANCEL,10,40,0
-2017-06,Dorset,Christchurch Library,OVERDUE,CASH,330,310,310
+2017-06,Dorset,Christchurch Library,OVERDUE,CASH,320,310,310
 2017-06,Dorset,Christchurch Library,OVERDUE,DEBITCARD,0,0,0
 2017-06,Dorset,Christchurch Library,OVERDUE,FORGIVEN,20,20,0
 2017-06,Dorset,Christchurch Library,PROCESSFEE,CASH,0,0,0
@@ -14845,7 +14845,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Poole,Poole Central Library,CHARGE,FORGIVEN,10,10,0
 2017-06,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
 2017-06,Poole,Poole Central Library,HOLD,CANCEL,0,0,0
-2017-06,Poole,Poole Central Library,HOLD,CASH,180,170,170
+2017-06,Poole,Poole Central Library,HOLD,CASH,170,170,170
 2017-06,Poole,Poole Central Library,HOLD,FORGIVEN,0,0,0
 2017-06,Poole,Poole Central Library,LOST,CASH,0,20,20
 2017-06,Poole,Poole Central Library,OVERDUE,CANCEL,10,50,0
@@ -19153,7 +19153,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Poole,Poole Central Library,CHARGE,CASH,320,520,520
 2017-09,Poole,Poole Central Library,CHARGE,FORGIVEN,10,10,0
 2017-09,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
-2017-09,Poole,Poole Central Library,HOLD,CASH,150,150,150
+2017-09,Poole,Poole Central Library,HOLD,CASH,150,140,140
 2017-09,Poole,Poole Central Library,HOLD,FORGIVEN,0,0,0
 2017-09,Poole,Poole Central Library,HOLD,NONE,0,0,0
 2017-09,Poole,Poole Central Library,LOST,CASH,0,10,10
@@ -23985,11 +23985,11 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Dorset,Christchurch Library,CHARGE,CANCEL,0,10,0
 2018-01,Dorset,Christchurch Library,CHARGE,CASH,230,530,530
 2018-01,Dorset,Christchurch Library,CHARGE,FORGIVEN,10,10,0
-2018-01,Dorset,Christchurch Library,LOST,CANCEL,160,720,0
+2018-01,Dorset,Christchurch Library,LOST,CANCEL,160,710,0
 2018-01,Dorset,Christchurch Library,LOST,CASH,10,30,30
 2018-01,Dorset,Christchurch Library,OVERDUE,CANCEL,20,40,0
 2018-01,Dorset,Christchurch Library,OVERDUE,CASH,340,350,350
-2018-01,Dorset,Christchurch Library,OVERDUE,FORGIVEN,20,40,0
+2018-01,Dorset,Christchurch Library,OVERDUE,FORGIVEN,10,30,0
 2018-01,Dorset,Christchurch Library,OVERDUE,VOUCH,0,10,10
 2018-01,Dorset,Colehill Library,BFR,FORGIVEN,10,60,0
 2018-01,Dorset,Colehill Library,CHARGE,CASH,0,10,10
@@ -26895,7 +26895,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Poole,Poole Central Library,CHARGE,DEBITCARD,0,0,0
 2018-03,Poole,Poole Central Library,CHARGE,FORGIVEN,20,30,0
 2018-03,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
-2018-03,Poole,Poole Central Library,HOLD,CASH,180,180,180
+2018-03,Poole,Poole Central Library,HOLD,CASH,170,170,170
 2018-03,Poole,Poole Central Library,HOLD,FORGIVEN,10,10,0
 2018-03,Poole,Poole Central Library,LOST,CANCEL,0,20,0
 2018-03,Poole,Poole Central Library,LOST,DEBITCARD,0,20,20
