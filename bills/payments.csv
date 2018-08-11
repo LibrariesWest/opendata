@@ -7770,7 +7770,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Dorset,Gillingham Library,CHARGE,CASH,110,240,240
 2017-01,Dorset,Gillingham Library,LOST,CANCEL,20,90,0
 2017-01,Dorset,Gillingham Library,OVERDUE,CANCEL,0,10,0
-2017-01,Dorset,Gillingham Library,OVERDUE,CASH,130,100,100
+2017-01,Dorset,Gillingham Library,OVERDUE,CASH,120,100,100
 2017-01,Dorset,Gillingham Library,OVERDUE,FORGIVEN,20,40,0
 2017-01,Dorset,Highcliffe Library,CHARGE,CANCEL,0,0,0
 2017-01,Dorset,Highcliffe Library,CHARGE,CASH,50,100,100
@@ -17845,7 +17845,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Frome Library,LOST,DEBITCARD,0,30,30
 2017-08,Somerset,Frome Library,LOST,FORGIVEN,0,10,0
 2017-08,Somerset,Frome Library,OVERDUE,CANCEL,40,70,0
-2017-08,Somerset,Frome Library,OVERDUE,CASH,720,530,530
+2017-08,Somerset,Frome Library,OVERDUE,CASH,720,520,520
 2017-08,Somerset,Frome Library,OVERDUE,CREDITACCT,0,0,0
 2017-08,Somerset,Frome Library,OVERDUE,DEBITCARD,170,190,190
 2017-08,Somerset,Frome Library,OVERDUE,FORGIVEN,50,70,0
@@ -19577,7 +19577,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Yeovil Library,LOST,DEBITCARD,0,10,10
 2017-09,Somerset,Yeovil Library,LOST,FORGIVEN,0,10,0
 2017-09,Somerset,Yeovil Library,OVERDUE,CANCEL,110,180,0
-2017-09,Somerset,Yeovil Library,OVERDUE,CASH,760,540,540
+2017-09,Somerset,Yeovil Library,OVERDUE,CASH,750,540,540
 2017-09,Somerset,Yeovil Library,OVERDUE,CREDITCARD,20,30,30
 2017-09,Somerset,Yeovil Library,OVERDUE,DEBITCARD,70,100,100
 2017-09,Somerset,Yeovil Library,OVERDUE,FORGIVEN,70,120,0
@@ -30431,7 +30431,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,North Somerset,Long Ashton Library,OVERDUE,FORGIVEN,10,20,0
 2018-06,North Somerset,N Som Healthy Living Centre,CHARGE,CASH,20,50,50
 2018-06,North Somerset,N Som Healthy Living Centre,CHARGE,FORGIVEN,0,0,0
-2018-06,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,20,0
+2018-06,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,160,0
 2018-06,North Somerset,N Som Healthy Living Centre,OVERDUE,CASH,30,30,30
 2018-06,North Somerset,N Som Healthy Living Centre,OVERDUE,FORGIVEN,10,30,0
 2018-06,North Somerset,N Somerset Studies Weston,CHARGE,CASH,0,0,0
@@ -30641,7 +30641,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Crewkerne Library,DAMAGE,CASH,0,20,20
 2018-06,Somerset,Crewkerne Library,DAMAGE,DEBITCARD,0,10,10
 2018-06,Somerset,Crewkerne Library,HOLD,CANCEL,10,10,0
-2018-06,Somerset,Crewkerne Library,HOLD,CASH,110,120,120
+2018-06,Somerset,Crewkerne Library,HOLD,CASH,110,110,110
 2018-06,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2018-06,Somerset,Crewkerne Library,LOST,CANCEL,10,40,0
 2018-06,Somerset,Crewkerne Library,OVERDUE,CANCEL,30,30,0
