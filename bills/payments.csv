@@ -480,7 +480,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-08,Dorset,Dorchester Mobile Library,LOST,CANCEL,10,80,0
 2016-08,Dorset,Dorchester Mobile Library,OVERDUE,NONE,0,0,0
 2016-08,Dorset,Ferndown Library,BFR,CASH,0,0,0
-2016-08,Dorset,Ferndown Library,CHARGE,CASH,170,430,430
+2016-08,Dorset,Ferndown Library,CHARGE,CASH,170,420,420
 2016-08,Dorset,Ferndown Library,CHARGE,FORGIVEN,0,20,0
 2016-08,Dorset,Ferndown Library,LOST,CANCEL,20,110,0
 2016-08,Dorset,Ferndown Library,LOST,CASH,0,10,10
@@ -3655,7 +3655,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-10,Dorset,Weymouth Library,CHARGE,CANCEL,0,10,0
 2016-10,Dorset,Weymouth Library,CHARGE,CASH,150,310,310
 2016-10,Dorset,Weymouth Library,CHARGE,CHEQUE,0,0,0
-2016-10,Dorset,Weymouth Library,CHARGE,FORGIVEN,30,70,0
+2016-10,Dorset,Weymouth Library,CHARGE,FORGIVEN,30,60,0
 2016-10,Dorset,Weymouth Library,LOST,CANCEL,110,510,0
 2016-10,Dorset,Weymouth Library,LOST,CASH,10,30,30
 2016-10,Dorset,Weymouth Library,LOST,FORGIVEN,0,0,0
@@ -4954,7 +4954,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,Dorset,Ferndown Library,DAMAGE,CASH,0,10,10
 2016-11,Dorset,Ferndown Library,HOLD,CASH,0,0,0
 2016-11,Dorset,Ferndown Library,HOLD,FORGIVEN,0,0,0
-2016-11,Dorset,Ferndown Library,LOST,CANCEL,20,70,0
+2016-11,Dorset,Ferndown Library,LOST,CANCEL,10,60,0
 2016-11,Dorset,Ferndown Library,LOST,CASH,0,20,20
 2016-11,Dorset,Ferndown Library,LOST,FORGIVEN,0,0,0
 2016-11,Dorset,Ferndown Library,OVERDUE,CANCEL,0,50,0
@@ -21523,8 +21523,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Dorset,Ferndown Library,CHARGE,CASH,120,280,280
 2017-11,Dorset,Ferndown Library,CHARGE,FORGIVEN,0,10,0
 2017-11,Dorset,Ferndown Library,HOLD,CASH,0,0,0
-2017-11,Dorset,Ferndown Library,LOST,CANCEL,20,60,0
-2017-11,Dorset,Ferndown Library,LOST,CASH,0,20,20
+2017-11,Dorset,Ferndown Library,LOST,CANCEL,10,50,0
+2017-11,Dorset,Ferndown Library,LOST,CASH,0,10,10
 2017-11,Dorset,Ferndown Library,OVERDUE,CANCEL,0,10,0
 2017-11,Dorset,Ferndown Library,OVERDUE,CASH,210,170,170
 2017-11,Dorset,Ferndown Library,OVERDUE,FORGIVEN,30,130,0
