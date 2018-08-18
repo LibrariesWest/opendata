@@ -25017,7 +25017,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Bristol,Bedminster Library,CHARGE,CASH,160,200,200
 2018-02,Bristol,Bedminster Library,CHARGE,CREDITCARD,60,70,70
 2018-02,Bristol,Bedminster Library,CHARGE,FORGIVEN,20,40,0
-2018-02,Bristol,Bedminster Library,LOST,CANCEL,170,850,0
+2018-02,Bristol,Bedminster Library,LOST,CANCEL,170,840,0
 2018-02,Bristol,Bedminster Library,LOST,CASH,10,50,50
 2018-02,Bristol,Bedminster Library,LOST,CREDITCARD,0,10,10
 2018-02,Bristol,Bedminster Library,LOST,FORGIVEN,0,20,0
@@ -26422,7 +26422,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bristol,Knowle Library,CHARGE,CANCEL,0,0,0
 2018-03,Bristol,Knowle Library,CHARGE,CASH,130,160,160
 2018-03,Bristol,Knowle Library,CHARGE,FORGIVEN,10,20,0
-2018-03,Bristol,Knowle Library,HOLD,CASH,0,10,10
+2018-03,Bristol,Knowle Library,HOLD,CASH,0,0,0
 2018-03,Bristol,Knowle Library,LOST,CANCEL,100,450,0
 2018-03,Bristol,Knowle Library,LOST,CASH,0,10,10
 2018-03,Bristol,Knowle Library,LOST,FORGIVEN,0,20,0
@@ -27690,7 +27690,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Redland Library,OVERDUE,CASH,240,140,140
 2018-04,Bristol,Redland Library,OVERDUE,CREDITCARD,150,100,100
 2018-04,Bristol,Redland Library,OVERDUE,FORGIVEN,10,0,0
-2018-04,Bristol,Sea Mills Library,CHARGE,CASH,30,30,30
+2018-04,Bristol,Sea Mills Library,CHARGE,CASH,20,30,30
 2018-04,Bristol,Sea Mills Library,CHARGE,FORGIVEN,0,0,0
 2018-04,Bristol,Sea Mills Library,LOST,CANCEL,10,40,0
 2018-04,Bristol,Sea Mills Library,LOST,CASH,0,0,0
@@ -28908,7 +28908,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Bristol,Redland Library,OVERDUE,CREDITACCT,0,0,0
 2018-05,Bristol,Redland Library,OVERDUE,CREDITCARD,130,110,110
 2018-05,Bristol,Redland Library,OVERDUE,FORGIVEN,20,30,0
-2018-05,Bristol,Sea Mills Library,CHARGE,CASH,10,20,20
+2018-05,Bristol,Sea Mills Library,CHARGE,CASH,10,10,10
 2018-05,Bristol,Sea Mills Library,LOST,CANCEL,30,110,0
 2018-05,Bristol,Sea Mills Library,LOST,CASH,0,10,10
 2018-05,Bristol,Sea Mills Library,LOST,FORGIVEN,0,0,0
@@ -29868,7 +29868,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITACCT,0,0,0
 2018-06,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,220,410,410
 2018-06,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,20,30,0
-2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,30,0
+2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,0,30,0
 2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,30,30
 2018-06,Bath and North East Somerset,Bath Central Library,LOST,CANCEL,0,40,0
 2018-06,Bath and North East Somerset,Bath Central Library,LOST,CASH,0,20,20
@@ -29992,7 +29992,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Bristol Central Lending Library,DAMAGE,CASH,0,0,0
 2018-06,Bristol,Bristol Central Lending Library,HOLD,CASH,10,10,10
 2018-06,Bristol,Bristol Central Lending Library,HOLD,CREDITCARD,0,0,0
-2018-06,Bristol,Bristol Central Lending Library,HOLD,DEBITCARD,0,10,10
 2018-06,Bristol,Bristol Central Lending Library,LOST,CANCEL,230,1490,0
 2018-06,Bristol,Bristol Central Lending Library,LOST,CASH,10,50,50
 2018-06,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,10,80,80
@@ -30107,7 +30106,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Redland Library,OVERDUE,CREDITCARD,100,140,140
 2018-06,Bristol,Redland Library,OVERDUE,FORGIVEN,30,30,0
 2018-06,Bristol,Sea Mills Library,CHARGE,CANCEL,0,10,0
-2018-06,Bristol,Sea Mills Library,CHARGE,CASH,20,20,20
+2018-06,Bristol,Sea Mills Library,CHARGE,CASH,10,10,10
 2018-06,Bristol,Sea Mills Library,LOST,CANCEL,60,390,0
 2018-06,Bristol,Sea Mills Library,LOST,CASH,0,60,60
 2018-06,Bristol,Sea Mills Library,OVERDUE,CANCEL,10,10,0
@@ -31149,7 +31148,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Bristol,Bishopston Library,CHARGE,CASH,40,60,60
 2018-07,Bristol,Bishopston Library,CHARGE,CREDITCARD,10,10,10
 2018-07,Bristol,Bishopston Library,CHARGE,FORGIVEN,0,0,0
-2018-07,Bristol,Bishopston Library,HOLD,CASH,0,10,10
 2018-07,Bristol,Bishopston Library,HOLD,CREDITCARD,0,0,0
 2018-07,Bristol,Bishopston Library,LOST,CANCEL,320,1410,0
 2018-07,Bristol,Bishopston Library,LOST,CASH,10,70,70
@@ -31298,7 +31296,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Bristol,Sea Mills Library,BFR,CANCEL,10,80,0
 2018-07,Bristol,Sea Mills Library,BFR,FORGIVEN,0,10,0
 2018-07,Bristol,Sea Mills Library,CHARGE,CANCEL,0,0,0
-2018-07,Bristol,Sea Mills Library,CHARGE,CASH,10,20,20
+2018-07,Bristol,Sea Mills Library,CHARGE,CASH,10,10,10
 2018-07,Bristol,Sea Mills Library,CHARGE,FORGIVEN,0,0,0
 2018-07,Bristol,Sea Mills Library,CHARGE,VOUCH,0,0,0
 2018-07,Bristol,Sea Mills Library,LOST,CANCEL,60,220,0
@@ -32215,8 +32213,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,South Gloucestershire,Downend Library,CHARGE,CASH,110,140,140
 2018-07,South Gloucestershire,Downend Library,CHARGE,FORGIVEN,0,0,0
 2018-07,South Gloucestershire,Downend Library,CHARGE,NONE,0,0,0
-2018-07,South Gloucestershire,Downend Library,HOLD,CANCEL,0,10,0
-2018-07,South Gloucestershire,Downend Library,HOLD,CASH,70,50,50
+2018-07,South Gloucestershire,Downend Library,HOLD,CANCEL,0,0,0
+2018-07,South Gloucestershire,Downend Library,HOLD,CASH,70,40,40
 2018-07,South Gloucestershire,Downend Library,HOLD,FORGIVEN,0,0,0
 2018-07,South Gloucestershire,Downend Library,HOLD,NONE,0,0,0
 2018-07,South Gloucestershire,Downend Library,LOST,CANCEL,130,590,0
