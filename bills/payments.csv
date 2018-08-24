@@ -109,7 +109,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-08,Bristol,Bristol Central Lending Library,BFR,CANCEL,0,10,0
 2016-08,Bristol,Bristol Central Lending Library,BFR,FORGIVEN,40,260,0
 2016-08,Bristol,Bristol Central Lending Library,CHARGE,CANCEL,70,80,0
-2016-08,Bristol,Bristol Central Lending Library,CHARGE,CASH,1420,1460,1460
+2016-08,Bristol,Bristol Central Lending Library,CHARGE,CASH,1410,1460,1460
 2016-08,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,0,0,0
 2016-08,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,40,40,40
 2016-08,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,120,200,0
@@ -29742,7 +29742,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,South Gloucestershire,Cadbury Heath Library,CHARGE,FORGIVEN,0,0,0
 2018-05,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,30,20,20
 2018-05,South Gloucestershire,Cadbury Heath Library,HOLD,FORGIVEN,0,0,0
-2018-05,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,20,80,0
+2018-05,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,20,70,0
 2018-05,South Gloucestershire,Cadbury Heath Library,LOST,CASH,0,10,10
 2018-05,South Gloucestershire,Cadbury Heath Library,LOST,FORGIVEN,0,10,0
 2018-05,South Gloucestershire,Cadbury Heath Library,OVERDUE,CANCEL,0,0,0
@@ -29967,7 +29967,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Bishopston Library,CHARGE,CREDITCARD,10,20,20
 2018-06,Bristol,Bishopston Library,CHARGE,FORGIVEN,0,0,0
 2018-06,Bristol,Bishopston Library,DAMAGE,CASH,0,0,0
-2018-06,Bristol,Bishopston Library,HOLD,CASH,0,10,10
 2018-06,Bristol,Bishopston Library,HOLD,FORGIVEN,0,0,0
 2018-06,Bristol,Bishopston Library,LOST,CANCEL,200,920,0
 2018-06,Bristol,Bishopston Library,LOST,CASH,10,60,60
@@ -31946,7 +31945,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Somerset,Highbridge Library,OVERDUE,CASH,20,10,10
 2018-07,Somerset,Ilminster Library,CHARGE,CANCEL,0,0,0
 2018-07,Somerset,Ilminster Library,CHARGE,CASH,10,20,20
-2018-07,Somerset,Ilminster Library,HOLD,CASH,80,110,110
+2018-07,Somerset,Ilminster Library,HOLD,CASH,80,100,100
 2018-07,Somerset,Ilminster Library,LOST,CANCEL,30,170,0
 2018-07,Somerset,Ilminster Library,LOST,CASH,10,20,20
 2018-07,Somerset,Ilminster Library,OVERDUE,CANCEL,30,20,0
