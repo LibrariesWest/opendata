@@ -6372,7 +6372,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,Dorset,Ferndown Library,CHARGE,FORGIVEN,10,10,0
 2016-12,Dorset,Ferndown Library,LOST,CANCEL,20,70,0
 2016-12,Dorset,Ferndown Library,LOST,FORGIVEN,0,10,0
-2016-12,Dorset,Ferndown Library,OVERDUE,CASH,240,190,190
+2016-12,Dorset,Ferndown Library,OVERDUE,CASH,230,190,190
 2016-12,Dorset,Ferndown Library,OVERDUE,FORGIVEN,40,120,0
 2016-12,Dorset,Gillingham Library,CHARGE,CANCEL,10,10,0
 2016-12,Dorset,Gillingham Library,CHARGE,CASH,120,270,270
@@ -16706,7 +16706,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,South Gloucestershire,Chipping Sodbury Library,CHARGE,CASH,40,40,40
 2017-07,South Gloucestershire,Chipping Sodbury Library,CHARGE,FORGIVEN,0,0,0
 2017-07,South Gloucestershire,Chipping Sodbury Library,HOLD,CANCEL,0,0,0
-2017-07,South Gloucestershire,Chipping Sodbury Library,HOLD,CASH,70,40,40
+2017-07,South Gloucestershire,Chipping Sodbury Library,HOLD,CASH,60,40,40
 2017-07,South Gloucestershire,Chipping Sodbury Library,HOLD,FORGIVEN,10,10,0
 2017-07,South Gloucestershire,Chipping Sodbury Library,LOST,CANCEL,0,10,0
 2017-07,South Gloucestershire,Chipping Sodbury Library,OVERDUE,CANCEL,0,0,0
@@ -29052,7 +29052,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Dorset,Ferndown Library,LOST,CANCEL,30,130,0
 2018-05,Dorset,Ferndown Library,LOST,CASH,0,0,0
 2018-05,Dorset,Ferndown Library,OVERDUE,CANCEL,0,10,0
-2018-05,Dorset,Ferndown Library,OVERDUE,CASH,220,180,180
+2018-05,Dorset,Ferndown Library,OVERDUE,CASH,210,180,180
 2018-05,Dorset,Ferndown Library,OVERDUE,FORGIVEN,10,0,0
 2018-05,Dorset,Gillingham Library,CHARGE,CANCEL,0,0,0
 2018-05,Dorset,Gillingham Library,CHARGE,CASH,110,250,250
@@ -32078,7 +32078,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Somerset,Taunton Library,HOLD,CREDITCARD,10,10,10
 2018-07,Somerset,Taunton Library,HOLD,DEBITCARD,40,40,40
 2018-07,Somerset,Taunton Library,HOLD,FORGIVEN,0,0,0
-2018-07,Somerset,Taunton Library,LOST,CANCEL,200,1030,0
+2018-07,Somerset,Taunton Library,LOST,CANCEL,190,960,0
 2018-07,Somerset,Taunton Library,LOST,CASH,10,30,30
 2018-07,Somerset,Taunton Library,LOST,DEBITCARD,0,10,10
 2018-07,Somerset,Taunton Library,OVERDUE,CANCEL,20,50,0
