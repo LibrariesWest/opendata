@@ -4137,7 +4137,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-10,Somerset,Shepton Mallet Library,HOLD,FORGIVEN,10,20,0
 2016-10,Somerset,Shepton Mallet Library,OVERDUE,CASH,180,130,130
 2016-10,Somerset,Shepton Mallet Library,OVERDUE,CREDITACCT,0,0,0
-2016-10,Somerset,Shepton Mallet Library,OVERDUE,DEBITCARD,10,20,20
 2016-10,Somerset,Shepton Mallet Library,OVERDUE,FORGIVEN,20,50,0
 2016-10,Somerset,Somerton Library,CHARGE,CANCEL,0,0,0
 2016-10,Somerset,Somerton Library,CHARGE,CASH,60,130,130
@@ -4769,10 +4768,10 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,Bristol,Marksbury Road Library,OVERDUE,CASH,30,20,20
 2016-11,Bristol,Marksbury Road Library,OVERDUE,FORGIVEN,0,0,0
 2016-11,Bristol,Redland Library,BFR,FORGIVEN,0,30,0
-2016-11,Bristol,Redland Library,CHARGE,CANCEL,10,20,0
+2016-11,Bristol,Redland Library,CHARGE,CANCEL,10,10,0
 2016-11,Bristol,Redland Library,CHARGE,CASH,270,290,290
 2016-11,Bristol,Redland Library,CHARGE,CREDITACCT,0,0,0
-2016-11,Bristol,Redland Library,CHARGE,CREDITCARD,80,90,90
+2016-11,Bristol,Redland Library,CHARGE,CREDITCARD,70,90,90
 2016-11,Bristol,Redland Library,CHARGE,FORGIVEN,20,20,0
 2016-11,Bristol,Redland Library,LOST,CANCEL,70,750,0
 2016-11,Bristol,Redland Library,LOST,CASH,0,0,0
@@ -6209,7 +6208,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,Bristol,Redland Library,CHARGE,CANCEL,20,20,0
 2016-12,Bristol,Redland Library,CHARGE,CASH,260,300,300
 2016-12,Bristol,Redland Library,CHARGE,CREDITACCT,0,0,0
-2016-12,Bristol,Redland Library,CHARGE,CREDITCARD,70,90,90
+2016-12,Bristol,Redland Library,CHARGE,CREDITCARD,70,80,80
 2016-12,Bristol,Redland Library,CHARGE,FORGIVEN,10,10,0
 2016-12,Bristol,Redland Library,DAMAGE,CREDITCARD,0,10,10
 2016-12,Bristol,Redland Library,LOST,CANCEL,30,180,0
@@ -6218,7 +6217,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,Bristol,Redland Library,LOST,FORGIVEN,0,10,0
 2016-12,Bristol,Redland Library,OVERDUE,CANCEL,10,20,0
 2016-12,Bristol,Redland Library,OVERDUE,CASH,260,180,180
-2016-12,Bristol,Redland Library,OVERDUE,CREDITCARD,120,140,140
+2016-12,Bristol,Redland Library,OVERDUE,CREDITCARD,120,130,130
 2016-12,Bristol,Redland Library,OVERDUE,FORGIVEN,50,70,0
 2016-12,Bristol,Redland Library,PROCESSFEE,CASH,0,0,0
 2016-12,Bristol,Sea Mills Library,CHARGE,CANCEL,0,0,0
@@ -12104,7 +12103,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,North Somerset,Weston-super-Mare Library,LOST,CANCEL,20,130,0
 2017-04,North Somerset,Weston-super-Mare Library,LOST,CASH,0,20,20
 2017-04,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,90,190,0
-2017-04,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,510,370,370
+2017-04,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,500,370,370
 2017-04,North Somerset,Weston-super-Mare Library,OVERDUE,CHEQUE,0,20,20
 2017-04,North Somerset,Weston-super-Mare Library,OVERDUE,FORGIVEN,40,90,0
 2017-04,North Somerset,Weston-super-Mare Library,PROCESSFEE,CANCEL,0,0,0
@@ -12983,7 +12982,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Bristol,Redland Library,LOST,CREDITCARD,0,10,10
 2017-05,Bristol,Redland Library,LOST,FORGIVEN,10,30,0
 2017-05,Bristol,Redland Library,OVERDUE,CANCEL,0,10,0
-2017-05,Bristol,Redland Library,OVERDUE,CASH,250,160,160
+2017-05,Bristol,Redland Library,OVERDUE,CASH,250,150,150
 2017-05,Bristol,Redland Library,OVERDUE,CREDITACCT,0,0,0
 2017-05,Bristol,Redland Library,OVERDUE,CREDITCARD,100,90,90
 2017-05,Bristol,Redland Library,OVERDUE,FORGIVEN,40,40,0
@@ -13945,7 +13944,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,South Gloucestershire,Filton Library,CHARGE,CASH,100,130,130
 2017-05,South Gloucestershire,Filton Library,CHARGE,FORGIVEN,10,10,0
 2017-05,South Gloucestershire,Filton Library,HOLD,CANCEL,0,0,0
-2017-05,South Gloucestershire,Filton Library,HOLD,CASH,70,50,50
+2017-05,South Gloucestershire,Filton Library,HOLD,CASH,60,50,50
 2017-05,South Gloucestershire,Filton Library,HOLD,FORGIVEN,0,0,0
 2017-05,South Gloucestershire,Filton Library,HOLD,VOUCH,0,0,0
 2017-05,South Gloucestershire,Filton Library,LOST,CANCEL,70,270,0
@@ -14311,7 +14310,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Bristol,Redland Library,OVERDUE,CANCEL,0,0,0
 2017-06,Bristol,Redland Library,OVERDUE,CASH,300,210,210
 2017-06,Bristol,Redland Library,OVERDUE,CREDITACCT,0,0,0
-2017-06,Bristol,Redland Library,OVERDUE,CREDITCARD,120,150,150
+2017-06,Bristol,Redland Library,OVERDUE,CREDITCARD,120,140,140
 2017-06,Bristol,Redland Library,OVERDUE,FORGIVEN,40,40,0
 2017-06,Bristol,Redland Library,PROCESSFEE,CASH,0,0,0
 2017-06,Bristol,Redland Library,PROCESSFEE,FORGIVEN,0,0,0
@@ -15179,7 +15178,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Somerset,Wellington Library,HOLD,CASH,160,170,170
 2017-06,Somerset,Wellington Library,HOLD,DEBITCARD,20,20,20
 2017-06,Somerset,Wellington Library,HOLD,FORGIVEN,0,0,0
-2017-06,Somerset,Wellington Library,LOST,CANCEL,20,100,0
+2017-06,Somerset,Wellington Library,LOST,CANCEL,20,90,0
 2017-06,Somerset,Wellington Library,LOST,CASH,10,30,30
 2017-06,Somerset,Wellington Library,LOST,DEBITCARD,10,30,30
 2017-06,Somerset,Wellington Library,LOST,FORGIVEN,0,0,0
