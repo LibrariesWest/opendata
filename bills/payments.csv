@@ -11565,7 +11565,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Dorset,Blandford Library,CHARGE,FORGIVEN,10,20,0
 2017-05,Dorset,Blandford Library,LOST,CANCEL,20,80,0
 2017-05,Dorset,Blandford Library,OVERDUE,CANCEL,10,10,0
-2017-05,Dorset,Blandford Library,OVERDUE,CASH,110,80,80
+2017-05,Dorset,Blandford Library,OVERDUE,CASH,100,80,80
 2017-05,Dorset,Blandford Library,OVERDUE,FORGIVEN,20,40,0
 2017-05,Dorset,Blandford Library,PROCESSFEE,CASH,0,0,0
 2017-05,Dorset,Bridport Library,BFR,CASH,0,20,20
@@ -18636,7 +18636,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Dorset,Blandford Library,LOST,CANCEL,70,340,0
 2017-10,Dorset,Blandford Library,LOST,CASH,0,10,10
 2017-10,Dorset,Blandford Library,OVERDUE,CANCEL,10,0,0
-2017-10,Dorset,Blandford Library,OVERDUE,CASH,180,170,170
+2017-10,Dorset,Blandford Library,OVERDUE,CASH,170,170,170
 2017-10,Dorset,Blandford Library,OVERDUE,FORGIVEN,10,20,0
 2017-10,Dorset,Blandford Library,PROCESSFEE,CASH,0,0,0
 2017-10,Dorset,Bridport Library,CHARGE,CANCEL,10,10,0
@@ -21225,7 +21225,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Dorset,Blandford Library,LOST,CANCEL,50,240,0
 2017-12,Dorset,Blandford Library,LOST,CASH,0,30,30
 2017-12,Dorset,Blandford Library,OVERDUE,CANCEL,0,10,0
-2017-12,Dorset,Blandford Library,OVERDUE,CASH,130,100,100
+2017-12,Dorset,Blandford Library,OVERDUE,CASH,120,90,90
 2017-12,Dorset,Blandford Library,OVERDUE,FORGIVEN,20,20,0
 2017-12,Dorset,Bridport Library,CHARGE,CANCEL,0,10,0
 2017-12,Dorset,Bridport Library,CHARGE,CASH,80,180,180
@@ -25012,7 +25012,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Dorset,Blandford Library,LOST,CASH,0,20,20
 2018-03,Dorset,Blandford Library,OVERDUE,CANCEL,20,60,0
 2018-03,Dorset,Blandford Library,OVERDUE,CASH,120,150,150
-2018-03,Dorset,Blandford Library,OVERDUE,FORGIVEN,30,80,0
+2018-03,Dorset,Blandford Library,OVERDUE,FORGIVEN,20,70,0
 2018-03,Dorset,Bridport Library,BFR,FORGIVEN,0,10,0
 2018-03,Dorset,Bridport Library,CHARGE,CASH,110,260,260
 2018-03,Dorset,Bridport Library,CHARGE,FORGIVEN,0,0,0
@@ -26499,7 +26499,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,North Somerset,Long Ashton Library,LOST,CANCEL,0,40,0
 2018-04,North Somerset,Long Ashton Library,OVERDUE,CASH,170,60,60
 2018-04,North Somerset,N Som Healthy Living Centre,CHARGE,CASH,20,40,40
-2018-04,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,20,0
+2018-04,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,30,0
 2018-04,North Somerset,N Som Healthy Living Centre,LOST,CASH,0,10,10
 2018-04,North Somerset,N Som Healthy Living Centre,OVERDUE,CANCEL,10,10,0
 2018-04,North Somerset,N Som Healthy Living Centre,OVERDUE,CASH,30,20,20
@@ -29382,7 +29382,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Wincanton Library,OVERDUE,CREDITCARD,10,30,30
 2018-06,Somerset,Wincanton Library,OVERDUE,FORGIVEN,0,0,0
 2018-06,Somerset,Wiveliscombe Library,CHARGE,CASH,10,20,20
-2018-06,Somerset,Wiveliscombe Library,HOLD,CASH,60,60,60
+2018-06,Somerset,Wiveliscombe Library,HOLD,CASH,60,50,50
 2018-06,Somerset,Wiveliscombe Library,HOLD,FORGIVEN,0,0,0
 2018-06,Somerset,Wiveliscombe Library,LOST,CANCEL,0,70,0
 2018-06,Somerset,Wiveliscombe Library,LOST,CASH,0,30,30
@@ -30535,7 +30535,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Somerset,Somerton Library,OVERDUE,FORGIVEN,0,10,0
 2018-07,Somerset,South Petherton Library,CHARGE,CANCEL,0,0,0
 2018-07,Somerset,South Petherton Library,CHARGE,CASH,10,10,10
-2018-07,Somerset,South Petherton Library,HOLD,CASH,60,70,70
+2018-07,Somerset,South Petherton Library,HOLD,CASH,60,60,60
 2018-07,Somerset,South Petherton Library,LOST,CANCEL,10,30,0
 2018-07,Somerset,South Petherton Library,LOST,CASH,0,10,10
 2018-07,Somerset,South Petherton Library,OVERDUE,CASH,60,70,70
@@ -30928,7 +30928,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Bristol,Bishopston Library,CHARGE,VOUCH,0,0,0
 2018-08,Bristol,Bishopston Library,DAMAGE,CASH,0,10,10
 2018-08,Bristol,Bishopston Library,DAMAGE,FORGIVEN,0,10,0
-2018-08,Bristol,Bishopston Library,HOLD,CREDITCARD,0,10,10
 2018-08,Bristol,Bishopston Library,LOST,CANCEL,300,1380,0
 2018-08,Bristol,Bishopston Library,LOST,CASH,10,40,40
 2018-08,Bristol,Bishopston Library,LOST,CREDITCARD,10,40,40
@@ -30958,7 +30957,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Bristol,Bristol Central Lending Library,DAMAGE,CASH,0,10,10
 2018-08,Bristol,Bristol Central Lending Library,DAMAGE,CREDITCARD,0,0,0
 2018-08,Bristol,Bristol Central Lending Library,DAMAGE,DEBITCARD,0,10,10
-2018-08,Bristol,Bristol Central Lending Library,HOLD,CASH,20,30,30
+2018-08,Bristol,Bristol Central Lending Library,HOLD,CASH,20,20,20
 2018-08,Bristol,Bristol Central Lending Library,HOLD,CREDITCARD,0,0,0
 2018-08,Bristol,Bristol Central Lending Library,LOST,CANCEL,260,1480,0
 2018-08,Bristol,Bristol Central Lending Library,LOST,CASH,10,30,30
@@ -32002,7 +32001,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,10,10,0
 2018-08,South Gloucestershire,Bradley Stoke Library,CHARGE,VOUCH,120,130,130
 2018-08,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,10,10,0
-2018-08,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,180,140,140
+2018-08,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,180,130,130
 2018-08,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,0,0,0
 2018-08,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,110,480,0
 2018-08,South Gloucestershire,Bradley Stoke Library,LOST,CASH,10,20,20
