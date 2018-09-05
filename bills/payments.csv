@@ -6908,10 +6908,10 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Somerset,Taunton Library,HOLD,DEBITCARD,50,50,50
 2017-01,Somerset,Taunton Library,HOLD,FORGIVEN,0,0,0
 2017-01,Somerset,Taunton Library,LOST,CANCEL,60,260,0
-2017-01,Somerset,Taunton Library,LOST,CASH,10,50,50
+2017-01,Somerset,Taunton Library,LOST,CASH,10,40,40
 2017-01,Somerset,Taunton Library,LOST,DEBITCARD,0,10,10
 2017-01,Somerset,Taunton Library,OVERDUE,CANCEL,120,180,0
-2017-01,Somerset,Taunton Library,OVERDUE,CASH,970,690,690
+2017-01,Somerset,Taunton Library,OVERDUE,CASH,960,690,690
 2017-01,Somerset,Taunton Library,OVERDUE,CREDITACCT,0,0,0
 2017-01,Somerset,Taunton Library,OVERDUE,CREDITCARD,20,20,20
 2017-01,Somerset,Taunton Library,OVERDUE,DEBITCARD,220,320,320
@@ -15845,7 +15845,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Dorset,Gillingham Library,OVERDUE,FORGIVEN,10,10,0
 2017-08,Dorset,Gillingham Library,PROCESSFEE,CASH,0,0,0
 2017-08,Dorset,Highcliffe Library,BFR,FORGIVEN,0,10,0
-2017-08,Dorset,Highcliffe Library,CHARGE,CANCEL,10,10,0
+2017-08,Dorset,Highcliffe Library,CHARGE,CANCEL,0,10,0
 2017-08,Dorset,Highcliffe Library,CHARGE,CASH,90,190,190
 2017-08,Dorset,Highcliffe Library,CHARGE,FORGIVEN,0,10,0
 2017-08,Dorset,Highcliffe Library,CHARGE,VOUCH,0,0,0
@@ -17225,7 +17225,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Dorset,Chickerell Library,LOST,CANCEL,0,20,0
 2017-09,Dorset,Chickerell Library,OVERDUE,CASH,10,10,10
 2017-09,Dorset,Christchurch Library,CHARGE,CANCEL,10,10,0
-2017-09,Dorset,Christchurch Library,CHARGE,CASH,260,610,610
+2017-09,Dorset,Christchurch Library,CHARGE,CASH,250,610,610
 2017-09,Dorset,Christchurch Library,CHARGE,FORGIVEN,0,10,0
 2017-09,Dorset,Christchurch Library,LOST,CANCEL,80,380,0
 2017-09,Dorset,Christchurch Library,LOST,CASH,0,30,30
@@ -18667,7 +18667,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Dorset,Christchurch Library,LOST,CANCEL,130,600,0
 2017-10,Dorset,Christchurch Library,LOST,CASH,0,20,20
 2017-10,Dorset,Christchurch Library,OVERDUE,CANCEL,10,20,0
-2017-10,Dorset,Christchurch Library,OVERDUE,CASH,360,400,400
+2017-10,Dorset,Christchurch Library,OVERDUE,CASH,360,390,390
 2017-10,Dorset,Christchurch Library,OVERDUE,FORGIVEN,10,20,0
 2017-10,Dorset,Colehill Library,CHARGE,CASH,0,10,10
 2017-10,Dorset,Colehill Library,HOLD,CASH,0,0,0
@@ -19363,7 +19363,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Somerset,Taunton Library,LOST,DEBITCARD,20,80,80
 2017-10,Somerset,Taunton Library,LOST,FORGIVEN,0,0,0
 2017-10,Somerset,Taunton Library,OVERDUE,CANCEL,50,140,0
-2017-10,Somerset,Taunton Library,OVERDUE,CASH,1080,840,840
+2017-10,Somerset,Taunton Library,OVERDUE,CASH,1070,830,830
 2017-10,Somerset,Taunton Library,OVERDUE,CREDITACCT,0,0,0
 2017-10,Somerset,Taunton Library,OVERDUE,CREDITCARD,50,60,60
 2017-10,Somerset,Taunton Library,OVERDUE,DEBITCARD,370,430,430
@@ -21880,7 +21880,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Somerset,Taunton Library,LOST,DEBITCARD,0,50,50
 2017-12,Somerset,Taunton Library,LOST,FORGIVEN,0,10,0
 2017-12,Somerset,Taunton Library,OVERDUE,CANCEL,120,150,0
-2017-12,Somerset,Taunton Library,OVERDUE,CASH,710,580,580
+2017-12,Somerset,Taunton Library,OVERDUE,CASH,710,570,570
 2017-12,Somerset,Taunton Library,OVERDUE,CREDITCARD,50,130,130
 2017-12,Somerset,Taunton Library,OVERDUE,DEBITCARD,270,440,440
 2017-12,Somerset,Taunton Library,OVERDUE,FORGIVEN,90,200,0
@@ -23051,7 +23051,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Milborne Port Library,CHARGE,CANCEL,0,0,0
 2018-01,Somerset,Milborne Port Library,CHARGE,CASH,10,10,10
 2018-01,Somerset,Milborne Port Library,HOLD,CANCEL,0,0,0
-2018-01,Somerset,Milborne Port Library,HOLD,CASH,20,20,20
+2018-01,Somerset,Milborne Port Library,HOLD,CASH,10,10,10
 2018-01,Somerset,Milborne Port Library,LOST,CANCEL,20,60,0
 2018-01,Somerset,Milborne Port Library,LOST,FORGIVEN,0,0,0
 2018-01,Somerset,Milborne Port Library,OVERDUE,CANCEL,10,0,0
@@ -24426,7 +24426,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Somerset,Taunton Library,LOST,DEBITCARD,10,40,40
 2018-02,Somerset,Taunton Library,LOST,FORGIVEN,0,40,0
 2018-02,Somerset,Taunton Library,OVERDUE,CANCEL,50,60,0
-2018-02,Somerset,Taunton Library,OVERDUE,CASH,830,530,530
+2018-02,Somerset,Taunton Library,OVERDUE,CASH,830,510,510
 2018-02,Somerset,Taunton Library,OVERDUE,CREDITACCT,0,0,0
 2018-02,Somerset,Taunton Library,OVERDUE,CREDITCARD,20,60,60
 2018-02,Somerset,Taunton Library,OVERDUE,DEBITCARD,260,270,270
@@ -30573,7 +30573,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Somerset,Taunton Library,LOST,CASH,10,30,30
 2018-07,Somerset,Taunton Library,LOST,DEBITCARD,0,10,10
 2018-07,Somerset,Taunton Library,OVERDUE,CANCEL,20,50,0
-2018-07,Somerset,Taunton Library,OVERDUE,CASH,1030,880,880
+2018-07,Somerset,Taunton Library,OVERDUE,CASH,1030,870,870
 2018-07,Somerset,Taunton Library,OVERDUE,CREDITACCT,10,0,0
 2018-07,Somerset,Taunton Library,OVERDUE,CREDITCARD,30,40,40
 2018-07,Somerset,Taunton Library,OVERDUE,DEBITCARD,420,530,530
