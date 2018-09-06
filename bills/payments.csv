@@ -6582,7 +6582,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Poole,Oakdale Library,HOLD,CASH,20,20,20
 2017-01,Poole,Oakdale Library,LOST,CANCEL,0,10,0
 2017-01,Poole,Oakdale Library,OVERDUE,CANCEL,0,10,0
-2017-01,Poole,Oakdale Library,OVERDUE,CASH,70,70,70
+2017-01,Poole,Oakdale Library,OVERDUE,CASH,60,70,70
 2017-01,Poole,Oakdale Library,OVERDUE,FORGIVEN,20,40,0
 2017-01,Poole,Parkstone Library,CHARGE,CANCEL,0,0,0
 2017-01,Poole,Parkstone Library,CHARGE,CASH,40,50,50
@@ -14598,14 +14598,14 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,North Somerset,Nailsea Library,CHARGE,FORGIVEN,20,10,0
 2017-07,North Somerset,Nailsea Library,HOLD,CASH,60,60,60
 2017-07,North Somerset,Nailsea Library,HOLD,FORGIVEN,10,10,0
-2017-07,North Somerset,Nailsea Library,LOST,CANCEL,40,180,0
+2017-07,North Somerset,Nailsea Library,LOST,CANCEL,40,160,0
 2017-07,North Somerset,Nailsea Library,LOST,CASH,10,20,20
 2017-07,North Somerset,Nailsea Library,LOST,FORGIVEN,0,0,0
 2017-07,North Somerset,Nailsea Library,OVERDUE,CANCEL,10,40,0
 2017-07,North Somerset,Nailsea Library,OVERDUE,CASH,730,360,360
 2017-07,North Somerset,Nailsea Library,OVERDUE,CREDITACCT,0,0,0
 2017-07,North Somerset,Nailsea Library,OVERDUE,DEBITCARD,0,0,0
-2017-07,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,160,90,0
+2017-07,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,150,90,0
 2017-07,North Somerset,Nailsea Library,PROCESSFEE,CASH,0,0,0
 2017-07,North Somerset,North Somerset Mobile,CHARGE,CASH,0,0,0
 2017-07,North Somerset,North Somerset Mobile,HOLD,CANCEL,10,0,0
@@ -20471,7 +20471,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Somerset,Frome Library,HOLD,CASH,260,250,250
 2017-11,Somerset,Frome Library,HOLD,DEBITCARD,20,20,20
 2017-11,Somerset,Frome Library,HOLD,FORGIVEN,0,0,0
-2017-11,Somerset,Frome Library,LOST,CANCEL,100,550,0
+2017-11,Somerset,Frome Library,LOST,CANCEL,100,510,0
 2017-11,Somerset,Frome Library,LOST,CASH,10,30,30
 2017-11,Somerset,Frome Library,LOST,DEBITCARD,10,20,20
 2017-11,Somerset,Frome Library,LOST,FORGIVEN,0,20,0
@@ -27424,7 +27424,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Bristol,St George Library,LOST,CASH,0,20,20
 2018-05,Bristol,St George Library,OVERDUE,CANCEL,10,10,0
 2018-05,Bristol,St George Library,OVERDUE,CASH,160,110,110
-2018-05,Bristol,St George Library,OVERDUE,FORGIVEN,30,60,0
+2018-05,Bristol,St George Library,OVERDUE,FORGIVEN,30,40,0
 2018-05,Bristol,St Pauls Library,BFR,CASH,0,10,10
 2018-05,Bristol,St Pauls Library,CHARGE,CASH,0,0,0
 2018-05,Bristol,St Pauls Library,LOST,CANCEL,40,230,0
