@@ -3955,7 +3955,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,Somerset,Crewkerne Library,LOST,CANCEL,20,70,0
 2016-11,Somerset,Crewkerne Library,LOST,CASH,0,10,10
 2016-11,Somerset,Crewkerne Library,OVERDUE,CANCEL,20,70,0
-2016-11,Somerset,Crewkerne Library,OVERDUE,CASH,260,130,130
+2016-11,Somerset,Crewkerne Library,OVERDUE,CASH,250,130,130
 2016-11,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,70,40,0
 2016-11,Somerset,Dulverton Library,CHARGE,CASH,30,50,50
 2016-11,Somerset,Dulverton Library,CHARGE,DEBITCARD,0,10,10
@@ -5178,7 +5178,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,Poole,Canford Cliffs Library,HOLD,CASH,110,110,110
 2016-12,Poole,Canford Cliffs Library,HOLD,FORGIVEN,10,10,0
 2016-12,Poole,Canford Cliffs Library,OVERDUE,CANCEL,20,20,0
-2016-12,Poole,Canford Cliffs Library,OVERDUE,CASH,130,110,110
+2016-12,Poole,Canford Cliffs Library,OVERDUE,CASH,120,110,110
 2016-12,Poole,Canford Cliffs Library,OVERDUE,FORGIVEN,20,20,0
 2016-12,Poole,Canford Heath Library,CHARGE,CASH,30,40,40
 2016-12,Poole,Canford Heath Library,CHARGE,FORGIVEN,0,0,0
@@ -5781,7 +5781,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,10,20,0
 2016-12,South Gloucestershire,Yate Library,CHARGE,VOUCH,0,0,0
 2016-12,South Gloucestershire,Yate Library,HOLD,CANCEL,10,10,0
-2016-12,South Gloucestershire,Yate Library,HOLD,CASH,210,160,160
+2016-12,South Gloucestershire,Yate Library,HOLD,CASH,210,150,150
 2016-12,South Gloucestershire,Yate Library,HOLD,FORGIVEN,0,0,0
 2016-12,South Gloucestershire,Yate Library,LOST,CANCEL,90,460,0
 2016-12,South Gloucestershire,Yate Library,LOST,CASH,0,30,30
@@ -8329,7 +8329,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,Somerset,Wells Library,DAMAGE,CASH,0,0,0
 2017-02,Somerset,Wells Library,DAMAGE,FORGIVEN,0,0,0
 2017-02,Somerset,Wells Library,HOLD,CANCEL,0,0,0
-2017-02,Somerset,Wells Library,HOLD,CASH,220,220,220
+2017-02,Somerset,Wells Library,HOLD,CASH,210,220,220
 2017-02,Somerset,Wells Library,HOLD,CREDITCARD,0,0,0
 2017-02,Somerset,Wells Library,HOLD,DEBITCARD,20,20,20
 2017-02,Somerset,Wells Library,HOLD,FORGIVEN,0,0,0
@@ -9469,7 +9469,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Somerset,Crewkerne Library,HOLD,CASH,140,140,140
 2017-03,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2017-03,Somerset,Crewkerne Library,OVERDUE,CANCEL,0,10,0
-2017-03,Somerset,Crewkerne Library,OVERDUE,CASH,240,120,120
+2017-03,Somerset,Crewkerne Library,OVERDUE,CASH,230,120,120
 2017-03,Somerset,Crewkerne Library,OVERDUE,CREDITACCT,0,0,0
 2017-03,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,10,20,0
 2017-03,Somerset,Dulverton Library,CHARGE,CANCEL,0,0,0
@@ -12638,7 +12638,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Bristol,Bishopston Library,CHARGE,CREDITCARD,10,20,20
 2017-06,Bristol,Bishopston Library,CHARGE,FORGIVEN,20,30,0
 2017-06,Bristol,Bishopston Library,HOLD,CASH,0,0,0
-2017-06,Bristol,Bishopston Library,LOST,CANCEL,130,580,0
+2017-06,Bristol,Bishopston Library,LOST,CANCEL,130,560,0
 2017-06,Bristol,Bishopston Library,LOST,CASH,10,40,40
 2017-06,Bristol,Bishopston Library,LOST,CREDITCARD,0,10,10
 2017-06,Bristol,Bishopston Library,LOST,FORGIVEN,10,30,0
@@ -13910,7 +13910,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,South Gloucestershire,Yate Library,LOST,CANCEL,90,530,0
 2017-06,South Gloucestershire,Yate Library,LOST,CASH,10,20,20
 2017-06,South Gloucestershire,Yate Library,OVERDUE,CANCEL,40,80,0
-2017-06,South Gloucestershire,Yate Library,OVERDUE,CASH,290,210,210
+2017-06,South Gloucestershire,Yate Library,OVERDUE,CASH,280,200,200
 2017-06,South Gloucestershire,Yate Library,OVERDUE,CREDITACCT,0,0,0
 2017-06,South Gloucestershire,Yate Library,OVERDUE,FORGIVEN,30,60,0
 2017-06,South Gloucestershire,Yate Mobile,CHARGE,CANCEL,10,10,0
@@ -14147,11 +14147,11 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Bristol,Hillfields Library,OVERDUE,CASH,20,40,40
 2017-07,Bristol,Hillfields Library,OVERDUE,FORGIVEN,0,0,0
 2017-07,Bristol,Horfield Library,CHARGE,CANCEL,0,0,0
-2017-07,Bristol,Horfield Library,CHARGE,CASH,40,50,50
+2017-07,Bristol,Horfield Library,CHARGE,CASH,40,40,40
 2017-07,Bristol,Horfield Library,CHARGE,FORGIVEN,10,10,0
 2017-07,Bristol,Horfield Library,CHARGE,VOUCH,0,0,0
 2017-07,Bristol,Horfield Library,HOLD,CASH,0,0,0
-2017-07,Bristol,Horfield Library,LOST,CANCEL,40,200,0
+2017-07,Bristol,Horfield Library,LOST,CANCEL,40,190,0
 2017-07,Bristol,Horfield Library,LOST,CASH,0,10,10
 2017-07,Bristol,Horfield Library,LOST,FORGIVEN,0,10,0
 2017-07,Bristol,Horfield Library,OVERDUE,CANCEL,0,0,0
@@ -14741,7 +14741,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Poole,Poole Central Library,LOST,CANCEL,0,0,0
 2017-07,Poole,Poole Central Library,LOST,CASH,0,10,10
 2017-07,Poole,Poole Central Library,OVERDUE,CANCEL,10,10,0
-2017-07,Poole,Poole Central Library,OVERDUE,CASH,510,640,640
+2017-07,Poole,Poole Central Library,OVERDUE,CASH,510,630,630
 2017-07,Poole,Poole Central Library,OVERDUE,FORGIVEN,80,130,0
 2017-07,Poole,Rossmore Library,CHARGE,CASH,40,50,50
 2017-07,Poole,Rossmore Library,CHARGE,FORGIVEN,0,0,0
@@ -16312,7 +16312,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Crewkerne Library,LOST,CANCEL,30,160,0
 2017-08,Somerset,Crewkerne Library,LOST,CASH,0,0,0
 2017-08,Somerset,Crewkerne Library,OVERDUE,CANCEL,30,40,0
-2017-08,Somerset,Crewkerne Library,OVERDUE,CASH,280,140,140
+2017-08,Somerset,Crewkerne Library,OVERDUE,CASH,270,140,140
 2017-08,Somerset,Crewkerne Library,OVERDUE,DEBITCARD,20,50,50
 2017-08,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,40,20,0
 2017-08,Somerset,Dulverton Library,CHARGE,CANCEL,0,10,0
@@ -22863,7 +22863,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Poole,Poole Central Library,LOST,CASH,0,10,10
 2018-01,Poole,Poole Central Library,LOST,FORGIVEN,0,20,0
 2018-01,Poole,Poole Central Library,OVERDUE,CANCEL,0,10,0
-2018-01,Poole,Poole Central Library,OVERDUE,CASH,540,810,810
+2018-01,Poole,Poole Central Library,OVERDUE,CASH,540,800,800
 2018-01,Poole,Poole Central Library,OVERDUE,CREDITCARD,0,20,20
 2018-01,Poole,Poole Central Library,OVERDUE,DEBITCARD,0,0,0
 2018-01,Poole,Poole Central Library,OVERDUE,FORGIVEN,60,240,0
@@ -23512,7 +23512,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Bristol,Bedminster Library,LOST,CREDITCARD,0,10,10
 2018-02,Bristol,Bedminster Library,LOST,FORGIVEN,0,20,0
 2018-02,Bristol,Bedminster Library,OVERDUE,CANCEL,20,10,0
-2018-02,Bristol,Bedminster Library,OVERDUE,CASH,290,200,200
+2018-02,Bristol,Bedminster Library,OVERDUE,CASH,290,190,190
 2018-02,Bristol,Bedminster Library,OVERDUE,CREDITACCT,0,0,0
 2018-02,Bristol,Bedminster Library,OVERDUE,CREDITCARD,80,70,70
 2018-02,Bristol,Bedminster Library,OVERDUE,FORGIVEN,10,40,0
