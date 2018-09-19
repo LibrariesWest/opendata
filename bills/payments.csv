@@ -4023,7 +4023,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,Somerset,Langport Library,CHARGE,CASH,100,210,210
 2016-11,Somerset,Langport Library,CHARGE,FORGIVEN,10,10,0
 2016-11,Somerset,Langport Library,HOLD,CANCEL,0,0,0
-2016-11,Somerset,Langport Library,HOLD,CASH,130,130,130
+2016-11,Somerset,Langport Library,HOLD,CASH,130,120,120
 2016-11,Somerset,Langport Library,HOLD,CREDITACCT,0,0,0
 2016-11,Somerset,Langport Library,LOST,CANCEL,10,20,0
 2016-11,Somerset,Langport Library,LOST,CASH,0,10,10
@@ -9234,7 +9234,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,North Somerset,Pill Library,HOLD,CASH,20,20,20
 2017-03,North Somerset,Pill Library,LOST,CANCEL,10,30,0
 2017-03,North Somerset,Pill Library,OVERDUE,CANCEL,0,0,0
-2017-03,North Somerset,Pill Library,OVERDUE,CASH,40,10,10
+2017-03,North Somerset,Pill Library,OVERDUE,CASH,30,10,10
 2017-03,North Somerset,Portishead Library,CHARGE,CANCEL,10,10,0
 2017-03,North Somerset,Portishead Library,CHARGE,CASH,290,400,400
 2017-03,North Somerset,Portishead Library,CHARGE,FORGIVEN,20,30,0
@@ -17817,7 +17817,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Langport Library,CHARGE,CANCEL,10,20,0
 2017-09,Somerset,Langport Library,CHARGE,CASH,130,260,260
 2017-09,Somerset,Langport Library,HOLD,CANCEL,0,0,0
-2017-09,Somerset,Langport Library,HOLD,CASH,120,110,110
+2017-09,Somerset,Langport Library,HOLD,CASH,110,110,110
 2017-09,Somerset,Langport Library,LOST,CANCEL,30,140,0
 2017-09,Somerset,Langport Library,LOST,CASH,10,60,60
 2017-09,Somerset,Langport Library,OVERDUE,CANCEL,10,10,0
@@ -19625,7 +19625,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bath and North East Somerset,Bath Central Library,LOST,CREDITCARD,10,80,80
 2017-11,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,100,140,0
 2017-11,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,920,560,560
-2017-11,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,540,750,750
+2017-11,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,540,740,740
 2017-11,Bath and North East Somerset,Bath Central Library,OVERDUE,FORGIVEN,70,110,0
 2017-11,Bath and North East Somerset,Bath Central Library,PROCESSFEE,CASH,0,10,10
 2017-11,Bath and North East Somerset,Bath Central Library,PROCESSFEE,CREDITCARD,10,20,20
@@ -21745,7 +21745,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Somerset,Langport Library,CHARGE,FORGIVEN,0,0,0
 2017-12,Somerset,Langport Library,CHARGE,VOUCH,0,0,0
 2017-12,Somerset,Langport Library,HOLD,CANCEL,0,0,0
-2017-12,Somerset,Langport Library,HOLD,CASH,120,120,120
+2017-12,Somerset,Langport Library,HOLD,CASH,120,110,110
 2017-12,Somerset,Langport Library,LOST,CANCEL,10,30,0
 2017-12,Somerset,Langport Library,LOST,CASH,0,10,10
 2017-12,Somerset,Langport Library,OVERDUE,CASH,180,120,120
@@ -23029,7 +23029,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Langport Library,HOLD,CANCEL,0,0,0
 2018-01,Somerset,Langport Library,HOLD,CASH,120,120,120
 2018-01,Somerset,Langport Library,LOST,CANCEL,20,110,0
-2018-01,Somerset,Langport Library,LOST,CASH,0,10,10
+2018-01,Somerset,Langport Library,LOST,CASH,0,0,0
 2018-01,Somerset,Langport Library,LOST,FORGIVEN,0,0,0
 2018-01,Somerset,Langport Library,OVERDUE,CANCEL,10,10,0
 2018-01,Somerset,Langport Library,OVERDUE,CASH,240,190,190
@@ -23258,7 +23258,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Yeovil Library,DAMAGE,DEBITCARD,0,10,10
 2018-01,Somerset,Yeovil Library,DAMAGE,FORGIVEN,0,10,0
 2018-01,Somerset,Yeovil Library,HOLD,CANCEL,10,10,0
-2018-01,Somerset,Yeovil Library,HOLD,CASH,230,230,230
+2018-01,Somerset,Yeovil Library,HOLD,CASH,230,220,220
 2018-01,Somerset,Yeovil Library,HOLD,DEBITCARD,10,10,10
 2018-01,Somerset,Yeovil Library,HOLD,FORGIVEN,10,10,0
 2018-01,Somerset,Yeovil Library,LOST,CANCEL,80,430,0
@@ -26578,7 +26578,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Poole,Broadstone Library,LOST,CANCEL,0,20,0
 2018-04,Poole,Broadstone Library,LOST,FORGIVEN,0,10,0
 2018-04,Poole,Broadstone Library,OVERDUE,CANCEL,10,80,0
-2018-04,Poole,Broadstone Library,OVERDUE,CASH,310,320,320
+2018-04,Poole,Broadstone Library,OVERDUE,CASH,310,310,310
 2018-04,Poole,Broadstone Library,OVERDUE,FORGIVEN,40,120,0
 2018-04,Poole,Canford Cliffs Library,CHARGE,CANCEL,0,0,0
 2018-04,Poole,Canford Cliffs Library,CHARGE,CASH,30,40,40
@@ -27638,7 +27638,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Dorset,Wareham Library,LOST,CANCEL,20,80,0
 2018-05,Dorset,Wareham Library,OVERDUE,CANCEL,10,40,0
 2018-05,Dorset,Wareham Library,OVERDUE,CASH,110,80,80
-2018-05,Dorset,West Moors Library,CHARGE,CASH,20,40,40
+2018-05,Dorset,West Moors Library,CHARGE,CASH,20,30,30
 2018-05,Dorset,West Moors Library,CHARGE,FORGIVEN,0,0,0
 2018-05,Dorset,West Moors Library,HOLD,CASH,0,0,0
 2018-05,Dorset,West Moors Library,LOST,CANCEL,10,30,0
@@ -31759,7 +31759,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Martock Library,CHARGE,CASH,70,150,150
 2018-08,Somerset,Martock Library,CHARGE,DEBITCARD,0,0,0
 2018-08,Somerset,Martock Library,CHARGE,NONE,0,0,0
-2018-08,Somerset,Martock Library,HOLD,CASH,90,80,80
+2018-08,Somerset,Martock Library,HOLD,CASH,80,80,80
 2018-08,Somerset,Martock Library,HOLD,CREDITACCT,0,0,0
 2018-08,Somerset,Martock Library,HOLD,FORGIVEN,0,0,0
 2018-08,Somerset,Martock Library,LOST,CANCEL,20,70,0
