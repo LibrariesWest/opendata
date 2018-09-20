@@ -2087,7 +2087,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-10,Dorset,Sherborne Library,DAMAGE,CASH,0,10,10
 2016-10,Dorset,Sherborne Library,LOST,CANCEL,30,150,0
 2016-10,Dorset,Sherborne Library,OVERDUE,CANCEL,0,0,0
-2016-10,Dorset,Sherborne Library,OVERDUE,CASH,190,140,140
+2016-10,Dorset,Sherborne Library,OVERDUE,CASH,180,140,140
 2016-10,Dorset,Sherborne Library,OVERDUE,FORGIVEN,20,60,0
 2016-10,Dorset,Stalbridge Library,CHARGE,CASH,30,40,40
 2016-10,Dorset,Stalbridge Library,LOST,CANCEL,0,20,0
@@ -3862,7 +3862,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,Poole,Rossmore Library,HOLD,CASH,40,40,40
 2016-11,Poole,Rossmore Library,HOLD,FORGIVEN,0,0,0
 2016-11,Poole,Rossmore Library,OVERDUE,CANCEL,10,50,0
-2016-11,Poole,Rossmore Library,OVERDUE,CASH,100,230,230
+2016-11,Poole,Rossmore Library,OVERDUE,CASH,90,230,230
 2016-11,Poole,Rossmore Library,OVERDUE,DEBITCARD,10,30,30
 2016-11,Poole,Rossmore Library,OVERDUE,FORGIVEN,40,120,0
 2016-11,Somerset,Bishops Lydeard Library,CHARGE,CASH,10,10,10
@@ -10412,7 +10412,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Dorset,Sherborne Library,LOST,CANCEL,20,90,0
 2017-04,Dorset,Sherborne Library,LOST,CASH,0,0,0
 2017-04,Dorset,Sherborne Library,OVERDUE,CANCEL,0,0,0
-2017-04,Dorset,Sherborne Library,OVERDUE,CASH,170,140,140
+2017-04,Dorset,Sherborne Library,OVERDUE,CASH,160,130,130
 2017-04,Dorset,Sherborne Library,OVERDUE,FORGIVEN,10,20,0
 2017-04,Dorset,Stalbridge Library,CHARGE,CASH,10,20,20
 2017-04,Dorset,Stalbridge Library,DAMAGE,CASH,0,10,10
@@ -17596,7 +17596,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Poole,Canford Heath Library,CHARGE,CASH,10,20,20
 2017-09,Poole,Canford Heath Library,DAMAGE,CASH,0,0,0
 2017-09,Poole,Canford Heath Library,HOLD,CANCEL,0,0,0
-2017-09,Poole,Canford Heath Library,HOLD,CASH,30,30,30
+2017-09,Poole,Canford Heath Library,HOLD,CASH,20,20,20
 2017-09,Poole,Canford Heath Library,HOLD,FORGIVEN,0,0,0
 2017-09,Poole,Canford Heath Library,OVERDUE,CANCEL,20,10,0
 2017-09,Poole,Canford Heath Library,OVERDUE,CASH,50,50,50
@@ -19055,7 +19055,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Poole,Rossmore Library,CHARGE,FORGIVEN,10,10,0
 2017-10,Poole,Rossmore Library,HOLD,CASH,30,30,30
 2017-10,Poole,Rossmore Library,HOLD,FORGIVEN,0,0,0
-2017-10,Poole,Rossmore Library,OVERDUE,CASH,80,130,130
+2017-10,Poole,Rossmore Library,OVERDUE,CASH,80,120,120
 2017-10,Poole,Rossmore Library,OVERDUE,FORGIVEN,10,30,0
 2017-10,Somerset,Bishops Lydeard Library,CHARGE,CASH,10,10,10
 2017-10,Somerset,Bishops Lydeard Library,HOLD,CASH,30,30,30
@@ -26628,7 +26628,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Poole,Poole Central Library,LOST,CANCEL,0,0,0
 2018-04,Poole,Poole Central Library,LOST,CASH,10,50,50
 2018-04,Poole,Poole Central Library,OVERDUE,CANCEL,10,70,0
-2018-04,Poole,Poole Central Library,OVERDUE,CASH,460,690,690
+2018-04,Poole,Poole Central Library,OVERDUE,CASH,450,690,690
 2018-04,Poole,Poole Central Library,OVERDUE,FORGIVEN,30,60,0
 2018-04,Poole,Poole Central Library,OVERDUE,NONE,10,30,30
 2018-04,Poole,Poole Central Library,PROCESSFEE,CASH,0,0,0
@@ -27847,7 +27847,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Poole,Rossmore Library,HOLD,CASH,10,10,10
 2018-05,Poole,Rossmore Library,LOST,CASH,0,10,10
 2018-05,Poole,Rossmore Library,OVERDUE,CASH,110,120,120
-2018-05,Poole,Rossmore Library,OVERDUE,FORGIVEN,20,60,0
+2018-05,Poole,Rossmore Library,OVERDUE,FORGIVEN,10,50,0
 2018-05,Somerset,Bishops Lydeard Library,HOLD,CASH,10,20,20
 2018-05,Somerset,Bishops Lydeard Library,LOST,CANCEL,0,20,0
 2018-05,Somerset,Bishops Lydeard Library,OVERDUE,CASH,10,0,0
@@ -30226,7 +30226,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Poole,Branksome Library,CHARGE,FORGIVEN,0,0,0
 2018-07,Poole,Branksome Library,HOLD,CASH,50,40,40
 2018-07,Poole,Branksome Library,HOLD,FORGIVEN,0,0,0
-2018-07,Poole,Branksome Library,OVERDUE,CANCEL,10,50,0
+2018-07,Poole,Branksome Library,OVERDUE,CANCEL,10,40,0
 2018-07,Poole,Branksome Library,OVERDUE,CASH,90,80,80
 2018-07,Poole,Branksome Library,OVERDUE,FORGIVEN,20,50,0
 2018-07,Poole,Broadstone Library,CHARGE,CASH,170,250,250
@@ -31977,7 +31977,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Wiveliscombe Library,OVERDUE,CREDITACCT,0,10,10
 2018-08,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,10,10,0
 2018-08,Somerset,Yeovil Library,CHARGE,CANCEL,20,30,0
-2018-08,Somerset,Yeovil Library,CHARGE,CASH,340,680,680
+2018-08,Somerset,Yeovil Library,CHARGE,CASH,330,680,680
 2018-08,Somerset,Yeovil Library,CHARGE,DEBITCARD,20,30,30
 2018-08,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,10,0
 2018-08,Somerset,Yeovil Library,DAMAGE,CASH,0,10,10
