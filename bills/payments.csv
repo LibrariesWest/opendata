@@ -435,7 +435,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-09,Dorset,Bridport Library,BFR,CASH,0,10,10
 2016-09,Dorset,Bridport Library,BFR,FORGIVEN,0,20,0
 2016-09,Dorset,Bridport Library,CHARGE,CANCEL,0,10,0
-2016-09,Dorset,Bridport Library,CHARGE,CASH,180,390,390
+2016-09,Dorset,Bridport Library,CHARGE,CASH,180,380,380
 2016-09,Dorset,Bridport Library,CHARGE,FORGIVEN,0,10,0
 2016-09,Dorset,Bridport Library,HOLD,CASH,0,0,0
 2016-09,Dorset,Bridport Library,LOST,CANCEL,50,270,0
@@ -2153,7 +2153,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-10,Dorset,Weymouth Library,LOST,CASH,10,30,30
 2016-10,Dorset,Weymouth Library,LOST,FORGIVEN,0,0,0
 2016-10,Dorset,Weymouth Library,OVERDUE,CANCEL,10,50,0
-2016-10,Dorset,Weymouth Library,OVERDUE,CASH,260,270,270
+2016-10,Dorset,Weymouth Library,OVERDUE,CASH,260,260,260
 2016-10,Dorset,Weymouth Library,OVERDUE,CHEQUE,10,20,20
 2016-10,Dorset,Weymouth Library,OVERDUE,FORGIVEN,30,50,0
 2016-10,Dorset,Weymouth Library,PROCESSFEE,CASH,0,0,0
@@ -6178,7 +6178,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Dorset,Blandford Library,OVERDUE,FORGIVEN,10,10,0
 2017-01,Dorset,Bridport Library,BFR,CASH,0,30,30
 2017-01,Dorset,Bridport Library,CHARGE,CANCEL,0,0,0
-2017-01,Dorset,Bridport Library,CHARGE,CASH,160,350,350
+2017-01,Dorset,Bridport Library,CHARGE,CASH,160,340,340
 2017-01,Dorset,Bridport Library,CHARGE,FORGIVEN,0,10,0
 2017-01,Dorset,Bridport Library,HOLD,CASH,0,0,0
 2017-01,Dorset,Bridport Library,ILL,CASH,0,10,10
@@ -10294,7 +10294,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Dorset,Bridport Library,LOST,CANCEL,40,240,0
 2017-04,Dorset,Bridport Library,LOST,CASH,0,10,10
 2017-04,Dorset,Bridport Library,OVERDUE,CANCEL,30,60,0
-2017-04,Dorset,Bridport Library,OVERDUE,CASH,200,170,170
+2017-04,Dorset,Bridport Library,OVERDUE,CASH,190,170,170
 2017-04,Dorset,Bridport Library,OVERDUE,FORGIVEN,20,60,0
 2017-04,Dorset,Bridport Library,PROCESSFEE,CASH,0,0,0
 2017-04,Dorset,Burton Bradstock Library,OVERDUE,CASH,10,0,0
