@@ -3338,7 +3338,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,Bristol,Westbury-on-Trym Library,LOST,CANCEL,70,300,0
 2016-11,Bristol,Westbury-on-Trym Library,LOST,CASH,20,60,60
 2016-11,Bristol,Westbury-on-Trym Library,LOST,FORGIVEN,0,10,0
-2016-11,Bristol,Westbury-on-Trym Library,OVERDUE,CASH,160,130,130
+2016-11,Bristol,Westbury-on-Trym Library,OVERDUE,CASH,160,120,120
 2016-11,Bristol,Westbury-on-Trym Library,OVERDUE,FORGIVEN,50,80,0
 2016-11,Bristol,Whitchurch Library,CHARGE,CANCEL,0,0,0
 2016-11,Bristol,Whitchurch Library,CHARGE,CASH,20,30,30
@@ -5692,7 +5692,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,South Gloucestershire,Emersons Green Library,LOST,FORGIVEN,20,110,0
 2016-12,South Gloucestershire,Emersons Green Library,OVERDUE,CANCEL,20,20,0
 2016-12,South Gloucestershire,Emersons Green Library,OVERDUE,CASH,170,150,150
-2016-12,South Gloucestershire,Emersons Green Library,OVERDUE,FORGIVEN,20,30,0
+2016-12,South Gloucestershire,Emersons Green Library,OVERDUE,FORGIVEN,20,20,0
 2016-12,South Gloucestershire,Filton Library,CHARGE,CANCEL,10,10,0
 2016-12,South Gloucestershire,Filton Library,CHARGE,CASH,100,130,130
 2016-12,South Gloucestershire,Filton Library,CHARGE,FORGIVEN,0,10,0
@@ -8878,7 +8878,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Bristol,Westbury-on-Trym Library,BFR,CANCEL,10,60,0
 2017-03,Bristol,Westbury-on-Trym Library,CHARGE,CASH,110,150,150
 2017-03,Bristol,Westbury-on-Trym Library,CHARGE,FORGIVEN,0,10,0
-2017-03,Bristol,Westbury-on-Trym Library,LOST,CANCEL,80,370,0
+2017-03,Bristol,Westbury-on-Trym Library,LOST,CANCEL,80,360,0
 2017-03,Bristol,Westbury-on-Trym Library,LOST,CASH,0,20,20
 2017-03,Bristol,Westbury-on-Trym Library,LOST,FORGIVEN,0,0,0
 2017-03,Bristol,Westbury-on-Trym Library,OVERDUE,CANCEL,0,0,0
@@ -15213,7 +15213,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,South Gloucestershire,Downend Library,LOST,CANCEL,150,830,0
 2017-07,South Gloucestershire,Downend Library,LOST,CASH,0,10,10
 2017-07,South Gloucestershire,Downend Library,LOST,FORGIVEN,10,20,0
-2017-07,South Gloucestershire,Downend Library,OVERDUE,CANCEL,50,130,0
+2017-07,South Gloucestershire,Downend Library,OVERDUE,CANCEL,40,130,0
 2017-07,South Gloucestershire,Downend Library,OVERDUE,CASH,180,140,140
 2017-07,South Gloucestershire,Downend Library,OVERDUE,DEBITCARD,0,0,0
 2017-07,South Gloucestershire,Downend Library,OVERDUE,FORGIVEN,20,20,0
@@ -17647,7 +17647,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Poole,Poole Central Library,HOLD,FORGIVEN,0,0,0
 2017-09,Poole,Poole Central Library,HOLD,NONE,0,0,0
 2017-09,Poole,Poole Central Library,LOST,CASH,0,10,10
-2017-09,Poole,Poole Central Library,OVERDUE,CASH,490,700,700
+2017-09,Poole,Poole Central Library,OVERDUE,CASH,480,700,700
 2017-09,Poole,Poole Central Library,OVERDUE,CREDITCARD,10,10,10
 2017-09,Poole,Poole Central Library,OVERDUE,DEBITCARD,10,30,30
 2017-09,Poole,Poole Central Library,OVERDUE,FORGIVEN,60,170,0
@@ -31955,7 +31955,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Williton Library,OVERDUE,FORGIVEN,10,20,0
 2018-08,Somerset,Wincanton Library,CHARGE,CANCEL,10,10,0
 2018-08,Somerset,Wincanton Library,CHARGE,CASH,60,120,120
-2018-08,Somerset,Wincanton Library,HOLD,CASH,130,130,130
+2018-08,Somerset,Wincanton Library,HOLD,CASH,130,120,120
 2018-08,Somerset,Wincanton Library,HOLD,FORGIVEN,10,0,0
 2018-08,Somerset,Wincanton Library,LOST,CANCEL,10,50,0
 2018-08,Somerset,Wincanton Library,LOST,CASH,0,20,20
