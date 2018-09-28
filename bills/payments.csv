@@ -32998,9 +32998,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Dorset,Weymouth Library,LOST,NONE,0,0,0
 2018-01,Dorset,Weymouth Library,LOSTCARD,CASH,10,20,20
 2018-01,Dorset,Weymouth Library,MISC,CASH,0,0,0
-2018-01,Dorset,Weymouth Library,OVERDUE,CASH,350,340,340
+2018-01,Dorset,Weymouth Library,OVERDUE,CASH,340,340,340
 2018-01,Dorset,Weymouth Library,OVERDUE,FORGIVEN,50,130,0
-2018-01,Dorset,Weymouth Library,OVERDUEX,CASH,0,0,0
 2018-01,Dorset,Weymouth Library,OVERDUEX,FORGIVEN,0,10,0
 2018-01,Dorset,Wimborne Library,CHARGE,CASH,110,260,260
 2018-01,Dorset,Wimborne Library,ILL,CASH,0,20,20
@@ -34779,7 +34778,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Dorset,Weymouth Library,LOST,FORGIVEN,0,10,0
 2018-02,Dorset,Weymouth Library,LOSTCARD,CASH,10,10,10
 2018-02,Dorset,Weymouth Library,LOSTCARD,FORGIVEN,0,0,0
-2018-02,Dorset,Weymouth Library,OVERDUE,CASH,170,140,140
+2018-02,Dorset,Weymouth Library,OVERDUE,CASH,160,140,140
 2018-02,Dorset,Weymouth Library,OVERDUE,FORGIVEN,90,190,0
 2018-02,Dorset,Wimborne Library,BFR,FORGIVEN,0,0,0
 2018-02,Dorset,Wimborne Library,CHARGE,CANCEL,0,0,0
@@ -44966,7 +44965,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Dorset,Shaftesbury Library,LOST,CANCEL,30,140,0
 2018-08,Dorset,Shaftesbury Library,LOST,CASH,0,10,10
 2018-08,Dorset,Shaftesbury Library,LOSTCARD,CASH,0,0,0
-2018-08,Dorset,Shaftesbury Library,OVERDUE,CASH,120,80,80
+2018-08,Dorset,Shaftesbury Library,OVERDUE,CASH,110,80,80
 2018-08,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,0,0,0
 2018-08,Dorset,Sherborne Library,BFR,FORGIVEN,0,10,0
 2018-08,Dorset,Sherborne Library,CHARGE,CANCEL,0,0,0
