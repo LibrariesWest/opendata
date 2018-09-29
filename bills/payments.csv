@@ -13269,7 +13269,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Bristol,Shirehampton Library,LOSTX,FORGIVEN,0,10,0
 2017-03,Bristol,Shirehampton Library,OVERDUE,CASH,60,60,60
 2017-03,Bristol,Shirehampton Library,OVERDUE,CREDITACCT,0,0,0
-2017-03,Bristol,Shirehampton Library,OVERDUE,FORGIVEN,10,10,0
+2017-03,Bristol,Shirehampton Library,OVERDUE,FORGIVEN,0,10,0
 2017-03,Bristol,Shirehampton Library,REFERRAL,CASH,0,10,10
 2017-03,Bristol,Southmead Library,CHARGE,CANCEL,0,0,0
 2017-03,Bristol,Southmead Library,CHARGE,CASH,10,10,10
@@ -26410,7 +26410,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Sunningdale Library,HOLD,CASH,20,20,20
 2017-09,Somerset,Sunningdale Library,OVERDUE,CANCEL,0,0,0
 2017-09,Somerset,Sunningdale Library,OVERDUE,CASH,20,0,0
-2017-09,Somerset,Taunton Library,BFR,DEBITCARD,0,10,10
 2017-09,Somerset,Taunton Library,CHARGE,CANCEL,30,50,0
 2017-09,Somerset,Taunton Library,CHARGE,CASH,670,1340,1340
 2017-09,Somerset,Taunton Library,CHARGE,CREDITACCT,0,0,0
