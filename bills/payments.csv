@@ -6355,10 +6355,9 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,South Gloucestershire,Yate Library,CHARGE,CANCEL,130,190,0
 2016-12,South Gloucestershire,Yate Library,CHARGE,CASH,300,410,410
 2016-12,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,10,20,0
-2016-12,South Gloucestershire,Yate Library,CHARGE,VOUCH,0,0,0
 2016-12,South Gloucestershire,Yate Library,CHARGEX,FORGIVEN,0,0,0
 2016-12,South Gloucestershire,Yate Library,CREDIT,CASH,10,0,0
-2016-12,South Gloucestershire,Yate Library,HOLD,CANCEL,20,20,0
+2016-12,South Gloucestershire,Yate Library,HOLD,CANCEL,10,10,0
 2016-12,South Gloucestershire,Yate Library,HOLD,CASH,210,160,160
 2016-12,South Gloucestershire,Yate Library,HOLD,FORGIVEN,0,0,0
 2016-12,South Gloucestershire,Yate Library,HOLDX,CANCEL,0,0,0
@@ -10328,7 +10327,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,South Gloucestershire,Kingswood Library,CHARGEX,CANCEL,0,0,0
 2017-02,South Gloucestershire,Kingswood Library,CHARGEX,CASH,0,0,0
 2017-02,South Gloucestershire,Kingswood Library,CREDIT,CASH,0,0,0
-2017-02,South Gloucestershire,Kingswood Library,HOLD,CANCEL,0,0,0
 2017-02,South Gloucestershire,Kingswood Library,HOLD,CASH,70,40,40
 2017-02,South Gloucestershire,Kingswood Library,HOLDX,FORGIVEN,0,0,0
 2017-02,South Gloucestershire,Kingswood Library,LOST,CANCEL,40,190,0
@@ -12446,7 +12444,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,South Gloucestershire,Winterbourne Library,SALENOVAT,CASH,0,0,0
 2017-03,South Gloucestershire,Yate Library,CHARGE,CANCEL,20,30,0
 2017-03,South Gloucestershire,Yate Library,CHARGE,CASH,350,460,460
-2017-03,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,10,20,0
+2017-03,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,10,10,0
 2017-03,South Gloucestershire,Yate Library,CHARGE,VOUCH,0,0,0
 2017-03,South Gloucestershire,Yate Library,CHARGEX,CASH,0,0,0
 2017-03,South Gloucestershire,Yate Library,CREDIT,CASH,0,0,0
@@ -19756,7 +19754,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Somerset,Priorswood Library,LOSTX,DEBITCARD,0,0,0
 2017-07,Somerset,Priorswood Library,LOSTX,FORGIVEN,0,20,0
 2017-07,Somerset,Priorswood Library,OVERDUE,CASH,160,60,60
-2017-07,Somerset,Priorswood Library,OVERDUE,FORGIVEN,20,10,0
+2017-07,Somerset,Priorswood Library,OVERDUE,FORGIVEN,10,10,0
 2017-07,Somerset,Priorswood Library,OVERDUEX,DEBITCARD,0,20,20
 2017-07,Somerset,Shepton Mallet Library,CHARGE,CASH,60,110,110
 2017-07,Somerset,Shepton Mallet Library,CHARGE,DEBITCARD,0,10,10
@@ -28190,7 +28188,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,South Gloucestershire,Staple Hill Library,GROUP,CASH,0,0,0
 2017-11,South Gloucestershire,Staple Hill Library,HOLD,CANCEL,0,0,0
 2017-11,South Gloucestershire,Staple Hill Library,HOLD,CASH,60,40,40
-2017-11,South Gloucestershire,Staple Hill Library,HOLD,FORGIVEN,0,0,0
 2017-11,South Gloucestershire,Staple Hill Library,LOST,CANCEL,50,240,0
 2017-11,South Gloucestershire,Staple Hill Library,LOST,CASH,0,0,0
 2017-11,South Gloucestershire,Staple Hill Library,LOST,CHEQUE,0,10,10
@@ -29769,7 +29766,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,South Gloucestershire,Emersons Green Library,CHARGEX,CANCEL,0,20,0
 2017-12,South Gloucestershire,Emersons Green Library,DAMAGE,CASH,0,0,0
 2017-12,South Gloucestershire,Emersons Green Library,GROUP,CASH,0,0,0
-2017-12,South Gloucestershire,Emersons Green Library,HOLD,CANCEL,0,0,0
 2017-12,South Gloucestershire,Emersons Green Library,HOLD,CASH,40,30,30
 2017-12,South Gloucestershire,Emersons Green Library,LOST,CANCEL,120,530,0
 2017-12,South Gloucestershire,Emersons Green Library,LOST,CASH,0,10,10
@@ -31565,7 +31561,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,South Gloucestershire,Emersons Green Library,CHARGE,CASH,170,200,200
 2018-01,South Gloucestershire,Emersons Green Library,GROUP,CASH,0,0,0
 2018-01,South Gloucestershire,Emersons Green Library,HOLD,CASH,80,60,60
-2018-01,South Gloucestershire,Emersons Green Library,HOLD,FORGIVEN,0,0,0
 2018-01,South Gloucestershire,Emersons Green Library,HOLDX,CASH,0,0,0
 2018-01,South Gloucestershire,Emersons Green Library,LOST,CANCEL,130,560,0
 2018-01,South Gloucestershire,Emersons Green Library,LOST,CASH,10,20,20
@@ -33313,7 +33308,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,South Gloucestershire,Emersons Green Library,CHARGE,CASH,160,200,200
 2018-02,South Gloucestershire,Emersons Green Library,CHARGE,FORGIVEN,0,0,0
 2018-02,South Gloucestershire,Emersons Green Library,CREDIT,CASH,0,0,0
-2018-02,South Gloucestershire,Emersons Green Library,HOLD,CANCEL,10,10,0
+2018-02,South Gloucestershire,Emersons Green Library,HOLD,CANCEL,0,10,0
 2018-02,South Gloucestershire,Emersons Green Library,HOLD,CASH,70,50,50
 2018-02,South Gloucestershire,Emersons Green Library,HOLD,FORGIVEN,0,0,0
 2018-02,South Gloucestershire,Emersons Green Library,LOST,CANCEL,70,340,0
@@ -33358,7 +33353,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,South Gloucestershire,Kingswood Library,CHARGE,FORGIVEN,0,0,0
 2018-02,South Gloucestershire,Kingswood Library,GROUP,CANCEL,0,10,0
 2018-02,South Gloucestershire,Kingswood Library,GROUP,FORGIVEN,0,0,0
-2018-02,South Gloucestershire,Kingswood Library,HOLD,CANCEL,10,0,0
+2018-02,South Gloucestershire,Kingswood Library,HOLD,CANCEL,0,0,0
 2018-02,South Gloucestershire,Kingswood Library,HOLD,CASH,70,50,50
 2018-02,South Gloucestershire,Kingswood Library,HOLD,FORGIVEN,0,0,0
 2018-02,South Gloucestershire,Kingswood Library,LOST,CANCEL,40,220,0
@@ -43620,7 +43615,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,South Gloucestershire,Downend Library,OVERDUEX,FORGIVEN,10,20,0
 2018-08,South Gloucestershire,Downend Library,SALENOVAT,CANCEL,0,0,0
 2018-08,South Gloucestershire,Downend Library,SALENOVAT,FORGIVEN,0,0,0
-2018-08,South Gloucestershire,Emersons Green Library,CHARGE,CANCEL,40,70,0
+2018-08,South Gloucestershire,Emersons Green Library,CHARGE,CANCEL,40,60,0
 2018-08,South Gloucestershire,Emersons Green Library,CHARGE,CASH,220,260,260
 2018-08,South Gloucestershire,Emersons Green Library,CHARGE,FORGIVEN,20,10,0
 2018-08,South Gloucestershire,Emersons Green Library,CHARGE,VOUCH,60,70,70
@@ -44637,7 +44632,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,North Somerset,Portishead Library,GROUP,CANCEL,0,10,0
 2018-09,North Somerset,Portishead Library,GROUP,CASH,10,60,60
 2018-09,North Somerset,Portishead Library,HOLD,CASH,0,0,0
-2018-09,North Somerset,Portishead Library,LOST,CANCEL,10,60,0
+2018-09,North Somerset,Portishead Library,LOST,CANCEL,20,70,0
 2018-09,North Somerset,Portishead Library,LOST,CASH,10,50,50
 2018-09,North Somerset,Portishead Library,LOSTCARD,CASH,0,0,0
 2018-09,North Somerset,Portishead Library,LOSTX,FORGIVEN,0,0,0
