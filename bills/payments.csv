@@ -10290,7 +10290,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,South Gloucestershire,Filton Library,CREDIT,FORGIVEN,0,0,0
 2017-02,South Gloucestershire,Filton Library,GROUP,CASH,0,10,10
 2017-02,South Gloucestershire,Filton Library,HOLD,CASH,40,30,30
-2017-02,South Gloucestershire,Filton Library,LOST,CANCEL,20,150,0
+2017-02,South Gloucestershire,Filton Library,LOST,CANCEL,20,140,0
 2017-02,South Gloucestershire,Filton Library,LOST,CASH,0,10,10
 2017-02,South Gloucestershire,Filton Library,LOSTX,CASH,0,10,10
 2017-02,South Gloucestershire,Filton Library,OVERDUE,CANCEL,10,20,0
@@ -14188,7 +14188,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,South Gloucestershire,Filton Library,HOLD,FORGIVEN,0,0,0
 2017-04,South Gloucestershire,Filton Library,HOLDX,CANCEL,0,0,0
 2017-04,South Gloucestershire,Filton Library,HOLDX,CASH,0,0,0
-2017-04,South Gloucestershire,Filton Library,LOST,CANCEL,50,200,0
+2017-04,South Gloucestershire,Filton Library,LOST,CANCEL,40,190,0
 2017-04,South Gloucestershire,Filton Library,LOST,FORGIVEN,0,10,0
 2017-04,South Gloucestershire,Filton Library,OVERDUE,CANCEL,20,60,0
 2017-04,South Gloucestershire,Filton Library,OVERDUE,CASH,140,90,90
@@ -15902,7 +15902,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Somerset,Wells Library,LOSTCARD,CASH,10,10,10
 2017-05,Somerset,Wells Library,LOSTCARD,DEBITCARD,0,0,0
 2017-05,Somerset,Wells Library,OVERDUE,CANCEL,0,0,0
-2017-05,Somerset,Wells Library,OVERDUE,CASH,270,260,260
+2017-05,Somerset,Wells Library,OVERDUE,CASH,270,250,250
 2017-05,Somerset,Wells Library,OVERDUE,CREDITCARD,10,10,10
 2017-05,Somerset,Wells Library,OVERDUE,DEBITCARD,30,60,60
 2017-05,Somerset,Wells Library,OVERDUE,FORGIVEN,10,10,0
@@ -16659,7 +16659,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Bristol,Redland Library,HOLD,CASH,0,10,10
 2017-06,Bristol,Redland Library,HOLDX,CASH,0,0,0
 2017-06,Bristol,Redland Library,LOST,CANCEL,50,350,0
-2017-06,Bristol,Redland Library,LOST,CASH,10,50,50
+2017-06,Bristol,Redland Library,LOST,CASH,10,40,40
 2017-06,Bristol,Redland Library,LOST,CREDITCARD,0,20,20
 2017-06,Bristol,Redland Library,LOST,FORGIVEN,0,20,0
 2017-06,Bristol,Redland Library,OVERDUE,CANCEL,0,0,0
@@ -16697,7 +16697,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Bristol,Southmead Library,OVERDUE,FORGIVEN,10,0,0
 2017-06,Bristol,Southmead Library,SALENOVAT,CASH,0,0,0
 2017-06,Bristol,St George Library,CHARGE,CANCEL,0,0,0
-2017-06,Bristol,St George Library,CHARGE,CASH,70,80,80
+2017-06,Bristol,St George Library,CHARGE,CASH,60,80,80
 2017-06,Bristol,St George Library,CHARGE,FORGIVEN,0,0,0
 2017-06,Bristol,St George Library,CHARGEX,CASH,0,0,0
 2017-06,Bristol,St George Library,HOLD,CASH,0,0,0
@@ -19930,7 +19930,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Somerset,Wells Library,HOLDX,DEBITCARD,0,10,10
 2017-07,Somerset,Wells Library,LOST,CANCEL,30,120,0
 2017-07,Somerset,Wells Library,LOST,CASH,10,30,30
-2017-07,Somerset,Wells Library,LOST,DEBITCARD,0,10,10
 2017-07,Somerset,Wells Library,LOSTCARD,CASH,20,40,40
 2017-07,Somerset,Wells Library,OVERDUE,CANCEL,0,0,0
 2017-07,Somerset,Wells Library,OVERDUE,CASH,480,390,390
@@ -27141,7 +27140,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Dorset,Wareham Library,OVERDUE,FORGIVEN,10,20,0
 2017-11,Dorset,West Moors Library,CHARGE,CASH,10,30,30
 2017-11,Dorset,West Moors Library,CHARGE,FORGIVEN,0,0,0
-2017-11,Dorset,West Moors Library,DAMAGE,CASH,0,10,10
 2017-11,Dorset,West Moors Library,LOST,CANCEL,10,20,0
 2017-11,Dorset,West Moors Library,OVERDUE,CASH,60,40,40
 2017-11,Dorset,Weymouth Library,BFR,FORGIVEN,10,60,0
@@ -29783,7 +29781,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,South Gloucestershire,Filton Library,HOLD,CANCEL,0,0,0
 2017-12,South Gloucestershire,Filton Library,HOLD,CASH,30,20,20
 2017-12,South Gloucestershire,Filton Library,HOLD,FORGIVEN,0,0,0
-2017-12,South Gloucestershire,Filton Library,LOST,CANCEL,50,270,0
+2017-12,South Gloucestershire,Filton Library,LOST,CANCEL,30,200,0
 2017-12,South Gloucestershire,Filton Library,LOST,CASH,0,10,10
 2017-12,South Gloucestershire,Filton Library,LOST,FORGIVEN,0,10,0
 2017-12,South Gloucestershire,Filton Library,LOSTX,CANCEL,0,30,0
@@ -30979,7 +30977,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Bridgwater Library,LOSTCARD,CREDITACCT,0,0,0
 2018-01,Somerset,Bridgwater Library,LOSTX,CANCEL,0,10,0
 2018-01,Somerset,Bridgwater Library,OVERDUE,CANCEL,0,10,0
-2018-01,Somerset,Bridgwater Library,OVERDUE,CASH,440,400,400
+2018-01,Somerset,Bridgwater Library,OVERDUE,CASH,440,390,390
 2018-01,Somerset,Bridgwater Library,OVERDUE,CREDITACCT,0,0,0
 2018-01,Somerset,Bridgwater Library,OVERDUE,DEBITCARD,0,10,10
 2018-01,Somerset,Bridgwater Library,OVERDUE,FORGIVEN,20,20,0
@@ -31420,7 +31418,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Wells Library,HOLD,CREDITCARD,10,10,10
 2018-01,Somerset,Wells Library,HOLD,DEBITCARD,10,10,10
 2018-01,Somerset,Wells Library,HOLD,FORGIVEN,0,0,0
-2018-01,Somerset,Wells Library,LOST,CANCEL,40,180,0
+2018-01,Somerset,Wells Library,LOST,CANCEL,40,170,0
 2018-01,Somerset,Wells Library,LOST,CASH,0,20,20
 2018-01,Somerset,Wells Library,LOST,DEBITCARD,10,40,40
 2018-01,Somerset,Wells Library,LOSTCARD,CASH,10,20,20
@@ -43941,7 +43939,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Bishopston Library,CHARGEX,CASH,0,10,10
 2018-09,Bristol,Bishopston Library,CHARGEX,FORGIVEN,0,10,0
 2018-09,Bristol,Bishopston Library,HOLD,CREDITCARD,0,0,0
-2018-09,Bristol,Bishopston Library,LOST,CANCEL,280,1240,0
+2018-09,Bristol,Bishopston Library,LOST,CANCEL,270,1220,0
 2018-09,Bristol,Bishopston Library,LOST,CASH,0,30,30
 2018-09,Bristol,Bishopston Library,LOST,CREDITCARD,0,30,30
 2018-09,Bristol,Bishopston Library,LOST,FORGIVEN,0,10,0
