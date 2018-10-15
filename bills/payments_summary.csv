@@ -548,9 +548,9 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bath and North East Somerset,BFR,CASH,0,10,10
 2018/2019,Bath and North East Somerset,BFR,CREDITCARD,0,10,10
 2018/2019,Bath and North East Somerset,CHARGE,CANCEL,280,470,0
-2018/2019,Bath and North East Somerset,CHARGE,CASH,3220,5690,5690
+2018/2019,Bath and North East Somerset,CHARGE,CASH,3220,5700,5700
 2018/2019,Bath and North East Somerset,CHARGE,CREDITACCT,0,10,10
-2018/2019,Bath and North East Somerset,CHARGE,CREDITCARD,2180,4050,4050
+2018/2019,Bath and North East Somerset,CHARGE,CREDITCARD,2190,4060,4060
 2018/2019,Bath and North East Somerset,CHARGE,FORGIVEN,220,380,0
 2018/2019,Bath and North East Somerset,CHARGE,NONE,20,20,20
 2018/2019,Bath and North East Somerset,CHARGEX,CANCEL,40,60,0
@@ -588,11 +588,11 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bath and North East Somerset,LOSTCARD,CREDITCARD,10,10,10
 2018/2019,Bath and North East Somerset,LOSTCARD,FORGIVEN,10,10,0
 2018/2019,Bath and North East Somerset,LOSTX,CANCEL,0,20,0
-2018/2019,Bath and North East Somerset,OVERDUE,CANCEL,1290,2580,0
-2018/2019,Bath and North East Somerset,OVERDUE,CASH,10270,5330,5330
+2018/2019,Bath and North East Somerset,OVERDUE,CANCEL,1290,2590,0
+2018/2019,Bath and North East Somerset,OVERDUE,CASH,10280,5330,5330
 2018/2019,Bath and North East Somerset,OVERDUE,CHEQUE,0,0,0
 2018/2019,Bath and North East Somerset,OVERDUE,CREDITACCT,40,10,10
-2018/2019,Bath and North East Somerset,OVERDUE,CREDITCARD,7700,7530,7530
+2018/2019,Bath and North East Somerset,OVERDUE,CREDITCARD,7710,7540,7540
 2018/2019,Bath and North East Somerset,OVERDUE,FORGIVEN,800,1250,0
 2018/2019,Bath and North East Somerset,OVERDUE,NONE,60,60,60
 2018/2019,Bath and North East Somerset,OVERDUEX,CANCEL,70,70,0
@@ -624,7 +624,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bristol,BFR,FORGIVEN,40,280,0
 2018/2019,Bristol,BFR,NONE,0,0,0
 2018/2019,Bristol,CHARGE,CANCEL,440,590,0
-2018/2019,Bristol,CHARGE,CASH,13920,16420,16420
+2018/2019,Bristol,CHARGE,CASH,13930,16430,16430
 2018/2019,Bristol,CHARGE,CHEQUE,0,0,0
 2018/2019,Bristol,CHARGE,CREDITACCT,10,10,10
 2018/2019,Bristol,CHARGE,CREDITCARD,2630,3330,3330
@@ -659,7 +659,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bristol,HOLDX,CREDITCARD,0,0,0
 2018/2019,Bristol,HOLDX,DEBITCARD,10,10,10
 2018/2019,Bristol,HOLDX,FORGIVEN,40,40,0
-2018/2019,Bristol,LOST,CANCEL,12530,62770,0
+2018/2019,Bristol,LOST,CANCEL,12550,62870,0
 2018/2019,Bristol,LOST,CASH,490,2660,2660
 2018/2019,Bristol,LOST,CHEQUE,10,80,80
 2018/2019,Bristol,LOST,CREDITCARD,160,1050,1050
@@ -672,8 +672,8 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bristol,LOSTX,CREDITCARD,10,50,50
 2018/2019,Bristol,LOSTX,DEBITCARD,0,10,10
 2018/2019,Bristol,LOSTX,FORGIVEN,120,1240,0
-2018/2019,Bristol,OVERDUE,CANCEL,1190,1710,0
-2018/2019,Bristol,OVERDUE,CASH,29090,20420,20420
+2018/2019,Bristol,OVERDUE,CANCEL,1200,1710,0
+2018/2019,Bristol,OVERDUE,CASH,29140,20450,20450
 2018/2019,Bristol,OVERDUE,CHEQUE,50,160,160
 2018/2019,Bristol,OVERDUE,CREDITACCT,70,30,30
 2018/2019,Bristol,OVERDUE,CREDITCARD,8380,8580,8580
@@ -759,7 +759,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,North Somerset,BFR,CASH,0,10,10
 2018/2019,North Somerset,BFR,FORGIVEN,10,70,0
 2018/2019,North Somerset,CHARGE,CANCEL,510,640,0
-2018/2019,North Somerset,CHARGE,CASH,7890,10810,10810
+2018/2019,North Somerset,CHARGE,CASH,7900,10830,10830
 2018/2019,North Somerset,CHARGE,CREDITACCT,0,0,0
 2018/2019,North Somerset,CHARGE,CREDITCARD,10,10,10
 2018/2019,North Somerset,CHARGE,DEBITCARD,70,100,100
@@ -791,8 +791,8 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,North Somerset,LOST,CASH,210,1030,1030
 2018/2019,North Somerset,LOST,CHEQUE,0,10,10
 2018/2019,North Somerset,LOST,CREDITCARD,10,20,20
-2018/2019,North Somerset,LOST,DEBITCARD,10,20,20
-2018/2019,North Somerset,LOST,FORGIVEN,80,400,0
+2018/2019,North Somerset,LOST,DEBITCARD,10,30,30
+2018/2019,North Somerset,LOST,FORGIVEN,80,410,0
 2018/2019,North Somerset,LOSTCARD,CANCEL,10,10,0
 2018/2019,North Somerset,LOSTCARD,CASH,90,90,90
 2018/2019,North Somerset,LOSTCARD,FORGIVEN,0,0,0
@@ -800,7 +800,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,North Somerset,LOSTX,CASH,10,60,60
 2018/2019,North Somerset,LOSTX,FORGIVEN,40,260,0
 2018/2019,North Somerset,OVERDUE,CANCEL,1500,2660,0
-2018/2019,North Somerset,OVERDUE,CASH,20030,11420,11420
+2018/2019,North Somerset,OVERDUE,CASH,20040,11430,11430
 2018/2019,North Somerset,OVERDUE,CHEQUE,10,20,20
 2018/2019,North Somerset,OVERDUE,CREDITACCT,40,20,20
 2018/2019,North Somerset,OVERDUE,CREDITCARD,30,30,30
@@ -957,7 +957,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,BFR,CANCEL,0,10,0
 2018/2019,South Gloucestershire,BFR,FORGIVEN,0,10,0
 2018/2019,South Gloucestershire,CHARGE,CANCEL,630,870,0
-2018/2019,South Gloucestershire,CHARGE,CASH,8620,11490,11490
+2018/2019,South Gloucestershire,CHARGE,CASH,8620,11500,11500
 2018/2019,South Gloucestershire,CHARGE,CREDITACCT,0,0,0
 2018/2019,South Gloucestershire,CHARGE,FORGIVEN,350,440,0
 2018/2019,South Gloucestershire,CHARGE,NONE,20,20,20
@@ -975,7 +975,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,GROUP,FORGIVEN,10,40,0
 2018/2019,South Gloucestershire,GROUP,NONE,0,0,0
 2018/2019,South Gloucestershire,HOLD,CANCEL,180,170,0
-2018/2019,South Gloucestershire,HOLD,CASH,7490,5290,5290
+2018/2019,South Gloucestershire,HOLD,CASH,7490,5300,5300
 2018/2019,South Gloucestershire,HOLD,CREDITACCT,0,0,0
 2018/2019,South Gloucestershire,HOLD,FORGIVEN,120,110,0
 2018/2019,South Gloucestershire,HOLD,NONE,0,0,0
