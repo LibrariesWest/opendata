@@ -3157,7 +3157,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,Dorset,Wool Library,BFR,CANCEL,0,10,0
 2016-11,Dorset,Wool Library,CHARGE,CASH,0,0,0
 2016-11,Dorset,Wool Library,LOST,CANCEL,10,50,0
-2016-11,Dorset,Wool Library,OVERDUE,CASH,20,10,10
+2016-11,Dorset,Wool Library,OVERDUE,CASH,10,0,0
 2016-11,Dorset,Wyke Regis Library,CHARGE,CASH,10,10,10
 2016-11,Dorset,Wyke Regis Library,DAMAGE,CASH,0,10,10
 2016-11,Dorset,Wyke Regis Library,LOST,CANCEL,10,50,0
@@ -5686,7 +5686,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,Somerset,Crewkerne Library,GROUP,CANCEL,0,10,0
 2016-12,Somerset,Crewkerne Library,GROUP,CASH,0,10,10
 2016-12,Somerset,Crewkerne Library,HOLD,CANCEL,0,0,0
-2016-12,Somerset,Crewkerne Library,HOLD,CASH,110,100,100
+2016-12,Somerset,Crewkerne Library,HOLD,CASH,100,100,100
 2016-12,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2016-12,Somerset,Crewkerne Library,HOLDX,CANCEL,0,0,0
 2016-12,Somerset,Crewkerne Library,LOST,CANCEL,0,20,0
@@ -7695,7 +7695,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Somerset,Crewkerne Library,ILL,CASH,0,0,0
 2017-01,Somerset,Crewkerne Library,LOST,CASH,10,40,40
 2017-01,Somerset,Crewkerne Library,LOSTCARD,CASH,0,0,0
-2017-01,Somerset,Crewkerne Library,OVERDUE,CANCEL,10,20,0
+2017-01,Somerset,Crewkerne Library,OVERDUE,CANCEL,10,10,0
 2017-01,Somerset,Crewkerne Library,OVERDUE,CASH,200,110,110
 2017-01,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,20,0,0
 2017-01,Somerset,Crewkerne Library,OVERDUEX,CANCEL,0,0,0
@@ -9734,7 +9734,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,Somerset,Crewkerne Library,DAMAGE,CANCEL,0,10,0
 2017-02,Somerset,Crewkerne Library,DAMAGE,CASH,0,30,30
 2017-02,Somerset,Crewkerne Library,HOLD,CANCEL,0,0,0
-2017-02,Somerset,Crewkerne Library,HOLD,CASH,130,140,140
+2017-02,Somerset,Crewkerne Library,HOLD,CASH,130,130,130
 2017-02,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2017-02,Somerset,Crewkerne Library,HOLDX,CANCEL,0,0,0
 2017-02,Somerset,Crewkerne Library,HOLDX,CASH,10,10,10
@@ -10409,7 +10409,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,South Gloucestershire,Winterbourne Library,OVERDUE,CASH,60,50,50
 2017-02,South Gloucestershire,Winterbourne Library,SALENOVAT,CANCEL,0,0,0
 2017-02,South Gloucestershire,Yate Library,CHARGE,CANCEL,20,30,0
-2017-02,South Gloucestershire,Yate Library,CHARGE,CASH,370,450,450
+2017-02,South Gloucestershire,Yate Library,CHARGE,CASH,360,450,450
 2017-02,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,30,30,0
 2017-02,South Gloucestershire,Yate Library,CHARGEX,CANCEL,0,0,0
 2017-02,South Gloucestershire,Yate Library,CHARGEX,CASH,0,0,0
@@ -11785,11 +11785,11 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Somerset,Crewkerne Library,DAMAGE,CASH,0,10,10
 2017-03,Somerset,Crewkerne Library,GROUP,CASH,0,10,10
 2017-03,Somerset,Crewkerne Library,HOLD,CANCEL,10,10,0
-2017-03,Somerset,Crewkerne Library,HOLD,CASH,140,140,140
+2017-03,Somerset,Crewkerne Library,HOLD,CASH,130,140,140
 2017-03,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2017-03,Somerset,Crewkerne Library,LOSTCARD,CASH,0,10,10
 2017-03,Somerset,Crewkerne Library,OVERDUE,CANCEL,10,20,0
-2017-03,Somerset,Crewkerne Library,OVERDUE,CASH,230,120,120
+2017-03,Somerset,Crewkerne Library,OVERDUE,CASH,230,110,110
 2017-03,Somerset,Crewkerne Library,OVERDUE,CREDITACCT,0,0,0
 2017-03,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,10,20,0
 2017-03,Somerset,Dulverton Library,CHARGE,CANCEL,0,0,0
@@ -13663,7 +13663,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Somerset,Crewkerne Library,DAMAGE,CASH,0,0,0
 2017-04,Somerset,Crewkerne Library,GROUP,CASH,0,10,10
 2017-04,Somerset,Crewkerne Library,HOLD,CANCEL,10,10,0
-2017-04,Somerset,Crewkerne Library,HOLD,CASH,120,120,120
+2017-04,Somerset,Crewkerne Library,HOLD,CASH,110,120,120
 2017-04,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2017-04,Somerset,Crewkerne Library,LOST,CANCEL,0,30,0
 2017-04,Somerset,Crewkerne Library,LOST,CASH,0,10,10
@@ -15546,13 +15546,13 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Somerset,Crewkerne Library,DAMAGE,CASH,0,10,10
 2017-05,Somerset,Crewkerne Library,GROUP,CASH,0,20,20
 2017-05,Somerset,Crewkerne Library,HOLD,CANCEL,0,0,0
-2017-05,Somerset,Crewkerne Library,HOLD,CASH,110,120,120
+2017-05,Somerset,Crewkerne Library,HOLD,CASH,110,110,110
 2017-05,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2017-05,Somerset,Crewkerne Library,HOLDX,CANCEL,0,0,0
 2017-05,Somerset,Crewkerne Library,LOST,CANCEL,10,30,0
 2017-05,Somerset,Crewkerne Library,LOST,CASH,10,40,40
 2017-05,Somerset,Crewkerne Library,LOSTCARD,CASH,0,0,0
-2017-05,Somerset,Crewkerne Library,OVERDUE,CANCEL,20,30,0
+2017-05,Somerset,Crewkerne Library,OVERDUE,CANCEL,10,20,0
 2017-05,Somerset,Crewkerne Library,OVERDUE,CASH,160,90,90
 2017-05,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,10,0,0
 2017-05,Somerset,Crewkerne Library,OVERDUEX,CANCEL,10,10,0
@@ -18831,7 +18831,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Dorset,Colehill Library,LOST,CANCEL,30,120,0
 2017-07,Dorset,Colehill Library,LOST,CASH,0,10,10
 2017-07,Dorset,Colehill Library,LOSTCARD,CASH,0,0,0
-2017-07,Dorset,Colehill Library,OVERDUE,CANCEL,0,20,0
+2017-07,Dorset,Colehill Library,OVERDUE,CANCEL,0,10,0
 2017-07,Dorset,Colehill Library,OVERDUE,CASH,70,40,40
 2017-07,Dorset,Corfe Castle Library,OVERDUE,CASH,20,10,10
 2017-07,Dorset,Corfe Mullen Library,BFR,CASH,0,40,40
@@ -20968,7 +20968,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Dorset,Corfe Mullen Library,LOST,CANCEL,20,80,0
 2017-08,Dorset,Corfe Mullen Library,LOST,CASH,0,10,10
 2017-08,Dorset,Corfe Mullen Library,OVERDUE,CANCEL,0,30,0
-2017-08,Dorset,Corfe Mullen Library,OVERDUE,CASH,60,50,50
+2017-08,Dorset,Corfe Mullen Library,OVERDUE,CASH,50,50,50
 2017-08,Dorset,Corfe Mullen Library,OVERDUE,FORGIVEN,0,10,0
 2017-08,Dorset,Corfe Mullen Library,OVERDUEX,FORGIVEN,0,20,0
 2017-08,Dorset,Corfe Mullen Library,SALENOVAT,CASH,0,0,0
@@ -23355,7 +23355,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,North Somerset,Clevedon Library,CREDIT,CASH,0,0,0
 2017-09,North Somerset,Clevedon Library,DAMAGE,CASH,0,10,10
 2017-09,North Somerset,Clevedon Library,GROUP,CANCEL,0,20,0
-2017-09,North Somerset,Clevedon Library,GROUP,CASH,10,50,50
+2017-09,North Somerset,Clevedon Library,GROUP,CASH,10,30,30
 2017-09,North Somerset,Clevedon Library,HOLD,CANCEL,0,0,0
 2017-09,North Somerset,Clevedon Library,HOLD,CASH,0,0,0
 2017-09,North Somerset,Clevedon Library,HOLDX,CANCEL,0,0,0
@@ -23768,7 +23768,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Crewkerne Library,LOST,CASH,0,10,10
 2017-09,Somerset,Crewkerne Library,LOSTCARD,CASH,0,0,0
 2017-09,Somerset,Crewkerne Library,OVERDUE,CANCEL,20,30,0
-2017-09,Somerset,Crewkerne Library,OVERDUE,CASH,350,220,220
+2017-09,Somerset,Crewkerne Library,OVERDUE,CASH,340,220,220
 2017-09,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,40,30,0
 2017-09,Somerset,Crewkerne Library,OVERDUEX,CANCEL,0,10,0
 2017-09,Somerset,Dulverton Library,CHARGE,CASH,10,20,20
@@ -27589,7 +27589,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Somerset,Crewkerne Library,CHARGEX,DEBITCARD,0,0,0
 2017-11,Somerset,Crewkerne Library,GROUP,CASH,0,10,10
 2017-11,Somerset,Crewkerne Library,HOLD,CANCEL,10,10,0
-2017-11,Somerset,Crewkerne Library,HOLD,CASH,130,130,130
+2017-11,Somerset,Crewkerne Library,HOLD,CASH,130,120,120
 2017-11,Somerset,Crewkerne Library,LOST,CANCEL,30,120,0
 2017-11,Somerset,Crewkerne Library,LOST,CASH,0,0,0
 2017-11,Somerset,Crewkerne Library,LOSTCARD,CASH,0,10,10
@@ -34441,7 +34441,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Poole,Rossmore Library,HOLD,CASH,20,20,20
 2018-03,Poole,Rossmore Library,OVERDUE,CANCEL,20,60,0
 2018-03,Poole,Rossmore Library,OVERDUE,CASH,90,70,70
-2018-03,Poole,Rossmore Library,OVERDUE,FORGIVEN,60,160,0
+2018-03,Poole,Rossmore Library,OVERDUE,FORGIVEN,60,150,0
 2018-03,Poole,Rossmore Library,OVERDUEX,CASH,20,10,10
 2018-03,Poole,Rossmore Library,OVERDUEX,FORGIVEN,10,60,0
 2018-03,Somerset,Bishops Lydeard Library,CHARGE,CASH,10,10,10
@@ -34565,7 +34565,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Crewkerne Library,CHARGE,FORGIVEN,10,10,0
 2018-03,Somerset,Crewkerne Library,GROUP,CASH,0,10,10
 2018-03,Somerset,Crewkerne Library,HOLD,CANCEL,0,0,0
-2018-03,Somerset,Crewkerne Library,HOLD,CASH,90,100,100
+2018-03,Somerset,Crewkerne Library,HOLD,CASH,90,90,90
 2018-03,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2018-03,Somerset,Crewkerne Library,LOST,CANCEL,10,20,0
 2018-03,Somerset,Crewkerne Library,LOST,CASH,0,10,10
@@ -36288,7 +36288,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Somerset,Crewkerne Library,DAMAGE,CASH,0,0,0
 2018-04,Somerset,Crewkerne Library,GROUP,CASH,0,10,10
 2018-04,Somerset,Crewkerne Library,HOLD,CANCEL,0,0,0
-2018-04,Somerset,Crewkerne Library,HOLD,CASH,120,130,130
+2018-04,Somerset,Crewkerne Library,HOLD,CASH,120,120,120
 2018-04,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
 2018-04,Somerset,Crewkerne Library,LOST,CANCEL,30,140,0
 2018-04,Somerset,Crewkerne Library,LOST,CASH,0,10,10
@@ -38522,7 +38522,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,South Gloucestershire,Yate Library,OVERDUE,CANCEL,20,40,0
 2018-05,South Gloucestershire,Yate Library,OVERDUE,CASH,290,260,260
 2018-05,South Gloucestershire,Yate Library,OVERDUE,FORGIVEN,20,30,0
-2018-05,South Gloucestershire,Yate Library,OVERDUEX,CANCEL,10,10,0
 2018-05,South Gloucestershire,Yate Library,SALENOVAT,CANCEL,0,0,0
 2018-06,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,CANCEL,0,0,0
 2018-06,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,CASH,10,20,20
@@ -39575,7 +39574,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Crewkerne Library,LOST,CANCEL,10,40,0
 2018-06,Somerset,Crewkerne Library,LOSTCARD,CASH,0,0,0
 2018-06,Somerset,Crewkerne Library,OVERDUE,CANCEL,30,30,0
-2018-06,Somerset,Crewkerne Library,OVERDUE,CASH,220,150,150
+2018-06,Somerset,Crewkerne Library,OVERDUE,CASH,210,150,150
 2018-06,Somerset,Crewkerne Library,OVERDUE,DEBITCARD,0,10,10
 2018-06,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,30,40,0
 2018-06,Somerset,Crewkerne Library,PROCESSFEE,CASH,0,0,0
