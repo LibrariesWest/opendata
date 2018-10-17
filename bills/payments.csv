@@ -13345,7 +13345,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,North Somerset,Nailsea Library,LOSTCARD,CANCEL,0,0,0
 2017-04,North Somerset,Nailsea Library,LOSTX,FORGIVEN,10,120,0
 2017-04,North Somerset,Nailsea Library,OVERDUE,CANCEL,10,10,0
-2017-04,North Somerset,Nailsea Library,OVERDUE,CASH,510,310,310
+2017-04,North Somerset,Nailsea Library,OVERDUE,CASH,480,300,300
 2017-04,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,60,70,0
 2017-04,North Somerset,Nailsea Library,OVERDUEX,CASH,0,0,0
 2017-04,North Somerset,Nailsea Library,OVERDUEX,FORGIVEN,10,50,0
@@ -23411,7 +23411,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,North Somerset,Nailsea Library,LOST,CASH,0,10,10
 2017-09,North Somerset,Nailsea Library,LOST,FORGIVEN,0,10,0
 2017-09,North Somerset,Nailsea Library,OVERDUE,CANCEL,50,30,0
-2017-09,North Somerset,Nailsea Library,OVERDUE,CASH,650,360,360
+2017-09,North Somerset,Nailsea Library,OVERDUE,CASH,640,360,360
 2017-09,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,130,100,0
 2017-09,North Somerset,Nailsea Library,OVERDUEX,CASH,0,0,0
 2017-09,North Somerset,Nailsea Library,PROCESSFEE,AUTOREFUND,0,0,0
@@ -25116,7 +25116,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Dorset,Colehill Library,LOST,CANCEL,20,100,0
 2017-10,Dorset,Colehill Library,LOSTCARD,CASH,0,0,0
 2017-10,Dorset,Colehill Library,OVERDUE,CANCEL,0,10,0
-2017-10,Dorset,Colehill Library,OVERDUE,CASH,70,40,40
+2017-10,Dorset,Colehill Library,OVERDUE,CASH,60,40,40
 2017-10,Dorset,Colehill Library,OVERDUEX,CANCEL,10,20,0
 2017-10,Dorset,Corfe Castle Library,LOST,CANCEL,10,30,0
 2017-10,Dorset,Corfe Castle Library,OVERDUE,CANCEL,10,10,0
@@ -42741,7 +42741,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,North Somerset,Congresbury Library,OVERDUE,CASH,80,30,30
 2018-08,North Somerset,Congresbury Library,OVERDUE,FORGIVEN,10,0,0
 2018-08,North Somerset,Long Ashton Library,CHARGE,CANCEL,20,20,0
-2018-08,North Somerset,Long Ashton Library,CHARGE,CASH,60,100,100
+2018-08,North Somerset,Long Ashton Library,CHARGE,CASH,60,90,90
 2018-08,North Somerset,Long Ashton Library,CREDIT,CASH,0,0,0
 2018-08,North Somerset,Long Ashton Library,GROUP,CASH,0,10,10
 2018-08,North Somerset,Long Ashton Library,HOLD,CASH,0,0,0
@@ -42764,7 +42764,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,North Somerset,N Som Healthy Living Centre,OVERDUE,FORGIVEN,10,10,0
 2018-08,North Somerset,N Som Healthy Living Centre,SALENOVAT,CANCEL,0,0,0
 2018-08,North Somerset,Nailsea Library,CHARGE,CANCEL,20,20,0
-2018-08,North Somerset,Nailsea Library,CHARGE,CASH,310,450,450
+2018-08,North Somerset,Nailsea Library,CHARGE,CASH,310,440,440
 2018-08,North Somerset,Nailsea Library,CHARGE,FORGIVEN,10,10,0
 2018-08,North Somerset,Nailsea Library,CHARGEX,CANCEL,0,0,0
 2018-08,North Somerset,Nailsea Library,CREDIT,CASH,0,0,0
