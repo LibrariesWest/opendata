@@ -1148,7 +1148,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-10,North Somerset,Portishead Library,LOSTCARD,CASH,0,0,0
 2016-10,North Somerset,Portishead Library,LOSTX,FORGIVEN,10,50,0
 2016-10,North Somerset,Portishead Library,OVERDUE,CANCEL,0,0,0
-2016-10,North Somerset,Portishead Library,OVERDUE,CASH,630,350,350
+2016-10,North Somerset,Portishead Library,OVERDUE,CASH,620,350,350
 2016-10,North Somerset,Portishead Library,OVERDUE,CREDITACCT,0,0,0
 2016-10,North Somerset,Portishead Library,OVERDUE,FORGIVEN,40,130,0
 2016-10,North Somerset,Portishead Library,OVERDUEX,CANCEL,0,0,0
@@ -7571,7 +7571,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Poole,Rossmore Library,OVERDUE,CANCEL,0,10,0
 2017-01,Poole,Rossmore Library,OVERDUE,CASH,140,220,220
 2017-01,Poole,Rossmore Library,OVERDUE,DEBITCARD,0,20,20
-2017-01,Poole,Rossmore Library,OVERDUE,FORGIVEN,60,250,0
+2017-01,Poole,Rossmore Library,OVERDUE,FORGIVEN,60,240,0
 2017-01,Poole,Rossmore Library,OVERDUEX,CANCEL,0,0,0
 2017-01,Poole,Rossmore Library,OVERDUEX,CASH,10,10,10
 2017-01,Poole,Rossmore Library,OVERDUEX,FORGIVEN,0,10,0
@@ -26841,7 +26841,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bristol,Shirehampton Library,CHARGE,CASH,10,10,10
 2017-11,Bristol,Shirehampton Library,CHARGE,VOUCH,0,0,0
 2017-11,Bristol,Shirehampton Library,LOST,CANCEL,60,240,0
-2017-11,Bristol,Shirehampton Library,LOST,CASH,0,10,10
+2017-11,Bristol,Shirehampton Library,LOST,CASH,0,0,0
 2017-11,Bristol,Shirehampton Library,OVERDUE,CASH,40,20,20
 2017-11,Bristol,Shirehampton Library,OVERDUE,FORGIVEN,0,10,0
 2017-11,Bristol,Shirehampton Library,PROCESSFEE,CASH,0,0,0
@@ -42957,7 +42957,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Poole,Poole Central Library,HOLD,CASH,180,180,180
 2018-08,Poole,Poole Central Library,HOLD,FORGIVEN,10,10,0
 2018-08,Poole,Poole Central Library,LOST,CANCEL,10,20,0
-2018-08,Poole,Poole Central Library,OVERDUE,CASH,340,480,480
+2018-08,Poole,Poole Central Library,OVERDUE,CASH,340,470,470
 2018-08,Poole,Poole Central Library,OVERDUE,DEBITCARD,30,60,60
 2018-08,Poole,Poole Central Library,OVERDUE,FORGIVEN,30,90,0
 2018-08,Poole,Poole Central Library,OVERDUEX,CASH,10,20,20
