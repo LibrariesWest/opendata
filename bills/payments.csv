@@ -4295,7 +4295,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-11,South Gloucestershire,Hanham Library,SALENOVAT,FORGIVEN,0,0,0
 2016-11,South Gloucestershire,Hanham Library,SALEVAT,CASH,0,10,10
 2016-11,South Gloucestershire,Kingswood Library,CHARGE,CANCEL,10,10,0
-2016-11,South Gloucestershire,Kingswood Library,CHARGE,CASH,150,180,180
+2016-11,South Gloucestershire,Kingswood Library,CHARGE,CASH,140,180,180
 2016-11,South Gloucestershire,Kingswood Library,CHARGE,FORGIVEN,10,10,0
 2016-11,South Gloucestershire,Kingswood Library,CHARGEX,CASH,0,0,0
 2016-11,South Gloucestershire,Kingswood Library,CREDIT,CASH,0,0,0
@@ -5063,7 +5063,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2016-12,Dorset,Gillingham Library,CHARGEX,CASH,0,0,0
 2016-12,Dorset,Gillingham Library,DAMAGE,CASH,0,10,10
 2016-12,Dorset,Gillingham Library,ILL,CASH,0,10,10
-2016-12,Dorset,Gillingham Library,LOST,CANCEL,30,130,0
+2016-12,Dorset,Gillingham Library,LOST,CANCEL,20,120,0
 2016-12,Dorset,Gillingham Library,OVERDUE,CANCEL,10,10,0
 2016-12,Dorset,Gillingham Library,OVERDUE,CASH,110,110,110
 2016-12,Dorset,Gillingham Library,OVERDUE,FORGIVEN,0,20,0
@@ -14810,7 +14810,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Bristol,Westbury-on-Trym Library,OVERDUEX,FORGIVEN,0,0,0
 2017-05,Bristol,Westbury-on-Trym Library,PROCESSFEE,CASH,0,0,0
 2017-05,Bristol,Westbury-on-Trym Library,REFERRAL,CASH,0,10,10
-2017-05,Bristol,Whitchurch Library,CHARGE,CANCEL,0,0,0
 2017-05,Bristol,Whitchurch Library,CHARGE,CASH,10,10,10
 2017-05,Bristol,Whitchurch Library,CHARGE,FORGIVEN,0,0,0
 2017-05,Bristol,Whitchurch Library,HOLD,FORGIVEN,0,10,0
@@ -32274,7 +32273,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Dorset,Ferndown Library,LOST,FORGIVEN,0,10,0
 2018-02,Dorset,Ferndown Library,LOSTCARD,CASH,0,0,0
 2018-02,Dorset,Ferndown Library,OVERDUE,CANCEL,0,10,0
-2018-02,Dorset,Ferndown Library,OVERDUE,CASH,200,180,180
+2018-02,Dorset,Ferndown Library,OVERDUE,CASH,190,180,180
 2018-02,Dorset,Ferndown Library,OVERDUE,CHEQUE,10,30,30
 2018-02,Dorset,Ferndown Library,OVERDUE,FORGIVEN,30,20,0
 2018-02,Dorset,Gillingham Library,CHARGE,CANCEL,0,10,0
@@ -35427,7 +35426,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Clifton Library,SALENOVAT,FORGIVEN,0,0,0
 2018-04,Bristol,Filwood Library,CHARGE,CASH,0,10,10
 2018-04,Bristol,Filwood Library,CHARGE,FORGIVEN,0,0,0
-2018-04,Bristol,Filwood Library,LOST,CANCEL,10,50,0
+2018-04,Bristol,Filwood Library,LOST,CANCEL,10,40,0
 2018-04,Bristol,Filwood Library,LOST,CASH,0,0,0
 2018-04,Bristol,Filwood Library,LOSTX,FORGIVEN,0,10,0
 2018-04,Bristol,Filwood Library,OVERDUE,CASH,30,20,20
@@ -44017,7 +44016,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Filwood Library,CHARGE,CASH,10,10,10
 2018-09,Bristol,Filwood Library,CHARGE,FORGIVEN,10,10,0
 2018-09,Bristol,Filwood Library,CHARGE,VOUCH,0,0,0
-2018-09,Bristol,Filwood Library,LOST,CANCEL,20,140,0
+2018-09,Bristol,Filwood Library,LOST,CANCEL,20,130,0
 2018-09,Bristol,Filwood Library,LOST,FORGIVEN,0,10,0
 2018-09,Bristol,Filwood Library,OVERDUE,CASH,30,20,20
 2018-09,Bristol,Filwood Library,OVERDUE,CREDITACCT,0,0,0
