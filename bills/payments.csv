@@ -7092,7 +7092,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Poole,Broadstone Library,HOLD,FORGIVEN,0,0,0
 2017-04,Poole,Broadstone Library,HOLD,VOUCH,0,0,0
 2017-04,Poole,Broadstone Library,OVERDUE,CANCEL,0,10,0
-2017-04,Poole,Broadstone Library,OVERDUE,CASH,290,260,260
+2017-04,Poole,Broadstone Library,OVERDUE,CASH,280,260,260
 2017-04,Poole,Broadstone Library,OVERDUE,FORGIVEN,50,150,0
 2017-04,Poole,Broadstone Library,OVERDUE,VOUCH,0,10,10
 2017-04,Poole,Broadstone Library,OVERDUEX,CASH,30,60,60
@@ -11104,7 +11104,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Somerset,Cheddar Library,SALEVAT,CANCEL,0,0,0
 2017-06,Somerset,Crewkerne Library,CHARGE,CANCEL,20,20,0
 2017-06,Somerset,Crewkerne Library,CHARGE,CASH,60,150,150
-2017-06,Somerset,Crewkerne Library,CHARGE,FORGIVEN,0,0,0
 2017-06,Somerset,Crewkerne Library,GROUP,CASH,0,10,10
 2017-06,Somerset,Crewkerne Library,HOLD,CANCEL,10,10,0
 2017-06,Somerset,Crewkerne Library,HOLD,CASH,100,100,100
@@ -16010,7 +16009,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,South Gloucestershire,Thornbury Library,LOST,CASH,0,0,0
 2017-08,South Gloucestershire,Thornbury Library,LOST,FORGIVEN,10,60,0
 2017-08,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,20,20,0
-2017-08,South Gloucestershire,Thornbury Library,OVERDUE,CASH,170,120,120
+2017-08,South Gloucestershire,Thornbury Library,OVERDUE,CASH,170,110,110
 2017-08,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,30,40,0
 2017-08,South Gloucestershire,Thornbury Library,OVERDUE,NONE,0,0,0
 2017-08,South Gloucestershire,Thornbury Library,OVERDUEX,CANCEL,0,0,0
@@ -19699,7 +19698,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Somerset,Taunton Library,SALEVAT,CASH,10,10,10
 2017-10,Somerset,Taunton Library,SALEVAT,DEBITCARD,0,0,0
 2017-10,Somerset,Taunton Mobile,CHARGE,FORGIVEN,0,10,0
-2017-10,Somerset,Taunton Mobile,LOST,CANCEL,0,20,0
+2017-10,Somerset,Taunton Mobile,LOST,CANCEL,0,10,0
 2017-10,Somerset,Watchet Library,CHARGE,CASH,10,20,20
 2017-10,Somerset,Watchet Library,HOLD,CASH,40,40,40
 2017-10,Somerset,Watchet Library,LOST,CASH,0,10,10
@@ -31461,7 +31460,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Somerset,Bridgwater Library,DAMAGE,FORGIVEN,0,10,0
 2018-05,Somerset,Bridgwater Library,GROUP,CASH,0,10,10
 2018-05,Somerset,Bridgwater Library,HOLD,CANCEL,0,0,0
-2018-05,Somerset,Bridgwater Library,HOLD,CASH,150,140,140
+2018-05,Somerset,Bridgwater Library,HOLD,CASH,140,140,140
 2018-05,Somerset,Bridgwater Library,HOLD,DEBITCARD,0,0,0
 2018-05,Somerset,Bridgwater Library,HOLD,FORGIVEN,0,0,0
 2018-05,Somerset,Bridgwater Library,HOLDX,CANCEL,0,0,0
@@ -32101,7 +32100,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,South Gloucestershire,Thornbury Library,LOST,CANCEL,50,230,0
 2018-05,South Gloucestershire,Thornbury Library,LOST,CASH,0,10,10
 2018-05,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,0,0,0
-2018-05,South Gloucestershire,Thornbury Library,OVERDUE,CASH,200,160,160
+2018-05,South Gloucestershire,Thornbury Library,OVERDUE,CASH,200,150,150
 2018-05,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,20,30,0
 2018-05,South Gloucestershire,Thornbury Library,SALENOVAT,FORGIVEN,0,0,0
 2018-05,South Gloucestershire,Winterbourne Library,CHARGE,CANCEL,10,10,0
@@ -41737,7 +41736,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Somerset,Bishops Lydeard Library,OVERDUE,CASH,10,20,20
 2018-11,Somerset,Bishops Lydeard Library,OVERDUE,FORGIVEN,0,10,0
 2018-11,Somerset,Bishops Lydeard Library,OVERDUEX,CANCEL,0,0,0
-2018-11,Somerset,Bridgwater Library,CHARGE,CASH,100,190,190
+2018-11,Somerset,Bridgwater Library,CHARGE,CASH,90,190,190
 2018-11,Somerset,Bridgwater Library,CHARGE,FORGIVEN,10,10,0
 2018-11,Somerset,Bridgwater Library,GROUP,CASH,0,10,10
 2018-11,Somerset,Bridgwater Library,HOLD,CANCEL,0,0,0
