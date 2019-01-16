@@ -13263,7 +13263,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Somerset,Langport Library,LOST,CASH,0,0,0
 2017-07,Somerset,Langport Library,LOST,FORGIVEN,0,0,0
 2017-07,Somerset,Langport Library,OVERDUE,CANCEL,30,50,0
-2017-07,Somerset,Langport Library,OVERDUE,CASH,230,220,220
+2017-07,Somerset,Langport Library,OVERDUE,CASH,230,210,210
 2017-07,Somerset,Langport Library,OVERDUE,FORGIVEN,30,40,0
 2017-07,Somerset,Langport Library,OVERDUEX,CASH,0,0,0
 2017-07,Somerset,Martock Library,CHARGE,CANCEL,0,10,0
@@ -15211,7 +15211,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Bruton Library,CHARGE,CASH,10,10,10
 2017-08,Somerset,Bruton Library,GROUP,CASH,0,10,10
 2017-08,Somerset,Bruton Library,HOLD,CASH,20,20,20
-2017-08,Somerset,Bruton Library,HOLD,FORGIVEN,0,0,0
 2017-08,Somerset,Bruton Library,LOST,CANCEL,0,30,0
 2017-08,Somerset,Bruton Library,LOSTCARD,CASH,0,0,0
 2017-08,Somerset,Bruton Library,OVERDUE,CANCEL,0,0,0
@@ -15410,7 +15409,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Langport Library,LOST,CANCEL,10,30,0
 2017-08,Somerset,Langport Library,LOSTCARD,CASH,0,10,10
 2017-08,Somerset,Langport Library,OVERDUE,CANCEL,20,20,0
-2017-08,Somerset,Langport Library,OVERDUE,CASH,230,150,150
+2017-08,Somerset,Langport Library,OVERDUE,CASH,220,150,150
 2017-08,Somerset,Langport Library,OVERDUE,FORGIVEN,20,20,0
 2017-08,Somerset,Langport Library,OVERDUEX,FORGIVEN,0,0,0
 2017-08,Somerset,Langport Library,PROCESSFEE,CASH,0,0,0
@@ -27625,7 +27624,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Dorset,Dorchester Library,OVERDUEX,CASH,0,0,0
 2018-03,Dorset,Dorchester Library,OVERDUEX,FORGIVEN,0,10,0
 2018-03,Dorset,Ferndown Library,CHARGE,CANCEL,0,10,0
-2018-03,Dorset,Ferndown Library,CHARGE,CASH,120,300,300
+2018-03,Dorset,Ferndown Library,CHARGE,CASH,120,290,290
 2018-03,Dorset,Ferndown Library,CHARGE,FORGIVEN,0,10,0
 2018-03,Dorset,Ferndown Library,CHARGEX,CASH,0,0,0
 2018-03,Dorset,Ferndown Library,LOST,CANCEL,20,70,0
@@ -36191,7 +36190,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Dorset,Shaftesbury Library,LOST,CASH,0,10,10
 2018-08,Dorset,Shaftesbury Library,LOSTCARD,CASH,0,0,0
 2018-08,Dorset,Shaftesbury Library,OVERDUE,CASH,110,80,80
-2018-08,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,0,0,0
 2018-08,Dorset,Sherborne Library,BFR,FORGIVEN,0,10,0
 2018-08,Dorset,Sherborne Library,CHARGE,CANCEL,0,0,0
 2018-08,Dorset,Sherborne Library,CHARGE,CASH,140,310,310
