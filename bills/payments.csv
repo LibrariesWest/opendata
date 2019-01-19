@@ -841,7 +841,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Dorset,Wimborne Library,BFR,CASH,0,10,10
 2017-01,Dorset,Wimborne Library,BFR,FORGIVEN,0,30,0
 2017-01,Dorset,Wimborne Library,CHARGE,CANCEL,0,10,0
-2017-01,Dorset,Wimborne Library,CHARGE,CASH,160,340,340
+2017-01,Dorset,Wimborne Library,CHARGE,CASH,160,330,330
 2017-01,Dorset,Wimborne Library,CHARGE,FORGIVEN,0,10,0
 2017-01,Dorset,Wimborne Library,CHARGEX,CASH,0,10,10
 2017-01,Dorset,Wimborne Library,ILL,CASH,0,10,10
@@ -1608,7 +1608,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Somerset,Sunningdale Library,OVERDUE,CASH,20,10,10
 2017-01,Somerset,Sunningdale Library,OVERDUE,FORGIVEN,0,0,0
 2017-01,Somerset,Taunton Library,CHARGE,CANCEL,30,50,0
-2017-01,Somerset,Taunton Library,CHARGE,CASH,780,1400,1400
+2017-01,Somerset,Taunton Library,CHARGE,CASH,770,1390,1390
 2017-01,Somerset,Taunton Library,CHARGE,CREDITCARD,20,30,30
 2017-01,Somerset,Taunton Library,CHARGE,DEBITCARD,140,250,250
 2017-01,Somerset,Taunton Library,CHARGE,FORGIVEN,30,70,0
@@ -3328,7 +3328,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,Somerset,Chard Library,LOSTCARD,CASH,0,10,10
 2017-02,Somerset,Chard Library,OVERDUE,CANCEL,20,20,0
 2017-02,Somerset,Chard Library,OVERDUE,CASH,120,110,110
-2017-02,Somerset,Chard Library,OVERDUE,CREDITACCT,10,0,0
 2017-02,Somerset,Chard Library,OVERDUE,DEBITCARD,20,60,60
 2017-02,Somerset,Chard Library,OVERDUE,FORGIVEN,0,0,0
 2017-02,Somerset,Chard Library,OVERDUEX,CASH,0,0,0
@@ -3825,7 +3824,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,50,260,0
 2017-02,South Gloucestershire,Bradley Stoke Library,LOST,CASH,10,60,60
 2017-02,South Gloucestershire,Bradley Stoke Library,LOST,FORGIVEN,0,0,0
-2017-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,20,80,0
+2017-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,20,70,0
 2017-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,220,190,190
 2017-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,40,80,0
 2017-02,South Gloucestershire,Bradley Stoke Library,OVERDUEX,FORGIVEN,10,20,0
@@ -5829,7 +5828,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Somerset,Yeovil Library,OVERDUEX,DEBITCARD,10,0,0
 2017-03,Somerset,Yeovil Library,PROCESSFEE,CASH,0,0,0
 2017-03,South Gloucestershire,Bradley Stoke Library,CHARGE,CANCEL,20,20,0
-2017-03,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,380,460,460
+2017-03,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,370,450,450
 2017-03,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,10,10,0
 2017-03,South Gloucestershire,Bradley Stoke Library,CHARGEX,CANCEL,0,0,0
 2017-03,South Gloucestershire,Bradley Stoke Library,CREDIT,CASH,0,0,0
@@ -5842,7 +5841,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,South Gloucestershire,Bradley Stoke Library,LOST,CASH,10,20,20
 2017-03,South Gloucestershire,Bradley Stoke Library,LOST,FORGIVEN,0,10,0
 2017-03,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,30,40,0
-2017-03,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,310,300,300
+2017-03,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,300,300,300
 2017-03,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,30,100,0
 2017-03,South Gloucestershire,Bradley Stoke Library,OVERDUEX,CANCEL,0,0,0
 2017-03,South Gloucestershire,Bradley Stoke Library,PROCESSFEE,CASH,0,0,0
@@ -6816,7 +6815,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Dorset,West Moors Library,CHARGE,FORGIVEN,0,0,0
 2017-04,Dorset,West Moors Library,LOST,CANCEL,10,50,0
 2017-04,Dorset,West Moors Library,LOST,CASH,0,10,10
-2017-04,Dorset,West Moors Library,OVERDUE,CASH,40,20,20
+2017-04,Dorset,West Moors Library,OVERDUE,CASH,30,20,20
 2017-04,Dorset,West Moors Library,OVERDUE,FORGIVEN,0,0,0
 2017-04,Dorset,Weymouth Library,BFR,FORGIVEN,10,70,0
 2017-04,Dorset,Weymouth Library,CHARGE,CANCEL,0,0,0
@@ -8686,7 +8685,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Dorset,Wareham Library,OVERDUE,CASH,120,80,80
 2017-05,Dorset,Wareham Library,OVERDUE,FORGIVEN,10,20,0
 2017-05,Dorset,Wareham Library,SALENOVAT,CASH,0,0,0
-2017-05,Dorset,West Moors Library,CHARGE,CASH,20,50,50
+2017-05,Dorset,West Moors Library,CHARGE,CASH,20,40,40
 2017-05,Dorset,West Moors Library,CHARGE,FORGIVEN,0,0,0
 2017-05,Dorset,West Moors Library,LOST,CANCEL,10,20,0
 2017-05,Dorset,West Moors Library,OVERDUE,CASH,90,40,40
@@ -9130,7 +9129,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Somerset,Chard Library,LOSTCARD,FORGIVEN,0,0,0
 2017-05,Somerset,Chard Library,OVERDUE,CANCEL,0,10,0
 2017-05,Somerset,Chard Library,OVERDUE,CASH,140,80,80
-2017-05,Somerset,Chard Library,OVERDUE,CREDITACCT,0,0,0
 2017-05,Somerset,Chard Library,OVERDUE,CREDITCARD,0,10,10
 2017-05,Somerset,Chard Library,OVERDUE,DEBITCARD,100,70,70
 2017-05,Somerset,Chard Library,OVERDUE,FORGIVEN,10,10,0
@@ -13638,7 +13636,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Somerset,Yeovil Library,SALENOVAT,DEBITCARD,0,0,0
 2017-07,Somerset,Yeovil Library,SALEVAT,DEBITCARD,0,0,0
 2017-07,South Gloucestershire,Bradley Stoke Library,CHARGE,CANCEL,10,20,0
-2017-07,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,390,460,460
+2017-07,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,390,450,450
 2017-07,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,20,20,0
 2017-07,South Gloucestershire,Bradley Stoke Library,CHARGE,VOUCH,0,0,0
 2017-07,South Gloucestershire,Bradley Stoke Library,CHARGEX,CASH,0,0,0
@@ -14618,7 +14616,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Dorset,Ferndown Library,BFR,CASH,0,0,0
 2017-08,Dorset,Ferndown Library,CHARGE,CANCEL,0,10,0
 2017-08,Dorset,Ferndown Library,CHARGE,CASH,150,350,350
-2017-08,Dorset,Ferndown Library,CHARGE,FORGIVEN,0,10,0
+2017-08,Dorset,Ferndown Library,CHARGE,FORGIVEN,0,0,0
 2017-08,Dorset,Ferndown Library,DAMAGE,CASH,0,10,10
 2017-08,Dorset,Ferndown Library,HOLD,CASH,0,0,0
 2017-08,Dorset,Ferndown Library,LOST,CANCEL,20,130,0
@@ -15585,7 +15583,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Taunton Library,BFR,CASH,0,10,10
 2017-08,Somerset,Taunton Library,BFR,DEBITCARD,0,20,20
 2017-08,Somerset,Taunton Library,CHARGE,CANCEL,50,90,0
-2017-08,Somerset,Taunton Library,CHARGE,CASH,790,1550,1550
+2017-08,Somerset,Taunton Library,CHARGE,CASH,790,1540,1540
 2017-08,Somerset,Taunton Library,CHARGE,CREDITCARD,20,40,40
 2017-08,Somerset,Taunton Library,CHARGE,DEBITCARD,160,290,290
 2017-08,Somerset,Taunton Library,CHARGE,FORGIVEN,10,20,0
@@ -15623,7 +15621,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Taunton Library,LOSTX,CANCEL,0,10,0
 2017-08,Somerset,Taunton Library,LOSTX,CASH,0,10,10
 2017-08,Somerset,Taunton Library,OVERDUE,CANCEL,50,50,0
-2017-08,Somerset,Taunton Library,OVERDUE,CASH,890,720,720
+2017-08,Somerset,Taunton Library,OVERDUE,CASH,880,720,720
 2017-08,Somerset,Taunton Library,OVERDUE,CREDITCARD,50,90,90
 2017-08,Somerset,Taunton Library,OVERDUE,DEBITCARD,270,370,370
 2017-08,Somerset,Taunton Library,OVERDUE,FORGIVEN,100,130,0
@@ -17650,7 +17648,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Sunningdale Library,OVERDUE,CANCEL,0,0,0
 2017-09,Somerset,Sunningdale Library,OVERDUE,CASH,20,0,0
 2017-09,Somerset,Taunton Library,CHARGE,CANCEL,30,50,0
-2017-09,Somerset,Taunton Library,CHARGE,CASH,670,1340,1340
+2017-09,Somerset,Taunton Library,CHARGE,CASH,670,1330,1330
 2017-09,Somerset,Taunton Library,CHARGE,CREDITACCT,0,0,0
 2017-09,Somerset,Taunton Library,CHARGE,CREDITCARD,40,90,90
 2017-09,Somerset,Taunton Library,CHARGE,DEBITCARD,110,180,180
@@ -19360,7 +19358,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Somerset,Chard Library,LOST,DEBITCARD,0,0,0
 2017-10,Somerset,Chard Library,LOSTCARD,CASH,10,10,10
 2017-10,Somerset,Chard Library,OVERDUE,CANCEL,40,60,0
-2017-10,Somerset,Chard Library,OVERDUE,CASH,190,140,140
+2017-10,Somerset,Chard Library,OVERDUE,CASH,180,140,140
 2017-10,Somerset,Chard Library,OVERDUE,DEBITCARD,40,60,60
 2017-10,Somerset,Chard Library,OVERDUE,FORGIVEN,10,20,0
 2017-10,Somerset,Cheddar Library,CHARGE,CANCEL,10,10,0
@@ -19651,7 +19649,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Somerset,Sunningdale Library,OVERDUE,CASH,20,10,10
 2017-10,Somerset,Sunningdale Library,OVERDUE,FORGIVEN,0,0,0
 2017-10,Somerset,Taunton Library,CHARGE,CANCEL,70,120,0
-2017-10,Somerset,Taunton Library,CHARGE,CASH,650,1260,1260
+2017-10,Somerset,Taunton Library,CHARGE,CASH,640,1260,1260
 2017-10,Somerset,Taunton Library,CHARGE,CREDITCARD,30,60,60
 2017-10,Somerset,Taunton Library,CHARGE,DEBITCARD,90,180,180
 2017-10,Somerset,Taunton Library,CHARGE,FORGIVEN,10,10,0
@@ -20761,7 +20759,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Dorset,Weymouth Library,OVERDUEX,FORGIVEN,0,10,0
 2017-11,Dorset,Wimborne Library,CHARGE,CASH,140,320,320
 2017-11,Dorset,Wimborne Library,ILL,CASH,0,10,10
-2017-11,Dorset,Wimborne Library,LOST,CANCEL,70,500,0
+2017-11,Dorset,Wimborne Library,LOST,CANCEL,70,490,0
 2017-11,Dorset,Wimborne Library,LOST,CASH,0,30,30
 2017-11,Dorset,Wimborne Library,LOSTCARD,CASH,0,0,0
 2017-11,Dorset,Wimborne Library,OVERDUE,CANCEL,0,20,0
@@ -21451,7 +21449,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Somerset,Taunton Library,BFR,DEBITCARD,0,10,10
 2017-11,Somerset,Taunton Library,BFR,FORGIVEN,0,10,0
 2017-11,Somerset,Taunton Library,CHARGE,CANCEL,30,50,0
-2017-11,Somerset,Taunton Library,CHARGE,CASH,570,1200,1200
+2017-11,Somerset,Taunton Library,CHARGE,CASH,570,1190,1190
 2017-11,Somerset,Taunton Library,CHARGE,CREDITCARD,10,10,10
 2017-11,Somerset,Taunton Library,CHARGE,DEBITCARD,60,100,100
 2017-11,Somerset,Taunton Library,CHARGE,FORGIVEN,10,20,0
@@ -23146,7 +23144,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Somerset,Sunningdale Library,OVERDUE,CASH,10,10,10
 2017-12,Somerset,Sunningdale Library,OVERDUE,FORGIVEN,10,0,0
 2017-12,Somerset,Taunton Library,CHARGE,CANCEL,20,30,0
-2017-12,Somerset,Taunton Library,CHARGE,CASH,480,990,990
+2017-12,Somerset,Taunton Library,CHARGE,CASH,470,990,990
 2017-12,Somerset,Taunton Library,CHARGE,CREDITACCT,0,10,10
 2017-12,Somerset,Taunton Library,CHARGE,CREDITCARD,20,40,40
 2017-12,Somerset,Taunton Library,CHARGE,DEBITCARD,40,100,100
@@ -23654,7 +23652,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Bristol,Bedminster Library,LOST,CREDITCARD,0,20,20
 2018-01,Bristol,Bedminster Library,LOST,FORGIVEN,0,10,0
 2018-01,Bristol,Bedminster Library,LOSTX,FORGIVEN,0,10,0
-2018-01,Bristol,Bedminster Library,OVERDUE,CASH,340,250,250
+2018-01,Bristol,Bedminster Library,OVERDUE,CASH,340,240,240
 2018-01,Bristol,Bedminster Library,OVERDUE,CREDITCARD,150,210,210
 2018-01,Bristol,Bedminster Library,OVERDUE,FORGIVEN,30,80,0
 2018-01,Bristol,Bedminster Library,OVERDUEX,CASH,0,0,0
@@ -24626,7 +24624,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Castle Cary Library,OVERDUE,CASH,80,80,80
 2018-01,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,0,0,0
 2018-01,Somerset,Chard Library,CHARGE,CANCEL,0,10,0
-2018-01,Somerset,Chard Library,CHARGE,CASH,50,100,100
+2018-01,Somerset,Chard Library,CHARGE,CASH,50,90,90
 2018-01,Somerset,Chard Library,CHARGE,DEBITCARD,0,0,0
 2018-01,Somerset,Chard Library,CHARGE,FORGIVEN,0,0,0
 2018-01,Somerset,Chard Library,CHARGEX,CASH,0,0,0
@@ -24639,7 +24637,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Chard Library,LOST,CASH,0,10,10
 2018-01,Somerset,Chard Library,LOSTCARD,CASH,0,10,10
 2018-01,Somerset,Chard Library,OVERDUE,CANCEL,10,10,0
-2018-01,Somerset,Chard Library,OVERDUE,CASH,190,130,130
+2018-01,Somerset,Chard Library,OVERDUE,CASH,180,130,130
 2018-01,Somerset,Chard Library,OVERDUE,CREDITCARD,10,10,10
 2018-01,Somerset,Chard Library,OVERDUE,DEBITCARD,10,30,30
 2018-01,Somerset,Chard Library,OVERDUE,FORGIVEN,10,20,0
@@ -24926,8 +24924,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Sunningdale Library,OVERDUE,CASH,10,0,0
 2018-01,Somerset,Sunningdale Library,OVERDUE,FORGIVEN,10,30,0
 2018-01,Somerset,Sunningdale Library,OVERDUEX,FORGIVEN,0,0,0
-2018-01,Somerset,Taunton Library,CHARGE,CANCEL,40,60,0
-2018-01,Somerset,Taunton Library,CHARGE,CASH,640,1230,1230
+2018-01,Somerset,Taunton Library,CHARGE,CANCEL,30,60,0
+2018-01,Somerset,Taunton Library,CHARGE,CASH,640,1220,1220
 2018-01,Somerset,Taunton Library,CHARGE,CREDITACCT,0,0,0
 2018-01,Somerset,Taunton Library,CHARGE,CREDITCARD,10,20,20
 2018-01,Somerset,Taunton Library,CHARGE,DEBITCARD,90,170,170
@@ -25102,7 +25100,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Yeovil Library,PROCESSFEE,CASH,10,0,0
 2018-01,South Gloucestershire,Bradley Stoke Library,CHARGE,CANCEL,10,20,0
 2018-01,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,220,280,280
-2018-01,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,10,20,0
+2018-01,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,10,10,0
 2018-01,South Gloucestershire,Bradley Stoke Library,CHARGEX,FORGIVEN,0,0,0
 2018-01,South Gloucestershire,Bradley Stoke Library,CREDIT,CANCEL,0,0,0
 2018-01,South Gloucestershire,Bradley Stoke Library,CREDIT,CASH,0,0,0
@@ -26402,7 +26400,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Somerset,Chard Library,LOST,DEBITCARD,10,20,20
 2018-02,Somerset,Chard Library,LOSTCARD,CASH,0,10,10
 2018-02,Somerset,Chard Library,OVERDUE,CANCEL,10,20,0
-2018-02,Somerset,Chard Library,OVERDUE,CASH,150,140,140
+2018-02,Somerset,Chard Library,OVERDUE,CASH,140,140,140
 2018-02,Somerset,Chard Library,OVERDUE,DEBITCARD,10,10,10
 2018-02,Somerset,Chard Library,OVERDUE,FORGIVEN,10,30,0
 2018-02,Somerset,Chard Library,OVERDUEX,CASH,0,0,0
@@ -31532,7 +31530,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Somerset,Chard Library,LOST,CREDITCARD,0,10,10
 2018-05,Somerset,Chard Library,LOSTCARD,CASH,0,0,0
 2018-05,Somerset,Chard Library,OVERDUE,CANCEL,0,10,0
-2018-05,Somerset,Chard Library,OVERDUE,CASH,130,80,80
+2018-05,Somerset,Chard Library,OVERDUE,CASH,120,80,80
 2018-05,Somerset,Chard Library,OVERDUE,CREDITACCT,0,0,0
 2018-05,Somerset,Chard Library,OVERDUE,DEBITCARD,10,30,30
 2018-05,Somerset,Chard Library,OVERDUE,FORGIVEN,10,10,0
@@ -36665,7 +36663,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Chard Library,LOST,DEBITCARD,10,20,20
 2018-08,Somerset,Chard Library,LOSTCARD,CASH,0,10,10
 2018-08,Somerset,Chard Library,OVERDUE,CANCEL,20,50,0
-2018-08,Somerset,Chard Library,OVERDUE,CASH,170,120,120
+2018-08,Somerset,Chard Library,OVERDUE,CASH,160,110,110
 2018-08,Somerset,Chard Library,OVERDUE,DEBITCARD,30,40,40
 2018-08,Somerset,Chard Library,OVERDUEX,CANCEL,10,30,0
 2018-08,Somerset,Cheddar Library,BFR,CASH,0,0,0
@@ -38888,7 +38886,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Somerset,Yeovil Library,OVERDUE,DEBITCARD,110,90,90
 2018-09,Somerset,Yeovil Library,OVERDUE,FORGIVEN,40,70,0
 2018-09,South Gloucestershire,Bradley Stoke Library,CHARGE,CANCEL,10,10,0
-2018-09,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,230,300,300
+2018-09,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,220,290,290
 2018-09,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,0,0,0
 2018-09,South Gloucestershire,Bradley Stoke Library,CHARGE,VOUCH,60,70,70
 2018-09,South Gloucestershire,Bradley Stoke Library,GROUP,CANCEL,0,10,0
@@ -38900,7 +38898,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,South Gloucestershire,Bradley Stoke Library,LOST,CASH,0,10,10
 2018-09,South Gloucestershire,Bradley Stoke Library,LOSTX,FORGIVEN,0,10,0
 2018-09,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,20,50,0
-2018-09,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,250,280,280
+2018-09,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,240,270,270
 2018-09,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,40,60,0
 2018-09,South Gloucestershire,Bradley Stoke Library,OVERDUEX,CANCEL,0,10,0
 2018-09,South Gloucestershire,Bradley Stoke Library,PROCESSFEE,VOUCH,0,0,0
@@ -42222,7 +42220,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Somerset,Yeovil Library,OVERDUEX,CASH,0,0,0
 2018-11,Somerset,Yeovil Library,SALEVAT,CASH,0,0,0
 2018-11,South Gloucestershire,Bradley Stoke Library,CHARGE,CANCEL,10,10,0
-2018-11,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,210,260,260
+2018-11,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,200,250,250
 2018-11,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,10,10,0
 2018-11,South Gloucestershire,Bradley Stoke Library,CHARGE,VOUCH,0,0,0
 2018-11,South Gloucestershire,Bradley Stoke Library,CHARGEX,FORGIVEN,0,0,0
