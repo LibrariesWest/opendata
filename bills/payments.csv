@@ -11176,7 +11176,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Somerset,Glastonbury Library,LOST,CASH,0,10,10
 2017-06,Somerset,Glastonbury Library,LOST,FORGIVEN,0,0,0
 2017-06,Somerset,Glastonbury Library,LOSTCARD,CANCEL,0,0,0
-2017-06,Somerset,Glastonbury Library,LOSTCARD,CASH,0,0,0
 2017-06,Somerset,Glastonbury Library,OVERDUE,CASH,250,260,260
 2017-06,Somerset,Glastonbury Library,OVERDUE,CHEQUE,0,0,0
 2017-06,Somerset,Glastonbury Library,OVERDUE,DEBITCARD,30,40,40
@@ -17443,7 +17442,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Glastonbury Library,LOST,CREDITCARD,0,10,10
 2017-09,Somerset,Glastonbury Library,LOST,DEBITCARD,0,20,20
 2017-09,Somerset,Glastonbury Library,LOST,FORGIVEN,0,0,0
-2017-09,Somerset,Glastonbury Library,LOSTCARD,CASH,10,10,10
+2017-09,Somerset,Glastonbury Library,LOSTCARD,CASH,0,10,10
 2017-09,Somerset,Glastonbury Library,LOSTCARD,DEBITCARD,0,0,0
 2017-09,Somerset,Glastonbury Library,OVERDUE,CANCEL,10,20,0
 2017-09,Somerset,Glastonbury Library,OVERDUE,CASH,230,150,150
