@@ -567,7 +567,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Bristol,Wick Road Library,HOLD,CASH,0,10,10
 2017-01,Bristol,Wick Road Library,HOLDX,CASH,0,0,0
 2017-01,Bristol,Wick Road Library,HOLDX,FORGIVEN,10,10,0
-2017-01,Bristol,Wick Road Library,LOST,CANCEL,90,400,0
+2017-01,Bristol,Wick Road Library,LOST,CANCEL,90,380,0
 2017-01,Bristol,Wick Road Library,LOST,CASH,0,10,10
 2017-01,Bristol,Wick Road Library,LOST,FORGIVEN,0,10,0
 2017-01,Bristol,Wick Road Library,OVERDUE,CANCEL,10,10,0
@@ -821,7 +821,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-01,Dorset,Wareham Library,OVERDUEX,FORGIVEN,0,0,0
 2017-01,Dorset,West Moors Library,CHARGE,CASH,20,40,40
 2017-01,Dorset,West Moors Library,LOST,CANCEL,20,80,0
-2017-01,Dorset,West Moors Library,OVERDUE,CASH,70,50,50
+2017-01,Dorset,West Moors Library,OVERDUE,CASH,60,50,50
 2017-01,Dorset,West Moors Library,OVERDUE,FORGIVEN,0,0,0
 2017-01,Dorset,Weymouth Library,CHARGE,CANCEL,10,20,0
 2017-01,Dorset,Weymouth Library,CHARGE,CASH,140,320,320
