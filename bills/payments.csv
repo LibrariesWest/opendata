@@ -15574,7 +15574,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Street Library,GROUP,CASH,10,30,30
 2017-09,Somerset,Street Library,GROUP,FORGIVEN,0,10,0
 2017-09,Somerset,Street Library,HOLD,CANCEL,0,0,0
-2017-09,Somerset,Street Library,HOLD,CASH,100,100,100
+2017-09,Somerset,Street Library,HOLD,CASH,90,90,90
 2017-09,Somerset,Street Library,HOLD,DEBITCARD,20,20,20
 2017-09,Somerset,Street Library,HOLD,FORGIVEN,0,0,0
 2017-09,Somerset,Street Library,HOLDX,FORGIVEN,0,0,0
@@ -26333,13 +26333,12 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Street Library,CHARGE,CANCEL,30,50,0
 2018-03,Somerset,Street Library,CHARGE,CASH,120,230,230
 2018-03,Somerset,Street Library,CHARGE,DEBITCARD,10,10,10
-2018-03,Somerset,Street Library,CHARGE,FORGIVEN,0,10,0
+2018-03,Somerset,Street Library,CHARGE,FORGIVEN,0,0,0
 2018-03,Somerset,Street Library,GROUP,CASH,10,30,30
 2018-03,Somerset,Street Library,GROUP,FORGIVEN,0,0,0
 2018-03,Somerset,Street Library,HOLD,CANCEL,0,0,0
 2018-03,Somerset,Street Library,HOLD,CASH,140,140,140
 2018-03,Somerset,Street Library,HOLD,DEBITCARD,20,20,20
-2018-03,Somerset,Street Library,HOLD,FORGIVEN,0,0,0
 2018-03,Somerset,Street Library,LOST,CANCEL,20,100,0
 2018-03,Somerset,Street Library,LOST,CASH,0,20,20
 2018-03,Somerset,Street Library,LOST,DEBITCARD,0,0,0
@@ -36645,7 +36644,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Somerset,South Petherton Library,OVERDUE,CANCEL,0,10,0
 2018-09,Somerset,South Petherton Library,OVERDUE,CASH,40,30,30
 2018-09,Somerset,South Petherton Library,OVERDUE,FORGIVEN,0,0,0
-2018-09,Somerset,Street Library,CHARGE,CANCEL,10,10,0
+2018-09,Somerset,Street Library,CHARGE,CANCEL,0,10,0
 2018-09,Somerset,Street Library,CHARGE,CASH,70,140,140
 2018-09,Somerset,Street Library,CHARGE,DEBITCARD,0,10,10
 2018-09,Somerset,Street Library,DAMAGE,CASH,0,0,0
@@ -43395,7 +43394,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,South Gloucestershire,Staple Hill Library,GROUP,CASH,0,10,10
 2019-01,South Gloucestershire,Staple Hill Library,HOLD,CANCEL,0,0,0
 2019-01,South Gloucestershire,Staple Hill Library,HOLD,CASH,50,30,30
-2019-01,South Gloucestershire,Staple Hill Library,LOST,CANCEL,80,330,0
+2019-01,South Gloucestershire,Staple Hill Library,LOST,CANCEL,80,350,0
 2019-01,South Gloucestershire,Staple Hill Library,LOST,FORGIVEN,0,0,0
 2019-01,South Gloucestershire,Staple Hill Library,OVERDUE,CANCEL,10,20,0
 2019-01,South Gloucestershire,Staple Hill Library,OVERDUE,CASH,100,70,70
