@@ -22028,7 +22028,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Dorset,Dorchester Library,OVERDUE,FORGIVEN,80,200,0
 2018-01,Dorset,Dorchester Library,OVERDUEX,CANCEL,0,0,0
 2018-01,Dorset,Ferndown Library,CHARGE,CANCEL,10,10,0
-2018-01,Dorset,Ferndown Library,CHARGE,CASH,120,290,290
+2018-01,Dorset,Ferndown Library,CHARGE,CASH,110,280,280
 2018-01,Dorset,Ferndown Library,CHARGE,FORGIVEN,0,0,0
 2018-01,Dorset,Ferndown Library,CHARGEX,CANCEL,0,0,0
 2018-01,Dorset,Ferndown Library,CHARGEX,CASH,0,0,0
@@ -41095,7 +41095,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,North Somerset,Worle Library,CHARGE,FORGIVEN,0,0,0
 2018-12,North Somerset,Worle Library,CREDIT,CASH,0,0,0
 2018-12,North Somerset,Worle Library,LOST,AUTOREFUND,0,10,10
-2018-12,North Somerset,Worle Library,LOST,CANCEL,0,20,0
+2018-12,North Somerset,Worle Library,LOST,CANCEL,10,60,0
 2018-12,North Somerset,Worle Library,OVERDUE,CANCEL,10,0,0
 2018-12,North Somerset,Worle Library,OVERDUE,CASH,120,70,70
 2018-12,North Somerset,Worle Library,OVERDUE,FORGIVEN,0,10,0
