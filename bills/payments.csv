@@ -2128,14 +2128,14 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,CREDITCARD,0,0,0
 2017-03,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,FORGIVEN,0,0,0
 2017-03,Bath and North East Somerset,Moorland Road Library,CHARGE,CANCEL,0,0,0
-2017-03,Bath and North East Somerset,Moorland Road Library,CHARGE,CASH,40,60,60
+2017-03,Bath and North East Somerset,Moorland Road Library,CHARGE,CASH,30,60,60
 2017-03,Bath and North East Somerset,Moorland Road Library,CHARGE,CREDITCARD,10,10,10
 2017-03,Bath and North East Somerset,Moorland Road Library,CHARGE,FORGIVEN,0,0,0
 2017-03,Bath and North East Somerset,Moorland Road Library,OVERDUE,CANCEL,20,60,0
 2017-03,Bath and North East Somerset,Moorland Road Library,OVERDUE,CASH,80,30,30
 2017-03,Bath and North East Somerset,Moorland Road Library,OVERDUE,CREDITACCT,0,0,0
 2017-03,Bath and North East Somerset,Moorland Road Library,OVERDUE,CREDITCARD,30,30,30
-2017-03,Bath and North East Somerset,Moorland Road Library,OVERDUE,FORGIVEN,20,70,0
+2017-03,Bath and North East Somerset,Moorland Road Library,OVERDUE,FORGIVEN,20,60,0
 2017-03,Bath and North East Somerset,Moorland Road Library,SALENOVAT,CASH,0,0,0
 2017-03,Bath and North East Somerset,Paulton Library,CHARGE,CASH,20,30,30
 2017-03,Bath and North East Somerset,Paulton Library,CHARGE,CREDITCARD,20,20,20
@@ -4139,7 +4139,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Bath and North East Somerset,Midsomer Norton Library,OVERDUEX,CASH,0,0,0
 2017-04,Bath and North East Somerset,Midsomer Norton Library,PROCESSFEE,CASH,0,0,0
 2017-04,Bath and North East Somerset,Midsomer Norton Library,SALEVAT,CASH,0,0,0
-2017-04,Bath and North East Somerset,Moorland Road Library,CHARGE,CASH,40,70,70
+2017-04,Bath and North East Somerset,Moorland Road Library,CHARGE,CASH,40,60,60
 2017-04,Bath and North East Somerset,Moorland Road Library,CHARGE,FORGIVEN,10,10,0
 2017-04,Bath and North East Somerset,Moorland Road Library,OVERDUE,CANCEL,0,0,0
 2017-04,Bath and North East Somerset,Moorland Road Library,OVERDUE,CASH,140,80,80
@@ -5977,7 +5977,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Bath and North East Somerset,Moorland Road Library,CHARGEX,CASH,0,0,0
 2017-05,Bath and North East Somerset,Moorland Road Library,CREDIT,CASH,0,0,0
 2017-05,Bath and North East Somerset,Moorland Road Library,LOSTCARD,CANCEL,0,0,0
-2017-05,Bath and North East Somerset,Moorland Road Library,OVERDUE,CANCEL,30,30,0
+2017-05,Bath and North East Somerset,Moorland Road Library,OVERDUE,CANCEL,30,20,0
 2017-05,Bath and North East Somerset,Moorland Road Library,OVERDUE,CASH,180,100,100
 2017-05,Bath and North East Somerset,Moorland Road Library,OVERDUE,CREDITACCT,0,0,0
 2017-05,Bath and North East Somerset,Moorland Road Library,OVERDUE,FORGIVEN,10,10,0
@@ -7894,7 +7894,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,FORGIVEN,0,0,0
 2017-06,Bath and North East Somerset,Midsomer Norton Library,SALEVAT,CANCEL,0,0,0
 2017-06,Bath and North East Somerset,Moorland Road Library,CHARGE,CASH,20,40,40
-2017-06,Bath and North East Somerset,Moorland Road Library,CHARGE,FORGIVEN,0,0,0
 2017-06,Bath and North East Somerset,Moorland Road Library,CREDIT,CASH,0,0,0
 2017-06,Bath and North East Somerset,Moorland Road Library,DAMAGE,CASH,0,10,10
 2017-06,Bath and North East Somerset,Moorland Road Library,OVERDUE,CASH,140,80,80
@@ -10309,7 +10308,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Bristol,Wick Road Library,CHARGE,FORGIVEN,10,10,0
 2017-07,Bristol,Wick Road Library,CHARGE,VOUCH,10,10,10
 2017-07,Bristol,Wick Road Library,CREDIT,CASH,0,0,0
-2017-07,Bristol,Wick Road Library,LOST,CANCEL,60,250,0
+2017-07,Bristol,Wick Road Library,LOST,CANCEL,50,220,0
 2017-07,Bristol,Wick Road Library,LOST,CASH,0,10,10
 2017-07,Bristol,Wick Road Library,LOST,FORGIVEN,20,80,0
 2017-07,Bristol,Wick Road Library,LOSTX,FORGIVEN,0,20,0
@@ -18067,7 +18066,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,CASH,0,0,0
 2017-11,Bath and North East Somerset,Midsomer Norton Library,SALEVAT,CASH,0,0,0
 2017-11,Bath and North East Somerset,Midsomer Norton Library,SALEVAT,CREDITCARD,0,10,10
-2017-11,Bath and North East Somerset,Moorland Road Library,CHARGE,CANCEL,0,10,0
+2017-11,Bath and North East Somerset,Moorland Road Library,CHARGE,CANCEL,0,0,0
 2017-11,Bath and North East Somerset,Moorland Road Library,CHARGE,CASH,20,40,40
 2017-11,Bath and North East Somerset,Moorland Road Library,CHARGE,CREDITCARD,10,20,20
 2017-11,Bath and North East Somerset,Moorland Road Library,CHARGE,FORGIVEN,0,0,0
@@ -23217,7 +23216,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,South Gloucestershire,Thornbury Library,LOST,FORGIVEN,0,20,0
 2018-01,South Gloucestershire,Thornbury Library,LOSTCARD,CASH,0,0,0
 2018-01,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,10,40,0
-2018-01,South Gloucestershire,Thornbury Library,OVERDUE,CASH,240,240,240
+2018-01,South Gloucestershire,Thornbury Library,OVERDUE,CASH,240,230,230
 2018-01,South Gloucestershire,Thornbury Library,OVERDUE,CREDITACCT,0,0,0
 2018-01,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,50,70,0
 2018-01,South Gloucestershire,Thornbury Library,SALENOVAT,CANCEL,0,0,0
@@ -24954,7 +24953,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,South Gloucestershire,Thornbury Library,LOST,CASH,0,20,20
 2018-02,South Gloucestershire,Thornbury Library,LOST,FORGIVEN,0,30,0
 2018-02,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,10,0,0
-2018-02,South Gloucestershire,Thornbury Library,OVERDUE,CASH,150,120,120
+2018-02,South Gloucestershire,Thornbury Library,OVERDUE,CASH,140,120,120
 2018-02,South Gloucestershire,Thornbury Library,OVERDUE,CHEQUE,0,0,0
 2018-02,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,30,40,0
 2018-02,South Gloucestershire,Thornbury Library,OVERDUEX,FORGIVEN,0,0,0
@@ -30046,7 +30045,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,South Gloucestershire,Thornbury Library,LOST,CANCEL,50,230,0
 2018-05,South Gloucestershire,Thornbury Library,LOST,CASH,0,10,10
 2018-05,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,0,0,0
-2018-05,South Gloucestershire,Thornbury Library,OVERDUE,CASH,200,150,150
+2018-05,South Gloucestershire,Thornbury Library,OVERDUE,CASH,190,150,150
 2018-05,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,20,30,0
 2018-05,South Gloucestershire,Thornbury Library,SALENOVAT,FORGIVEN,0,0,0
 2018-05,South Gloucestershire,Winterbourne Library,CHARGE,CANCEL,10,10,0
@@ -33401,7 +33400,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,South Gloucestershire,Thornbury Library,LOST,CASH,0,10,10
 2018-07,South Gloucestershire,Thornbury Library,LOST,FORGIVEN,0,10,0
 2018-07,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,20,140,0
-2018-07,South Gloucestershire,Thornbury Library,OVERDUE,CASH,130,110,110
+2018-07,South Gloucestershire,Thornbury Library,OVERDUE,CASH,120,110,110
 2018-07,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,30,90,0
 2018-07,South Gloucestershire,Thornbury Library,OVERDUEX,CANCEL,0,0,0
 2018-07,South Gloucestershire,Thornbury Library,OVERDUEX,FORGIVEN,0,0,0
@@ -35283,7 +35282,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,South Gloucestershire,Thornbury Library,LOST,CASH,10,20,20
 2018-08,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,10,10,0
 2018-08,South Gloucestershire,Thornbury Library,OVERDUE,CASH,170,140,140
-2018-08,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,20,40,0
+2018-08,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,20,30,0
 2018-08,South Gloucestershire,Thornbury Library,OVERDUE,VOUCH,0,0,0
 2018-08,South Gloucestershire,Thornbury Library,OVERDUEX,CANCEL,0,0,0
 2018-08,South Gloucestershire,Thornbury Library,OVERDUEX,CASH,0,10,10
@@ -41770,7 +41769,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,South Gloucestershire,Thornbury Library,LOST,CANCEL,40,220,0
 2018-12,South Gloucestershire,Thornbury Library,LOST,CASH,0,0,0
 2018-12,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,10,20,0
-2018-12,South Gloucestershire,Thornbury Library,OVERDUE,CASH,170,130,130
+2018-12,South Gloucestershire,Thornbury Library,OVERDUE,CASH,160,130,130
 2018-12,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,30,70,0
 2018-12,South Gloucestershire,Thornbury Library,OVERDUEX,CANCEL,0,10,0
 2018-12,South Gloucestershire,Thornbury Library,SALENOVAT,CANCEL,0,0,0
