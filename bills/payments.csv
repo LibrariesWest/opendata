@@ -1838,7 +1838,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,South Gloucestershire,Emersons Green Library,CHARGE,CANCEL,10,10,0
 2017-02,South Gloucestershire,Emersons Green Library,CHARGE,CASH,220,250,250
 2017-02,South Gloucestershire,Emersons Green Library,CHARGE,DEBITCARD,0,0,0
-2017-02,South Gloucestershire,Emersons Green Library,CHARGE,FORGIVEN,10,0,0
+2017-02,South Gloucestershire,Emersons Green Library,CHARGE,FORGIVEN,0,0,0
 2017-02,South Gloucestershire,Emersons Green Library,CHARGE,VOUCH,0,0,0
 2017-02,South Gloucestershire,Emersons Green Library,HOLD,CANCEL,0,0,0
 2017-02,South Gloucestershire,Emersons Green Library,HOLD,CASH,70,60,60
@@ -1850,7 +1850,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,South Gloucestershire,Emersons Green Library,OVERDUE,CANCEL,20,110,0
 2017-02,South Gloucestershire,Emersons Green Library,OVERDUE,CASH,190,180,180
 2017-02,South Gloucestershire,Emersons Green Library,OVERDUE,DEBITCARD,10,10,10
-2017-02,South Gloucestershire,Emersons Green Library,OVERDUE,FORGIVEN,20,40,0
+2017-02,South Gloucestershire,Emersons Green Library,OVERDUE,FORGIVEN,10,40,0
 2017-02,South Gloucestershire,Emersons Green Library,PROCESSFEE,CASH,0,0,0
 2017-02,South Gloucestershire,Filton Library,CHARGE,CANCEL,0,0,0
 2017-02,South Gloucestershire,Filton Library,CHARGE,CASH,70,90,90
@@ -5716,7 +5716,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,South Gloucestershire,Downend Library,HOLDX,CASH,0,0,0
 2017-04,South Gloucestershire,Downend Library,LOST,CANCEL,90,630,0
 2017-04,South Gloucestershire,Downend Library,LOST,CASH,0,20,20
-2017-04,South Gloucestershire,Downend Library,OVERDUE,CANCEL,60,100,0
+2017-04,South Gloucestershire,Downend Library,OVERDUE,CANCEL,50,100,0
 2017-04,South Gloucestershire,Downend Library,OVERDUE,CASH,110,110,110
 2017-04,South Gloucestershire,Downend Library,OVERDUE,FORGIVEN,30,50,0
 2017-04,South Gloucestershire,Downend Library,OVERDUEX,CASH,0,0,0
@@ -11416,7 +11416,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Somerset,Taunton Library,LOSTCARD,CREDITCARD,0,0,0
 2017-07,Somerset,Taunton Library,LOSTX,CASH,0,10,10
 2017-07,Somerset,Taunton Library,OVERDUE,CANCEL,40,80,0
-2017-07,Somerset,Taunton Library,OVERDUE,CASH,940,860,860
+2017-07,Somerset,Taunton Library,OVERDUE,CASH,930,850,850
 2017-07,Somerset,Taunton Library,OVERDUE,CREDITACCT,0,0,0
 2017-07,Somerset,Taunton Library,OVERDUE,CREDITCARD,60,90,90
 2017-07,Somerset,Taunton Library,OVERDUE,DEBITCARD,330,500,500
@@ -16358,7 +16358,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bristol,Filwood Library,REFERRAL,CASH,0,10,10
 2017-10,Bristol,Filwood Library,SALENOVAT,FORGIVEN,0,10,0
 2017-10,Bristol,Fishponds Library,CHARGE,CANCEL,0,0,0
-2017-10,Bristol,Fishponds Library,CHARGE,CASH,130,170,170
+2017-10,Bristol,Fishponds Library,CHARGE,CASH,130,160,160
 2017-10,Bristol,Fishponds Library,CHARGE,FORGIVEN,10,10,0
 2017-10,Bristol,Fishponds Library,CHARGE,VOUCH,20,20,20
 2017-10,Bristol,Fishponds Library,CREDIT,CASH,0,0,0
@@ -16369,7 +16369,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bristol,Fishponds Library,LOST,FORGIVEN,30,130,0
 2017-10,Bristol,Fishponds Library,LOSTX,CASH,0,30,30
 2017-10,Bristol,Fishponds Library,OVERDUE,CANCEL,10,10,0
-2017-10,Bristol,Fishponds Library,OVERDUE,CASH,270,200,200
+2017-10,Bristol,Fishponds Library,OVERDUE,CASH,260,200,200
 2017-10,Bristol,Fishponds Library,OVERDUE,CREDITACCT,0,0,0
 2017-10,Bristol,Fishponds Library,OVERDUE,FORGIVEN,40,40,0
 2017-10,Bristol,Fishponds Library,OVERDUEX,CASH,0,0,0
@@ -18625,7 +18625,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Dorset,Shaftesbury Library,ILL,CASH,0,20,20
 2017-11,Dorset,Shaftesbury Library,LOST,CANCEL,40,160,0
 2017-11,Dorset,Shaftesbury Library,OVERDUE,CANCEL,10,10,0
-2017-11,Dorset,Shaftesbury Library,OVERDUE,CASH,90,70,70
+2017-11,Dorset,Shaftesbury Library,OVERDUE,CASH,80,70,70
 2017-11,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,0,10,0
 2017-11,Dorset,Sherborne Library,BFR,FORGIVEN,0,10,0
 2017-11,Dorset,Sherborne Library,CHARGE,CASH,140,310,310
@@ -27324,10 +27324,9 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Dorset,Highcliffe Library,CHARGE,FORGIVEN,0,10,0
 2018-04,Dorset,Highcliffe Library,LOST,CANCEL,20,60,0
 2018-04,Dorset,Highcliffe Library,LOST,CASH,0,20,20
-2018-04,Dorset,Highcliffe Library,LOST,FORGIVEN,0,10,0
 2018-04,Dorset,Highcliffe Library,LOSTCARD,CASH,0,0,0
 2018-04,Dorset,Highcliffe Library,OVERDUE,CANCEL,10,10,0
-2018-04,Dorset,Highcliffe Library,OVERDUE,CASH,100,60,60
+2018-04,Dorset,Highcliffe Library,OVERDUE,CASH,90,50,50
 2018-04,Dorset,Highcliffe Library,OVERDUE,FORGIVEN,0,0,0
 2018-04,Dorset,Littlemoor Library,CHARGE,CASH,20,40,40
 2018-04,Dorset,Littlemoor Library,LOST,CANCEL,10,20,0
@@ -35574,7 +35573,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Filwood Library,OVERDUE,FORGIVEN,10,10,0
 2018-09,Bristol,Filwood Library,REFERRAL,CASH,0,10,10
 2018-09,Bristol,Fishponds Library,BFR,CANCEL,0,20,0
-2018-09,Bristol,Fishponds Library,CHARGE,CASH,170,190,190
+2018-09,Bristol,Fishponds Library,CHARGE,CASH,170,180,180
 2018-09,Bristol,Fishponds Library,CHARGE,FORGIVEN,0,0,0
 2018-09,Bristol,Fishponds Library,CHARGE,VOUCH,20,20,20
 2018-09,Bristol,Fishponds Library,CHARGEX,CASH,0,0,0
@@ -35584,7 +35583,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Fishponds Library,LOST,CANCEL,140,630,0
 2018-09,Bristol,Fishponds Library,LOST,CASH,0,30,30
 2018-09,Bristol,Fishponds Library,OVERDUE,CANCEL,0,0,0
-2018-09,Bristol,Fishponds Library,OVERDUE,CASH,290,210,210
+2018-09,Bristol,Fishponds Library,OVERDUE,CASH,280,200,200
 2018-09,Bristol,Fishponds Library,OVERDUE,FORGIVEN,20,10,0
 2018-09,Bristol,Fishponds Library,OVERDUE,VOUCH,0,0,0
 2018-09,Bristol,Fishponds Library,OVERDUEX,FORGIVEN,0,0,0
@@ -42290,7 +42289,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Dorset,Christchurch Library,LOSTCARD,CASH,10,10,10
 2019-01,Dorset,Christchurch Library,OVERDUE,CANCEL,10,10,0
 2019-01,Dorset,Christchurch Library,OVERDUE,CASH,370,320,320
-2019-01,Dorset,Christchurch Library,OVERDUE,FORGIVEN,50,60,0
+2019-01,Dorset,Christchurch Library,OVERDUE,FORGIVEN,40,60,0
 2019-01,Dorset,Christchurch Library,OVERDUEX,CASH,0,0,0
 2019-01,Dorset,Christchurch Library,OVERDUEX,FORGIVEN,0,10,0
 2019-01,Dorset,Colehill Library,CHARGE,FORGIVEN,0,0,0
@@ -42365,7 +42364,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Dorset,Highcliffe Library,LOSTCARD,CASH,0,0,0
 2019-01,Dorset,Highcliffe Library,OVERDUE,CANCEL,10,60,0
 2019-01,Dorset,Highcliffe Library,OVERDUE,CASH,70,70,70
-2019-01,Dorset,Highcliffe Library,OVERDUE,FORGIVEN,10,20,0
+2019-01,Dorset,Highcliffe Library,OVERDUE,FORGIVEN,0,10,0
 2019-01,Dorset,Highcliffe Library,SALENOVAT,CASH,0,0,0
 2019-01,Dorset,Littlemoor Library,CHARGE,CASH,10,10,10
 2019-01,Dorset,Littlemoor Library,CHARGE,FORGIVEN,0,0,0
