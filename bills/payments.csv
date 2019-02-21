@@ -990,7 +990,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,North Somerset,Portishead Library,CREDIT,CASH,10,0,0
 2017-02,North Somerset,Portishead Library,CREDIT,FORGIVEN,0,0,0
 2017-02,North Somerset,Portishead Library,GROUP,CASH,10,80,80
-2017-02,North Somerset,Portishead Library,HOLD,CASH,180,190,190
+2017-02,North Somerset,Portishead Library,HOLD,CASH,180,180,180
 2017-02,North Somerset,Portishead Library,HOLD,FORGIVEN,0,0,0
 2017-02,North Somerset,Portishead Library,LOST,AUTOREFUND,0,20,20
 2017-02,North Somerset,Portishead Library,LOST,CANCEL,20,80,0
@@ -3018,7 +3018,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,North Somerset,Portishead Library,CREDIT,CASH,10,0,0
 2017-03,North Somerset,Portishead Library,GROUP,CASH,10,70,70
 2017-03,North Somerset,Portishead Library,HOLD,CANCEL,0,0,0
-2017-03,North Somerset,Portishead Library,HOLD,CASH,200,200,200
+2017-03,North Somerset,Portishead Library,HOLD,CASH,190,200,200
 2017-03,North Somerset,Portishead Library,HOLD,FORGIVEN,10,10,0
 2017-03,North Somerset,Portishead Library,HOLDX,CASH,10,10,10
 2017-03,North Somerset,Portishead Library,LOST,CANCEL,30,140,0
@@ -4751,7 +4751,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Dorset,Verwood Library,LOST,CANCEL,30,110,0
 2017-04,Dorset,Verwood Library,LOST,CASH,0,0,0
 2017-04,Dorset,Verwood Library,LOSTCARD,CASH,0,0,0
-2017-04,Dorset,Verwood Library,OVERDUE,CANCEL,20,50,0
+2017-04,Dorset,Verwood Library,OVERDUE,CANCEL,20,40,0
 2017-04,Dorset,Verwood Library,OVERDUE,CASH,90,70,70
 2017-04,Dorset,Verwood Library,OVERDUEX,CASH,0,0,0
 2017-04,Dorset,Wareham Library,CHARGE,CANCEL,10,10,0
@@ -4966,7 +4966,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,North Somerset,Weston-super-Mare Library,HOLDX,FORGIVEN,0,0,0
 2017-04,North Somerset,Weston-super-Mare Library,LOST,CANCEL,20,130,0
 2017-04,North Somerset,Weston-super-Mare Library,LOST,CASH,0,20,20
-2017-04,North Somerset,Weston-super-Mare Library,LOSTCARD,CASH,10,10,10
+2017-04,North Somerset,Weston-super-Mare Library,LOSTCARD,CASH,0,0,0
 2017-04,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,90,190,0
 2017-04,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,500,370,370
 2017-04,North Somerset,Weston-super-Mare Library,OVERDUE,CHEQUE,0,20,20
@@ -8762,7 +8762,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,North Somerset,Portishead Library,LOSTX,CANCEL,160,1710,0
 2017-06,North Somerset,Portishead Library,LOSTX,CASH,0,20,20
 2017-06,North Somerset,Portishead Library,OVERDUE,CANCEL,70,110,0
-2017-06,North Somerset,Portishead Library,OVERDUE,CASH,570,310,310
+2017-06,North Somerset,Portishead Library,OVERDUE,CASH,560,310,310
 2017-06,North Somerset,Portishead Library,OVERDUE,CREDITACCT,0,0,0
 2017-06,North Somerset,Portishead Library,OVERDUE,FORGIVEN,20,10,0
 2017-06,North Somerset,Portishead Library,OVERDUEX,CANCEL,80,160,0
@@ -20444,7 +20444,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Dorset,Verwood Library,LOST,CASH,0,0,0
 2017-12,Dorset,Verwood Library,LOSTCARD,CASH,0,0,0
 2017-12,Dorset,Verwood Library,OVERDUE,CANCEL,20,80,0
-2017-12,Dorset,Verwood Library,OVERDUE,CASH,70,50,50
+2017-12,Dorset,Verwood Library,OVERDUE,CASH,60,50,50
 2017-12,Dorset,Wareham Library,CHARGE,CANCEL,0,10,0
 2017-12,Dorset,Wareham Library,CHARGE,CASH,30,70,70
 2017-12,Dorset,Wareham Library,LOST,CANCEL,20,80,0
@@ -23211,7 +23211,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,South Gloucestershire,Thornbury Library,HOLD,VOUCH,0,0,0
 2018-01,South Gloucestershire,Thornbury Library,HOLDX,CANCEL,0,0,0
 2018-01,South Gloucestershire,Thornbury Library,LOST,CANCEL,70,310,0
-2018-01,South Gloucestershire,Thornbury Library,LOST,CASH,0,10,10
+2018-01,South Gloucestershire,Thornbury Library,LOST,CASH,0,0,0
 2018-01,South Gloucestershire,Thornbury Library,LOST,FORGIVEN,0,20,0
 2018-01,South Gloucestershire,Thornbury Library,LOSTCARD,CASH,0,0,0
 2018-01,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,10,40,0
@@ -37870,7 +37870,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,North Somerset,Portishead Library,LOSTCARD,CASH,0,0,0
 2018-10,North Somerset,Portishead Library,LOSTX,CANCEL,0,10,0
 2018-10,North Somerset,Portishead Library,OVERDUE,CANCEL,20,30,0
-2018-10,North Somerset,Portishead Library,OVERDUE,CASH,580,340,340
+2018-10,North Somerset,Portishead Library,OVERDUE,CASH,580,330,330
 2018-10,North Somerset,Portishead Library,OVERDUE,FORGIVEN,30,40,0
 2018-10,North Somerset,Portishead Library,OVERDUEX,CANCEL,0,10,0
 2018-10,North Somerset,Portishead Library,SALENOVAT,FORGIVEN,0,0,0
