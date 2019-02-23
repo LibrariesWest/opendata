@@ -13,7 +13,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-02,Bath and North East Somerset,Bath Central Library,CHARGEX,FORGIVEN,0,0,0
 2017-02,Bath and North East Somerset,Bath Central Library,CREDIT,CASH,10,0,0
 2017-02,Bath and North East Somerset,Bath Central Library,CREDIT,CREDITCARD,10,0,0
-2017-02,Bath and North East Somerset,Bath Central Library,GROUP,CASH,0,10,10
 2017-02,Bath and North East Somerset,Bath Central Library,GROUP,CHEQUE,0,90,90
 2017-02,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,40,0
 2017-02,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,10,10
@@ -2042,7 +2041,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-03,Bath and North East Somerset,Bath Central Library,CREDIT,CREDITCARD,0,0,0
 2017-03,Bath and North East Somerset,Bath Central Library,DAMAGE,CASH,0,20,20
 2017-03,Bath and North East Somerset,Bath Central Library,DAMAGE,CREDITCARD,0,10,10
-2017-03,Bath and North East Somerset,Bath Central Library,GROUP,CASH,0,10,10
 2017-03,Bath and North East Somerset,Bath Central Library,GROUP,CREDITCARD,0,90,90
 2017-03,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,20,200,0
 2017-03,Bath and North East Somerset,Bath Central Library,HOLD,CASH,0,30,30
@@ -4060,10 +4058,9 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Bath and North East Somerset,Bath Central Library,CREDIT,CREDITCARD,0,0,0
 2017-04,Bath and North East Somerset,Bath Central Library,DAMAGE,CASH,0,30,30
 2017-04,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,40,0
-2017-04,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,80,80
+2017-04,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,70,70
 2017-04,Bath and North East Somerset,Bath Central Library,HOLD,CHEQUE,0,20,20
 2017-04,Bath and North East Somerset,Bath Central Library,HOLD,CREDITCARD,0,0,0
-2017-04,Bath and North East Somerset,Bath Central Library,HOLD,FORGIVEN,0,10,0
 2017-04,Bath and North East Somerset,Bath Central Library,HOLDX,CANCEL,0,0,0
 2017-04,Bath and North East Somerset,Bath Central Library,HOLDX,CASH,0,0,0
 2017-04,Bath and North East Somerset,Bath Central Library,HOLDX,CREDITCARD,0,0,0
@@ -7994,7 +7991,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Bristol,Bishopsworth Library,HOLDX,CANCEL,0,0,0
 2017-06,Bristol,Bishopsworth Library,LOST,CANCEL,60,320,0
 2017-06,Bristol,Bishopsworth Library,OVERDUE,CANCEL,0,0,0
-2017-06,Bristol,Bishopsworth Library,OVERDUE,CASH,90,40,40
+2017-06,Bristol,Bishopsworth Library,OVERDUE,CASH,80,40,40
 2017-06,Bristol,Bishopsworth Library,OVERDUE,CREDITACCT,0,0,0
 2017-06,Bristol,Bishopsworth Library,OVERDUE,FORGIVEN,10,30,0
 2017-06,Bristol,Bishopsworth Library,SALENOVAT,CANCEL,0,0,0
@@ -8346,7 +8343,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Dorset,Bridport Library,LOST,FORGIVEN,10,40,0
 2017-06,Dorset,Bridport Library,LOSTCARD,CASH,0,0,0
 2017-06,Dorset,Bridport Library,OVERDUE,CANCEL,10,10,0
-2017-06,Dorset,Bridport Library,OVERDUE,CASH,280,210,210
+2017-06,Dorset,Bridport Library,OVERDUE,CASH,270,210,210
 2017-06,Dorset,Bridport Library,OVERDUE,FORGIVEN,10,30,0
 2017-06,Dorset,Bridport Library,PROCESSFEE,FORGIVEN,0,0,0
 2017-06,Dorset,Burton Bradstock Library,CHARGE,CASH,0,0,0
@@ -11860,7 +11857,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Bath and North East Somerset,Bath Central Library,CREDIT,CASH,10,0,0
 2017-08,Bath and North East Somerset,Bath Central Library,CREDIT,CREDITCARD,0,0,0
 2017-08,Bath and North East Somerset,Bath Central Library,DAMAGE,CREDITCARD,0,10,10
-2017-08,Bath and North East Somerset,Bath Central Library,GROUP,CASH,0,10,10
 2017-08,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,0,100,0
 2017-08,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,10,10
 2017-08,Bath and North East Somerset,Bath Central Library,HOLDX,CANCEL,0,0,0
@@ -12925,7 +12921,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,North Somerset,Portishead Library,BFR,CASH,0,10,10
 2017-08,North Somerset,Portishead Library,BFR,FORGIVEN,0,10,0
 2017-08,North Somerset,Portishead Library,CHARGE,CANCEL,30,30,0
-2017-08,North Somerset,Portishead Library,CHARGE,CASH,300,380,380
+2017-08,North Somerset,Portishead Library,CHARGE,CASH,300,370,370
 2017-08,North Somerset,Portishead Library,CHARGE,FORGIVEN,40,20,0
 2017-08,North Somerset,Portishead Library,CHARGEX,CANCEL,0,0,0
 2017-08,North Somerset,Portishead Library,CHARGEX,CASH,0,0,0
@@ -15816,7 +15812,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,South Gloucestershire,Bradley Stoke Library,CHARGEX,FORGIVEN,0,10,0
 2017-09,South Gloucestershire,Bradley Stoke Library,CREDIT,CANCEL,0,0,0
 2017-09,South Gloucestershire,Bradley Stoke Library,CREDIT,CASH,0,0,0
-2017-09,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,0,20,20
+2017-09,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,0,10,10
 2017-09,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,10,10,0
 2017-09,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,160,110,110
 2017-09,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,10,10,0
@@ -16080,7 +16076,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bath and North East Somerset,Bath Central Library,CREDIT,CASH,0,0,0
 2017-10,Bath and North East Somerset,Bath Central Library,CREDIT,FORGIVEN,0,0,0
 2017-10,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,0,30,0
-2017-10,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,30,30
+2017-10,Bath and North East Somerset,Bath Central Library,HOLD,CASH,0,30,30
 2017-10,Bath and North East Somerset,Bath Central Library,HOLD,FORGIVEN,0,50,0
 2017-10,Bath and North East Somerset,Bath Central Library,HOLDX,CANCEL,10,10,0
 2017-10,Bath and North East Somerset,Bath Central Library,HOLDX,CREDITCARD,0,0,0
@@ -17778,7 +17774,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,South Gloucestershire,Bradley Stoke Library,CHARGE,VOUCH,20,20,20
 2017-10,South Gloucestershire,Bradley Stoke Library,CHARGEX,FORGIVEN,0,0,0
 2017-10,South Gloucestershire,Bradley Stoke Library,CREDIT,CASH,0,0,0
-2017-10,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,20,20
+2017-10,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,0,20,20
 2017-10,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,0,0,0
 2017-10,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,130,100,100
 2017-10,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,100,480,0
@@ -17886,7 +17882,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,South Gloucestershire,Kingswood Library,HOLD,CASH,80,50,50
 2017-10,South Gloucestershire,Kingswood Library,LOST,CANCEL,50,300,0
 2017-10,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,30,30,0
-2017-10,South Gloucestershire,Kingswood Library,OVERDUE,CASH,140,130,130
+2017-10,South Gloucestershire,Kingswood Library,OVERDUE,CASH,130,120,120
 2017-10,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,10,30,0
 2017-10,South Gloucestershire,Kingswood Library,SALENOVAT,CASH,0,0,0
 2017-10,South Gloucestershire,Patchway Library,CHARGE,CANCEL,20,70,0
@@ -17992,7 +17988,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bath and North East Somerset,Bath Central Library,DAMAGE,CANCEL,0,30,0
 2017-11,Bath and North East Somerset,Bath Central Library,DAMAGE,CREDITCARD,0,20,20
 2017-11,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,140,0
-2017-11,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,20,20
+2017-11,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,10,10
 2017-11,Bath and North East Somerset,Bath Central Library,HOLD,FORGIVEN,0,40,0
 2017-11,Bath and North East Somerset,Bath Central Library,HOLDX,CANCEL,0,0,0
 2017-11,Bath and North East Somerset,Bath Central Library,HOLDX,CREDITCARD,0,0,0
@@ -20595,7 +20591,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,North Somerset,Portishead Library,GROUP,CASH,10,60,60
 2017-12,North Somerset,Portishead Library,HOLD,CASH,0,20,20
 2017-12,North Somerset,Portishead Library,HOLDX,CASH,0,0,0
-2017-12,North Somerset,Portishead Library,LOST,CANCEL,10,60,0
+2017-12,North Somerset,Portishead Library,LOST,CANCEL,10,50,0
 2017-12,North Somerset,Portishead Library,LOST,CASH,0,20,20
 2017-12,North Somerset,Portishead Library,LOSTCARD,CASH,0,0,0
 2017-12,North Somerset,Portishead Library,OVERDUE,CANCEL,10,10,0
@@ -21471,7 +21467,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Bath and North East Somerset,Bath Central Library,CREDIT,CASH,0,0,0
 2018-01,Bath and North East Somerset,Bath Central Library,DAMAGE,CREDITCARD,0,10,10
 2018-01,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,60,0
-2018-01,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,50,50
+2018-01,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,40,40
 2018-01,Bath and North East Somerset,Bath Central Library,HOLD,CREDITCARD,0,10,10
 2018-01,Bath and North East Somerset,Bath Central Library,HOLDX,CASH,0,0,0
 2018-01,Bath and North East Somerset,Bath Central Library,LOST,CREDITCARD,10,110,110
@@ -23157,7 +23153,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,South Gloucestershire,Kingswood Library,HOLD,CANCEL,0,0,0
 2018-01,South Gloucestershire,Kingswood Library,HOLD,CASH,60,40,40
 2018-01,South Gloucestershire,Kingswood Library,HOLDX,CASH,0,0,0
-2018-01,South Gloucestershire,Kingswood Library,LOST,CANCEL,40,230,0
+2018-01,South Gloucestershire,Kingswood Library,LOST,CANCEL,40,210,0
 2018-01,South Gloucestershire,Kingswood Library,LOST,CASH,10,40,40
 2018-01,South Gloucestershire,Kingswood Library,LOST,FORGIVEN,0,10,0
 2018-01,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,50,80,0
@@ -23269,7 +23265,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Bath and North East Somerset,Bath Central Library,CREDIT,CREDITCARD,0,0,0
 2018-02,Bath and North East Somerset,Bath Central Library,GROUP,CASH,0,10,10
 2018-02,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,0,30,0
-2018-02,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,30,30
+2018-02,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,20,20
 2018-02,Bath and North East Somerset,Bath Central Library,HOLD,CHEQUE,0,20,20
 2018-02,Bath and North East Somerset,Bath Central Library,HOLD,CREDITCARD,10,70,70
 2018-02,Bath and North East Somerset,Bath Central Library,HOLD,FORGIVEN,0,0,0
@@ -23935,7 +23931,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Dorset,Verwood Library,OVERDUEX,CANCEL,10,0,0
 2018-02,Dorset,Verwood Library,PROCESSFEE,CASH,0,0,0
 2018-02,Dorset,Wareham Library,CHARGE,CANCEL,10,20,0
-2018-02,Dorset,Wareham Library,CHARGE,CASH,60,140,140
+2018-02,Dorset,Wareham Library,CHARGE,CASH,60,130,130
 2018-02,Dorset,Wareham Library,CHARGE,FORGIVEN,0,10,0
 2018-02,Dorset,Wareham Library,HOLD,CASH,0,0,0
 2018-02,Dorset,Wareham Library,LOST,CANCEL,30,110,0
@@ -24800,7 +24796,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,South Gloucestershire,Bradley Stoke Library,CHARGE,CANCEL,10,10,0
 2018-02,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,220,250,250
 2018-02,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,0,10,0
-2018-02,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,40,40
+2018-02,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,30,30
 2018-02,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,0,0,0
 2018-02,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,120,90,90
 2018-02,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,10,10,0
@@ -24808,8 +24804,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,South Gloucestershire,Bradley Stoke Library,LOST,CASH,0,20,20
 2018-02,South Gloucestershire,Bradley Stoke Library,LOST,FORGIVEN,0,0,0
 2018-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,10,30,0
-2018-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,170,160,160
-2018-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,40,50,0
+2018-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,170,150,150
+2018-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,30,50,0
 2018-02,South Gloucestershire,Bradley Stoke Library,SALENOVAT,CANCEL,0,0,0
 2018-02,South Gloucestershire,Bradley Stoke Library,SALENOVAT,CASH,0,0,0
 2018-02,South Gloucestershire,Bradley Stoke Library,SALEVAT,CANCEL,0,0,0
@@ -25005,7 +25001,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bath and North East Somerset,Bath Central Library,DAMAGE,CREDITCARD,0,20,20
 2018-03,Bath and North East Somerset,Bath Central Library,GROUP,CREDITCARD,0,110,110
 2018-03,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,130,0
-2018-03,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,40,40
+2018-03,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,30,30
 2018-03,Bath and North East Somerset,Bath Central Library,HOLD,CREDITCARD,0,0,0
 2018-03,Bath and North East Somerset,Bath Central Library,HOLDX,CANCEL,0,0,0
 2018-03,Bath and North East Somerset,Bath Central Library,HOLDX,CASH,0,0,0
@@ -28916,7 +28912,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Dorset,Bridport Library,ILL,CASH,0,10,10
 2018-05,Dorset,Bridport Library,LOST,CANCEL,30,150,0
 2018-05,Dorset,Bridport Library,OVERDUE,CANCEL,10,10,0
-2018-05,Dorset,Bridport Library,OVERDUE,CASH,220,150,150
+2018-05,Dorset,Bridport Library,OVERDUE,CASH,220,140,140
 2018-05,Dorset,Bridport Library,OVERDUE,FORGIVEN,10,80,0
 2018-05,Dorset,Burton Bradstock Library,CHARGE,CASH,0,0,0
 2018-05,Dorset,Burton Bradstock Library,LOST,CANCEL,0,0,0
@@ -30086,7 +30082,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bath and North East Somerset,Bath Central Library,CHARGEX,CREDITCARD,0,0,0
 2018-06,Bath and North East Somerset,Bath Central Library,CHARGEX,FORGIVEN,0,0,0
 2018-06,Bath and North East Somerset,Bath Central Library,CREDIT,CASH,0,0,0
-2018-06,Bath and North East Somerset,Bath Central Library,GROUP,CASH,0,10,10
 2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,10,40,0
 2018-06,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,50,50
 2018-06,Bath and North East Somerset,Bath Central Library,HOLDX,CASH,0,0,0
@@ -33233,8 +33228,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,10,10,0
 2018-07,South Gloucestershire,Bradley Stoke Library,CHARGE,VOUCH,10,10,10
 2018-07,South Gloucestershire,Bradley Stoke Library,CREDIT,FORGIVEN,0,0,0
-2018-07,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,40,40
-2018-07,South Gloucestershire,Bradley Stoke Library,GROUP,FORGIVEN,0,10,0
+2018-07,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,30,30
 2018-07,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,0,0,0
 2018-07,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,160,110,110
 2018-07,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,0,0,0
@@ -33243,7 +33237,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,220,930,0
 2018-07,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,120,750,0
 2018-07,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,300,470,470
-2018-07,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,30,120,0
+2018-07,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,30,110,0
 2018-07,South Gloucestershire,Bradley Stoke Library,SALENOVAT,CANCEL,0,0,0
 2018-07,South Gloucestershire,Bradley Stoke Library,SALENOVAT,FORGIVEN,0,0,0
 2018-07,South Gloucestershire,Cadbury Heath Library,CHARGE,CANCEL,0,0,0
@@ -33459,7 +33453,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Bath and North East Somerset,Bath Central Library,CREDIT,CREDITCARD,10,0,0
 2018-08,Bath and North East Somerset,Bath Central Library,DAMAGE,CANCEL,0,10,0
 2018-08,Bath and North East Somerset,Bath Central Library,DAMAGE,CASH,0,0,0
-2018-08,Bath and North East Somerset,Bath Central Library,GROUP,CASH,0,20,20
 2018-08,Bath and North East Somerset,Bath Central Library,GROUP,CREDITCARD,0,50,50
 2018-08,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,0,30,0
 2018-08,Bath and North East Somerset,Bath Central Library,HOLD,CASH,10,10,10
@@ -34950,7 +34943,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Taunton Library,SALENOVAT,CANCEL,0,10,0
 2018-08,Somerset,Taunton Library,SALENOVAT,CASH,10,0,0
 2018-08,Somerset,Taunton Library,SALENOVAT,DEBITCARD,0,0,0
-2018-08,Somerset,Taunton Library,SALEVAT,CASH,10,10,10
+2018-08,Somerset,Taunton Library,SALEVAT,CASH,10,0,0
 2018-08,Somerset,Taunton Library,SALEVAT,CREDITCARD,0,0,0
 2018-08,Somerset,Taunton Library,SALEVAT,DEBITCARD,0,0,0
 2018-08,Somerset,Taunton Mobile,LOST,CANCEL,10,40,0
@@ -36838,7 +36831,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,0,0,0
 2018-09,South Gloucestershire,Bradley Stoke Library,CHARGE,VOUCH,60,70,70
 2018-09,South Gloucestershire,Bradley Stoke Library,GROUP,CANCEL,0,10,0
-2018-09,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,30,30
+2018-09,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,20,20
 2018-09,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,10,10,0
 2018-09,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,150,130,130
 2018-09,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,0,0,0
@@ -41635,7 +41628,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,0,0,0
 2018-12,South Gloucestershire,Bradley Stoke Library,CREDIT,CANCEL,0,0,0
 2018-12,South Gloucestershire,Bradley Stoke Library,CREDIT,CASH,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,30,30
+2018-12,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,20,20
 2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,0,0,0
 2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,170,130,130
 2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,0,0,0
@@ -41644,7 +41637,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,South Gloucestershire,Bradley Stoke Library,LOST,FORGIVEN,0,20,0
 2018-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,50,90,0
 2018-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,180,140,140
-2018-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,30,40,0
+2018-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,20,30,0
 2018-12,South Gloucestershire,Bradley Stoke Library,PROCESSFEE,CASH,0,0,0
 2018-12,South Gloucestershire,Bradley Stoke Library,SALENOVAT,CASH,0,0,0
 2018-12,South Gloucestershire,Bradley Stoke Library,SALEVAT,CASH,0,0,0
@@ -42857,7 +42850,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Cheddar Library,HOLD,CANCEL,0,0,0
 2019-01,Somerset,Cheddar Library,HOLD,CASH,110,140,140
 2019-01,Somerset,Cheddar Library,HOLD,FORGIVEN,0,0,0
-2019-01,Somerset,Cheddar Library,LOST,CANCEL,10,60,0
+2019-01,Somerset,Cheddar Library,LOST,CANCEL,20,70,0
 2019-01,Somerset,Cheddar Library,LOST,CASH,0,0,0
 2019-01,Somerset,Cheddar Library,OVERDUE,CANCEL,10,0,0
 2019-01,Somerset,Cheddar Library,OVERDUE,CASH,120,40,40
