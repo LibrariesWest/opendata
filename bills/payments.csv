@@ -9874,7 +9874,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Bath and North East Somerset,Radstock Library,LOSTCARD,FORGIVEN,0,0,0
 2017-07,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,0,0,0
 2017-07,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,80,50,50
-2017-07,Bath and North East Somerset,Radstock Library,OVERDUE,FORGIVEN,0,0,0
 2017-07,Bath and North East Somerset,Radstock Library,PROCESSFEE,CASH,0,0,0
 2017-07,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,20,10,10
 2017-07,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
@@ -41967,7 +41966,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Bristol,Bristol Central Lending Library,CHARGE,CASH,670,760,760
 2019-01,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,170,180,180
 2019-01,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,50,60,60
-2019-01,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,60,90,0
+2019-01,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,60,80,0
 2019-01,Bristol,Bristol Central Lending Library,CHARGEX,CANCEL,10,10,0
 2019-01,Bristol,Bristol Central Lending Library,CHARGEX,CASH,10,10,10
 2019-01,Bristol,Bristol Central Lending Library,CHARGEX,DEBITCARD,0,0,0
@@ -41989,7 +41988,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Bristol,Bristol Central Lending Library,OVERDUE,CREDITACCT,0,0,0
 2019-01,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,850,900,900
 2019-01,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,190,360,360
-2019-01,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,190,330,0
+2019-01,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,180,310,0
 2019-01,Bristol,Bristol Central Lending Library,OVERDUEX,CANCEL,0,0,0
 2019-01,Bristol,Bristol Central Lending Library,OVERDUEX,CASH,10,10,10
 2019-01,Bristol,Bristol Central Lending Library,OVERDUEX,FORGIVEN,20,40,0
