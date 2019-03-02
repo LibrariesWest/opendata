@@ -4031,7 +4031,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Bristol,Bishopston Library,CREDIT,CASH,0,0,0
 2017-05,Bristol,Bishopston Library,CREDIT,FORGIVEN,0,0,0
 2017-05,Bristol,Bishopston Library,HOLD,CASH,0,10,10
-2017-05,Bristol,Bishopston Library,HOLDX,CASH,10,10,10
+2017-05,Bristol,Bishopston Library,HOLDX,CASH,10,0,0
 2017-05,Bristol,Bishopston Library,HOLDX,FORGIVEN,0,0,0
 2017-05,Bristol,Bishopston Library,LOST,CANCEL,230,1230,0
 2017-05,Bristol,Bishopston Library,LOST,CASH,0,10,10
@@ -4208,7 +4208,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Bristol,Henleaze Library,SALENOVAT,FORGIVEN,0,10,0
 2017-05,Bristol,Hillfields Library,CHARGE,CASH,10,10,10
 2017-05,Bristol,Hillfields Library,CHARGE,FORGIVEN,0,0,0
-2017-05,Bristol,Hillfields Library,LOST,CANCEL,20,110,0
+2017-05,Bristol,Hillfields Library,LOST,CANCEL,20,60,0
 2017-05,Bristol,Hillfields Library,OVERDUE,CASH,10,0,0
 2017-05,Bristol,Hillfields Library,OVERDUE,FORGIVEN,0,0,0
 2017-05,Bristol,Hillfields Library,SALEVAT,CASH,0,0,0
@@ -6264,7 +6264,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Bristol,Stockwood Library,LOST,CASH,0,0,0
 2017-06,Bristol,Stockwood Library,OVERDUE,CANCEL,0,0,0
 2017-06,Bristol,Stockwood Library,OVERDUE,CASH,70,50,50
-2017-06,Bristol,Stockwood Library,OVERDUE,FORGIVEN,30,10,0
+2017-06,Bristol,Stockwood Library,OVERDUE,FORGIVEN,20,10,0
 2017-06,Bristol,Stockwood Library,OVERDUEX,CANCEL,0,0,0
 2017-06,Bristol,Stockwood Library,SALENOVAT,FORGIVEN,0,0,0
 2017-06,Bristol,Westbury-on-Trym Library,CHARGE,CASH,110,140,140
@@ -24875,7 +24875,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Bishopston Library,CHARGEX,CASH,0,0,0
 2018-04,Bristol,Bishopston Library,CREDIT,CASH,0,0,0
 2018-04,Bristol,Bishopston Library,HOLDX,CASH,0,0,0
-2018-04,Bristol,Bishopston Library,LOST,CANCEL,240,1120,0
+2018-04,Bristol,Bishopston Library,LOST,CANCEL,240,1110,0
 2018-04,Bristol,Bishopston Library,LOST,CASH,10,60,60
 2018-04,Bristol,Bishopston Library,LOST,CREDITCARD,0,10,10
 2018-04,Bristol,Bishopston Library,LOST,FORGIVEN,10,40,0
@@ -24884,7 +24884,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Bishopston Library,OVERDUE,CASH,460,360,360
 2018-04,Bristol,Bishopston Library,OVERDUE,CREDITACCT,0,0,0
 2018-04,Bristol,Bishopston Library,OVERDUE,CREDITCARD,190,190,190
-2018-04,Bristol,Bishopston Library,OVERDUE,FORGIVEN,60,100,0
+2018-04,Bristol,Bishopston Library,OVERDUE,FORGIVEN,50,90,0
 2018-04,Bristol,Bishopston Library,OVERDUEX,CANCEL,0,0,0
 2018-04,Bristol,Bishopston Library,OVERDUEX,CASH,0,0,0
 2018-04,Bristol,Bishopston Library,OVERDUEX,FORGIVEN,10,10,0
@@ -31625,7 +31625,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Bristol,Bristol Central Lending Library,BFR,CREDITCARD,0,30,30
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,CANCEL,20,20,0
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,CASH,720,760,760
-2018-08,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,270,330,330
+2018-08,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,260,330,330
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,30,50,50
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,70,90,0
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,VOUCH,40,40,40
@@ -41994,6 +41994,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Dorset,Portland Tophill Library,LOST,CANCEL,10,60,0
 2019-02,Dorset,Portland Tophill Library,OVERDUE,CASH,50,100,100
 2019-02,Dorset,Puddletown Library,CHARGE,CASH,0,0,0
+2019-02,Dorset,Puddletown Library,LOST,CANCEL,0,10,0
 2019-02,Dorset,Puddletown Library,OVERDUE,CASH,0,0,0
 2019-02,Dorset,Shaftesbury Library,CHARGE,CANCEL,0,0,0
 2019-02,Dorset,Shaftesbury Library,CHARGE,CASH,60,130,130
@@ -42124,7 +42125,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,North Somerset,Clevedon Library,GROUP,CANCEL,0,10,0
 2019-02,North Somerset,Clevedon Library,GROUP,CASH,10,40,40
 2019-02,North Somerset,Clevedon Library,HOLD,CASH,0,10,10
-2019-02,North Somerset,Clevedon Library,LOST,CANCEL,10,90,0
+2019-02,North Somerset,Clevedon Library,LOST,CANCEL,30,180,0
 2019-02,North Somerset,Clevedon Library,LOST,CASH,0,10,10
 2019-02,North Somerset,Clevedon Library,LOSTCARD,CANCEL,0,0,0
 2019-02,North Somerset,Clevedon Library,LOSTCARD,CASH,0,0,0
@@ -42183,7 +42184,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,North Somerset,Portishead Library,GROUP,FORGIVEN,0,10,0
 2019-02,North Somerset,Portishead Library,HOLDX,CANCEL,0,0,0
 2019-02,North Somerset,Portishead Library,HOLDX,FORGIVEN,0,0,0
-2019-02,North Somerset,Portishead Library,LOST,CANCEL,30,140,0
+2019-02,North Somerset,Portishead Library,LOST,CANCEL,30,150,0
 2019-02,North Somerset,Portishead Library,LOST,CASH,10,20,20
 2019-02,North Somerset,Portishead Library,OVERDUE,CANCEL,10,20,0
 2019-02,North Somerset,Portishead Library,OVERDUE,CASH,350,250,250
