@@ -12461,7 +12461,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bristol,Redland Library,LOST,CASH,10,20,20
 2017-09,Bristol,Redland Library,LOST,FORGIVEN,0,10,0
 2017-09,Bristol,Redland Library,OVERDUE,CANCEL,10,10,0
-2017-09,Bristol,Redland Library,OVERDUE,CASH,270,160,160
+2017-09,Bristol,Redland Library,OVERDUE,CASH,260,160,160
 2017-09,Bristol,Redland Library,OVERDUE,CREDITACCT,0,0,0
 2017-09,Bristol,Redland Library,OVERDUE,CREDITCARD,130,150,150
 2017-09,Bristol,Redland Library,OVERDUE,FORGIVEN,70,90,0
@@ -20013,7 +20013,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Dorset,Ferndown Library,LOST,CANCEL,30,140,0
 2018-01,Dorset,Ferndown Library,LOSTCARD,CASH,0,0,0
 2018-01,Dorset,Ferndown Library,OVERDUE,CANCEL,0,0,0
-2018-01,Dorset,Ferndown Library,OVERDUE,CASH,240,190,190
+2018-01,Dorset,Ferndown Library,OVERDUE,CASH,230,190,190
 2018-01,Dorset,Ferndown Library,OVERDUE,FORGIVEN,10,20,0
 2018-01,Dorset,Gillingham Library,BFR,CASH,10,20,20
 2018-01,Dorset,Gillingham Library,BFR,FORGIVEN,0,20,0
@@ -21923,7 +21923,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Dorset,West Moors Library,OVERDUE,CASH,40,30,30
 2018-02,Dorset,West Moors Library,OVERDUE,FORGIVEN,10,30,0
 2018-02,Dorset,Weymouth Library,BFR,FORGIVEN,0,10,0
-2018-02,Dorset,Weymouth Library,CHARGE,CASH,110,280,280
+2018-02,Dorset,Weymouth Library,CHARGE,CASH,110,260,260
 2018-02,Dorset,Weymouth Library,CHARGE,FORGIVEN,20,30,0
 2018-02,Dorset,Weymouth Library,CHARGEX,CASH,0,0,0
 2018-02,Dorset,Weymouth Library,CHARGEX,FORGIVEN,0,10,0
@@ -42868,7 +42868,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,South Gloucestershire,Filton Library,HOLD,CANCEL,0,0,0
 2019-02,South Gloucestershire,Filton Library,HOLD,CASH,40,30,30
 2019-02,South Gloucestershire,Filton Library,HOLDX,FORGIVEN,0,0,0
-2019-02,South Gloucestershire,Filton Library,LOST,CANCEL,40,210,0
+2019-02,South Gloucestershire,Filton Library,LOST,CANCEL,40,220,0
 2019-02,South Gloucestershire,Filton Library,OVERDUE,CANCEL,20,20,0
 2019-02,South Gloucestershire,Filton Library,OVERDUE,CASH,40,50,50
 2019-02,South Gloucestershire,Filton Library,OVERDUE,FORGIVEN,10,10,0
