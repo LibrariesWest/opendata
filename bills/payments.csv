@@ -4984,7 +4984,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Somerset,Bridgwater Library,CHARGE,CASH,200,380,380
 2017-05,Somerset,Bridgwater Library,CHARGE,CREDITACCT,0,0,0
 2017-05,Somerset,Bridgwater Library,CHARGE,DEBITCARD,10,20,20
-2017-05,Somerset,Bridgwater Library,CHARGE,FORGIVEN,10,20,0
+2017-05,Somerset,Bridgwater Library,CHARGE,FORGIVEN,10,10,0
 2017-05,Somerset,Bridgwater Library,CHARGEX,CANCEL,0,0,0
 2017-05,Somerset,Bridgwater Library,CHARGEX,FORGIVEN,0,0,0
 2017-05,Somerset,Bridgwater Library,CREDIT,CASH,10,0,0
@@ -13311,7 +13311,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Dulverton Library,CHARGE,CASH,10,20,20
 2017-09,Somerset,Dulverton Library,GROUP,CANCEL,0,10,0
 2017-09,Somerset,Dulverton Library,GROUP,CASH,0,20,20
-2017-09,Somerset,Dulverton Library,HOLD,CASH,50,50,50
+2017-09,Somerset,Dulverton Library,HOLD,CASH,50,40,40
 2017-09,Somerset,Dulverton Library,LOST,CANCEL,10,50,0
 2017-09,Somerset,Dulverton Library,LOSTCARD,CASH,0,0,0
 2017-09,Somerset,Dulverton Library,OVERDUE,CANCEL,10,10,0
@@ -17137,7 +17137,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Somerset,Dulverton Library,CHARGEX,CASH,0,0,0
 2017-11,Somerset,Dulverton Library,GROUP,CASH,0,20,20
 2017-11,Somerset,Dulverton Library,HOLD,CANCEL,0,0,0
-2017-11,Somerset,Dulverton Library,HOLD,CASH,50,50,50
+2017-11,Somerset,Dulverton Library,HOLD,CASH,50,40,40
 2017-11,Somerset,Dulverton Library,HOLDX,CASH,0,0,0
 2017-11,Somerset,Dulverton Library,LOST,CANCEL,0,30,0
 2017-11,Somerset,Dulverton Library,OVERDUE,CASH,110,60,60
@@ -24648,7 +24648,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,South Gloucestershire,Staple Hill Library,LOST,CANCEL,50,230,0
 2018-03,South Gloucestershire,Staple Hill Library,LOST,CASH,0,0,0
 2018-03,South Gloucestershire,Staple Hill Library,LOST,FORGIVEN,0,10,0
-2018-03,South Gloucestershire,Staple Hill Library,OVERDUE,CANCEL,20,20,0
+2018-03,South Gloucestershire,Staple Hill Library,OVERDUE,CANCEL,10,10,0
 2018-03,South Gloucestershire,Staple Hill Library,OVERDUE,CASH,140,120,120
 2018-03,South Gloucestershire,Staple Hill Library,OVERDUE,FORGIVEN,20,30,0
 2018-03,South Gloucestershire,Staple Hill Library,PROCESSFEE,CASH,0,0,0
@@ -31346,7 +31346,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,South Gloucestershire,Staple Hill Library,CREDIT,CASH,0,0,0
 2018-07,South Gloucestershire,Staple Hill Library,GROUP,CASH,0,10,10
 2018-07,South Gloucestershire,Staple Hill Library,HOLD,CASH,60,40,40
-2018-07,South Gloucestershire,Staple Hill Library,LOST,CANCEL,90,430,0
+2018-07,South Gloucestershire,Staple Hill Library,LOST,CANCEL,90,410,0
 2018-07,South Gloucestershire,Staple Hill Library,LOST,CASH,0,0,0
 2018-07,South Gloucestershire,Staple Hill Library,OVERDUE,CANCEL,10,40,0
 2018-07,South Gloucestershire,Staple Hill Library,OVERDUE,CASH,120,90,90
@@ -36137,7 +36137,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Somerset,Dulverton Library,GROUP,CASH,0,20,20
 2018-10,Somerset,Dulverton Library,HOLD,CASH,30,30,30
 2018-10,Somerset,Dulverton Library,LOST,CANCEL,10,40,0
-2018-10,Somerset,Dulverton Library,OVERDUE,CASH,60,40,40
+2018-10,Somerset,Dulverton Library,OVERDUE,CASH,50,40,40
 2018-10,Somerset,Frome Library,CHARGE,CANCEL,40,80,0
 2018-10,Somerset,Frome Library,CHARGE,CASH,400,760,760
 2018-10,Somerset,Frome Library,CHARGE,CREDITCARD,10,10,10
@@ -40854,7 +40854,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Dulverton Library,GROUP,CASH,0,20,20
 2019-01,Somerset,Dulverton Library,HOLD,CASH,40,40,40
 2019-01,Somerset,Dulverton Library,LOST,CANCEL,10,30,0
-2019-01,Somerset,Dulverton Library,OVERDUE,CASH,70,40,40
+2019-01,Somerset,Dulverton Library,OVERDUE,CASH,70,30,30
 2019-01,Somerset,Dulverton Library,OVERDUE,FORGIVEN,30,40,0
 2019-01,Somerset,Frome Library,CHARGE,CANCEL,20,40,0
 2019-01,Somerset,Frome Library,CHARGE,CASH,300,550,550
