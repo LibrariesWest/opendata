@@ -8396,7 +8396,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Dorset,Dorchester Library,BFR,CASH,10,40,40
 2017-07,Dorset,Dorchester Library,BFR,FORGIVEN,20,150,0
 2017-07,Dorset,Dorchester Library,CHARGE,CANCEL,10,20,0
-2017-07,Dorset,Dorchester Library,CHARGE,CASH,260,590,590
+2017-07,Dorset,Dorchester Library,CHARGE,CASH,260,580,580
 2017-07,Dorset,Dorchester Library,CHARGE,FORGIVEN,10,20,0
 2017-07,Dorset,Dorchester Library,CHARGEX,CASH,10,10,10
 2017-07,Dorset,Dorchester Library,CHARGEX,FORGIVEN,0,10,0
@@ -12080,7 +12080,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bath and North East Somerset,Midsomer Norton Library,GROUP,CANCEL,10,0,0
 2017-09,Bath and North East Somerset,Midsomer Norton Library,GROUP,CASH,0,0,0
 2017-09,Bath and North East Somerset,Midsomer Norton Library,HOLD,CREDITCARD,0,0,0
-2017-09,Bath and North East Somerset,Midsomer Norton Library,HOLDX,CANCEL,0,0,0
 2017-09,Bath and North East Somerset,Midsomer Norton Library,HOLDX,CASH,0,0,0
 2017-09,Bath and North East Somerset,Midsomer Norton Library,HOLDX,CREDITCARD,0,0,0
 2017-09,Bath and North East Somerset,Midsomer Norton Library,LOST,CANCEL,0,0,0
@@ -25227,7 +25226,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Dorset,Christchurch Library,LOST,CANCEL,130,560,0
 2018-04,Dorset,Christchurch Library,LOST,CASH,10,70,70
 2018-04,Dorset,Christchurch Library,LOSTCARD,CASH,0,10,10
-2018-04,Dorset,Christchurch Library,OVERDUE,CANCEL,20,40,0
+2018-04,Dorset,Christchurch Library,OVERDUE,CANCEL,10,30,0
 2018-04,Dorset,Christchurch Library,OVERDUE,CASH,330,310,310
 2018-04,Dorset,Christchurch Library,OVERDUE,FORGIVEN,10,20,0
 2018-04,Dorset,Christchurch Library,OVERDUEX,CANCEL,0,0,0
@@ -30480,9 +30479,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,North Somerset,N Som Healthy Living Centre,SALENOVAT,CANCEL,0,0,0
 2018-07,North Somerset,Nailsea Library,CHARGE,CANCEL,20,20,0
 2018-07,North Somerset,Nailsea Library,CHARGE,CASH,190,290,290
-2018-07,North Somerset,Nailsea Library,CHARGE,FORGIVEN,10,10,0
+2018-07,North Somerset,Nailsea Library,CHARGE,FORGIVEN,10,0,0
 2018-07,North Somerset,Nailsea Library,CHARGEX,CASH,0,0,0
-2018-07,North Somerset,Nailsea Library,CHARGEX,FORGIVEN,0,0,0
 2018-07,North Somerset,Nailsea Library,CREDIT,CANCEL,0,0,0
 2018-07,North Somerset,Nailsea Library,DAMAGE,CANCEL,0,10,0
 2018-07,North Somerset,Nailsea Library,GROUP,CASH,0,20,20
@@ -32395,7 +32393,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,North Somerset,Yatton Library,LOST,CASH,10,50,50
 2018-08,North Somerset,Yatton Library,LOSTCARD,CASH,0,0,0
 2018-08,North Somerset,Yatton Library,OVERDUE,CANCEL,0,0,0
-2018-08,North Somerset,Yatton Library,OVERDUE,CASH,220,100,100
+2018-08,North Somerset,Yatton Library,OVERDUE,CASH,210,100,100
 2018-08,North Somerset,Yatton Library,OVERDUE,FORGIVEN,10,10,0
 2018-08,North Somerset,Yatton Library,SALENOVAT,CASH,0,0,0
 2018-08,Poole,Branksome Library,CHARGE,CASH,30,50,50
@@ -38796,7 +38794,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Dorset,Ferndown Library,OVERDUE,CANCEL,0,0,0
 2018-12,Dorset,Ferndown Library,OVERDUE,CASH,130,120,120
 2018-12,Dorset,Ferndown Library,OVERDUE,FORGIVEN,10,40,0
-2018-12,Dorset,Gillingham Library,CHARGE,CASH,70,170,170
+2018-12,Dorset,Gillingham Library,CHARGE,CASH,70,160,160
 2018-12,Dorset,Gillingham Library,CHARGE,FORGIVEN,10,10,0
 2018-12,Dorset,Gillingham Library,ILL,CASH,0,10,10
 2018-12,Dorset,Gillingham Library,LOST,CANCEL,20,90,0
