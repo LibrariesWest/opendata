@@ -4397,7 +4397,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Dorset,Blandford Library,CHARGE,FORGIVEN,10,20,0
 2017-05,Dorset,Blandford Library,LOST,CANCEL,20,80,0
 2017-05,Dorset,Blandford Library,OVERDUE,CANCEL,10,10,0
-2017-05,Dorset,Blandford Library,OVERDUE,CASH,100,80,80
+2017-05,Dorset,Blandford Library,OVERDUE,CASH,100,70,70
 2017-05,Dorset,Blandford Library,OVERDUE,FORGIVEN,20,40,0
 2017-05,Dorset,Blandford Library,PROCESSFEE,CASH,0,0,0
 2017-05,Dorset,Bridport Library,BFR,CASH,0,20,20
@@ -16596,7 +16596,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Dorset,Shaftesbury Library,CHARGE,FORGIVEN,0,0,0
 2017-11,Dorset,Shaftesbury Library,ILL,CASH,0,20,20
 2017-11,Dorset,Shaftesbury Library,LOST,CANCEL,40,160,0
-2017-11,Dorset,Shaftesbury Library,OVERDUE,CANCEL,10,10,0
+2017-11,Dorset,Shaftesbury Library,OVERDUE,CANCEL,0,10,0
 2017-11,Dorset,Shaftesbury Library,OVERDUE,CASH,80,70,70
 2017-11,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,0,10,0
 2017-11,Dorset,Sherborne Library,BFR,FORGIVEN,0,10,0
@@ -20069,7 +20069,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Dorset,Shaftesbury Library,LOST,CASH,0,10,10
 2018-01,Dorset,Shaftesbury Library,LOSTCARD,CASH,0,0,0
 2018-01,Dorset,Shaftesbury Library,OVERDUE,CANCEL,0,40,0
-2018-01,Dorset,Shaftesbury Library,OVERDUE,CASH,110,100,100
+2018-01,Dorset,Shaftesbury Library,OVERDUE,CASH,100,100,100
 2018-01,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,0,40,0
 2018-01,Dorset,Shaftesbury Library,PRIVILEGE,CASH,0,0,0
 2018-01,Dorset,Shaftesbury Library,PROCESSFEE,CASH,0,0,0
@@ -23608,7 +23608,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Dorset,Shaftesbury Library,CHARGE,CASH,80,190,190
 2018-03,Dorset,Shaftesbury Library,LOST,CANCEL,10,40,0
 2018-03,Dorset,Shaftesbury Library,OVERDUE,CANCEL,0,0,0
-2018-03,Dorset,Shaftesbury Library,OVERDUE,CASH,100,100,100
+2018-03,Dorset,Shaftesbury Library,OVERDUE,CASH,90,100,100
 2018-03,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,0,0,0
 2018-03,Dorset,Sherborne Library,BFR,CANCEL,0,10,0
 2018-03,Dorset,Sherborne Library,CHARGE,CASH,150,360,360
@@ -31780,7 +31780,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Bristol,Junction 3 Library,LOST,CANCEL,240,1130,0
 2018-08,Bristol,Junction 3 Library,LOST,CASH,20,70,70
 2018-08,Bristol,Junction 3 Library,LOSTX,FORGIVEN,0,20,0
-2018-08,Bristol,Junction 3 Library,OVERDUE,CASH,240,170,170
+2018-08,Bristol,Junction 3 Library,OVERDUE,CASH,220,170,170
 2018-08,Bristol,Junction 3 Library,OVERDUE,FORGIVEN,20,30,0
 2018-08,Bristol,Junction 3 Library,OVERDUEX,CASH,0,0,0
 2018-08,Bristol,Junction 3 Library,OVERDUEX,FORGIVEN,0,0,0
@@ -36600,7 +36600,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,South Gloucestershire,Hanham Library,HOLDX,FORGIVEN,0,0,0
 2018-10,South Gloucestershire,Hanham Library,LOST,CANCEL,90,430,0
 2018-10,South Gloucestershire,Hanham Library,LOST,CASH,0,20,20
-2018-10,South Gloucestershire,Hanham Library,OVERDUE,CANCEL,50,120,0
+2018-10,South Gloucestershire,Hanham Library,OVERDUE,CANCEL,40,110,0
 2018-10,South Gloucestershire,Hanham Library,OVERDUE,CASH,110,80,80
 2018-10,South Gloucestershire,Hanham Library,OVERDUE,FORGIVEN,30,80,0
 2018-10,South Gloucestershire,Hanham Library,OVERDUEX,CANCEL,10,10,0
@@ -40366,7 +40366,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Dorset,Shaftesbury Library,LOST,CANCEL,80,340,0
 2019-01,Dorset,Shaftesbury Library,LOST,CASH,0,0,0
 2019-01,Dorset,Shaftesbury Library,OVERDUE,CANCEL,10,10,0
-2019-01,Dorset,Shaftesbury Library,OVERDUE,CASH,100,80,80
+2019-01,Dorset,Shaftesbury Library,OVERDUE,CASH,90,80,80
 2019-01,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,10,20,0
 2019-01,Dorset,Shaftesbury Library,PRIVILEGE,CANCEL,0,0,0
 2019-01,Dorset,Shaftesbury Library,SALENOVAT,CANCEL,0,0,0
