@@ -12406,7 +12406,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bristol,Junction 3 Library,LOST,FORGIVEN,10,30,0
 2017-09,Bristol,Junction 3 Library,LOSTX,CASH,0,0,0
 2017-09,Bristol,Junction 3 Library,OVERDUE,CANCEL,10,10,0
-2017-09,Bristol,Junction 3 Library,OVERDUE,CASH,260,270,270
+2017-09,Bristol,Junction 3 Library,OVERDUE,CASH,250,270,270
 2017-09,Bristol,Junction 3 Library,OVERDUE,CREDITACCT,10,0,0
 2017-09,Bristol,Junction 3 Library,OVERDUE,FORGIVEN,30,40,0
 2017-09,Bristol,Junction 3 Library,OVERDUEX,CASH,0,10,10
@@ -18099,7 +18099,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Bristol,Horfield Library,SALENOVAT,FORGIVEN,0,0,0
 2017-12,Bristol,Junction 3 Library,BFR,CASH,0,10,10
 2017-12,Bristol,Junction 3 Library,CHARGE,CANCEL,0,0,0
-2017-12,Bristol,Junction 3 Library,CHARGE,CASH,50,50,50
+2017-12,Bristol,Junction 3 Library,CHARGE,CASH,40,40,40
 2017-12,Bristol,Junction 3 Library,CHARGE,FORGIVEN,0,0,0
 2017-12,Bristol,Junction 3 Library,CREDIT,CASH,0,0,0
 2017-12,Bristol,Junction 3 Library,CREDIT,FORGIVEN,0,0,0
@@ -18109,7 +18109,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Bristol,Junction 3 Library,LOST,CASH,10,20,20
 2017-12,Bristol,Junction 3 Library,LOST,FORGIVEN,0,20,0
 2017-12,Bristol,Junction 3 Library,OVERDUE,CANCEL,10,10,0
-2017-12,Bristol,Junction 3 Library,OVERDUE,CASH,250,240,240
+2017-12,Bristol,Junction 3 Library,OVERDUE,CASH,240,240,240
 2017-12,Bristol,Junction 3 Library,OVERDUE,FORGIVEN,20,60,0
 2017-12,Bristol,Junction 3 Library,OVERDUEX,CANCEL,0,0,0
 2017-12,Bristol,Junction 3 Library,OVERDUEX,FORGIVEN,0,0,0
@@ -19769,7 +19769,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Bristol,Junction 3 Library,LOST,FORGIVEN,20,110,0
 2018-01,Bristol,Junction 3 Library,LOSTX,FORGIVEN,0,40,0
 2018-01,Bristol,Junction 3 Library,OVERDUE,CANCEL,10,30,0
-2018-01,Bristol,Junction 3 Library,OVERDUE,CASH,280,250,250
+2018-01,Bristol,Junction 3 Library,OVERDUE,CASH,280,240,240
 2018-01,Bristol,Junction 3 Library,OVERDUE,CREDITACCT,0,0,0
 2018-01,Bristol,Junction 3 Library,OVERDUE,FORGIVEN,10,40,0
 2018-01,Bristol,Junction 3 Library,OVERDUEX,CASH,0,0,0
@@ -25043,7 +25043,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Junction 3 Library,LOST,FORGIVEN,0,10,0
 2018-04,Bristol,Junction 3 Library,LOSTX,FORGIVEN,0,10,0
 2018-04,Bristol,Junction 3 Library,OVERDUE,CANCEL,10,0,0
-2018-04,Bristol,Junction 3 Library,OVERDUE,CASH,290,270,270
+2018-04,Bristol,Junction 3 Library,OVERDUE,CASH,280,260,260
 2018-04,Bristol,Junction 3 Library,OVERDUE,CREDITACCT,0,0,0
 2018-04,Bristol,Junction 3 Library,OVERDUE,FORGIVEN,20,30,0
 2018-04,Bristol,Junction 3 Library,OVERDUEX,FORGIVEN,10,0,0
@@ -29965,7 +29965,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Bristol,Junction 3 Library,LOSTX,CASH,0,0,0
 2018-07,Bristol,Junction 3 Library,LOSTX,FORGIVEN,0,20,0
 2018-07,Bristol,Junction 3 Library,OVERDUE,CANCEL,10,0,0
-2018-07,Bristol,Junction 3 Library,OVERDUE,CASH,260,200,200
+2018-07,Bristol,Junction 3 Library,OVERDUE,CASH,250,200,200
 2018-07,Bristol,Junction 3 Library,OVERDUE,FORGIVEN,20,40,0
 2018-07,Bristol,Junction 3 Library,OVERDUEX,CANCEL,0,30,0
 2018-07,Bristol,Junction 3 Library,OVERDUEX,CASH,10,10,10
@@ -33497,7 +33497,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Bristol Central Lending Library,LOSTX,CANCEL,0,10,0
 2018-09,Bristol,Bristol Central Lending Library,LOSTX,FORGIVEN,0,30,0
 2018-09,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,70,180,0
-2018-09,Bristol,Bristol Central Lending Library,OVERDUE,CASH,880,730,730
+2018-09,Bristol,Bristol Central Lending Library,OVERDUE,CASH,870,730,730
 2018-09,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,20,60,60
 2018-09,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,750,710,710
 2018-09,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,220,430,430
@@ -37012,7 +37012,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Bristol,Junction 3 Library,CHARGE,CASH,40,40,40
 2018-11,Bristol,Junction 3 Library,CHARGE,FORGIVEN,10,20,0
 2018-11,Bristol,Junction 3 Library,LOST,CANCEL,120,550,0
-2018-11,Bristol,Junction 3 Library,LOST,CASH,0,20,20
+2018-11,Bristol,Junction 3 Library,LOST,CASH,0,10,10
 2018-11,Bristol,Junction 3 Library,LOST,FORGIVEN,10,20,0
 2018-11,Bristol,Junction 3 Library,OVERDUE,CANCEL,10,20,0
 2018-11,Bristol,Junction 3 Library,OVERDUE,CASH,220,180,180
@@ -38605,7 +38605,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Bristol,Marksbury Road Library,OVERDUE,CASH,40,30,30
 2018-12,Bristol,Marksbury Road Library,OVERDUE,FORGIVEN,20,10,0
 2018-12,Bristol,Redland Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Redland Library,CHARGE,CASH,160,170,170
+2018-12,Bristol,Redland Library,CHARGE,CASH,150,170,170
 2018-12,Bristol,Redland Library,CHARGE,CREDITCARD,50,40,40
 2018-12,Bristol,Redland Library,CHARGE,FORGIVEN,10,0,0
 2018-12,Bristol,Redland Library,CHARGE,NONE,0,0,0
