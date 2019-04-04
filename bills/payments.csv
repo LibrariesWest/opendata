@@ -13957,7 +13957,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bristol,Bristol Central Lending Library,HOLD,FORGIVEN,0,0,0
 2017-11,Bristol,Bristol Central Lending Library,HOLDX,CANCEL,0,0,0
 2017-11,Bristol,Bristol Central Lending Library,HOLDX,FORGIVEN,0,0,0
-2017-11,Bristol,Bristol Central Lending Library,LOST,CANCEL,260,1620,0
+2017-11,Bristol,Bristol Central Lending Library,LOST,CANCEL,260,1600,0
 2017-11,Bristol,Bristol Central Lending Library,LOST,CASH,0,30,30
 2017-11,Bristol,Bristol Central Lending Library,LOST,CHEQUE,0,40,40
 2017-11,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,0,30,30
@@ -25884,7 +25884,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Bristol Central Lending Library,OVERDUE,CASH,920,560,560
 2018-06,Bristol,Bristol Central Lending Library,OVERDUE,CREDITACCT,10,0,0
 2018-06,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,550,550,550
-2018-06,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,170,270,270
+2018-06,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,160,260,260
 2018-06,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,180,230,0
 2018-06,Bristol,Bristol Central Lending Library,OVERDUEX,CANCEL,0,10,0
 2018-06,Bristol,Bristol Central Lending Library,OVERDUEX,CASH,0,10,10
@@ -28946,7 +28946,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,South Gloucestershire,Thornbury Library,HOLD,VOUCH,0,0,0
 2018-07,South Gloucestershire,Thornbury Library,HOLDX,CASH,0,0,0
 2018-07,South Gloucestershire,Thornbury Library,ILL,CHEQUE,0,100,100
-2018-07,South Gloucestershire,Thornbury Library,LOST,CANCEL,60,310,0
+2018-07,South Gloucestershire,Thornbury Library,LOST,CANCEL,60,300,0
 2018-07,South Gloucestershire,Thornbury Library,LOST,CASH,0,10,10
 2018-07,South Gloucestershire,Thornbury Library,LOST,FORGIVEN,0,10,0
 2018-07,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,20,140,0
@@ -34443,7 +34443,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Bristol,Clifton Library,LOST,CANCEL,60,240,0
 2018-11,Bristol,Clifton Library,LOST,CASH,0,10,10
 2018-11,Bristol,Clifton Library,OVERDUE,CANCEL,0,0,0
-2018-11,Bristol,Clifton Library,OVERDUE,CASH,80,70,70
+2018-11,Bristol,Clifton Library,OVERDUE,CASH,70,70,70
 2018-11,Bristol,Clifton Library,OVERDUE,FORGIVEN,20,40,0
 2018-11,Bristol,Filwood Library,CHARGE,CANCEL,0,0,0
 2018-11,Bristol,Filwood Library,CHARGE,CASH,20,30,30
@@ -38022,7 +38022,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,North Somerset,Portishead Library,LOST,CASH,0,0,0
 2019-01,North Somerset,Portishead Library,LOSTCARD,CASH,0,0,0
 2019-01,North Somerset,Portishead Library,OVERDUE,CANCEL,40,70,0
-2019-01,North Somerset,Portishead Library,OVERDUE,CASH,550,320,320
+2019-01,North Somerset,Portishead Library,OVERDUE,CASH,550,310,310
 2019-01,North Somerset,Portishead Library,OVERDUE,FORGIVEN,30,40,0
 2019-01,North Somerset,Portishead Library,OVERDUEX,CANCEL,10,0,0
 2019-01,North Somerset,Portishead Library,OVERDUEX,CASH,0,0,0
@@ -39088,7 +39088,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Bristol,Clifton Library,LOST,CASH,0,0,0
 2019-02,Bristol,Clifton Library,OVERDUE,CANCEL,10,10,0
 2019-02,Bristol,Clifton Library,OVERDUE,CASH,100,70,70
-2019-02,Bristol,Clifton Library,OVERDUE,FORGIVEN,30,80,0
+2019-02,Bristol,Clifton Library,OVERDUE,FORGIVEN,20,80,0
 2019-02,Bristol,Clifton Library,REFERRAL,FORGIVEN,0,10,0
 2019-02,Bristol,Filwood Library,CHARGE,CASH,10,10,10
 2019-02,Bristol,Filwood Library,LOST,CANCEL,10,60,0
