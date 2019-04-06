@@ -9110,7 +9110,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Frome Library,LOSTX,CASH,0,0,0
 2017-08,Somerset,Frome Library,LOSTX,DEBITCARD,10,70,70
 2017-08,Somerset,Frome Library,OVERDUE,CANCEL,40,70,0
-2017-08,Somerset,Frome Library,OVERDUE,CASH,720,520,520
+2017-08,Somerset,Frome Library,OVERDUE,CASH,710,520,520
 2017-08,Somerset,Frome Library,OVERDUE,CREDITACCT,0,0,0
 2017-08,Somerset,Frome Library,OVERDUE,DEBITCARD,170,190,190
 2017-08,Somerset,Frome Library,OVERDUE,FORGIVEN,50,70,0
@@ -33319,7 +33319,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,North Somerset,Nailsea Library,LOST,CANCEL,10,80,0
 2018-10,North Somerset,Nailsea Library,LOST,CASH,10,30,30
 2018-10,North Somerset,Nailsea Library,OVERDUE,CANCEL,40,30,0
-2018-10,North Somerset,Nailsea Library,OVERDUE,CASH,560,350,350
+2018-10,North Somerset,Nailsea Library,OVERDUE,CASH,550,340,340
 2018-10,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,40,40,0
 2018-10,North Somerset,Nailsea Library,OVERDUEX,FORGIVEN,0,10,0
 2018-10,North Somerset,North Somerset Mobile,CHARGE,CANCEL,10,10,0
@@ -33825,7 +33825,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Somerset,South Petherton Library,HOLD,CASH,60,60,60
 2018-10,Somerset,South Petherton Library,LOST,CANCEL,0,10,0
 2018-10,Somerset,South Petherton Library,OVERDUE,CANCEL,10,0,0
-2018-10,Somerset,South Petherton Library,OVERDUE,CASH,60,20,20
+2018-10,Somerset,South Petherton Library,OVERDUE,CASH,50,20,20
 2018-10,Somerset,Street Library,CHARGE,CANCEL,0,0,0
 2018-10,Somerset,Street Library,CHARGE,CASH,70,150,150
 2018-10,Somerset,Street Library,CHARGE,DEBITCARD,10,70,70
