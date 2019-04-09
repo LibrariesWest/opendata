@@ -9,7 +9,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Bath and North East Somerset,B&NES Mobile Libraries,OVERDUE,CASH,0,0,0
 2017-04,Bath and North East Somerset,B&NES Mobile Libraries,SALENOVAT,CASH,0,0,0
 2017-04,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,30,20,0
-2017-04,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,410,580,580
+2017-04,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,400,580,580
 2017-04,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITACCT,0,0,0
 2017-04,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,240,390,390
 2017-04,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,30,40,0
@@ -1823,7 +1823,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Bath and North East Somerset,B&NES Mobile Libraries,OVERDUE,CASH,10,0,0
 2017-05,Bath and North East Somerset,B&NES Mobile Libraries,SALENOVAT,CANCEL,0,0,0
 2017-05,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,20,20,0
-2017-05,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,400,550,550
+2017-05,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,400,540,540
 2017-05,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,200,320,320
 2017-05,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,10,20,0
 2017-05,Bath and North East Somerset,Bath Central Library,CHARGEX,CANCEL,0,0,0
@@ -6154,7 +6154,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Bristol,Stockwood Library,LOST,CASH,10,30,30
 2017-07,Bristol,Stockwood Library,LOSTX,FORGIVEN,0,10,0
 2017-07,Bristol,Stockwood Library,OVERDUE,CANCEL,0,0,0
-2017-07,Bristol,Stockwood Library,OVERDUE,CASH,80,60,60
+2017-07,Bristol,Stockwood Library,OVERDUE,CASH,80,50,50
 2017-07,Bristol,Stockwood Library,OVERDUE,FORGIVEN,60,70,0
 2017-07,Bristol,Stockwood Library,OVERDUEX,FORGIVEN,0,10,0
 2017-07,Bristol,Stockwood Library,SALENOVAT,FORGIVEN,0,0,0
@@ -7692,7 +7692,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,FORGIVEN,10,30,0
 2017-08,Bath and North East Somerset,B&NES Mobile Libraries,OVERDUE,CASH,10,20,20
 2017-08,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,20,60,0
-2017-08,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,460,730,730
+2017-08,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,450,720,720
 2017-08,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITACCT,0,0,0
 2017-08,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,280,530,530
 2017-08,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,50,80,0
@@ -9832,7 +9832,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bath and North East Somerset,B&NES Mobile Libraries,PROCESSFEE,CASH,0,0,0
 2017-09,Bath and North East Somerset,B&NES Mobile Libraries,SALENOVAT,CASH,0,0,0
 2017-09,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,40,70,0
-2017-09,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,360,590,590
+2017-09,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,350,590,590
 2017-09,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITACCT,0,0,0
 2017-09,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,300,510,510
 2017-09,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,10,30,0
@@ -11860,7 +11860,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bath and North East Somerset,B&NES Mobile Libraries,PROCESSFEE,CASH,0,0,0
 2017-10,Bath and North East Somerset,B&NES Mobile Libraries,SALENOVAT,CANCEL,10,10,0
 2017-10,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,40,70,0
-2017-10,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,390,610,610
+2017-10,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,390,600,600
 2017-10,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,270,490,490
 2017-10,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,20,50,0
 2017-10,Bath and North East Somerset,Bath Central Library,CHARGEX,CANCEL,10,20,0
@@ -13741,7 +13741,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bath and North East Somerset,B&NES Mobile Libraries,SALENOVAT,CANCEL,0,0,0
 2017-11,Bath and North East Somerset,B&NES Mobile Libraries,SALENOVAT,FORGIVEN,0,0,0
 2017-11,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,30,50,0
-2017-11,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,330,540,540
+2017-11,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,330,530,530
 2017-11,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITACCT,0,0,0
 2017-11,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,200,360,360
 2017-11,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,10,20,0
@@ -17180,7 +17180,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Bath and North East Somerset,B&NES Mobile Libraries,OVERDUE,FORGIVEN,0,0,0
 2018-01,Bath and North East Somerset,B&NES Mobile Libraries,SALENOVAT,CANCEL,0,0,0
 2018-01,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,30,50,0
-2018-01,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,320,550,550
+2018-01,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,320,540,540
 2018-01,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,290,530,530
 2018-01,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,10,20,0
 2018-01,Bath and North East Somerset,Bath Central Library,CHARGEX,CANCEL,0,10,0
@@ -18956,7 +18956,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Bath and North East Somerset,B&NES Mobile Libraries,OVERDUE,CANCEL,0,0,0
 2018-02,Bath and North East Somerset,B&NES Mobile Libraries,OVERDUE,CASH,0,0,0
 2018-02,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,30,70,0
-2018-02,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,330,550,550
+2018-02,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,330,540,540
 2018-02,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,260,490,490
 2018-02,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,10,20,0
 2018-02,Bath and North East Somerset,Bath Central Library,CHARGEX,CANCEL,0,10,0
@@ -22823,7 +22823,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Stockwood Library,HOLD,CASH,0,10,10
 2018-04,Bristol,Stockwood Library,LOST,CANCEL,10,140,0
 2018-04,Bristol,Stockwood Library,OVERDUE,CANCEL,10,10,0
-2018-04,Bristol,Stockwood Library,OVERDUE,CASH,80,60,60
+2018-04,Bristol,Stockwood Library,OVERDUE,CASH,70,50,50
 2018-04,Bristol,Stockwood Library,OVERDUE,CREDITACCT,0,0,0
 2018-04,Bristol,Stockwood Library,OVERDUE,FORGIVEN,0,10,0
 2018-04,Bristol,Westbury-on-Trym Library,CHARGE,CANCEL,0,10,0
