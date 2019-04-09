@@ -4,7 +4,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bath and North East Somerset,BFR,CREDITCARD,0,10,10
 2018/2019,Bath and North East Somerset,BFR,FORGIVEN,0,30,0
 2018/2019,Bath and North East Somerset,CHARGE,CANCEL,650,1280,0
-2018/2019,Bath and North East Somerset,CHARGE,CASH,5270,9400,9400
+2018/2019,Bath and North East Somerset,CHARGE,CASH,5260,9390,9390
 2018/2019,Bath and North East Somerset,CHARGE,CREDITACCT,10,10,10
 2018/2019,Bath and North East Somerset,CHARGE,CREDITCARD,4100,7570,7570
 2018/2019,Bath and North East Somerset,CHARGE,DEBITCARD,0,0,0
@@ -139,7 +139,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bristol,LOSTX,DEBITCARD,0,20,20
 2018/2019,Bristol,LOSTX,FORGIVEN,170,1960,0
 2018/2019,Bristol,OVERDUE,CANCEL,2130,3300,0
-2018/2019,Bristol,OVERDUE,CASH,52370,36680,36680
+2018/2019,Bristol,OVERDUE,CASH,52360,36680,36680
 2018/2019,Bristol,OVERDUE,CHEQUE,100,320,320
 2018/2019,Bristol,OVERDUE,CREDITACCT,100,40,40
 2018/2019,Bristol,OVERDUE,CREDITCARD,15630,15890,15890
@@ -176,7 +176,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Dorset,BFR,CASH,60,280,280
 2018/2019,Dorset,BFR,FORGIVEN,100,700,0
 2018/2019,Dorset,CHARGE,CANCEL,540,1180,0
-2018/2019,Dorset,CHARGE,CASH,15060,33860,33860
+2018/2019,Dorset,CHARGE,CASH,15060,33850,33850
 2018/2019,Dorset,CHARGE,CHEQUE,0,0,0
 2018/2019,Dorset,CHARGE,CREDITCARD,0,0,0
 2018/2019,Dorset,CHARGE,DEBITCARD,0,0,0
