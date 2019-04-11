@@ -12048,7 +12048,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bristol,Bishopston Library,DAMAGE,CASH,0,10,10
 2017-10,Bristol,Bishopston Library,HOLDX,CASH,0,0,0
 2017-10,Bristol,Bishopston Library,HOLDX,FORGIVEN,0,0,0
-2017-10,Bristol,Bishopston Library,LOST,CANCEL,320,1330,0
+2017-10,Bristol,Bishopston Library,LOST,CANCEL,310,1320,0
 2017-10,Bristol,Bishopston Library,LOST,CASH,10,20,20
 2017-10,Bristol,Bishopston Library,LOST,CREDITCARD,10,30,30
 2017-10,Bristol,Bishopston Library,LOST,FORGIVEN,0,10,0
@@ -17339,7 +17339,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Bristol,Bishopston Library,HOLD,CASH,0,20,20
 2018-01,Bristol,Bishopston Library,HOLDX,CANCEL,0,0,0
 2018-01,Bristol,Bishopston Library,HOLDX,CREDITCARD,0,0,0
-2018-01,Bristol,Bishopston Library,LOST,CANCEL,300,1330,0
+2018-01,Bristol,Bishopston Library,LOST,CANCEL,300,1320,0
 2018-01,Bristol,Bishopston Library,LOST,CASH,20,70,70
 2018-01,Bristol,Bishopston Library,LOST,CREDITCARD,0,20,20
 2018-01,Bristol,Bishopston Library,LOST,FORGIVEN,0,20,0
@@ -31622,7 +31622,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,North Somerset,N Som Healthy Living Centre,CHARGE,CANCEL,0,0,0
 2018-09,North Somerset,N Som Healthy Living Centre,CHARGE,CASH,20,40,40
 2018-09,North Somerset,N Som Healthy Living Centre,GROUP,CASH,0,10,10
-2018-09,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,0,20,0
+2018-09,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,20,0
 2018-09,North Somerset,N Som Healthy Living Centre,LOSTCARD,CASH,0,0,0
 2018-09,North Somerset,N Som Healthy Living Centre,LOSTX,CANCEL,0,10,0
 2018-09,North Somerset,N Som Healthy Living Centre,OVERDUE,CANCEL,20,20,0
@@ -39831,7 +39831,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Somerset,Castle Cary Library,GROUP,FORGIVEN,0,10,0
 2019-02,Somerset,Castle Cary Library,HOLD,CANCEL,0,0,0
 2019-02,Somerset,Castle Cary Library,HOLD,CASH,50,50,50
-2019-02,Somerset,Castle Cary Library,LOST,CANCEL,0,10,0
+2019-02,Somerset,Castle Cary Library,LOST,CANCEL,0,20,0
 2019-02,Somerset,Castle Cary Library,LOST,CASH,0,10,10
 2019-02,Somerset,Castle Cary Library,LOSTCARD,CASH,0,0,0
 2019-02,Somerset,Castle Cary Library,OVERDUE,CANCEL,0,10,0
@@ -41153,7 +41153,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,North Somerset,Worle Library,GROUP,CASH,0,10,10
 2019-03,North Somerset,Worle Library,HOLDX,CANCEL,0,0,0
 2019-03,North Somerset,Worle Library,LOST,CANCEL,10,70,0
-2019-03,North Somerset,Worle Library,OVERDUE,CANCEL,10,10,0
+2019-03,North Somerset,Worle Library,OVERDUE,CANCEL,0,0,0
 2019-03,North Somerset,Worle Library,OVERDUE,CASH,70,50,50
 2019-03,North Somerset,Worle Library,OVERDUE,FORGIVEN,10,0,0
 2019-03,North Somerset,Yatton Library,CHARGE,CANCEL,0,0,0
