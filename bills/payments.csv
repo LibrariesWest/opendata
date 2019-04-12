@@ -1041,7 +1041,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,Poole,Parkstone Library,OVERDUEX,CASH,0,0,0
 2017-04,Poole,Parkstone Library,OVERDUEX,FORGIVEN,0,0,0
 2017-04,Poole,Parkstone Library,PROCESSFEE,CASH,0,0,0
-2017-04,Poole,Poole Central Library,CHARGE,CASH,290,430,430
+2017-04,Poole,Poole Central Library,CHARGE,CASH,280,430,430
 2017-04,Poole,Poole Central Library,CHARGE,DEBITCARD,0,0,0
 2017-04,Poole,Poole Central Library,CHARGE,FORGIVEN,10,20,0
 2017-04,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
@@ -1621,7 +1621,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,South Gloucestershire,Cadbury Heath Library,DAMAGE,CASH,0,0,0
 2017-04,South Gloucestershire,Cadbury Heath Library,GROUP,CASH,0,10,10
 2017-04,South Gloucestershire,Cadbury Heath Library,GROUP,FORGIVEN,0,0,0
-2017-04,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,50,30,30
+2017-04,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,40,30,30
 2017-04,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,40,170,0
 2017-04,South Gloucestershire,Cadbury Heath Library,LOST,CASH,0,10,10
 2017-04,South Gloucestershire,Cadbury Heath Library,LOST,FORGIVEN,0,0,0
@@ -1728,7 +1728,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-04,South Gloucestershire,Kingswood Library,LOST,CANCEL,40,260,0
 2017-04,South Gloucestershire,Kingswood Library,LOST,FORGIVEN,10,110,0
 2017-04,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,0,0,0
-2017-04,South Gloucestershire,Kingswood Library,OVERDUE,CASH,190,140,140
+2017-04,South Gloucestershire,Kingswood Library,OVERDUE,CASH,180,140,140
 2017-04,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,30,30,0
 2017-04,South Gloucestershire,Kingswood Library,OVERDUEX,CASH,0,10,10
 2017-04,South Gloucestershire,Kingswood Library,OVERDUEX,FORGIVEN,0,10,0
@@ -2873,7 +2873,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Poole,Parkstone Library,OVERDUEX,CANCEL,50,60,0
 2017-05,Poole,Parkstone Library,OVERDUEX,CASH,0,0,0
 2017-05,Poole,Poole Central Library,CHARGE,CANCEL,0,0,0
-2017-05,Poole,Poole Central Library,CHARGE,CASH,310,490,490
+2017-05,Poole,Poole Central Library,CHARGE,CASH,310,480,480
 2017-05,Poole,Poole Central Library,CHARGE,FORGIVEN,10,20,0
 2017-05,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
 2017-05,Poole,Poole Central Library,HOLD,CASH,130,130,130
@@ -4797,7 +4797,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Poole,Parkstone Library,OVERDUEX,CANCEL,0,0,0
 2017-06,Poole,Parkstone Library,OVERDUEX,FORGIVEN,0,0,0
 2017-06,Poole,Poole Central Library,CHARGE,CANCEL,0,0,0
-2017-06,Poole,Poole Central Library,CHARGE,CASH,330,520,520
+2017-06,Poole,Poole Central Library,CHARGE,CASH,320,510,510
 2017-06,Poole,Poole Central Library,CHARGE,FORGIVEN,10,10,0
 2017-06,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
 2017-06,Poole,Poole Central Library,CHARGEX,CASH,0,0,0
@@ -8904,7 +8904,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Poole,Parkstone Library,OVERDUEX,FORGIVEN,0,0,0
 2017-08,Poole,Poole Central Library,BFR,CASH,0,10,10
 2017-08,Poole,Poole Central Library,CHARGE,CANCEL,0,10,0
-2017-08,Poole,Poole Central Library,CHARGE,CASH,410,650,650
+2017-08,Poole,Poole Central Library,CHARGE,CASH,410,640,640
 2017-08,Poole,Poole Central Library,CHARGE,CREDITCARD,0,0,0
 2017-08,Poole,Poole Central Library,CHARGE,DEBITCARD,0,0,0
 2017-08,Poole,Poole Central Library,CHARGE,FORGIVEN,10,10,0
@@ -11634,7 +11634,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,South Gloucestershire,Cadbury Heath Library,CHARGE,FORGIVEN,10,10,0
 2017-09,South Gloucestershire,Cadbury Heath Library,CHARGE,VOUCH,30,30,30
 2017-09,South Gloucestershire,Cadbury Heath Library,GROUP,CASH,0,20,20
-2017-09,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,50,40,40
+2017-09,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,50,30,30
 2017-09,South Gloucestershire,Cadbury Heath Library,HOLD,FORGIVEN,10,0,0
 2017-09,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,20,90,0
 2017-09,South Gloucestershire,Cadbury Heath Library,LOST,CASH,0,0,0
@@ -12942,7 +12942,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Poole,Parkstone Library,OVERDUE,CANCEL,20,50,0
 2017-10,Poole,Parkstone Library,OVERDUE,CASH,60,60,60
 2017-10,Poole,Parkstone Library,OVERDUEX,CANCEL,10,10,0
-2017-10,Poole,Poole Central Library,CHARGE,CASH,290,450,450
+2017-10,Poole,Poole Central Library,CHARGE,CASH,280,450,450
 2017-10,Poole,Poole Central Library,CHARGE,FORGIVEN,10,10,0
 2017-10,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
 2017-10,Poole,Poole Central Library,CHARGEX,CASH,0,0,0
@@ -14743,7 +14743,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Poole,Parkstone Library,OVERDUE,CASH,90,90,90
 2017-11,Poole,Parkstone Library,OVERDUE,FORGIVEN,10,30,0
 2017-11,Poole,Poole Central Library,CHARGE,CANCEL,0,10,0
-2017-11,Poole,Poole Central Library,CHARGE,CASH,280,400,400
+2017-11,Poole,Poole Central Library,CHARGE,CASH,270,400,400
 2017-11,Poole,Poole Central Library,CHARGE,FORGIVEN,10,10,0
 2017-11,Poole,Poole Central Library,CHARGE,VOUCH,10,10,10
 2017-11,Poole,Poole Central Library,HOLD,CANCEL,0,0,0
@@ -15560,7 +15560,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Bath and North East Somerset,Bath Central Library,LOSTCARD,CREDITCARD,0,0,0
 2017-12,Bath and North East Somerset,Bath Central Library,LOSTCARD,FORGIVEN,0,0,0
 2017-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,40,60,0
-2017-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,770,460,460
+2017-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,760,460,460
 2017-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITACCT,0,0,0
 2017-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,550,630,630
 2017-12,Bath and North East Somerset,Bath Central Library,OVERDUE,FORGIVEN,40,70,0
@@ -18163,7 +18163,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Poole,Parkstone Library,OVERDUE,FORGIVEN,20,40,0
 2018-01,Poole,Parkstone Library,OVERDUEX,CANCEL,0,0,0
 2018-01,Poole,Poole Central Library,CHARGE,CANCEL,0,0,0
-2018-01,Poole,Poole Central Library,CHARGE,CASH,200,300,300
+2018-01,Poole,Poole Central Library,CHARGE,CASH,190,290,290
 2018-01,Poole,Poole Central Library,CHARGE,CREDITCARD,10,10,10
 2018-01,Poole,Poole Central Library,CHARGE,DEBITCARD,0,0,0
 2018-01,Poole,Poole Central Library,CHARGE,FORGIVEN,10,20,0
@@ -20496,8 +20496,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,South Gloucestershire,Cadbury Heath Library,CHARGE,FORGIVEN,0,0,0
 2018-02,South Gloucestershire,Cadbury Heath Library,GROUP,CASH,0,0,0
 2018-02,South Gloucestershire,Cadbury Heath Library,HOLD,CANCEL,0,0,0
-2018-02,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,40,30,30
-2018-02,South Gloucestershire,Cadbury Heath Library,HOLD,FORGIVEN,0,0,0
+2018-02,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,40,20,20
 2018-02,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,20,210,0
 2018-02,South Gloucestershire,Cadbury Heath Library,LOST,CASH,0,10,10
 2018-02,South Gloucestershire,Cadbury Heath Library,LOST,FORGIVEN,10,40,0
@@ -21625,7 +21624,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Poole,Parkstone Library,OVERDUE,CANCEL,10,0,0
 2018-03,Poole,Parkstone Library,OVERDUE,CASH,110,90,90
 2018-03,Poole,Parkstone Library,OVERDUE,FORGIVEN,20,100,0
-2018-03,Poole,Poole Central Library,CHARGE,CASH,200,290,290
+2018-03,Poole,Poole Central Library,CHARGE,CASH,200,280,280
 2018-03,Poole,Poole Central Library,CHARGE,DEBITCARD,0,0,0
 2018-03,Poole,Poole Central Library,CHARGE,FORGIVEN,20,30,0
 2018-03,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
@@ -23325,7 +23324,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Poole,Parkstone Library,OVERDUE,CASH,110,80,80
 2018-04,Poole,Parkstone Library,OVERDUE,FORGIVEN,10,20,0
 2018-04,Poole,Parkstone Library,OVERDUEX,CASH,0,10,10
-2018-04,Poole,Poole Central Library,CHARGE,CASH,260,360,360
+2018-04,Poole,Poole Central Library,CHARGE,CASH,260,350,350
 2018-04,Poole,Poole Central Library,CHARGE,FORGIVEN,10,20,0
 2018-04,Poole,Poole Central Library,CHARGE,NONE,10,20,20
 2018-04,Poole,Poole Central Library,CHARGEX,FORGIVEN,0,0,0
@@ -23892,7 +23891,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,South Gloucestershire,Cadbury Heath Library,CHARGE,CASH,40,50,50
 2018-04,South Gloucestershire,Cadbury Heath Library,CHARGE,FORGIVEN,10,10,0
 2018-04,South Gloucestershire,Cadbury Heath Library,GROUP,CASH,0,10,10
-2018-04,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,40,20,20
+2018-04,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,30,20,20
 2018-04,South Gloucestershire,Cadbury Heath Library,HOLD,FORGIVEN,0,0,0
 2018-04,South Gloucestershire,Cadbury Heath Library,HOLDX,FORGIVEN,0,0,0
 2018-04,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,10,100,0
@@ -24970,7 +24969,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Poole,Parkstone Library,OVERDUE,CASH,70,50,50
 2018-05,Poole,Parkstone Library,OVERDUE,FORGIVEN,0,30,0
 2018-05,Poole,Parkstone Library,OVERDUEX,CANCEL,0,10,0
-2018-05,Poole,Poole Central Library,CHARGE,CASH,210,300,300
+2018-05,Poole,Poole Central Library,CHARGE,CASH,200,290,290
 2018-05,Poole,Poole Central Library,CHARGE,CREDITCARD,0,0,0
 2018-05,Poole,Poole Central Library,CHARGE,FORGIVEN,0,10,0
 2018-05,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
@@ -26584,7 +26583,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Poole,Parkstone Library,OVERDUE,CANCEL,10,30,0
 2018-06,Poole,Parkstone Library,OVERDUE,CASH,40,30,30
 2018-06,Poole,Parkstone Library,OVERDUEX,FORGIVEN,0,0,0
-2018-06,Poole,Poole Central Library,CHARGE,CASH,160,230,230
+2018-06,Poole,Poole Central Library,CHARGE,CASH,160,220,220
 2018-06,Poole,Poole Central Library,CHARGE,DEBITCARD,0,0,0
 2018-06,Poole,Poole Central Library,CHARGE,FORGIVEN,0,10,0
 2018-06,Poole,Poole Central Library,HOLD,CASH,170,170,170
@@ -28234,7 +28233,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Poole,Parkstone Library,OVERDUEX,CASH,0,0,0
 2018-07,Poole,Poole Central Library,BFR,DEBITCARD,0,10,10
 2018-07,Poole,Poole Central Library,CHARGE,CANCEL,0,0,0
-2018-07,Poole,Poole Central Library,CHARGE,CASH,130,210,210
+2018-07,Poole,Poole Central Library,CHARGE,CASH,130,200,200
 2018-07,Poole,Poole Central Library,CHARGE,DEBITCARD,0,0,0
 2018-07,Poole,Poole Central Library,CHARGE,FORGIVEN,30,50,0
 2018-07,Poole,Poole Central Library,CHARGE,VOUCH,0,10,10
@@ -28803,7 +28802,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,South Gloucestershire,Cadbury Heath Library,CHARGEX,FORGIVEN,0,0,0
 2018-07,South Gloucestershire,Cadbury Heath Library,GROUP,CASH,0,10,10
 2018-07,South Gloucestershire,Cadbury Heath Library,GROUP,FORGIVEN,0,0,0
-2018-07,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,50,40,40
+2018-07,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,50,30,30
 2018-07,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,30,150,0
 2018-07,South Gloucestershire,Cadbury Heath Library,LOST,CASH,0,20,20
 2018-07,South Gloucestershire,Cadbury Heath Library,LOST,FORGIVEN,0,0,0
@@ -30733,7 +30732,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,South Gloucestershire,Hanham Library,SALENOVAT,FORGIVEN,0,0,0
 2018-08,South Gloucestershire,Hawkesbury Upton Community Library,LOST,CANCEL,0,10,0
 2018-08,South Gloucestershire,Kingswood Library,CHARGE,CANCEL,10,10,0
-2018-08,South Gloucestershire,Kingswood Library,CHARGE,CASH,120,140,140
+2018-08,South Gloucestershire,Kingswood Library,CHARGE,CASH,110,140,140
 2018-08,South Gloucestershire,Kingswood Library,CHARGE,VOUCH,30,40,40
 2018-08,South Gloucestershire,Kingswood Library,CHARGEX,CANCEL,0,0,0
 2018-08,South Gloucestershire,Kingswood Library,CHARGEX,CASH,0,0,0
@@ -31792,7 +31791,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Poole,Parkstone Library,OVERDUE,CANCEL,20,90,0
 2018-09,Poole,Parkstone Library,OVERDUE,CASH,80,100,100
 2018-09,Poole,Parkstone Library,OVERDUE,FORGIVEN,10,10,0
-2018-09,Poole,Poole Central Library,CHARGE,CASH,190,280,280
+2018-09,Poole,Poole Central Library,CHARGE,CASH,190,270,270
 2018-09,Poole,Poole Central Library,CHARGE,DEBITCARD,0,0,0
 2018-09,Poole,Poole Central Library,CHARGE,FORGIVEN,10,20,0
 2018-09,Poole,Poole Central Library,CHARGEX,CASH,0,10,10
@@ -32358,7 +32357,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,South Gloucestershire,Cadbury Heath Library,CHARGE,CASH,60,70,70
 2018-09,South Gloucestershire,Cadbury Heath Library,CHARGE,VOUCH,20,20,20
 2018-09,South Gloucestershire,Cadbury Heath Library,CREDIT,CASH,0,0,0
-2018-09,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,50,30,30
+2018-09,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,40,30,30
 2018-09,South Gloucestershire,Cadbury Heath Library,HOLDX,CASH,0,0,0
 2018-09,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,10,50,0
 2018-09,South Gloucestershire,Cadbury Heath Library,OVERDUE,CANCEL,0,0,0
@@ -32575,7 +32574,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,140,220,0
 2018-10,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,830,520,520
 2018-10,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITACCT,10,0,0
-2018-10,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,970,850,850
+2018-10,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,960,850,850
 2018-10,Bath and North East Somerset,Bath Central Library,OVERDUE,FORGIVEN,110,110,0
 2018-10,Bath and North East Somerset,Bath Central Library,OVERDUEX,CASH,0,0,0
 2018-10,Bath and North East Somerset,Bath Central Library,OVERDUEX,CREDITCARD,0,0,0
@@ -33487,7 +33486,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Poole,Parkstone Library,OVERDUE,CASH,70,80,80
 2018-10,Poole,Parkstone Library,OVERDUE,FORGIVEN,10,10,0
 2018-10,Poole,Parkstone Library,OVERDUEX,CANCEL,0,0,0
-2018-10,Poole,Poole Central Library,CHARGE,CASH,200,300,300
+2018-10,Poole,Poole Central Library,CHARGE,CASH,190,290,290
 2018-10,Poole,Poole Central Library,CHARGE,FORGIVEN,30,40,0
 2018-10,Poole,Poole Central Library,CHARGE,VOUCH,0,0,0
 2018-10,Poole,Poole Central Library,HOLD,CASH,180,180,180
@@ -35099,7 +35098,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Poole,Parkstone Library,OVERDUE,CASH,50,50,50
 2018-11,Poole,Parkstone Library,OVERDUE,FORGIVEN,10,20,0
 2018-11,Poole,Parkstone Library,OVERDUEX,CANCEL,0,0,0
-2018-11,Poole,Poole Central Library,CHARGE,CASH,160,250,250
+2018-11,Poole,Poole Central Library,CHARGE,CASH,150,240,240
 2018-11,Poole,Poole Central Library,CHARGE,FORGIVEN,30,40,0
 2018-11,Poole,Poole Central Library,HOLD,CASH,210,200,200
 2018-11,Poole,Poole Central Library,HOLD,FORGIVEN,0,0,0
@@ -35647,7 +35646,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,South Gloucestershire,Cadbury Heath Library,CHARGE,VOUCH,10,10,10
 2018-11,South Gloucestershire,Cadbury Heath Library,GROUP,CANCEL,0,0,0
 2018-11,South Gloucestershire,Cadbury Heath Library,GROUP,CASH,0,10,10
-2018-11,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,40,20,20
+2018-11,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,30,20,20
 2018-11,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,30,110,0
 2018-11,South Gloucestershire,Cadbury Heath Library,OVERDUE,CANCEL,10,20,0
 2018-11,South Gloucestershire,Cadbury Heath Library,OVERDUE,CASH,40,20,20
@@ -37089,7 +37088,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,30,20,20
 2018-12,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,10,60,0
 2018-12,South Gloucestershire,Cadbury Heath Library,LOST,CASH,0,10,10
-2018-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,CANCEL,10,0,0
+2018-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,CANCEL,0,0,0
 2018-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,CASH,60,30,30
 2018-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,FORGIVEN,10,10,0
 2018-12,South Gloucestershire,Chipping Sodbury Library,CHARGE,CASH,10,10,10
@@ -38148,7 +38147,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Poole,Parkstone Library,OVERDUE,CASH,40,30,30
 2019-01,Poole,Parkstone Library,OVERDUE,FORGIVEN,0,0,0
 2019-01,Poole,Parkstone Library,OVERDUEX,CASH,0,0,0
-2019-01,Poole,Poole Central Library,CHARGE,CASH,220,360,360
+2019-01,Poole,Poole Central Library,CHARGE,CASH,220,350,350
 2019-01,Poole,Poole Central Library,CHARGE,FORGIVEN,10,20,0
 2019-01,Poole,Poole Central Library,CHARGE,VOUCH,0,10,10
 2019-01,Poole,Poole Central Library,CHARGEX,CASH,0,0,0
