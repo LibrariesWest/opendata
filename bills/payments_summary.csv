@@ -51,10 +51,10 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bath and North East Somerset,LOSTCARD,NONE,0,0,0
 2018/2019,Bath and North East Somerset,LOSTX,CANCEL,10,110,0
 2018/2019,Bath and North East Somerset,OVERDUE,CANCEL,2470,4350,0
-2018/2019,Bath and North East Somerset,OVERDUE,CASH,16890,8790,8790
+2018/2019,Bath and North East Somerset,OVERDUE,CASH,16880,8790,8790
 2018/2019,Bath and North East Somerset,OVERDUE,CHEQUE,0,0,0
 2018/2019,Bath and North East Somerset,OVERDUE,CREDITACCT,70,20,20
-2018/2019,Bath and North East Somerset,OVERDUE,CREDITCARD,15290,14380,14380
+2018/2019,Bath and North East Somerset,OVERDUE,CREDITCARD,15280,14370,14370
 2018/2019,Bath and North East Somerset,OVERDUE,DEBITCARD,0,10,10
 2018/2019,Bath and North East Somerset,OVERDUE,FORGIVEN,1710,2620,0
 2018/2019,Bath and North East Somerset,OVERDUE,NONE,80,70,70
@@ -305,7 +305,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Poole,BFR,DEBITCARD,0,10,10
 2018/2019,Poole,BFR,FORGIVEN,0,0,0
 2018/2019,Poole,CHARGE,CANCEL,140,220,0
-2018/2019,Poole,CHARGE,CASH,6270,9870,9870
+2018/2019,Poole,CHARGE,CASH,6230,9810,9810
 2018/2019,Poole,CHARGE,CREDITCARD,0,0,0
 2018/2019,Poole,CHARGE,DEBITCARD,20,20,20
 2018/2019,Poole,CHARGE,FORGIVEN,270,430,0
@@ -452,7 +452,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,BFR,CANCEL,0,10,0
 2018/2019,South Gloucestershire,BFR,FORGIVEN,0,10,0
 2018/2019,South Gloucestershire,CHARGE,CANCEL,1150,1660,0
-2018/2019,South Gloucestershire,CHARGE,CASH,14210,19000,19000
+2018/2019,South Gloucestershire,CHARGE,CASH,14210,18990,18990
 2018/2019,South Gloucestershire,CHARGE,CREDITACCT,0,0,0
 2018/2019,South Gloucestershire,CHARGE,DEBITCARD,20,30,30
 2018/2019,South Gloucestershire,CHARGE,FORGIVEN,620,830,0
@@ -471,7 +471,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,GROUP,FORGIVEN,10,40,0
 2018/2019,South Gloucestershire,GROUP,NONE,0,0,0
 2018/2019,South Gloucestershire,HOLD,CANCEL,410,370,0
-2018/2019,South Gloucestershire,HOLD,CASH,13720,9740,9740
+2018/2019,South Gloucestershire,HOLD,CASH,13690,9730,9730
 2018/2019,South Gloucestershire,HOLD,CHEQUE,0,0,0
 2018/2019,South Gloucestershire,HOLD,CREDITACCT,0,0,0
 2018/2019,South Gloucestershire,HOLD,CREDITCARD,0,0,0
