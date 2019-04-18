@@ -11171,12 +11171,12 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Frome Library,SALENOVAT,CASH,0,0,0
 2017-09,Somerset,Frome Library,SALEVAT,CASH,0,0,0
 2017-09,Somerset,Glastonbury Library,CHARGE,CANCEL,20,30,0
-2017-09,Somerset,Glastonbury Library,CHARGE,CASH,240,490,490
+2017-09,Somerset,Glastonbury Library,CHARGE,CASH,240,480,480
 2017-09,Somerset,Glastonbury Library,CHARGE,CREDITCARD,0,0,0
 2017-09,Somerset,Glastonbury Library,CHARGE,DEBITCARD,20,40,40
 2017-09,Somerset,Glastonbury Library,CHARGE,FORGIVEN,10,10,0
 2017-09,Somerset,Glastonbury Library,GROUP,CASH,0,10,10
-2017-09,Somerset,Glastonbury Library,HOLD,CASH,140,150,150
+2017-09,Somerset,Glastonbury Library,HOLD,CASH,140,140,140
 2017-09,Somerset,Glastonbury Library,HOLD,CREDITCARD,0,0,0
 2017-09,Somerset,Glastonbury Library,HOLD,DEBITCARD,20,30,30
 2017-09,Somerset,Glastonbury Library,HOLD,FORGIVEN,0,0,0
@@ -13442,7 +13442,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Somerset,Wells Library,GROUP,CASH,10,60,60
 2017-10,Somerset,Wells Library,GROUP,DEBITCARD,0,10,10
 2017-10,Somerset,Wells Library,HOLD,CANCEL,10,10,0
-2017-10,Somerset,Wells Library,HOLD,CASH,170,170,170
+2017-10,Somerset,Wells Library,HOLD,CASH,160,160,160
 2017-10,Somerset,Wells Library,HOLD,CREDITCARD,20,20,20
 2017-10,Somerset,Wells Library,HOLD,DEBITCARD,10,10,10
 2017-10,Somerset,Wells Library,HOLD,FORGIVEN,0,0,0
@@ -22094,7 +22094,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Wells Library,DAMAGE,CASH,0,10,10
 2018-03,Somerset,Wells Library,DAMAGE,CREDITCARD,0,10,10
 2018-03,Somerset,Wells Library,GROUP,CASH,10,40,40
-2018-03,Somerset,Wells Library,HOLD,CASH,200,220,220
+2018-03,Somerset,Wells Library,HOLD,CASH,190,210,210
 2018-03,Somerset,Wells Library,HOLD,CREDITCARD,0,0,0
 2018-03,Somerset,Wells Library,HOLD,DEBITCARD,30,20,20
 2018-03,Somerset,Wells Library,HOLD,FORGIVEN,0,0,0
@@ -26981,7 +26981,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Wells Library,CHARGE,FORGIVEN,0,10,0
 2018-06,Somerset,Wells Library,GROUP,CASH,10,50,50
 2018-06,Somerset,Wells Library,HOLD,CANCEL,10,10,0
-2018-06,Somerset,Wells Library,HOLD,CASH,220,250,250
+2018-06,Somerset,Wells Library,HOLD,CASH,220,240,240
 2018-06,Somerset,Wells Library,HOLD,DEBITCARD,20,10,10
 2018-06,Somerset,Wells Library,HOLDX,CANCEL,0,0,0
 2018-06,Somerset,Wells Library,LOST,CANCEL,40,230,0
@@ -28697,7 +28697,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Somerset,Wells Library,GROUP,CASH,10,30,30
 2018-07,Somerset,Wells Library,GROUP,CREDITCARD,0,10,10
 2018-07,Somerset,Wells Library,HOLD,CANCEL,0,0,0
-2018-07,Somerset,Wells Library,HOLD,CASH,210,200,200
+2018-07,Somerset,Wells Library,HOLD,CASH,200,200,200
 2018-07,Somerset,Wells Library,HOLD,DEBITCARD,10,20,20
 2018-07,Somerset,Wells Library,HOLDX,CASH,0,0,0
 2018-07,Somerset,Wells Library,LOST,CANCEL,60,260,0
@@ -33930,7 +33930,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Somerset,Wells Library,DAMAGE,CASH,0,20,20
 2018-10,Somerset,Wells Library,GROUP,CANCEL,0,10,0
 2018-10,Somerset,Wells Library,GROUP,CASH,20,100,100
-2018-10,Somerset,Wells Library,HOLD,CASH,260,270,270
+2018-10,Somerset,Wells Library,HOLD,CASH,260,260,260
 2018-10,Somerset,Wells Library,HOLD,CREDITCARD,10,10,10
 2018-10,Somerset,Wells Library,HOLD,DEBITCARD,20,20,20
 2018-10,Somerset,Wells Library,HOLD,FORGIVEN,0,0,0
@@ -36983,14 +36983,14 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Somerset,Wellington Library,OVERDUE,DEBITCARD,30,50,50
 2018-12,Somerset,Wellington Library,OVERDUE,FORGIVEN,30,90,0
 2018-12,Somerset,Wells Library,CHARGE,CANCEL,10,20,0
-2018-12,Somerset,Wells Library,CHARGE,CASH,160,350,350
+2018-12,Somerset,Wells Library,CHARGE,CASH,160,340,340
 2018-12,Somerset,Wells Library,CHARGE,CREDITCARD,10,10,10
 2018-12,Somerset,Wells Library,CHARGE,DEBITCARD,10,30,30
 2018-12,Somerset,Wells Library,CHARGE,FORGIVEN,0,10,0
 2018-12,Somerset,Wells Library,DAMAGE,CASH,0,10,10
 2018-12,Somerset,Wells Library,GROUP,CASH,10,40,40
 2018-12,Somerset,Wells Library,GROUP,CREDITCARD,0,10,10
-2018-12,Somerset,Wells Library,HOLD,CASH,190,190,190
+2018-12,Somerset,Wells Library,HOLD,CASH,190,180,180
 2018-12,Somerset,Wells Library,HOLD,DEBITCARD,20,20,20
 2018-12,Somerset,Wells Library,HOLDX,CASH,0,0,0
 2018-12,Somerset,Wells Library,LOST,CANCEL,30,120,0
@@ -38491,7 +38491,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Street Library,HOLD,DEBITCARD,20,20,20
 2019-01,Somerset,Street Library,LOST,CANCEL,20,110,0
 2019-01,Somerset,Street Library,LOST,CASH,0,0,0
-2019-01,Somerset,Street Library,LOSTCARD,CASH,10,10,10
+2019-01,Somerset,Street Library,LOSTCARD,CASH,0,10,10
 2019-01,Somerset,Street Library,OVERDUE,CASH,150,140,140
 2019-01,Somerset,Street Library,OVERDUE,CREDITCARD,10,20,20
 2019-01,Somerset,Street Library,OVERDUE,DEBITCARD,20,50,50
