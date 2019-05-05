@@ -326,7 +326,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Bristol,Henleaze Library,HOLD,CASH,0,10,10
 2017-05,Bristol,Henleaze Library,HOLDX,CASH,0,0,0
 2017-05,Bristol,Henleaze Library,HOLDX,FORGIVEN,0,0,0
-2017-05,Bristol,Henleaze Library,LOST,CANCEL,170,780,0
+2017-05,Bristol,Henleaze Library,LOST,CANCEL,170,770,0
 2017-05,Bristol,Henleaze Library,LOST,CASH,10,60,60
 2017-05,Bristol,Henleaze Library,LOST,CREDITCARD,20,110,110
 2017-05,Bristol,Henleaze Library,LOST,DEBITCARD,0,30,30
@@ -6242,7 +6242,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Bristol,Henleaze Library,CHARGEX,CREDITCARD,0,10,10
 2017-08,Bristol,Henleaze Library,CREDIT,CASH,0,0,0
 2017-08,Bristol,Henleaze Library,DAMAGE,CASH,0,10,10
-2017-08,Bristol,Henleaze Library,HOLDX,CASH,0,0,0
 2017-08,Bristol,Henleaze Library,HOLDX,FORGIVEN,0,0,0
 2017-08,Bristol,Henleaze Library,LOST,CANCEL,150,730,0
 2017-08,Bristol,Henleaze Library,LOST,CASH,10,70,70
@@ -8463,7 +8462,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bristol,Marksbury Road Library,OVERDUE,NONE,0,0,0
 2017-09,Bristol,Marksbury Road Library,OVERDUEX,CASH,0,0,0
 2017-09,Bristol,Redland Library,CHARGE,CANCEL,0,0,0
-2017-09,Bristol,Redland Library,CHARGE,CASH,210,240,240
+2017-09,Bristol,Redland Library,CHARGE,CASH,200,230,230
 2017-09,Bristol,Redland Library,CHARGE,CREDITCARD,60,70,70
 2017-09,Bristol,Redland Library,CHARGE,FORGIVEN,20,10,0
 2017-09,Bristol,Redland Library,CHARGE,VOUCH,0,0,0
@@ -8559,7 +8558,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bristol,Westbury-on-Trym Library,CHARGE,VOUCH,30,30,30
 2017-09,Bristol,Westbury-on-Trym Library,CHARGEX,CASH,0,0,0
 2017-09,Bristol,Westbury-on-Trym Library,LOST,CANCEL,120,530,0
-2017-09,Bristol,Westbury-on-Trym Library,LOST,CASH,10,30,30
+2017-09,Bristol,Westbury-on-Trym Library,LOST,CASH,10,20,20
 2017-09,Bristol,Westbury-on-Trym Library,LOST,FORGIVEN,10,40,0
 2017-09,Bristol,Westbury-on-Trym Library,OVERDUE,CANCEL,0,10,0
 2017-09,Bristol,Westbury-on-Trym Library,OVERDUE,CASH,250,140,140
@@ -10463,7 +10462,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bristol,Marksbury Road Library,OVERDUE,CASH,30,10,10
 2017-10,Bristol,Marksbury Road Library,OVERDUE,FORGIVEN,0,0,0
 2017-10,Bristol,Redland Library,CHARGE,CANCEL,0,0,0
-2017-10,Bristol,Redland Library,CHARGE,CASH,240,260,260
+2017-10,Bristol,Redland Library,CHARGE,CASH,230,260,260
 2017-10,Bristol,Redland Library,CHARGE,CREDITCARD,40,40,40
 2017-10,Bristol,Redland Library,CHARGE,FORGIVEN,10,20,0
 2017-10,Bristol,Redland Library,CHARGE,VOUCH,10,10,10
@@ -12234,7 +12233,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bristol,Henleaze Library,HOLDX,CANCEL,0,0,0
 2017-11,Bristol,Henleaze Library,HOLDX,CASH,0,0,0
 2017-11,Bristol,Henleaze Library,LOST,CANCEL,240,1050,0
-2017-11,Bristol,Henleaze Library,LOST,CASH,10,50,50
+2017-11,Bristol,Henleaze Library,LOST,CASH,10,40,40
 2017-11,Bristol,Henleaze Library,LOST,CREDITCARD,0,0,0
 2017-11,Bristol,Henleaze Library,LOST,DEBITCARD,0,40,40
 2017-11,Bristol,Henleaze Library,LOST,FORGIVEN,0,10,0
@@ -12262,7 +12261,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bristol,Horfield Library,CHARGE,CANCEL,0,0,0
 2017-11,Bristol,Horfield Library,CHARGE,CASH,30,40,40
 2017-11,Bristol,Horfield Library,CHARGE,FORGIVEN,0,0,0
-2017-11,Bristol,Horfield Library,LOST,CANCEL,70,360,0
+2017-11,Bristol,Horfield Library,LOST,CANCEL,60,340,0
 2017-11,Bristol,Horfield Library,LOST,CASH,10,20,20
 2017-11,Bristol,Horfield Library,LOST,FORGIVEN,0,10,0
 2017-11,Bristol,Horfield Library,LOSTX,CASH,0,10,10
@@ -24023,7 +24022,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Bishopston Library,DAMAGE,CASH,0,0,0
 2018-06,Bristol,Bishopston Library,HOLD,CASH,0,10,10
 2018-06,Bristol,Bishopston Library,HOLD,FORGIVEN,0,0,0
-2018-06,Bristol,Bishopston Library,LOST,CANCEL,200,920,0
+2018-06,Bristol,Bishopston Library,LOST,CANCEL,200,910,0
 2018-06,Bristol,Bishopston Library,LOST,CASH,10,60,60
 2018-06,Bristol,Bishopston Library,LOST,CREDITCARD,0,20,20
 2018-06,Bristol,Bishopston Library,OVERDUE,CANCEL,20,30,0
@@ -24136,7 +24135,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Henleaze Library,CHARGEX,CANCEL,0,0,0
 2018-06,Bristol,Henleaze Library,DAMAGE,FORGIVEN,0,10,0
 2018-06,Bristol,Henleaze Library,HOLDX,FORGIVEN,0,0,0
-2018-06,Bristol,Henleaze Library,LOST,CANCEL,220,1130,0
+2018-06,Bristol,Henleaze Library,LOST,CANCEL,220,1120,0
 2018-06,Bristol,Henleaze Library,LOST,CASH,0,10,10
 2018-06,Bristol,Henleaze Library,LOST,CREDITCARD,0,0,0
 2018-06,Bristol,Henleaze Library,LOST,FORGIVEN,0,10,0
@@ -32682,7 +32681,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Bristol,Henleaze Library,OVERDUE,VOUCH,0,0,0
 2018-11,Bristol,Henleaze Library,REFERRAL,CASH,0,20,20
 2018-11,Bristol,Henleaze Library,REFERRAL,DEBITCARD,0,20,20
-2018-11,Bristol,Henleaze Library,SALENOVAT,CASH,0,0,0
 2018-11,Bristol,Hillfields Library,CHARGE,CASH,0,10,10
 2018-11,Bristol,Hillfields Library,HOLD,CANCEL,0,0,0
 2018-11,Bristol,Hillfields Library,LOST,CANCEL,20,120,0
@@ -38971,7 +38969,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Bristol,Whitchurch Library,REFERRAL,CASH,0,10,10
 2019-03,Bristol,Wick Road Library,CHARGE,CASH,80,90,90
 2019-03,Bristol,Wick Road Library,CREDIT,CASH,0,0,0
-2019-03,Bristol,Wick Road Library,LOST,CANCEL,80,330,0
+2019-03,Bristol,Wick Road Library,LOST,CANCEL,70,320,0
 2019-03,Bristol,Wick Road Library,LOST,CASH,0,20,20
 2019-03,Bristol,Wick Road Library,LOST,FORGIVEN,0,10,0
 2019-03,Bristol,Wick Road Library,OVERDUE,CASH,160,100,100
