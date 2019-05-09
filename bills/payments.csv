@@ -120,8 +120,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-05,Bath and North East Somerset,Radstock Library,CREDIT,CASH,0,0,0
 2017-05,Bath and North East Somerset,Radstock Library,HOLD,CANCEL,0,0,0
 2017-05,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,110,30,30
-2017-05,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
-2017-05,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
 2017-05,Bath and North East Somerset,Saltford Library,CHARGE,CANCEL,0,0,0
 2017-05,Bath and North East Somerset,Saltford Library,CHARGE,CASH,10,20,20
 2017-05,Bath and North East Somerset,Saltford Library,CHARGE,CREDITCARD,0,0,0
@@ -2008,8 +2006,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-06,Bath and North East Somerset,Radstock Library,HOLDX,CASH,0,0,0
 2017-06,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,60,20,20
 2017-06,Bath and North East Somerset,Radstock Library,OVERDUE,NONE,10,0,0
-2017-06,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,0,0
-2017-06,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,0,0
 2017-06,Bath and North East Somerset,Saltford Library,CHARGE,CASH,0,10,10
 2017-06,Bath and North East Somerset,Saltford Library,CHARGE,CREDITCARD,0,10,10
 2017-06,Bath and North East Somerset,Saltford Library,CHARGE,FORGIVEN,0,0,0
@@ -3941,7 +3937,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-07,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,0,0,0
 2017-07,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,80,50,50
 2017-07,Bath and North East Somerset,Radstock Library,PROCESSFEE,CASH,0,0,0
-2017-07,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,20,10,10
+2017-07,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
 2017-07,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
 2017-07,Bath and North East Somerset,Saltford Library,BFR,CASH,0,0,0
 2017-07,Bath and North East Somerset,Saltford Library,CHARGE,CASH,0,10,10
@@ -6014,18 +6010,13 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Bath and North East Somerset,Paulton Library,SALEVAT,CREDITCARD,0,0,0
 2017-08,Bath and North East Somerset,Radstock Library,CHARGE,CASH,20,40,40
 2017-08,Bath and North East Somerset,Radstock Library,CHARGE,FORGIVEN,0,0,0
-2017-08,Bath and North East Somerset,Radstock Library,GROUP,CANCEL,0,0,0
-2017-08,Bath and North East Somerset,Radstock Library,GROUP,CASH,0,0,0
 2017-08,Bath and North East Somerset,Radstock Library,HOLD,CASH,0,0,0
 2017-08,Bath and North East Somerset,Radstock Library,HOLDX,FORGIVEN,0,0,0
 2017-08,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,0,0,0
 2017-08,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,130,40,40
 2017-08,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITACCT,10,0,0
 2017-08,Bath and North East Somerset,Radstock Library,OVERDUE,FORGIVEN,10,0,0
-2017-08,Bath and North East Somerset,Radstock Library,PRIVILEGE,CANCEL,0,0,0
-2017-08,Bath and North East Somerset,Radstock Library,SALENOVAT,CANCEL,0,0,0
-2017-08,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,10,10
-2017-08,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
+2017-08,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
 2017-08,Bath and North East Somerset,Saltford Library,CHARGE,CASH,10,10,10
 2017-08,Bath and North East Somerset,Saltford Library,CHARGE,CREDITCARD,0,0,0
 2017-08,Bath and North East Somerset,Saltford Library,CHARGE,FORGIVEN,0,10,0
@@ -8151,9 +8142,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,0,0,0
 2017-09,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,160,40,40
 2017-09,Bath and North East Somerset,Radstock Library,OVERDUEX,CANCEL,0,0,0
-2017-09,Bath and North East Somerset,Radstock Library,SALENOVAT,CANCEL,0,0,0
-2017-09,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,20,20,20
-2017-09,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,0,0
+2017-09,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
+2017-09,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
 2017-09,Bath and North East Somerset,Saltford Library,CHARGE,CASH,10,20,20
 2017-09,Bath and North East Somerset,Saltford Library,CHARGE,CREDITCARD,0,0,0
 2017-09,Bath and North East Somerset,Saltford Library,CHARGE,FORGIVEN,0,0,0
@@ -10161,11 +10151,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,0,0,0
 2017-10,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,110,60,60
 2017-10,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,30,20,20
-2017-10,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,10,10
-2017-10,Bath and North East Somerset,Radstock Library,SALENOVAT,CREDITCARD,0,0,0
-2017-10,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,10,10
+2017-10,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,10,10
 2017-10,Bath and North East Somerset,Radstock Library,SALEVAT,FORGIVEN,0,0,0
-2017-10,Bath and North East Somerset,Radstock Library,SALEVAT,NONE,0,0,0
 2017-10,Bath and North East Somerset,Saltford Library,CHARGE,CASH,10,10,10
 2017-10,Bath and North East Somerset,Saltford Library,CHARGE,CREDITCARD,10,10,10
 2017-10,Bath and North East Somerset,Saltford Library,HOLD,FORGIVEN,0,30,0
@@ -12035,9 +12022,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,90,30,30
 2017-11,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,60,60,60
 2017-11,Bath and North East Somerset,Radstock Library,OVERDUEX,CREDITCARD,0,0,0
-2017-11,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
 2017-11,Bath and North East Somerset,Radstock Library,SALENOVAT,CREDITCARD,0,0,0
-2017-11,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,10,10
 2017-11,Bath and North East Somerset,Saltford Library,CHARGE,CASH,0,0,0
 2017-11,Bath and North East Somerset,Saltford Library,HOLD,CANCEL,0,30,0
 2017-11,Bath and North East Somerset,Saltford Library,OVERDUE,CANCEL,0,0,0
@@ -13820,8 +13805,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Bath and North East Somerset,Radstock Library,LOST,CANCEL,0,0,0
 2017-12,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,50,20,20
 2017-12,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,60,70,70
-2017-12,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
-2017-12,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,0,0
 2017-12,Bath and North East Somerset,Saltford Library,SALEVAT,CASH,0,0,0
 2017-12,Bath and North East Somerset,Weston (Bath) Library,CHARGE,CASH,0,10,10
 2017-12,Bath and North East Somerset,Weston (Bath) Library,CHARGE,CREDITCARD,0,10,10
@@ -15466,8 +15449,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,20,50,0
 2018-01,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,110,60,60
 2018-01,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,10,10,10
-2018-01,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,10,10
-2018-01,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,10,10
+2018-01,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
 2018-01,Bath and North East Somerset,Saltford Library,CHARGE,CASH,0,10,10
 2018-01,Bath and North East Somerset,Saltford Library,OVERDUE,CASH,20,10,10
 2018-01,Bath and North East Somerset,Saltford Library,OVERDUE,CREDITACCT,0,0,0
@@ -17248,8 +17230,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,0,0,0
 2018-02,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,80,20,20
 2018-02,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,10,20,20
-2018-02,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,20,10,10
-2018-02,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,10,10
 2018-02,Bath and North East Somerset,Saltford Library,CHARGE,CASH,0,0,0
 2018-02,Bath and North East Somerset,Saltford Library,CHARGE,CREDITCARD,0,0,0
 2018-02,Bath and North East Somerset,Saltford Library,CHARGE,FORGIVEN,0,0,0
@@ -18930,10 +18910,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,FORGIVEN,10,10,0
 2018-03,Bath and North East Somerset,Midsomer Norton Library,PROCESSFEE,CANCEL,0,10,0
 2018-03,Bath and North East Somerset,Midsomer Norton Library,PROCESSFEE,CASH,0,10,10
-2018-03,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,CANCEL,0,0,0
 2018-03,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,CASH,0,0,0
 2018-03,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,CREDITCARD,0,0,0
-2018-03,Bath and North East Somerset,Midsomer Norton Library,SALEVAT,CANCEL,0,0,0
 2018-03,Bath and North East Somerset,Midsomer Norton Library,SALEVAT,CASH,0,0,0
 2018-03,Bath and North East Somerset,Moorland Road Library,CHARGE,CASH,20,30,30
 2018-03,Bath and North East Somerset,Moorland Road Library,CHARGE,CREDITCARD,10,10,10
@@ -18963,8 +18941,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bath and North East Somerset,Radstock Library,CHARGEX,CREDITCARD,0,0,0
 2018-03,Bath and North East Somerset,Radstock Library,CREDIT,CASH,0,0,0
 2018-03,Bath and North East Somerset,Radstock Library,CREDIT,CREDITCARD,0,0,0
-2018-03,Bath and North East Somerset,Radstock Library,DAMAGE,CANCEL,0,0,0
-2018-03,Bath and North East Somerset,Radstock Library,DAMAGE,CASH,0,0,0
 2018-03,Bath and North East Somerset,Radstock Library,HOLDX,CANCEL,0,0,0
 2018-03,Bath and North East Somerset,Radstock Library,LOSTCARD,CANCEL,0,0,0
 2018-03,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,10,10,0
@@ -18974,11 +18950,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bath and North East Somerset,Radstock Library,OVERDUE,FORGIVEN,0,0,0
 2018-03,Bath and North East Somerset,Radstock Library,PROCESSFEE,CASH,0,0,0
 2018-03,Bath and North East Somerset,Radstock Library,SALENOVAT,CANCEL,10,10,0
-2018-03,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,10,10
 2018-03,Bath and North East Somerset,Radstock Library,SALENOVAT,CREDITCARD,0,0,0
-2018-03,Bath and North East Somerset,Radstock Library,SALENOVAT,FORGIVEN,0,0,0
-2018-03,Bath and North East Somerset,Radstock Library,SALEVAT,CANCEL,0,0,0
-2018-03,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,10,10
 2018-03,Bath and North East Somerset,Saltford Library,CHARGE,CANCEL,0,0,0
 2018-03,Bath and North East Somerset,Saltford Library,CHARGE,CASH,0,0,0
 2018-03,Bath and North East Somerset,Saltford Library,CHARGE,CREDITCARD,10,10,10
@@ -20676,8 +20648,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITACCT,0,0,0
 2018-04,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,20,10,10
 2018-04,Bath and North East Somerset,Radstock Library,OVERDUE,NONE,20,0,0
-2018-04,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,20,10,10
-2018-04,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,20,10,10
+2018-04,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
 2018-04,Bath and North East Somerset,Saltford Library,CHARGE,CANCEL,0,0,0
 2018-04,Bath and North East Somerset,Saltford Library,OVERDUE,CANCEL,0,0,0
 2018-04,Bath and North East Somerset,Saltford Library,OVERDUE,CASH,30,10,10
@@ -22367,8 +22338,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Bath and North East Somerset,Radstock Library,LOSTCARD,CASH,0,0,0
 2018-05,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,40,10,10
 2018-05,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,10,10,10
-2018-05,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,20,20,20
-2018-05,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,10,10
 2018-05,Bath and North East Somerset,Saltford Library,CHARGE,CASH,0,0,0
 2018-05,Bath and North East Somerset,Saltford Library,HOLD,CANCEL,0,30,0
 2018-05,Bath and North East Somerset,Saltford Library,HOLD,FORGIVEN,0,30,0
@@ -23974,8 +23943,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bath and North East Somerset,Radstock Library,OVERDUE,FORGIVEN,0,0,0
 2018-06,Bath and North East Somerset,Radstock Library,OVERDUEX,NONE,0,0,0
 2018-06,Bath and North East Somerset,Radstock Library,PROCESSFEE,CREDITCARD,0,0,0
-2018-06,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,10,10
-2018-06,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,10,10
+2018-06,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
 2018-06,Bath and North East Somerset,Radstock Library,SALEVAT,NONE,0,0,0
 2018-06,Bath and North East Somerset,Saltford Library,CHARGE,CANCEL,0,0,0
 2018-06,Bath and North East Somerset,Saltford Library,CHARGE,CREDITCARD,0,0,0
@@ -25537,7 +25505,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Bath and North East Somerset,Radstock Library,LOSTCARD,CANCEL,0,0,0
 2018-07,Bath and North East Somerset,Radstock Library,OVERDUE,CANCEL,10,0,0
 2018-07,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,100,50,50
-2018-07,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,10,10
 2018-07,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
 2018-07,Bath and North East Somerset,Saltford Library,OVERDUE,CANCEL,0,0,0
 2018-07,Bath and North East Somerset,Weston (Bath) Library,CHARGE,CANCEL,0,0,0
@@ -27298,8 +27265,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,80,30,30
 2018-08,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,10,10,10
 2018-08,Bath and North East Somerset,Radstock Library,SALENOVAT,CANCEL,0,0,0
-2018-08,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,0,0
-2018-08,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,10,10
 2018-08,Bath and North East Somerset,Saltford Library,HOLD,CASH,0,30,30
 2018-08,Bath and North East Somerset,Saltford Library,OVERDUE,CANCEL,0,0,0
 2018-08,Bath and North East Somerset,Weston (Bath) Library,CHARGE,CANCEL,10,10,0
@@ -29140,8 +29105,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,60,40,40
 2018-09,Bath and North East Somerset,Radstock Library,OVERDUEX,CASH,0,0,0
 2018-09,Bath and North East Somerset,Radstock Library,PROCESSFEE,CASH,0,0,0
-2018-09,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,10,10,10
-2018-09,Bath and North East Somerset,Radstock Library,SALEVAT,CANCEL,0,0,0
+2018-09,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
 2018-09,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
 2018-09,Bath and North East Somerset,Radstock Library,SALEVAT,CREDITCARD,0,0,0
 2018-09,Bristol,Avonmouth Library,CHARGE,CASH,10,10,10
@@ -30840,9 +30804,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,30,10,10
 2018-10,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITACCT,0,0,0
 2018-10,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,70,40,40
-2018-10,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
-2018-10,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,10,0,0
-2018-10,Bath and North East Somerset,Radstock Library,SALEVAT,CREDITCARD,0,0,0
+2018-10,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
 2018-10,Bristol,Avonmouth Library,LOST,CANCEL,10,20,0
 2018-10,Bristol,Avonmouth Library,OVERDUE,CASH,10,10,10
 2018-10,Bristol,Avonmouth Library,OVERDUE,FORGIVEN,0,0,0
@@ -32509,9 +32471,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,60,20,20
 2018-11,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,30,10,10
 2018-11,Bath and North East Somerset,Radstock Library,PROCESSFEE,CREDITCARD,0,0,0
-2018-11,Bath and North East Somerset,Radstock Library,SALENOVAT,CASH,0,0,0
 2018-11,Bath and North East Somerset,Radstock Library,SALENOVAT,CREDITCARD,0,0,0
-2018-11,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,10,10
+2018-11,Bath and North East Somerset,Radstock Library,SALEVAT,CASH,0,0,0
 2018-11,Bath and North East Somerset,Weston (Bath) Library,OVERDUE,CANCEL,10,10,0
 2018-11,Bristol,Avonmouth Library,CHARGE,CANCEL,0,0,0
 2018-11,Bristol,Avonmouth Library,CHARGE,DEBITCARD,0,0,0
