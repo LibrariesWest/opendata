@@ -9729,7 +9729,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Wiveliscombe Library,OVERDUE,CANCEL,0,20,0
 2017-09,Somerset,Wiveliscombe Library,OVERDUE,CASH,60,50,50
 2017-09,Somerset,Wiveliscombe Library,OVERDUE,CREDITACCT,0,0,0
-2017-09,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,10,0
+2017-09,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,10,10,0
 2017-09,Somerset,Yeovil Library,BFR,CASH,0,10,10
 2017-09,Somerset,Yeovil Library,CHARGE,CANCEL,20,40,0
 2017-09,Somerset,Yeovil Library,CHARGE,CASH,310,630,630
@@ -12339,7 +12339,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bristol,Southmead Library,OVERDUE,NONE,0,0,0
 2017-11,Bristol,Southmead Library,REFERRAL,CASH,0,0,0
 2017-11,Bristol,St George Library,CHARGE,CANCEL,0,0,0
-2017-11,Bristol,St George Library,CHARGE,CASH,110,120,120
+2017-11,Bristol,St George Library,CHARGE,CASH,100,110,110
 2017-11,Bristol,St George Library,CHARGE,FORGIVEN,10,10,0
 2017-11,Bristol,St George Library,CHARGE,VOUCH,0,0,0
 2017-11,Bristol,St George Library,CREDIT,CASH,0,0,0
@@ -14102,7 +14102,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Bristol,Southmead Library,OVERDUE,CASH,40,30,30
 2017-12,Bristol,Southmead Library,OVERDUE,FORGIVEN,20,20,0
 2017-12,Bristol,St George Library,CHARGE,CANCEL,0,0,0
-2017-12,Bristol,St George Library,CHARGE,CASH,100,110,110
+2017-12,Bristol,St George Library,CHARGE,CASH,100,100,100
 2017-12,Bristol,St George Library,CHARGE,FORGIVEN,0,0,0
 2017-12,Bristol,St George Library,CREDIT,CASH,0,0,0
 2017-12,Bristol,St George Library,HOLD,CASH,0,0,0
