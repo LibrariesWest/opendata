@@ -27345,7 +27345,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,CASH,720,760,760
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,260,330,330
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,30,50,50
-2018-08,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,70,90,0
+2018-08,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,60,70,0
 2018-08,Bristol,Bristol Central Lending Library,CHARGE,VOUCH,40,40,40
 2018-08,Bristol,Bristol Central Lending Library,CHARGEX,FORGIVEN,0,0,0
 2018-08,Bristol,Bristol Central Lending Library,CREDIT,CASH,0,0,0
@@ -29171,11 +29171,11 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Bristol Central Lending Library,BFR,CANCEL,0,10,0
 2018-09,Bristol,Bristol Central Lending Library,BFR,DEBITCARD,0,10,10
 2018-09,Bristol,Bristol Central Lending Library,CHARGE,CANCEL,30,30,0
-2018-09,Bristol,Bristol Central Lending Library,CHARGE,CASH,540,630,630
+2018-09,Bristol,Bristol Central Lending Library,CHARGE,CASH,540,620,620
 2018-09,Bristol,Bristol Central Lending Library,CHARGE,CREDITACCT,0,0,0
 2018-09,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,250,310,310
 2018-09,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,40,80,80
-2018-09,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,60,80,0
+2018-09,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,60,70,0
 2018-09,Bristol,Bristol Central Lending Library,CHARGE,VOUCH,20,20,20
 2018-09,Bristol,Bristol Central Lending Library,CHARGEX,CANCEL,0,0,0
 2018-09,Bristol,Bristol Central Lending Library,CHARGEX,DEBITCARD,0,10,10
@@ -39233,7 +39233,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,North Somerset,Oldmixon Library Access Point,OVERDUE,CASH,10,0,0
 2019-03,North Somerset,Pill Library,CHARGE,CASH,10,10,10
 2019-03,North Somerset,Pill Library,GROUP,CASH,0,10,10
-2019-03,North Somerset,Pill Library,LOST,CANCEL,10,40,0
+2019-03,North Somerset,Pill Library,LOST,CANCEL,10,50,0
 2019-03,North Somerset,Pill Library,OVERDUE,CANCEL,30,40,0
 2019-03,North Somerset,Pill Library,OVERDUE,CASH,40,20,20
 2019-03,North Somerset,Pill Library,OVERDUEX,FORGIVEN,0,0,0
