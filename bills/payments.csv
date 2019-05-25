@@ -8128,7 +8128,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bath and North East Somerset,Paulton Library,CHARGE,CASH,10,20,20
 2017-09,Bath and North East Somerset,Paulton Library,CHARGE,CREDITCARD,20,30,30
 2017-09,Bath and North East Somerset,Paulton Library,CREDIT,CASH,0,0,0
-2017-09,Bath and North East Somerset,Paulton Library,LOSTCARD,CASH,0,0,0
 2017-09,Bath and North East Somerset,Paulton Library,OVERDUE,CASH,60,20,20
 2017-09,Bath and North East Somerset,Paulton Library,OVERDUE,CREDITCARD,10,20,20
 2017-09,Bath and North East Somerset,Paulton Library,SALENOVAT,CASH,0,0,0
@@ -12004,7 +12003,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bath and North East Somerset,Paulton Library,CHARGE,CREDITCARD,10,10,10
 2017-11,Bath and North East Somerset,Paulton Library,CHARGEX,CASH,0,0,0
 2017-11,Bath and North East Somerset,Paulton Library,HOLDX,CASH,0,0,0
-2017-11,Bath and North East Somerset,Paulton Library,LOSTCARD,CANCEL,0,0,0
 2017-11,Bath and North East Somerset,Paulton Library,LOSTCARD,CASH,0,0,0
 2017-11,Bath and North East Somerset,Paulton Library,OVERDUE,CASH,40,10,10
 2017-11,Bath and North East Somerset,Paulton Library,OVERDUE,CREDITCARD,40,30,30
@@ -34089,7 +34087,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Bristol,Bristol Central Lending Library,HOLD,CREDITCARD,0,0,0
 2018-12,Bristol,Bristol Central Lending Library,HOLDX,CASH,0,0,0
 2018-12,Bristol,Bristol Central Lending Library,HOLDX,FORGIVEN,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,LOST,CANCEL,190,1130,0
+2018-12,Bristol,Bristol Central Lending Library,LOST,CANCEL,190,1120,0
 2018-12,Bristol,Bristol Central Lending Library,LOST,CASH,0,20,20
 2018-12,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,0,20,20
 2018-12,Bristol,Bristol Central Lending Library,LOST,DEBITCARD,10,30,30
