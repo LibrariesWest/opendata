@@ -1,16 +1,16 @@
 registered_authority,name,users
 Bath and North East Somerset,B&NES Mobile Libraries,760
-Bath and North East Somerset,Bath Central Library,13620
+Bath and North East Somerset,Bath Central Library,13610
 Bath and North East Somerset,Bishop Sutton Community Library,140
 Bath and North East Somerset,Keynsham Library,4210
-Bath and North East Somerset,Midsomer Norton Library,3110
+Bath and North East Somerset,Midsomer Norton Library,3100
 Bath and North East Somerset,Moorland Road Library,830
 Bath and North East Somerset,Paulton Library,510
 Bath and North East Somerset,Radstock Library,590
 Bath and North East Somerset,Saltford Library,450
-Bath and North East Somerset,Weston (Bath) Library,510
+Bath and North East Somerset,Weston (Bath) Library,500
 Bristol,Avonmouth Library,270
-Bristol,Bedminster Library,5940
+Bristol,Bedminster Library,5930
 Bristol,Bishopston Library,5250
 Bristol,Bishopsworth Library,1480
 Bristol,Bristol Central Lending Library,18270
@@ -22,19 +22,19 @@ Bristol,Henbury Library,1470
 Bristol,Henleaze Library,6130
 Bristol,Hillfields Library,500
 Bristol,Horfield Library,1850
-Bristol,Junction 3 Library,3380
-Bristol,Knowle Library,2620
+Bristol,Junction 3 Library,3370
+Bristol,Knowle Library,2630
 Bristol,Marksbury Road Library,690
 Bristol,Redland Library,3430
 Bristol,Sea Mills Library,960
-Bristol,Shirehampton Library,830
+Bristol,Shirehampton Library,820
 Bristol,Southmead Library,1310
 Bristol,St George Library,3100
 Bristol,St Pauls Library,1070
 Bristol,Stockwood Library,1260
 Bristol,Westbury-on-Trym Library,2540
 Bristol,Whitchurch Library,1200
-Bristol,Wick Road Library,2160
+Bristol,Wick Road Library,2170
 Dorset,Beaminster Library,430
 Dorset,Blandford Library,3110
 Dorset,Bridport Library,3440
@@ -43,13 +43,13 @@ Dorset,Charmouth Library,270
 Dorset,Chickerell Library,230
 Dorset,Colehill Library,730
 Dorset,Corfe Castle Library,110
-Dorset,Corfe Mullen Library,1330
+Dorset,Corfe Mullen Library,1340
 Dorset,Crossways Library,450
-Dorset,Dorchester Library,6940
-Dorset,Ferndown Library,3840
-Dorset,Gillingham Library,2280
-Dorset,Home Library Service Mobile Dorset,200
-Dorset,Littlemoor Library,740
+Dorset,Dorchester Library,6950
+Dorset,Ferndown Library,3850
+Dorset,Gillingham Library,2290
+Dorset,Home Library Service Mobile Dorset,190
+Dorset,Littlemoor Library,750
 Dorset,Lyme Regis Library,640
 Dorset,Lytchett Matravers Library,1120
 Dorset,Portland Tophill Library,1000
@@ -61,10 +61,10 @@ Dorset,Sturminster Library,1040
 Dorset,Swanage Library,2170
 Dorset,Upton Library,920
 Dorset,Verwood Library,2320
-Dorset,Wareham Library,2130
+Dorset,Wareham Library,2140
 Dorset,West Moors Library,870
 Dorset,Weymouth Library,5920
-Dorset,Wimborne Library,3460
+Dorset,Wimborne Library,3470
 Dorset,Wool Library,380
 Dorset,Wyke Regis Library,610
 North Somerset,Campus Library,2650
@@ -72,10 +72,10 @@ North Somerset,Clevedon Library,3730
 North Somerset,Congresbury Library,390
 North Somerset,Long Ashton Library,740
 North Somerset,N Som Healthy Living Centre,1030
-North Somerset,Nailsea Library,4360
+North Somerset,Nailsea Library,4350
 North Somerset,North Somerset Mobile,700
-North Somerset,Pill Library,380
-North Somerset,Portishead Library,4940
+North Somerset,Pill Library,370
+North Somerset,Portishead Library,4930
 North Somerset,Weston-super-Mare Library,7040
 North Somerset,Winscombe Library,880
 North Somerset,Worle Library,1780
@@ -88,10 +88,10 @@ Poole,Creekmoor Library,1010
 Poole,Hamworthy Library,1800
 Poole,Oakdale Library,1090
 Poole,Parkstone Library,1640
-Poole,Poole Central Library,8290
+Poole,Poole Central Library,8270
 Poole,Rossmore Library,2140
 Somerset,Bishops Lydeard Library,240
-Somerset,Bridgwater Library,6080
+Somerset,Bridgwater Library,6090
 Somerset,Bruton Library,320
 Somerset,Burnham Library,3430
 Somerset,Castle Cary Library,580
@@ -99,31 +99,31 @@ Somerset,Chard Library,2310
 Somerset,Cheddar Library,1310
 Somerset,Crewkerne Library,2080
 Somerset,Dulverton Library,490
-Somerset,Frome Library,7220
+Somerset,Frome Library,7230
 Somerset,Glastonbury Library,2190
-Somerset,Ilminster Library,1200
+Somerset,Ilminster Library,1210
 Somerset,Langport Library,1580
 Somerset,Martock Library,1210
 Somerset,Milborne Port Library,320
-Somerset,Minehead Library,2610
+Somerset,Minehead Library,2620
 Somerset,Nether Stowey Library,390
 Somerset,North Petherton Library,510
 Somerset,Performing Arts Library Yeovil,250
 Somerset,Porlock Library,250
-Somerset,Priorswood Library,840
+Somerset,Priorswood Library,850
 Somerset,Shepton Mallet Library,1810
 Somerset,Somerton Library,1390
-Somerset,South Petherton Library,500
+Somerset,South Petherton Library,510
 Somerset,Street Library,2320
 Somerset,Taunton Library,13760
 Somerset,Taunton Mobile,1000
 Somerset,Watchet Library,440
-Somerset,Wellington Library,2870
+Somerset,Wellington Library,2860
 Somerset,Wells Library,4010
 Somerset,Williton Library,1090
-Somerset,Wincanton Library,1570
+Somerset,Wincanton Library,1580
 Somerset,Wiveliscombe Library,690
-Somerset,Yeovil Library,7340
+Somerset,Yeovil Library,7330
 South Gloucestershire,Bradley Stoke Library,6610
 South Gloucestershire,Cadbury Heath Library,1390
 South Gloucestershire,Chipping Sodbury Library,380
@@ -132,7 +132,7 @@ South Gloucestershire,Emersons Green Library,3210
 South Gloucestershire,Filton Library,2410
 South Gloucestershire,Hanham Library,3450
 South Gloucestershire,Kingswood Library,3930
-South Gloucestershire,Patchway Library,2080
+South Gloucestershire,Patchway Library,2070
 South Gloucestershire,Staple Hill Library,2180
 South Gloucestershire,Thornbury Library,4060
 South Gloucestershire,Winterbourne Library,1380
