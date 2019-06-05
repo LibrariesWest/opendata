@@ -22236,7 +22236,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Henleaze Library,LOST,FORGIVEN,0,10,0
 2018-06,Bristol,Henleaze Library,LOST,NONE,0,10,10
 2018-06,Bristol,Henleaze Library,OVERDUE,CANCEL,10,30,0
-2018-06,Bristol,Henleaze Library,OVERDUE,CASH,350,180,180
+2018-06,Bristol,Henleaze Library,OVERDUE,CASH,340,180,180
 2018-06,Bristol,Henleaze Library,OVERDUE,CREDITACCT,0,0,0
 2018-06,Bristol,Henleaze Library,OVERDUE,CREDITCARD,170,170,170
 2018-06,Bristol,Henleaze Library,OVERDUE,DEBITCARD,30,50,50
@@ -24027,7 +24027,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Dorset,Bridport Library,MISC,CASH,0,0,0
 2018-07,Dorset,Bridport Library,OVERDUE,CANCEL,10,30,0
 2018-07,Dorset,Bridport Library,OVERDUE,CASH,140,160,160
-2018-07,Dorset,Bridport Library,OVERDUE,FORGIVEN,20,20,0
+2018-07,Dorset,Bridport Library,OVERDUE,FORGIVEN,10,10,0
 2018-07,Dorset,Burton Bradstock Library,CHARGE,CASH,10,20,20
 2018-07,Dorset,Burton Bradstock Library,LOST,CANCEL,0,0,0
 2018-07,Dorset,Burton Bradstock Library,LOST,CASH,0,10,10
@@ -35591,7 +35591,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Dorset,Bridport Library,LOST,CASH,0,10,10
 2019-02,Dorset,Bridport Library,MISC,CASH,0,0,0
 2019-02,Dorset,Bridport Library,OVERDUE,CANCEL,20,30,0
-2019-02,Dorset,Bridport Library,OVERDUE,CASH,180,150,150
+2019-02,Dorset,Bridport Library,OVERDUE,CASH,170,150,150
 2019-02,Dorset,Bridport Library,OVERDUE,FORGIVEN,10,20,0
 2019-02,Dorset,Burton Bradstock Library,LOST,CANCEL,0,30,0
 2019-02,Dorset,Burton Bradstock Library,LOSTCARD,CASH,0,0,0
@@ -40115,7 +40115,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Dorset,Bridport Library,LOST,CANCEL,70,350,0
 2019-05,Dorset,Bridport Library,LOST,CASH,0,10,10
 2019-05,Dorset,Bridport Library,OVERDUE,CANCEL,30,30,0
-2019-05,Dorset,Bridport Library,OVERDUE,CASH,200,120,120
+2019-05,Dorset,Bridport Library,OVERDUE,CASH,190,120,120
 2019-05,Dorset,Bridport Library,OVERDUE,CREDITCARD,0,0,0
 2019-05,Dorset,Bridport Library,OVERDUE,FORGIVEN,10,10,0
 2019-05,Dorset,Bridport Library,OVERDUEX,CANCEL,0,0,0
