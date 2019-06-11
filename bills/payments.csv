@@ -5050,7 +5050,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,North Somerset,Portishead Library,CREDIT,CASH,10,0,0
 2017-08,North Somerset,Portishead Library,GROUP,CANCEL,0,10,0
 2017-08,North Somerset,Portishead Library,GROUP,CASH,10,40,40
-2017-08,North Somerset,Portishead Library,HOLD,CASH,20,10,10
+2017-08,North Somerset,Portishead Library,HOLD,CASH,10,10,10
 2017-08,North Somerset,Portishead Library,HOLD,FORGIVEN,0,0,0
 2017-08,North Somerset,Portishead Library,HOLD,VOUCH,0,0,0
 2017-08,North Somerset,Portishead Library,HOLDX,CASH,0,0,0
@@ -34011,7 +34011,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Dorset,Dorchester Library,LOST,CASH,10,40,40
 2019-01,Dorset,Dorchester Library,LOSTCARD,CASH,10,20,20
 2019-01,Dorset,Dorchester Library,OVERDUE,CANCEL,10,30,0
-2019-01,Dorset,Dorchester Library,OVERDUE,CASH,340,370,370
+2019-01,Dorset,Dorchester Library,OVERDUE,CASH,330,370,370
 2019-01,Dorset,Dorchester Library,OVERDUE,DEBITCARD,0,0,0
 2019-01,Dorset,Dorchester Library,OVERDUE,FORGIVEN,50,170,0
 2019-01,Dorset,Dorchester Library,OVERDUEX,CANCEL,0,0,0
