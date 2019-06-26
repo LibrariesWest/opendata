@@ -14153,7 +14153,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Dorset,Wareham Library,OVERDUEX,FORGIVEN,0,10,0
 2018-01,Dorset,West Moors Library,CHARGE,CASH,20,30,30
 2018-01,Dorset,West Moors Library,LOST,CANCEL,10,70,0
-2018-01,Dorset,West Moors Library,OVERDUE,CASH,60,50,50
+2018-01,Dorset,West Moors Library,OVERDUE,CASH,60,40,40
 2018-01,Dorset,West Moors Library,OVERDUEX,CASH,0,0,0
 2018-01,Dorset,Weymouth Library,BFR,FORGIVEN,0,10,0
 2018-01,Dorset,Weymouth Library,CHARGE,CANCEL,0,0,0
@@ -17185,7 +17185,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bristol,Bristol Central Lending Library,LOSTX,CANCEL,0,20,0
 2018-03,Bristol,Bristol Central Lending Library,LOSTX,FORGIVEN,0,10,0
 2018-03,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,30,40,0
-2018-03,Bristol,Bristol Central Lending Library,OVERDUE,CASH,1030,680,680
+2018-03,Bristol,Bristol Central Lending Library,OVERDUE,CASH,1030,670,670
 2018-03,Bristol,Bristol Central Lending Library,OVERDUE,CREDITACCT,0,0,0
 2018-03,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,590,560,560
 2018-03,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,170,340,340
@@ -24213,7 +24213,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Dorset,Wareham Library,OVERDUE,FORGIVEN,20,20,0
 2018-07,Dorset,West Moors Library,CHARGE,CASH,10,20,20
 2018-07,Dorset,West Moors Library,LOST,CANCEL,10,30,0
-2018-07,Dorset,West Moors Library,OVERDUE,CASH,30,20,20
+2018-07,Dorset,West Moors Library,OVERDUE,CASH,20,20,20
 2018-07,Dorset,Weymouth Library,BFR,CANCEL,0,20,0
 2018-07,Dorset,Weymouth Library,BFR,CASH,0,10,10
 2018-07,Dorset,Weymouth Library,BFR,FORGIVEN,10,50,0
@@ -34148,7 +34148,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Dorset,West Moors Library,CHARGE,CASH,10,10,10
 2019-01,Dorset,West Moors Library,LOST,CANCEL,10,40,0
 2019-01,Dorset,West Moors Library,LOST,CASH,0,0,0
-2019-01,Dorset,West Moors Library,OVERDUE,CASH,60,60,60
+2019-01,Dorset,West Moors Library,OVERDUE,CASH,60,50,50
 2019-01,Dorset,West Moors Library,OVERDUE,FORGIVEN,10,10,0
 2019-01,Dorset,Weymouth Library,BFR,FORGIVEN,0,10,0
 2019-01,Dorset,Weymouth Library,CHARGE,CANCEL,0,0,0
@@ -35320,7 +35320,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Bristol,Bristol Central Lending Library,OVERDUE,CASH,800,610,610
 2019-02,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,20,60,60
 2019-02,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,550,550,550
-2019-02,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,170,240,240
+2019-02,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,170,230,230
 2019-02,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,180,250,0
 2019-02,Bristol,Bristol Central Lending Library,OVERDUEX,CANCEL,0,0,0
 2019-02,Bristol,Bristol Central Lending Library,OVERDUEX,CASH,0,10,10
@@ -35742,7 +35742,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Dorset,Wareham Library,OVERDUE,FORGIVEN,0,0,0
 2019-02,Dorset,West Moors Library,CHARGE,CASH,10,20,20
 2019-02,Dorset,West Moors Library,LOST,CANCEL,10,40,0
-2019-02,Dorset,West Moors Library,OVERDUE,CASH,30,20,20
+2019-02,Dorset,West Moors Library,OVERDUE,CASH,30,10,10
 2019-02,Dorset,West Moors Library,OVERDUE,FORGIVEN,10,0,0
 2019-02,Dorset,Weymouth Library,BFR,FORGIVEN,0,30,0
 2019-02,Dorset,Weymouth Library,CHARGE,CASH,60,130,130
@@ -37971,7 +37971,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Somerset,Wincanton Library,HOLD,CASH,130,130,130
 2019-03,Somerset,Wincanton Library,LOST,CANCEL,20,60,0
 2019-03,Somerset,Wincanton Library,LOST,CASH,0,10,10
-2019-03,Somerset,Wincanton Library,LOST,DEBITCARD,0,10,10
 2019-03,Somerset,Wincanton Library,LOSTCARD,CASH,10,10,10
 2019-03,Somerset,Wincanton Library,OVERDUE,CANCEL,0,0,0
 2019-03,Somerset,Wincanton Library,OVERDUE,CASH,90,40,40
