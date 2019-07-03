@@ -3335,7 +3335,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Bridgwater Library,LOST,DEBITCARD,0,0,0
 2017-08,Somerset,Bridgwater Library,LOSTCARD,CASH,10,30,30
 2017-08,Somerset,Bridgwater Library,LOSTX,FORGIVEN,0,10,0
-2017-08,Somerset,Bridgwater Library,OVERDUE,CANCEL,10,20,0
+2017-08,Somerset,Bridgwater Library,OVERDUE,CANCEL,10,10,0
 2017-08,Somerset,Bridgwater Library,OVERDUE,CASH,580,430,430
 2017-08,Somerset,Bridgwater Library,OVERDUE,CREDITCARD,0,0,0
 2017-08,Somerset,Bridgwater Library,OVERDUE,DEBITCARD,70,20,20
@@ -38362,7 +38362,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Dorset,Weymouth Library,CHARGEX,CASH,0,0,0
 2019-05,Dorset,Weymouth Library,HOLD,CASH,0,0,0
 2019-05,Dorset,Weymouth Library,ILL,FORGIVEN,0,10,0
-2019-05,Dorset,Weymouth Library,LOST,CANCEL,60,400,0
+2019-05,Dorset,Weymouth Library,LOST,CANCEL,60,410,0
 2019-05,Dorset,Weymouth Library,LOST,CASH,0,20,20
 2019-05,Dorset,Weymouth Library,LOSTCARD,CASH,0,0,0
 2019-05,Dorset,Weymouth Library,OVERDUE,CANCEL,10,0,0
@@ -39574,7 +39574,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Bristol,Henleaze Library,DAMAGE,CASH,0,10,10
 2019-06,Bristol,Henleaze Library,DAMAGE,DEBITCARD,0,10,10
 2019-06,Bristol,Henleaze Library,HOLD,CASH,0,0,0
-2019-06,Bristol,Henleaze Library,LOST,CANCEL,140,730,0
+2019-06,Bristol,Henleaze Library,LOST,CANCEL,150,730,0
 2019-06,Bristol,Henleaze Library,LOST,CASH,10,40,40
 2019-06,Bristol,Henleaze Library,LOST,CREDITCARD,0,20,20
 2019-06,Bristol,Henleaze Library,LOST,DEBITCARD,0,30,30
@@ -39750,7 +39750,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Dorset,Bridport Library,GROUP,CREDITCARD,0,50,50
 2019-06,Dorset,Bridport Library,HOLD,CASH,0,0,0
 2019-06,Dorset,Bridport Library,ILL,CASH,0,10,10
-2019-06,Dorset,Bridport Library,LOST,CANCEL,70,380,0
+2019-06,Dorset,Bridport Library,LOST,CANCEL,80,390,0
 2019-06,Dorset,Bridport Library,OVERDUE,CANCEL,40,70,0
 2019-06,Dorset,Bridport Library,OVERDUE,CASH,130,130,130
 2019-06,Dorset,Bridport Library,OVERDUE,CREDITCARD,60,50,50
@@ -39795,7 +39795,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Dorset,Dorchester Library,DAMAGE,CASH,0,0,0
 2019-06,Dorset,Dorchester Library,DAMAGE,CREDITCARD,0,0,0
 2019-06,Dorset,Dorchester Library,HOLD,CASH,10,10,10
-2019-06,Dorset,Dorchester Library,LOST,CANCEL,100,520,0
+2019-06,Dorset,Dorchester Library,LOST,CANCEL,110,560,0
 2019-06,Dorset,Dorchester Library,LOST,CASH,0,20,20
 2019-06,Dorset,Dorchester Library,LOST,CREDITCARD,0,20,20
 2019-06,Dorset,Dorchester Library,LOST,FORGIVEN,0,10,0
@@ -40690,7 +40690,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,0,0,0
 2019-06,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,150,110,110
 2019-06,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,0,0,0
-2019-06,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,80,440,0
+2019-06,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,90,450,0
 2019-06,South Gloucestershire,Bradley Stoke Library,LOST,CASH,10,50,50
 2019-06,South Gloucestershire,Bradley Stoke Library,LOST,FORGIVEN,0,10,0
 2019-06,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,70,90,0
@@ -40806,7 +40806,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,South Gloucestershire,Staple Hill Library,CHARGE,CASH,50,60,60
 2019-06,South Gloucestershire,Staple Hill Library,GROUP,CASH,0,10,10
 2019-06,South Gloucestershire,Staple Hill Library,HOLD,CASH,70,40,40
-2019-06,South Gloucestershire,Staple Hill Library,LOST,CANCEL,30,150,0
+2019-06,South Gloucestershire,Staple Hill Library,LOST,CANCEL,30,160,0
 2019-06,South Gloucestershire,Staple Hill Library,OVERDUE,CANCEL,10,10,0
 2019-06,South Gloucestershire,Staple Hill Library,OVERDUE,CASH,110,70,70
 2019-06,South Gloucestershire,Staple Hill Library,OVERDUE,FORGIVEN,20,50,0
