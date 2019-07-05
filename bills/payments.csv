@@ -3922,7 +3922,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Yeovil Library,LOSTX,CANCEL,20,110,0
 2017-08,Somerset,Yeovil Library,LOSTX,CASH,0,0,0
 2017-08,Somerset,Yeovil Library,OVERDUE,CANCEL,60,90,0
-2017-08,Somerset,Yeovil Library,OVERDUE,CASH,730,720,720
+2017-08,Somerset,Yeovil Library,OVERDUE,CASH,730,710,710
 2017-08,Somerset,Yeovil Library,OVERDUE,CREDITCARD,0,10,10
 2017-08,Somerset,Yeovil Library,OVERDUE,DEBITCARD,40,80,80
 2017-08,Somerset,Yeovil Library,OVERDUE,FORGIVEN,100,160,0
@@ -5954,7 +5954,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Yeovil Library,LOSTCARD,CASH,20,30,30
 2017-09,Somerset,Yeovil Library,LOSTX,CANCEL,0,40,0
 2017-09,Somerset,Yeovil Library,OVERDUE,CANCEL,110,180,0
-2017-09,Somerset,Yeovil Library,OVERDUE,CASH,750,540,540
+2017-09,Somerset,Yeovil Library,OVERDUE,CASH,750,530,530
 2017-09,Somerset,Yeovil Library,OVERDUE,CREDITCARD,20,30,30
 2017-09,Somerset,Yeovil Library,OVERDUE,DEBITCARD,70,100,100
 2017-09,Somerset,Yeovil Library,OVERDUE,FORGIVEN,70,120,0
@@ -13095,7 +13095,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Yeovil Library,LOSTCARD,CASH,10,20,20
 2018-01,Somerset,Yeovil Library,LOSTCARD,DEBITCARD,0,0,0
 2018-01,Somerset,Yeovil Library,OVERDUE,CANCEL,70,130,0
-2018-01,Somerset,Yeovil Library,OVERDUE,CASH,590,560,560
+2018-01,Somerset,Yeovil Library,OVERDUE,CASH,580,550,550
 2018-01,Somerset,Yeovil Library,OVERDUE,CREDITCARD,0,20,20
 2018-01,Somerset,Yeovil Library,OVERDUE,DEBITCARD,70,60,60
 2018-01,Somerset,Yeovil Library,OVERDUE,FORGIVEN,70,100,0
@@ -19151,7 +19151,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,North Somerset,Nailsea Library,LOST,CANCEL,10,50,0
 2018-05,North Somerset,Nailsea Library,LOSTCARD,FORGIVEN,0,0,0
 2018-05,North Somerset,Nailsea Library,OVERDUE,CANCEL,20,40,0
-2018-05,North Somerset,Nailsea Library,OVERDUE,CASH,540,270,270
+2018-05,North Somerset,Nailsea Library,OVERDUE,CASH,530,260,260
 2018-05,North Somerset,Nailsea Library,OVERDUE,CREDITACCT,0,0,0
 2018-05,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,50,30,0
 2018-05,North Somerset,Nailsea Library,OVERDUEX,FORGIVEN,10,0,0
@@ -24188,7 +24188,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,North Somerset,Nailsea Library,LOST,CASH,10,20,20
 2018-08,North Somerset,Nailsea Library,LOSTCARD,CASH,0,0,0
 2018-08,North Somerset,Nailsea Library,OVERDUE,CANCEL,90,70,0
-2018-08,North Somerset,Nailsea Library,OVERDUE,CASH,640,340,340
+2018-08,North Somerset,Nailsea Library,OVERDUE,CASH,630,340,340
 2018-08,North Somerset,Nailsea Library,OVERDUE,CREDITACCT,0,0,0
 2018-08,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,20,20,0
 2018-08,North Somerset,Nailsea Library,OVERDUEX,CANCEL,0,0,0
@@ -35965,7 +35965,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Somerset,Wellington Library,CHARGE,CASH,100,210,210
 2019-03,Somerset,Wellington Library,CHARGE,CREDITACCT,0,0,0
 2019-03,Somerset,Wellington Library,CHARGE,DEBITCARD,20,50,50
-2019-03,Somerset,Wellington Library,CHARGE,FORGIVEN,10,10,0
+2019-03,Somerset,Wellington Library,CHARGE,FORGIVEN,0,0,0
 2019-03,Somerset,Wellington Library,GROUP,CASH,0,10,10
 2019-03,Somerset,Wellington Library,HOLD,CANCEL,0,0,0
 2019-03,Somerset,Wellington Library,HOLD,CASH,190,240,240
@@ -39031,7 +39031,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Somerset,Watchet Library,LOST,FORGIVEN,0,0,0
 2019-05,Somerset,Watchet Library,OVERDUE,CASH,30,20,20
 2019-05,Somerset,Watchet Library,OVERDUE,FORGIVEN,0,0,0
-2019-05,Somerset,Wellington Library,CHARGE,CANCEL,10,30,0
+2019-05,Somerset,Wellington Library,CHARGE,CANCEL,10,20,0
 2019-05,Somerset,Wellington Library,CHARGE,CASH,120,250,250
 2019-05,Somerset,Wellington Library,CHARGE,CREDITCARD,0,10,10
 2019-05,Somerset,Wellington Library,CHARGE,DEBITCARD,0,0,0
@@ -39051,7 +39051,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Somerset,Wellington Library,LOST,FORGIVEN,0,10,0
 2019-05,Somerset,Wellington Library,LOSTCARD,CASH,10,10,10
 2019-05,Somerset,Wellington Library,OVERDUE,CANCEL,10,20,0
-2019-05,Somerset,Wellington Library,OVERDUE,CASH,240,170,170
+2019-05,Somerset,Wellington Library,OVERDUE,CASH,230,170,170
 2019-05,Somerset,Wellington Library,OVERDUE,CREDITCARD,40,40,40
 2019-05,Somerset,Wellington Library,OVERDUE,DEBITCARD,50,90,90
 2019-05,Somerset,Wellington Library,OVERDUE,FORGIVEN,20,60,0
