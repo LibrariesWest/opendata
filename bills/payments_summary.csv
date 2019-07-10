@@ -51,7 +51,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bath and North East Somerset,LOSTCARD,NONE,0,0,0
 2018/2019,Bath and North East Somerset,LOSTX,CANCEL,10,110,0
 2018/2019,Bath and North East Somerset,OVERDUE,CANCEL,2470,4350,0
-2018/2019,Bath and North East Somerset,OVERDUE,CASH,16880,8790,8790
+2018/2019,Bath and North East Somerset,OVERDUE,CASH,16870,8790,8790
 2018/2019,Bath and North East Somerset,OVERDUE,CHEQUE,0,0,0
 2018/2019,Bath and North East Somerset,OVERDUE,CREDITACCT,70,20,20
 2018/2019,Bath and North East Somerset,OVERDUE,CREDITCARD,15280,14370,14370
@@ -125,7 +125,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bristol,HOLDX,DEBITCARD,10,10,10
 2018/2019,Bristol,HOLDX,FORGIVEN,70,80,0
 2018/2019,Bristol,ILL,CASH,0,0,0
-2018/2019,Bristol,LOST,CANCEL,23520,116480,0
+2018/2019,Bristol,LOST,CANCEL,23510,116470,0
 2018/2019,Bristol,LOST,CASH,850,4510,4510
 2018/2019,Bristol,LOST,CHEQUE,20,190,190
 2018/2019,Bristol,LOST,CREDITCARD,320,1960,1960
