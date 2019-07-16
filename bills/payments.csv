@@ -16495,7 +16495,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,50,20,0
 2018-03,Somerset,Yeovil Library,BFR,CASH,0,10,10
 2018-03,Somerset,Yeovil Library,CHARGE,CANCEL,20,50,0
-2018-03,Somerset,Yeovil Library,CHARGE,CASH,320,670,670
+2018-03,Somerset,Yeovil Library,CHARGE,CASH,310,670,670
 2018-03,Somerset,Yeovil Library,CHARGE,DEBITCARD,20,40,40
 2018-03,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,20,0
 2018-03,Somerset,Yeovil Library,CHARGE,VOUCH,0,0,0
@@ -18185,7 +18185,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Somerset,Yeovil Library,CHARGE,CASH,230,520,520
 2018-04,Somerset,Yeovil Library,CHARGE,CREDITCARD,0,10,10
 2018-04,Somerset,Yeovil Library,CHARGE,DEBITCARD,10,10,10
-2018-04,Somerset,Yeovil Library,CHARGE,FORGIVEN,0,10,0
+2018-04,Somerset,Yeovil Library,CHARGE,FORGIVEN,0,0,0
 2018-04,Somerset,Yeovil Library,CHARGEX,CANCEL,0,0,0
 2018-04,Somerset,Yeovil Library,CHARGEX,CASH,50,40,40
 2018-04,Somerset,Yeovil Library,DAMAGE,CASH,0,0,0
@@ -20573,7 +20573,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Dorset,Portland Tophill Library,LOSTCARD,CASH,0,0,0
 2018-06,Dorset,Portland Tophill Library,OVERDUE,CANCEL,0,10,0
 2018-06,Dorset,Portland Tophill Library,OVERDUE,CASH,40,20,20
-2018-06,Dorset,Portland Tophill Library,OVERDUE,FORGIVEN,0,0,0
 2018-06,Dorset,Puddletown Library,LOST,CANCEL,0,10,0
 2018-06,Dorset,Puddletown Library,OVERDUE,CASH,0,0,0
 2018-06,Dorset,Shaftesbury Library,CHARGE,CANCEL,0,0,0
@@ -20660,7 +20659,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Dorset,Weymouth Library,LOST,CASH,0,30,30
 2018-06,Dorset,Weymouth Library,LOSTCARD,CASH,0,0,0
 2018-06,Dorset,Weymouth Library,OVERDUE,CANCEL,10,20,0
-2018-06,Dorset,Weymouth Library,OVERDUE,CASH,280,390,390
+2018-06,Dorset,Weymouth Library,OVERDUE,CASH,270,390,390
 2018-06,Dorset,Weymouth Library,OVERDUE,FORGIVEN,50,90,0
 2018-06,Dorset,Weymouth Library,OVERDUEX,CASH,0,0,0
 2018-06,Dorset,Wimborne Library,CHARGE,CASH,80,190,190
@@ -23199,8 +23198,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,South Gloucestershire,Filton Library,HOLD,FORGIVEN,0,0,0
 2018-07,South Gloucestershire,Filton Library,LOST,CANCEL,60,240,0
 2018-07,South Gloucestershire,Filton Library,LOST,CASH,0,0,0
-2018-07,South Gloucestershire,Filton Library,OVERDUE,CANCEL,40,110,0
-2018-07,South Gloucestershire,Filton Library,OVERDUE,CASH,90,60,60
+2018-07,South Gloucestershire,Filton Library,OVERDUE,CANCEL,30,110,0
+2018-07,South Gloucestershire,Filton Library,OVERDUE,CASH,90,50,50
 2018-07,South Gloucestershire,Filton Library,OVERDUE,FORGIVEN,10,30,0
 2018-07,South Gloucestershire,Filton Library,SALENOVAT,CANCEL,0,0,0
 2018-07,South Gloucestershire,Hanham Library,CHARGE,CANCEL,0,0,0
