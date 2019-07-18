@@ -2244,7 +2244,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Bristol,Bedminster Library,BFR,CANCEL,0,10,0
 2017-08,Bristol,Bedminster Library,BFR,FORGIVEN,0,10,0
 2017-08,Bristol,Bedminster Library,CHARGE,CANCEL,10,10,0
-2017-08,Bristol,Bedminster Library,CHARGE,CASH,300,330,330
+2017-08,Bristol,Bedminster Library,CHARGE,CASH,300,320,320
 2017-08,Bristol,Bedminster Library,CHARGE,CREDITCARD,90,120,120
 2017-08,Bristol,Bedminster Library,CHARGE,FORGIVEN,10,10,0
 2017-08,Bristol,Bedminster Library,CHARGE,VOUCH,40,40,40
@@ -6377,7 +6377,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bristol,Avonmouth Library,OVERDUE,CASH,10,0,0
 2017-10,Bristol,Avonmouth Library,OVERDUE,FORGIVEN,10,30,0
 2017-10,Bristol,Bedminster Library,CHARGE,CANCEL,0,0,0
-2017-10,Bristol,Bedminster Library,CHARGE,CASH,240,260,260
+2017-10,Bristol,Bedminster Library,CHARGE,CASH,230,260,260
 2017-10,Bristol,Bedminster Library,CHARGE,CREDITCARD,20,40,40
 2017-10,Bristol,Bedminster Library,CHARGE,FORGIVEN,10,10,0
 2017-10,Bristol,Bedminster Library,CHARGE,NONE,0,0,0
@@ -8238,7 +8238,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Bristol,Avonmouth Library,OVERDUE,FORGIVEN,0,0,0
 2017-11,Bristol,Bedminster Library,BFR,FORGIVEN,0,10,0
 2017-11,Bristol,Bedminster Library,CHARGE,CANCEL,10,10,0
-2017-11,Bristol,Bedminster Library,CHARGE,CASH,210,240,240
+2017-11,Bristol,Bedminster Library,CHARGE,CASH,210,230,230
 2017-11,Bristol,Bedminster Library,CHARGE,CREDITCARD,40,40,40
 2017-11,Bristol,Bedminster Library,CHARGE,FORGIVEN,10,10,0
 2017-11,Bristol,Bedminster Library,CHARGE,VOUCH,0,0,0
@@ -10015,7 +10015,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Bristol,Avonmouth Library,OVERDUE,FORGIVEN,10,0,0
 2017-12,Bristol,Avonmouth Library,SALENOVAT,FORGIVEN,0,0,0
 2017-12,Bristol,Bedminster Library,CHARGE,CANCEL,10,10,0
-2017-12,Bristol,Bedminster Library,CHARGE,CASH,200,240,240
+2017-12,Bristol,Bedminster Library,CHARGE,CASH,200,230,230
 2017-12,Bristol,Bedminster Library,CHARGE,CREDITCARD,40,60,60
 2017-12,Bristol,Bedminster Library,CHARGE,FORGIVEN,0,0,0
 2017-12,Bristol,Bedminster Library,CHARGEX,CASH,0,0,0
@@ -16975,7 +16975,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Filwood Library,CHARGE,CASH,0,10,10
 2018-04,Bristol,Filwood Library,CHARGE,FORGIVEN,0,0,0
 2018-04,Bristol,Filwood Library,LOST,CANCEL,10,40,0
-2018-04,Bristol,Filwood Library,LOST,CASH,0,0,0
 2018-04,Bristol,Filwood Library,LOSTX,FORGIVEN,0,10,0
 2018-04,Bristol,Filwood Library,OVERDUE,CASH,30,20,20
 2018-04,Bristol,Filwood Library,OVERDUE,CREDITACCT,0,0,0
@@ -18758,7 +18757,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Bristol,Knowle Library,OVERDUE,FORGIVEN,30,40,0
 2018-05,Bristol,Lockleaze Library,LOST,CANCEL,10,40,0
 2018-05,Bristol,Marksbury Road Library,BFR,FORGIVEN,0,10,0
-2018-05,Bristol,Marksbury Road Library,CHARGE,CASH,10,10,10
+2018-05,Bristol,Marksbury Road Library,CHARGE,CASH,0,10,10
 2018-05,Bristol,Marksbury Road Library,CHARGE,FORGIVEN,0,10,0
 2018-05,Bristol,Marksbury Road Library,HOLDX,FORGIVEN,0,0,0
 2018-05,Bristol,Marksbury Road Library,LOST,CANCEL,20,90,0
@@ -24367,7 +24366,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Poole,Poole Central Library,HOLD,CASH,180,180,180
 2018-08,Poole,Poole Central Library,HOLD,FORGIVEN,10,10,0
 2018-08,Poole,Poole Central Library,LOST,CANCEL,10,20,0
-2018-08,Poole,Poole Central Library,OVERDUE,CASH,340,470,470
+2018-08,Poole,Poole Central Library,OVERDUE,CASH,340,460,460
 2018-08,Poole,Poole Central Library,OVERDUE,DEBITCARD,30,60,60
 2018-08,Poole,Poole Central Library,OVERDUE,FORGIVEN,30,90,0
 2018-08,Poole,Poole Central Library,OVERDUEX,CASH,10,20,20
@@ -32937,7 +32936,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Wincanton Library,CHARGE,CANCEL,0,0,0
 2019-01,Somerset,Wincanton Library,CHARGE,CASH,30,70,70
 2019-01,Somerset,Wincanton Library,GROUP,CASH,10,40,40
-2019-01,Somerset,Wincanton Library,HOLD,CASH,130,130,130
+2019-01,Somerset,Wincanton Library,HOLD,CASH,130,120,120
 2019-01,Somerset,Wincanton Library,LOST,CANCEL,30,130,0
 2019-01,Somerset,Wincanton Library,LOST,CASH,10,20,20
 2019-01,Somerset,Wincanton Library,LOST,DEBITCARD,10,30,30
