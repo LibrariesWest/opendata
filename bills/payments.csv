@@ -4641,7 +4641,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Bristol,Knowle Library,REFERRAL,CASH,0,10,10
 2017-09,Bristol,Lockleaze Library,LOST,CANCEL,10,20,0
 2017-09,Bristol,Marksbury Road Library,CHARGE,CASH,10,10,10
-2017-09,Bristol,Marksbury Road Library,CHARGE,FORGIVEN,0,0,0
 2017-09,Bristol,Marksbury Road Library,CHARGE,VOUCH,10,10,10
 2017-09,Bristol,Marksbury Road Library,LOST,CANCEL,10,50,0
 2017-09,Bristol,Marksbury Road Library,LOST,CASH,0,10,10
@@ -19460,7 +19459,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Somerset,Dulverton Library,OVERDUE,CANCEL,0,0,0
 2018-05,Somerset,Dulverton Library,OVERDUE,CASH,50,30,30
 2018-05,Somerset,Dulverton Library,OVERDUE,DEBITCARD,0,20,20
-2018-05,Somerset,Dulverton Library,OVERDUE,FORGIVEN,0,0,0
 2018-05,Somerset,Frome Library,CHARGE,CANCEL,30,50,0
 2018-05,Somerset,Frome Library,CHARGE,CASH,400,700,700
 2018-05,Somerset,Frome Library,CHARGE,CREDITCARD,10,20,20
@@ -21873,7 +21871,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Bristol,Henleaze Library,OVERDUE,CANCEL,20,30,0
 2018-07,Bristol,Henleaze Library,OVERDUE,CASH,430,260,260
 2018-07,Bristol,Henleaze Library,OVERDUE,CREDITCARD,160,230,230
-2018-07,Bristol,Henleaze Library,OVERDUE,DEBITCARD,80,80,80
+2018-07,Bristol,Henleaze Library,OVERDUE,DEBITCARD,70,80,80
 2018-07,Bristol,Henleaze Library,OVERDUE,FORGIVEN,60,120,0
 2018-07,Bristol,Henleaze Library,OVERDUEX,CANCEL,0,0,0
 2018-07,Bristol,Henleaze Library,OVERDUEX,CASH,0,0,0
@@ -27169,7 +27167,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Bristol,Henleaze Library,LOST,FORGIVEN,0,10,0
 2018-10,Bristol,Henleaze Library,LOSTX,CANCEL,10,50,0
 2018-10,Bristol,Henleaze Library,OVERDUE,CANCEL,0,10,0
-2018-10,Bristol,Henleaze Library,OVERDUE,CASH,430,300,300
+2018-10,Bristol,Henleaze Library,OVERDUE,CASH,420,300,300
 2018-10,Bristol,Henleaze Library,OVERDUE,CREDITACCT,0,0,0
 2018-10,Bristol,Henleaze Library,OVERDUE,CREDITCARD,170,140,140
 2018-10,Bristol,Henleaze Library,OVERDUE,DEBITCARD,130,140,140
