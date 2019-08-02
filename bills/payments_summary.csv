@@ -425,7 +425,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Somerset,OVERDUE,CREDITACCT,100,60,60
 2018/2019,Somerset,OVERDUE,CREDITCARD,1520,1880,1880
 2018/2019,Somerset,OVERDUE,DEBITCARD,11500,14800,14800
-2018/2019,Somerset,OVERDUE,FORGIVEN,5160,7810,0
+2018/2019,Somerset,OVERDUE,FORGIVEN,5160,7800,0
 2018/2019,Somerset,OVERDUE,NONE,0,10,10
 2018/2019,Somerset,OVERDUE,VOUCH,0,0,0
 2018/2019,Somerset,OVERDUEX,CANCEL,390,600,0
@@ -485,7 +485,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,ILL,CANCEL,0,40,0
 2018/2019,South Gloucestershire,ILL,CASH,10,220,220
 2018/2019,South Gloucestershire,ILL,CHEQUE,10,360,360
-2018/2019,South Gloucestershire,LOST,CANCEL,8730,42440,0
+2018/2019,South Gloucestershire,LOST,CANCEL,8730,42390,0
 2018/2019,South Gloucestershire,LOST,CASH,370,1820,1820
 2018/2019,South Gloucestershire,LOST,CHEQUE,0,10,10
 2018/2019,South Gloucestershire,LOST,FORGIVEN,150,1040,0
@@ -495,11 +495,11 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,LOSTX,CASH,0,10,10
 2018/2019,South Gloucestershire,LOSTX,FORGIVEN,20,180,0
 2018/2019,South Gloucestershire,OVERDUE,CANCEL,2320,5540,0
-2018/2019,South Gloucestershire,OVERDUE,CASH,17880,15030,15030
+2018/2019,South Gloucestershire,OVERDUE,CASH,17840,14990,14990
 2018/2019,South Gloucestershire,OVERDUE,CHEQUE,0,10,10
 2018/2019,South Gloucestershire,OVERDUE,CREDITACCT,20,10,10
 2018/2019,South Gloucestershire,OVERDUE,DEBITCARD,50,40,40
-2018/2019,South Gloucestershire,OVERDUE,FORGIVEN,2940,5920,0
+2018/2019,South Gloucestershire,OVERDUE,FORGIVEN,2930,5880,0
 2018/2019,South Gloucestershire,OVERDUE,NONE,30,20,20
 2018/2019,South Gloucestershire,OVERDUE,VOUCH,10,10,10
 2018/2019,South Gloucestershire,OVERDUEX,CANCEL,70,130,0
