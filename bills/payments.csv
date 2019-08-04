@@ -23853,7 +23853,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,North Somerset,Campus Library,PROCESSFEE,FORGIVEN,0,0,0
 2018-09,North Somerset,Campus Library,SALENOVAT,FORGIVEN,0,0,0
 2018-09,North Somerset,Clevedon Library,CHARGE,CANCEL,0,0,0
-2018-09,North Somerset,Clevedon Library,CHARGE,CASH,250,330,330
+2018-09,North Somerset,Clevedon Library,CHARGE,CASH,250,320,320
 2018-09,North Somerset,Clevedon Library,CHARGE,FORGIVEN,0,0,0
 2018-09,North Somerset,Clevedon Library,CREDIT,CASH,0,0,0
 2018-09,North Somerset,Clevedon Library,DAMAGE,CASH,0,10,10
@@ -31798,7 +31798,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,North Somerset,Clevedon Library,GROUP,CANCEL,0,10,0
 2019-02,North Somerset,Clevedon Library,GROUP,CASH,10,40,40
 2019-02,North Somerset,Clevedon Library,HOLD,CASH,0,10,10
-2019-02,North Somerset,Clevedon Library,LOST,CANCEL,30,180,0
+2019-02,North Somerset,Clevedon Library,LOST,CANCEL,30,170,0
 2019-02,North Somerset,Clevedon Library,LOST,CASH,0,10,10
 2019-02,North Somerset,Clevedon Library,LOSTCARD,CANCEL,0,0,0
 2019-02,North Somerset,Clevedon Library,LOSTCARD,CASH,0,0,0
@@ -38992,7 +38992,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Bristol,Hartcliffe Library,CHARGE,CASH,10,10,10
 2019-07,Bristol,Hartcliffe Library,CHARGE,FORGIVEN,0,0,0
 2019-07,Bristol,Hartcliffe Library,CHARGE,VOUCH,0,0,0
-2019-07,Bristol,Hartcliffe Library,LOST,CANCEL,30,130,0
+2019-07,Bristol,Hartcliffe Library,LOST,CANCEL,20,120,0
 2019-07,Bristol,Hartcliffe Library,OVERDUE,CASH,30,30,30
 2019-07,Bristol,Hartcliffe Library,OVERDUE,FORGIVEN,0,10,0
 2019-07,Bristol,Henbury Library,CHARGE,CASH,20,30,30
@@ -39591,7 +39591,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,North Somerset,Weston-super-Mare Library,LOSTX,CANCEL,0,10,0
 2019-07,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,60,110,0
 2019-07,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,290,270,270
-2019-07,North Somerset,Weston-super-Mare Library,OVERDUE,FORGIVEN,100,80,0
+2019-07,North Somerset,Weston-super-Mare Library,OVERDUE,FORGIVEN,90,80,0
 2019-07,North Somerset,Weston-super-Mare Library,OVERDUEX,CANCEL,0,0,0
 2019-07,North Somerset,Weston-super-Mare Library,OVERDUEX,FORGIVEN,20,10,0
 2019-07,North Somerset,Weston-super-Mare Library,SALENOVAT,CANCEL,0,0,0
