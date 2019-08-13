@@ -1779,7 +1779,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Wells Library,LOST,FORGIVEN,0,10,0
 2017-08,Somerset,Wells Library,LOSTCARD,CASH,20,30,30
 2017-08,Somerset,Wells Library,OVERDUE,CANCEL,10,0,0
-2017-08,Somerset,Wells Library,OVERDUE,CASH,420,330,330
+2017-08,Somerset,Wells Library,OVERDUE,CASH,410,330,330
 2017-08,Somerset,Wells Library,OVERDUE,CREDITCARD,20,30,30
 2017-08,Somerset,Wells Library,OVERDUE,DEBITCARD,60,120,120
 2017-08,Somerset,Wells Library,OVERDUE,FORGIVEN,20,20,0
@@ -3459,7 +3459,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,Somerset,Frome Library,LOSTCARD,FORGIVEN,0,0,0
 2017-09,Somerset,Frome Library,LOSTX,DEBITCARD,0,0,0
 2017-09,Somerset,Frome Library,OVERDUE,CANCEL,30,40,0
-2017-09,Somerset,Frome Library,OVERDUE,CASH,830,730,730
+2017-09,Somerset,Frome Library,OVERDUE,CASH,810,720,720
 2017-09,Somerset,Frome Library,OVERDUE,CREDITACCT,0,10,10
 2017-09,Somerset,Frome Library,OVERDUE,DEBITCARD,280,300,300
 2017-09,Somerset,Frome Library,OVERDUE,FORGIVEN,40,60,0
@@ -5425,7 +5425,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Somerset,Frome Library,CREDIT,DEBITCARD,0,0,0
 2017-10,Somerset,Frome Library,GROUP,CASH,20,80,80
 2017-10,Somerset,Frome Library,HOLD,CANCEL,10,0,0
-2017-10,Somerset,Frome Library,HOLD,CASH,250,240,240
+2017-10,Somerset,Frome Library,HOLD,CASH,240,240,240
 2017-10,Somerset,Frome Library,HOLD,CREDITACCT,0,0,0
 2017-10,Somerset,Frome Library,HOLD,CREDITCARD,0,0,0
 2017-10,Somerset,Frome Library,HOLD,DEBITCARD,40,40,40
@@ -12617,7 +12617,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Somerset,Taunton Library,LOSTCARD,CASH,10,30,30
 2018-02,Somerset,Taunton Library,LOSTCARD,DEBITCARD,0,0,0
 2018-02,Somerset,Taunton Library,OVERDUE,CANCEL,50,60,0
-2018-02,Somerset,Taunton Library,OVERDUE,CASH,830,510,510
+2018-02,Somerset,Taunton Library,OVERDUE,CASH,820,510,510
 2018-02,Somerset,Taunton Library,OVERDUE,CREDITACCT,0,0,0
 2018-02,Somerset,Taunton Library,OVERDUE,CREDITCARD,20,60,60
 2018-02,Somerset,Taunton Library,OVERDUE,DEBITCARD,260,270,270
@@ -18988,7 +18988,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Frome Library,CHARGEX,DEBITCARD,0,10,10
 2018-06,Somerset,Frome Library,GROUP,CASH,10,80,80
 2018-06,Somerset,Frome Library,HOLD,CANCEL,0,10,0
-2018-06,Somerset,Frome Library,HOLD,CASH,250,240,240
+2018-06,Somerset,Frome Library,HOLD,CASH,240,240,240
 2018-06,Somerset,Frome Library,HOLD,CREDITACCT,0,0,0
 2018-06,Somerset,Frome Library,HOLD,CREDITCARD,0,0,0
 2018-06,Somerset,Frome Library,HOLD,DEBITCARD,20,20,20
@@ -22471,7 +22471,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Frome Library,GROUP,CASH,20,80,80
 2018-08,Somerset,Frome Library,GROUP,CREDITCARD,0,10,10
 2018-08,Somerset,Frome Library,HOLD,CANCEL,0,0,0
-2018-08,Somerset,Frome Library,HOLD,CASH,290,280,280
+2018-08,Somerset,Frome Library,HOLD,CASH,280,270,270
 2018-08,Somerset,Frome Library,HOLD,CREDITCARD,10,10,10
 2018-08,Somerset,Frome Library,HOLD,DEBITCARD,30,30,30
 2018-08,Somerset,Frome Library,HOLD,FORGIVEN,0,0,0
@@ -22483,7 +22483,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Frome Library,LOSTCARD,FORGIVEN,0,0,0
 2018-08,Somerset,Frome Library,LOSTX,CASH,0,0,0
 2018-08,Somerset,Frome Library,OVERDUE,CANCEL,0,0,0
-2018-08,Somerset,Frome Library,OVERDUE,CASH,750,540,540
+2018-08,Somerset,Frome Library,OVERDUE,CASH,740,530,530
 2018-08,Somerset,Frome Library,OVERDUE,CREDITCARD,10,20,20
 2018-08,Somerset,Frome Library,OVERDUE,DEBITCARD,150,200,200
 2018-08,Somerset,Frome Library,OVERDUE,FORGIVEN,40,70,0
@@ -24240,7 +24240,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Somerset,Frome Library,LOSTX,CANCEL,0,10,0
 2018-09,Somerset,Frome Library,LOSTX,DEBITCARD,0,10,10
 2018-09,Somerset,Frome Library,OVERDUE,CANCEL,10,30,0
-2018-09,Somerset,Frome Library,OVERDUE,CASH,690,570,570
+2018-09,Somerset,Frome Library,OVERDUE,CASH,680,560,560
 2018-09,Somerset,Frome Library,OVERDUE,DEBITCARD,260,270,270
 2018-09,Somerset,Frome Library,OVERDUE,FORGIVEN,10,50,0
 2018-09,Somerset,Frome Library,OVERDUEX,CASH,10,10,10
@@ -29007,7 +29007,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Somerset,Frome Library,LOSTCARD,CASH,0,0,0
 2018-12,Somerset,Frome Library,LOSTCARD,DEBITCARD,0,0,0
 2018-12,Somerset,Frome Library,OVERDUE,CANCEL,20,40,0
-2018-12,Somerset,Frome Library,OVERDUE,CASH,590,470,470
+2018-12,Somerset,Frome Library,OVERDUE,CASH,580,470,470
 2018-12,Somerset,Frome Library,OVERDUE,CREDITCARD,10,30,30
 2018-12,Somerset,Frome Library,OVERDUE,DEBITCARD,130,160,160
 2018-12,Somerset,Frome Library,OVERDUE,FORGIVEN,20,10,0
@@ -32148,7 +32148,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Somerset,Frome Library,GROUP,CASH,20,100,100
 2019-02,Somerset,Frome Library,GROUP,CREDITCARD,0,10,10
 2019-02,Somerset,Frome Library,HOLD,CANCEL,0,0,0
-2019-02,Somerset,Frome Library,HOLD,CASH,320,300,300
+2019-02,Somerset,Frome Library,HOLD,CASH,310,300,300
 2019-02,Somerset,Frome Library,HOLD,CREDITCARD,0,0,0
 2019-02,Somerset,Frome Library,HOLD,DEBITCARD,10,10,10
 2019-02,Somerset,Frome Library,HOLD,FORGIVEN,10,10,0
@@ -35400,7 +35400,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,Somerset,Taunton Library,LOSTCARD,CASH,20,30,30
 2019-04,Somerset,Taunton Library,LOSTCARD,DEBITCARD,0,10,10
 2019-04,Somerset,Taunton Library,OVERDUE,CANCEL,110,60,0
-2019-04,Somerset,Taunton Library,OVERDUE,CASH,950,770,770
+2019-04,Somerset,Taunton Library,OVERDUE,CASH,940,760,760
 2019-04,Somerset,Taunton Library,OVERDUE,CREDITACCT,0,0,0
 2019-04,Somerset,Taunton Library,OVERDUE,CREDITCARD,30,70,70
 2019-04,Somerset,Taunton Library,OVERDUE,DEBITCARD,310,480,480
