@@ -3072,7 +3072,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,North Somerset,North Somerset Mobile,CHARGE,CASH,10,10,10
 2017-09,North Somerset,North Somerset Mobile,CHARGE,FORGIVEN,0,0,0
 2017-09,North Somerset,North Somerset Mobile,LOST,CANCEL,0,10,0
-2017-09,North Somerset,North Somerset Mobile,OVERDUE,CANCEL,10,0,0
+2017-09,North Somerset,North Somerset Mobile,OVERDUE,CANCEL,0,0,0
 2017-09,North Somerset,North Somerset Mobile,OVERDUE,CASH,0,0,0
 2017-09,North Somerset,North Somerset Mobile,OVERDUE,FORGIVEN,0,0,0
 2017-09,North Somerset,North Somerset Mobile,OVERDUEX,CANCEL,0,0,0
@@ -5061,7 +5061,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,North Somerset,North Somerset Mobile,LOST,CANCEL,0,20,0
 2017-10,North Somerset,North Somerset Mobile,OVERDUE,CANCEL,10,30,0
 2017-10,North Somerset,North Somerset Mobile,OVERDUE,CASH,10,10,10
-2017-10,North Somerset,North Somerset Mobile,OVERDUE,CREDITACCT,0,0,0
 2017-10,North Somerset,North Somerset Mobile,OVERDUE,FORGIVEN,10,20,0
 2017-10,North Somerset,North Somerset Mobile,SALENOVAT,CANCEL,20,20,0
 2017-10,North Somerset,Pill Library,CHARGE,CANCEL,0,0,0
@@ -13683,7 +13682,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,North Somerset,Campus Library,OVERDUEX,FORGIVEN,0,0,0
 2018-03,North Somerset,Campus Library,SALENOVAT,FORGIVEN,0,0,0
 2018-03,North Somerset,Clevedon Library,CHARGE,CANCEL,10,10,0
-2018-03,North Somerset,Clevedon Library,CHARGE,CASH,280,410,410
+2018-03,North Somerset,Clevedon Library,CHARGE,CASH,270,410,410
 2018-03,North Somerset,Clevedon Library,CHARGE,FORGIVEN,30,30,0
 2018-03,North Somerset,Clevedon Library,CHARGEX,CASH,0,0,0
 2018-03,North Somerset,Clevedon Library,CHARGEX,FORGIVEN,0,0,0
@@ -14014,7 +14013,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Chard Library,GROUP,CASH,10,70,70
 2018-03,Somerset,Chard Library,GROUP,DEBITCARD,0,10,10
 2018-03,Somerset,Chard Library,HOLD,CANCEL,0,0,0
-2018-03,Somerset,Chard Library,HOLD,CASH,120,120,120
+2018-03,Somerset,Chard Library,HOLD,CASH,110,110,110
 2018-03,Somerset,Chard Library,HOLD,FORGIVEN,0,0,0
 2018-03,Somerset,Chard Library,LOST,CANCEL,20,120,0
 2018-03,Somerset,Chard Library,LOSTCARD,CASH,0,10,10
@@ -14917,7 +14916,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Fishponds Library,CHARGE,CASH,90,120,120
 2018-04,Bristol,Fishponds Library,CHARGE,FORGIVEN,0,0,0
 2018-04,Bristol,Fishponds Library,HOLD,CASH,0,0,0
-2018-04,Bristol,Fishponds Library,LOST,CANCEL,150,740,0
+2018-04,Bristol,Fishponds Library,LOST,CANCEL,150,730,0
 2018-04,Bristol,Fishponds Library,LOST,CASH,0,10,10
 2018-04,Bristol,Fishponds Library,LOST,FORGIVEN,10,60,0
 2018-04,Bristol,Fishponds Library,LOSTX,FORGIVEN,0,20,0
@@ -18701,7 +18700,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,North Somerset,Nailsea Library,OVERDUEX,FORGIVEN,0,0,0
 2018-06,North Somerset,Nailsea Library,SALENOVAT,CASH,0,0,0
 2018-06,North Somerset,North Somerset Mobile,CHARGE,CASH,0,0,0
-2018-06,North Somerset,North Somerset Mobile,CHARGE,CREDITACCT,0,0,0
 2018-06,North Somerset,North Somerset Mobile,GROUP,CASH,0,10,10
 2018-06,North Somerset,North Somerset Mobile,LOST,CANCEL,10,40,0
 2018-06,North Somerset,North Somerset Mobile,OVERDUE,CANCEL,0,0,0
@@ -23369,7 +23367,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Fishponds Library,CREDIT,CASH,0,0,0
 2018-09,Bristol,Fishponds Library,HOLD,CASH,0,10,10
 2018-09,Bristol,Fishponds Library,HOLDX,FORGIVEN,0,0,0
-2018-09,Bristol,Fishponds Library,LOST,CANCEL,140,630,0
+2018-09,Bristol,Fishponds Library,LOST,CANCEL,130,620,0
 2018-09,Bristol,Fishponds Library,LOST,CASH,0,30,30
 2018-09,Bristol,Fishponds Library,OVERDUE,CANCEL,0,0,0
 2018-09,Bristol,Fishponds Library,OVERDUE,CASH,280,200,200
@@ -40103,7 +40101,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Somerset,Taunton Library,LOST,PAYPAL,0,20,20
 2019-07,Somerset,Taunton Library,LOSTCARD,CASH,20,40,40
 2019-07,Somerset,Taunton Library,LOSTCARD,DEBITCARD,0,0,0
-2019-07,Somerset,Taunton Library,LOSTX,CANCEL,0,10,0
 2019-07,Somerset,Taunton Library,LOSTX,FORGIVEN,0,10,0
 2019-07,Somerset,Taunton Library,OVERDUE,CANCEL,60,100,0
 2019-07,Somerset,Taunton Library,OVERDUE,CASH,970,740,740
@@ -40116,7 +40113,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Somerset,Taunton Library,OVERDUEX,CASH,0,0,0
 2019-07,Somerset,Taunton Library,OVERDUEX,DEBITCARD,0,0,0
 2019-07,Somerset,Taunton Library,OVERDUEX,FORGIVEN,10,50,0
-2019-07,Somerset,Taunton Library,SALENOVAT,CANCEL,0,0,0
 2019-07,Somerset,Taunton Library,SALENOVAT,CASH,0,0,0
 2019-07,Somerset,Taunton Library,SALEVAT,CASH,0,0,0
 2019-07,Somerset,Taunton Library,SALEVAT,DEBITCARD,0,10,10
