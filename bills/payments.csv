@@ -664,7 +664,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Dorset,Corfe Mullen Library,OVERDUE,CANCEL,0,30,0
 2017-08,Dorset,Corfe Mullen Library,OVERDUE,CASH,50,50,50
 2017-08,Dorset,Corfe Mullen Library,OVERDUE,FORGIVEN,0,10,0
-2017-08,Dorset,Corfe Mullen Library,OVERDUEX,FORGIVEN,0,20,0
 2017-08,Dorset,Corfe Mullen Library,SALENOVAT,CASH,0,0,0
 2017-08,Dorset,Crossways Library,BFR,CANCEL,0,10,0
 2017-08,Dorset,Crossways Library,CHARGE,CASH,10,10,10
@@ -5714,7 +5713,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Somerset,Wellington Library,CHARGE,FORGIVEN,20,20,0
 2017-10,Somerset,Wellington Library,CHARGEX,FORGIVEN,0,0,0
 2017-10,Somerset,Wellington Library,GROUP,CASH,10,20,20
-2017-10,Somerset,Wellington Library,HOLD,CASH,170,200,200
+2017-10,Somerset,Wellington Library,HOLD,CASH,170,190,190
 2017-10,Somerset,Wellington Library,HOLD,FORGIVEN,0,0,0
 2017-10,Somerset,Wellington Library,LOST,CANCEL,70,310,0
 2017-10,Somerset,Wellington Library,LOST,CASH,0,10,10
@@ -13203,7 +13202,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bristol,Clifton Library,CHARGE,CASH,100,110,110
 2018-03,Bristol,Clifton Library,CHARGE,FORGIVEN,0,10,0
 2018-03,Bristol,Clifton Library,HOLD,CASH,0,10,10
-2018-03,Bristol,Clifton Library,LOST,CANCEL,20,230,0
+2018-03,Bristol,Clifton Library,LOST,CANCEL,20,220,0
 2018-03,Bristol,Clifton Library,LOST,FORGIVEN,0,0,0
 2018-03,Bristol,Clifton Library,OVERDUE,CANCEL,0,0,0
 2018-03,Bristol,Clifton Library,OVERDUE,CASH,120,70,70
@@ -14167,7 +14166,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Milborne Port Library,OVERDUE,CANCEL,0,0,0
 2018-03,Somerset,Milborne Port Library,OVERDUE,CASH,20,0,0
 2018-03,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,0,0,0
-2018-03,Somerset,Minehead Library,CHARGE,CASH,100,200,200
+2018-03,Somerset,Minehead Library,CHARGE,CASH,90,200,200
 2018-03,Somerset,Minehead Library,CHARGE,DEBITCARD,0,10,10
 2018-03,Somerset,Minehead Library,CHARGE,FORGIVEN,0,10,0
 2018-03,Somerset,Minehead Library,CHARGEX,CASH,0,0,0
@@ -17665,7 +17664,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Somerset,Wellington Library,CREDIT,CASH,0,0,0
 2018-05,Somerset,Wellington Library,GROUP,CASH,0,20,20
 2018-05,Somerset,Wellington Library,HOLD,CANCEL,10,10,0
-2018-05,Somerset,Wellington Library,HOLD,CASH,130,150,150
+2018-05,Somerset,Wellington Library,HOLD,CASH,130,140,140
 2018-05,Somerset,Wellington Library,HOLD,DEBITCARD,0,10,10
 2018-05,Somerset,Wellington Library,HOLD,FORGIVEN,0,0,0
 2018-05,Somerset,Wellington Library,LOST,CANCEL,30,130,0
@@ -19231,7 +19230,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Wellington Library,DAMAGE,CASH,0,0,0
 2018-06,Somerset,Wellington Library,GROUP,CASH,0,10,10
 2018-06,Somerset,Wellington Library,HOLD,CANCEL,0,10,0
-2018-06,Somerset,Wellington Library,HOLD,CASH,190,230,230
+2018-06,Somerset,Wellington Library,HOLD,CASH,190,220,220
 2018-06,Somerset,Wellington Library,HOLD,DEBITCARD,10,10,10
 2018-06,Somerset,Wellington Library,HOLD,FORGIVEN,10,10,0
 2018-06,Somerset,Wellington Library,HOLDX,CASH,10,10,10
@@ -23670,7 +23669,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Dorset,Ferndown Library,CHARGEX,CASH,0,10,10
 2018-09,Dorset,Ferndown Library,DAMAGE,CASH,0,0,0
 2018-09,Dorset,Ferndown Library,HOLD,CASH,0,0,0
-2018-09,Dorset,Ferndown Library,LOST,CANCEL,40,160,0
+2018-09,Dorset,Ferndown Library,LOST,CANCEL,30,110,0
 2018-09,Dorset,Ferndown Library,LOST,CASH,0,10,10
 2018-09,Dorset,Ferndown Library,LOSTCARD,CASH,0,10,10
 2018-09,Dorset,Ferndown Library,OVERDUE,CANCEL,10,0,0
@@ -24493,7 +24492,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Somerset,Wellington Library,GROUP,CANCEL,0,10,0
 2018-09,Somerset,Wellington Library,GROUP,CASH,10,40,40
 2018-09,Somerset,Wellington Library,HOLD,CANCEL,0,0,0
-2018-09,Somerset,Wellington Library,HOLD,CASH,160,180,180
+2018-09,Somerset,Wellington Library,HOLD,CASH,150,170,170
 2018-09,Somerset,Wellington Library,HOLD,DEBITCARD,30,30,30
 2018-09,Somerset,Wellington Library,HOLD,FORGIVEN,10,10,0
 2018-09,Somerset,Wellington Library,LOST,CANCEL,10,70,0
