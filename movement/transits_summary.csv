@@ -15,7 +15,7 @@ item_type,from_authority,to_authority,items
 12 DVD Standard,Bath and North East Somerset,Somerset,4
 12 DVD Standard,Bristol,Bath and North East Somerset,1
 12 DVD Standard,Bristol,Bristol,56
-12 DVD Standard,Bristol,Dorset,3
+12 DVD Standard,Bristol,Dorset,4
 12 DVD Standard,Bristol,North Somerset,6
 12 DVD Standard,Bristol,Poole,2
 12 DVD Standard,Bristol,Somerset,6
@@ -49,11 +49,11 @@ item_type,from_authority,to_authority,items
 15 DVD Premium,Bristol,Bristol,2
 15 DVD Premium,Dorset,Poole,1
 15 DVD Premium,Somerset,Somerset,4
-15 DVD Standard,Bath and North East Somerset,Bath and North East Somerset,13
+15 DVD Standard,Bath and North East Somerset,Bath and North East Somerset,14
 15 DVD Standard,Bath and North East Somerset,Bristol,1
 15 DVD Standard,Bath and North East Somerset,Somerset,4
 15 DVD Standard,Bristol,Bath and North East Somerset,1
-15 DVD Standard,Bristol,Bristol,71
+15 DVD Standard,Bristol,Bristol,72
 15 DVD Standard,Bristol,Dorset,4
 15 DVD Standard,Bristol,North Somerset,2
 15 DVD Standard,Bristol,Poole,5
@@ -90,6 +90,7 @@ item_type,from_authority,to_authority,items
 15 DVD Standard,South Gloucestershire,Poole,1
 15 DVD Standard,South Gloucestershire,Somerset,8
 15 DVD Standard,South Gloucestershire,South Gloucestershire,44
+18 DVD Standard,Bath and North East Somerset,Bristol,1
 18 DVD Standard,Bath and North East Somerset,Poole,1
 18 DVD Standard,Bath and North East Somerset,Somerset,1
 18 DVD Standard,Bristol,Bath and North East Somerset,2
@@ -115,23 +116,23 @@ item_type,from_authority,to_authority,items
 18 DVD Standard,Somerset,Somerset,11
 18 DVD Standard,South Gloucestershire,Bristol,1
 18 DVD Standard,South Gloucestershire,South Gloucestershire,7
-Adult Fiction,Bath and North East Somerset,Bath and North East Somerset,552
-Adult Fiction,Bath and North East Somerset,Bristol,210
-Adult Fiction,Bath and North East Somerset,Dorset,159
-Adult Fiction,Bath and North East Somerset,North Somerset,61
+Adult Fiction,Bath and North East Somerset,Bath and North East Somerset,559
+Adult Fiction,Bath and North East Somerset,Bristol,215
+Adult Fiction,Bath and North East Somerset,Dorset,170
+Adult Fiction,Bath and North East Somerset,North Somerset,63
 Adult Fiction,Bath and North East Somerset,Poole,59
-Adult Fiction,Bath and North East Somerset,Somerset,170
-Adult Fiction,Bath and North East Somerset,South Gloucestershire,83
-Adult Fiction,Bristol,Bath and North East Somerset,183
-Adult Fiction,Bristol,Bristol,1346
-Adult Fiction,Bristol,Dorset,475
-Adult Fiction,Bristol,North Somerset,150
+Adult Fiction,Bath and North East Somerset,Somerset,173
+Adult Fiction,Bath and North East Somerset,South Gloucestershire,84
+Adult Fiction,Bristol,Bath and North East Somerset,185
+Adult Fiction,Bristol,Bristol,1364
+Adult Fiction,Bristol,Dorset,480
+Adult Fiction,Bristol,North Somerset,151
 Adult Fiction,Bristol,Poole,120
-Adult Fiction,Bristol,Somerset,268
-Adult Fiction,Bristol,South Gloucestershire,168
+Adult Fiction,Bristol,Somerset,271
+Adult Fiction,Bristol,South Gloucestershire,170
 Adult Fiction,Dorset,Bath and North East Somerset,191
 Adult Fiction,Dorset,Bristol,465
-Adult Fiction,Dorset,Dorset,2399
+Adult Fiction,Dorset,Dorset,2537
 Adult Fiction,Dorset,North Somerset,218
 Adult Fiction,Dorset,Poole,237
 Adult Fiction,Dorset,Somerset,495
@@ -139,8 +140,8 @@ Adult Fiction,Dorset,South Gloucestershire,195
 Adult Fiction,North Somerset,Bath and North East Somerset,72
 Adult Fiction,North Somerset,Bristol,185
 Adult Fiction,North Somerset,Dorset,219
-Adult Fiction,North Somerset,North Somerset,1099
-Adult Fiction,North Somerset,Poole,65
+Adult Fiction,North Somerset,North Somerset,1203
+Adult Fiction,North Somerset,Poole,66
 Adult Fiction,North Somerset,Somerset,138
 Adult Fiction,North Somerset,South Gloucestershire,53
 Adult Fiction,Poole,Bath and North East Somerset,86
@@ -157,21 +158,22 @@ Adult Fiction,Somerset,North Somerset,157
 Adult Fiction,Somerset,Poole,92
 Adult Fiction,Somerset,Somerset,3148
 Adult Fiction,Somerset,South Gloucestershire,147
-Adult Fiction,South Gloucestershire,Bath and North East Somerset,102
-Adult Fiction,South Gloucestershire,Bristol,298
-Adult Fiction,South Gloucestershire,Dorset,260
+Adult Fiction,South Gloucestershire,Bath and North East Somerset,103
+Adult Fiction,South Gloucestershire,Bristol,301
+Adult Fiction,South Gloucestershire,Dorset,264
 Adult Fiction,South Gloucestershire,North Somerset,94
 Adult Fiction,South Gloucestershire,Poole,69
-Adult Fiction,South Gloucestershire,Somerset,153
-Adult Fiction,South Gloucestershire,South Gloucestershire,785
+Adult Fiction,South Gloucestershire,Somerset,154
+Adult Fiction,South Gloucestershire,South Gloucestershire,795
 Adult Graphic Novel,Bath and North East Somerset,Bath and North East Somerset,1
 Adult Graphic Novel,Bath and North East Somerset,Bristol,5
 Adult Graphic Novel,Bath and North East Somerset,Dorset,1
 Adult Graphic Novel,Bath and North East Somerset,South Gloucestershire,1
 Adult Graphic Novel,Bristol,Bath and North East Somerset,8
-Adult Graphic Novel,Bristol,Bristol,295
+Adult Graphic Novel,Bristol,Bristol,304
 Adult Graphic Novel,Bristol,Dorset,5
 Adult Graphic Novel,Bristol,North Somerset,6
+Adult Graphic Novel,Bristol,Poole,1
 Adult Graphic Novel,Bristol,Somerset,16
 Adult Graphic Novel,Bristol,South Gloucestershire,15
 Adult Graphic Novel,Dorset,Bath and North East Somerset,4
@@ -200,30 +202,30 @@ Adult Graphic Novel,South Gloucestershire,Poole,1
 Adult Graphic Novel,South Gloucestershire,Somerset,1
 Adult Graphic Novel,South Gloucestershire,South Gloucestershire,10
 Adult Non Fiction,Bath and North East Somerset,Bath and North East Somerset,463
-Adult Non Fiction,Bath and North East Somerset,Bristol,197
-Adult Non Fiction,Bath and North East Somerset,Dorset,136
+Adult Non Fiction,Bath and North East Somerset,Bristol,201
+Adult Non Fiction,Bath and North East Somerset,Dorset,138
 Adult Non Fiction,Bath and North East Somerset,North Somerset,48
 Adult Non Fiction,Bath and North East Somerset,Poole,42
-Adult Non Fiction,Bath and North East Somerset,Somerset,152
-Adult Non Fiction,Bath and North East Somerset,South Gloucestershire,63
-Adult Non Fiction,Bristol,Bath and North East Somerset,146
-Adult Non Fiction,Bristol,Bristol,917
-Adult Non Fiction,Bristol,Dorset,398
-Adult Non Fiction,Bristol,North Somerset,100
+Adult Non Fiction,Bath and North East Somerset,Somerset,153
+Adult Non Fiction,Bath and North East Somerset,South Gloucestershire,64
+Adult Non Fiction,Bristol,Bath and North East Somerset,151
+Adult Non Fiction,Bristol,Bristol,936
+Adult Non Fiction,Bristol,Dorset,410
+Adult Non Fiction,Bristol,North Somerset,104
 Adult Non Fiction,Bristol,Poole,85
-Adult Non Fiction,Bristol,Somerset,261
-Adult Non Fiction,Bristol,South Gloucestershire,131
+Adult Non Fiction,Bristol,Somerset,265
+Adult Non Fiction,Bristol,South Gloucestershire,136
 Adult Non Fiction,Dorset,Bath and North East Somerset,150
-Adult Non Fiction,Dorset,Bristol,389
-Adult Non Fiction,Dorset,Dorset,841
+Adult Non Fiction,Dorset,Bristol,390
+Adult Non Fiction,Dorset,Dorset,847
 Adult Non Fiction,Dorset,North Somerset,122
 Adult Non Fiction,Dorset,Poole,128
 Adult Non Fiction,Dorset,Somerset,312
 Adult Non Fiction,Dorset,South Gloucestershire,104
 Adult Non Fiction,North Somerset,Bath and North East Somerset,45
-Adult Non Fiction,North Somerset,Bristol,175
+Adult Non Fiction,North Somerset,Bristol,176
 Adult Non Fiction,North Somerset,Dorset,128
-Adult Non Fiction,North Somerset,North Somerset,494
+Adult Non Fiction,North Somerset,North Somerset,539
 Adult Non Fiction,North Somerset,Poole,33
 Adult Non Fiction,North Somerset,Somerset,111
 Adult Non Fiction,North Somerset,South Gloucestershire,43
@@ -239,15 +241,15 @@ Adult Non Fiction,Somerset,Bristol,327
 Adult Non Fiction,Somerset,Dorset,297
 Adult Non Fiction,Somerset,North Somerset,86
 Adult Non Fiction,Somerset,Poole,45
-Adult Non Fiction,Somerset,Somerset,1139
+Adult Non Fiction,Somerset,Somerset,1140
 Adult Non Fiction,Somerset,South Gloucestershire,89
-Adult Non Fiction,South Gloucestershire,Bath and North East Somerset,78
-Adult Non Fiction,South Gloucestershire,Bristol,180
-Adult Non Fiction,South Gloucestershire,Dorset,137
+Adult Non Fiction,South Gloucestershire,Bath and North East Somerset,79
+Adult Non Fiction,South Gloucestershire,Bristol,183
+Adult Non Fiction,South Gloucestershire,Dorset,138
 Adult Non Fiction,South Gloucestershire,North Somerset,54
 Adult Non Fiction,South Gloucestershire,Poole,35
 Adult Non Fiction,South Gloucestershire,Somerset,92
-Adult Non Fiction,South Gloucestershire,South Gloucestershire,272
+Adult Non Fiction,South Gloucestershire,South Gloucestershire,276
 Adult Reference,Bath and North East Somerset,Bath and North East Somerset,11
 Adult Reference,Bath and North East Somerset,Bristol,1
 Adult Reference,North Somerset,Dorset,1
@@ -256,19 +258,19 @@ Adult Reference,Somerset,Bristol,2
 Adult Reference,Somerset,Somerset,11
 Adult Reference,South Gloucestershire,Bristol,1
 Adult Reference,South Gloucestershire,South Gloucestershire,3
-Adult Spoken Word,Bath and North East Somerset,Bath and North East Somerset,110
+Adult Spoken Word,Bath and North East Somerset,Bath and North East Somerset,112
 Adult Spoken Word,Bath and North East Somerset,Bristol,26
 Adult Spoken Word,Bath and North East Somerset,Dorset,13
 Adult Spoken Word,Bath and North East Somerset,North Somerset,2
 Adult Spoken Word,Bath and North East Somerset,Poole,4
-Adult Spoken Word,Bath and North East Somerset,Somerset,17
+Adult Spoken Word,Bath and North East Somerset,Somerset,19
 Adult Spoken Word,Bath and North East Somerset,South Gloucestershire,9
 Adult Spoken Word,Bristol,Bath and North East Somerset,10
-Adult Spoken Word,Bristol,Bristol,382
-Adult Spoken Word,Bristol,Dorset,79
+Adult Spoken Word,Bristol,Bristol,407
+Adult Spoken Word,Bristol,Dorset,81
 Adult Spoken Word,Bristol,North Somerset,21
 Adult Spoken Word,Bristol,Poole,9
-Adult Spoken Word,Bristol,Somerset,41
+Adult Spoken Word,Bristol,Somerset,42
 Adult Spoken Word,Bristol,South Gloucestershire,38
 Adult Spoken Word,Dorset,Bath and North East Somerset,18
 Adult Spoken Word,Dorset,Bristol,78
@@ -280,7 +282,7 @@ Adult Spoken Word,Dorset,South Gloucestershire,33
 Adult Spoken Word,North Somerset,Bath and North East Somerset,4
 Adult Spoken Word,North Somerset,Bristol,24
 Adult Spoken Word,North Somerset,Dorset,24
-Adult Spoken Word,North Somerset,North Somerset,93
+Adult Spoken Word,North Somerset,North Somerset,97
 Adult Spoken Word,North Somerset,Poole,5
 Adult Spoken Word,North Somerset,Somerset,21
 Adult Spoken Word,North Somerset,South Gloucestershire,8
@@ -344,9 +346,11 @@ Boxed Set 12 DVD,Somerset,Somerset,2
 Boxed Set 12 DVD,South Gloucestershire,Dorset,1
 Boxed Set 12 DVD,South Gloucestershire,South Gloucestershire,2
 Boxed Set 15 DVD,Bath and North East Somerset,Bath and North East Somerset,3
+Boxed Set 15 DVD,Bath and North East Somerset,Bristol,1
 Boxed Set 15 DVD,Bath and North East Somerset,Dorset,1
-Boxed Set 15 DVD,Bristol,Bristol,6
+Boxed Set 15 DVD,Bristol,Bristol,7
 Boxed Set 15 DVD,Bristol,Dorset,2
+Boxed Set 15 DVD,Bristol,North Somerset,1
 Boxed Set 15 DVD,Bristol,Somerset,2
 Boxed Set 15 DVD,Bristol,South Gloucestershire,2
 Boxed Set 15 DVD,Dorset,Poole,3
@@ -387,34 +391,34 @@ Boxed Set U DVD,Somerset,Somerset,1
 Cash Sales No VAT,North Somerset,North Somerset,1
 Cash Sales With Tax,North Somerset,North Somerset,1
 Cash Sales With Tax,Somerset,Somerset,1
-Child Fiction,Bath and North East Somerset,Bath and North East Somerset,548
-Child Fiction,Bath and North East Somerset,Bristol,189
-Child Fiction,Bath and North East Somerset,Dorset,84
-Child Fiction,Bath and North East Somerset,North Somerset,42
-Child Fiction,Bath and North East Somerset,Poole,30
+Child Fiction,Bath and North East Somerset,Bath and North East Somerset,567
+Child Fiction,Bath and North East Somerset,Bristol,194
+Child Fiction,Bath and North East Somerset,Dorset,87
+Child Fiction,Bath and North East Somerset,North Somerset,43
+Child Fiction,Bath and North East Somerset,Poole,32
 Child Fiction,Bath and North East Somerset,Somerset,108
-Child Fiction,Bath and North East Somerset,South Gloucestershire,75
-Child Fiction,Bristol,Bath and North East Somerset,117
-Child Fiction,Bristol,Bristol,1769
-Child Fiction,Bristol,Dorset,166
+Child Fiction,Bath and North East Somerset,South Gloucestershire,76
+Child Fiction,Bristol,Bath and North East Somerset,118
+Child Fiction,Bristol,Bristol,1793
+Child Fiction,Bristol,Dorset,168
 Child Fiction,Bristol,North Somerset,81
-Child Fiction,Bristol,Poole,41
-Child Fiction,Bristol,Somerset,109
-Child Fiction,Bristol,South Gloucestershire,222
+Child Fiction,Bristol,Poole,43
+Child Fiction,Bristol,Somerset,112
+Child Fiction,Bristol,South Gloucestershire,226
 Child Fiction,Dorset,Bath and North East Somerset,81
 Child Fiction,Dorset,Bristol,155
-Child Fiction,Dorset,Dorset,1760
+Child Fiction,Dorset,Dorset,1764
 Child Fiction,Dorset,North Somerset,71
 Child Fiction,Dorset,Poole,133
 Child Fiction,Dorset,Somerset,103
 Child Fiction,Dorset,South Gloucestershire,80
 Child Fiction,North Somerset,Bath and North East Somerset,37
 Child Fiction,North Somerset,Bristol,106
-Child Fiction,North Somerset,Dorset,63
-Child Fiction,North Somerset,North Somerset,731
+Child Fiction,North Somerset,Dorset,64
+Child Fiction,North Somerset,North Somerset,754
 Child Fiction,North Somerset,Poole,22
-Child Fiction,North Somerset,Somerset,68
-Child Fiction,North Somerset,South Gloucestershire,40
+Child Fiction,North Somerset,Somerset,70
+Child Fiction,North Somerset,South Gloucestershire,41
 Child Fiction,Poole,Bath and North East Somerset,43
 Child Fiction,Poole,Bristol,71
 Child Fiction,Poole,Dorset,139
@@ -429,22 +433,22 @@ Child Fiction,Somerset,North Somerset,58
 Child Fiction,Somerset,Poole,33
 Child Fiction,Somerset,Somerset,1634
 Child Fiction,Somerset,South Gloucestershire,72
-Child Fiction,South Gloucestershire,Bath and North East Somerset,72
-Child Fiction,South Gloucestershire,Bristol,219
+Child Fiction,South Gloucestershire,Bath and North East Somerset,78
+Child Fiction,South Gloucestershire,Bristol,220
 Child Fiction,South Gloucestershire,Dorset,123
 Child Fiction,South Gloucestershire,North Somerset,52
-Child Fiction,South Gloucestershire,Poole,39
-Child Fiction,South Gloucestershire,Somerset,93
-Child Fiction,South Gloucestershire,South Gloucestershire,1008
-Child Non Fiction,Bath and North East Somerset,Bath and North East Somerset,64
-Child Non Fiction,Bath and North East Somerset,Bristol,27
-Child Non Fiction,Bath and North East Somerset,Dorset,6
-Child Non Fiction,Bath and North East Somerset,North Somerset,7
+Child Fiction,South Gloucestershire,Poole,40
+Child Fiction,South Gloucestershire,Somerset,94
+Child Fiction,South Gloucestershire,South Gloucestershire,1020
+Child Non Fiction,Bath and North East Somerset,Bath and North East Somerset,65
+Child Non Fiction,Bath and North East Somerset,Bristol,28
+Child Non Fiction,Bath and North East Somerset,Dorset,7
+Child Non Fiction,Bath and North East Somerset,North Somerset,8
 Child Non Fiction,Bath and North East Somerset,Poole,3
-Child Non Fiction,Bath and North East Somerset,Somerset,13
+Child Non Fiction,Bath and North East Somerset,Somerset,12
 Child Non Fiction,Bath and North East Somerset,South Gloucestershire,12
-Child Non Fiction,Bristol,Bath and North East Somerset,13
-Child Non Fiction,Bristol,Bristol,240
+Child Non Fiction,Bristol,Bath and North East Somerset,14
+Child Non Fiction,Bristol,Bristol,246
 Child Non Fiction,Bristol,Dorset,40
 Child Non Fiction,Bristol,North Somerset,16
 Child Non Fiction,Bristol,Poole,12
@@ -452,7 +456,7 @@ Child Non Fiction,Bristol,Somerset,19
 Child Non Fiction,Bristol,South Gloucestershire,32
 Child Non Fiction,Dorset,Bath and North East Somerset,10
 Child Non Fiction,Dorset,Bristol,35
-Child Non Fiction,Dorset,Dorset,168
+Child Non Fiction,Dorset,Dorset,184
 Child Non Fiction,Dorset,North Somerset,12
 Child Non Fiction,Dorset,Poole,16
 Child Non Fiction,Dorset,Somerset,37
@@ -460,7 +464,7 @@ Child Non Fiction,Dorset,South Gloucestershire,12
 Child Non Fiction,North Somerset,Bath and North East Somerset,7
 Child Non Fiction,North Somerset,Bristol,25
 Child Non Fiction,North Somerset,Dorset,13
-Child Non Fiction,North Somerset,North Somerset,161
+Child Non Fiction,North Somerset,North Somerset,184
 Child Non Fiction,North Somerset,Poole,6
 Child Non Fiction,North Somerset,Somerset,13
 Child Non Fiction,North Somerset,South Gloucestershire,8
@@ -479,7 +483,7 @@ Child Non Fiction,Somerset,Poole,7
 Child Non Fiction,Somerset,Somerset,187
 Child Non Fiction,Somerset,South Gloucestershire,11
 Child Non Fiction,South Gloucestershire,Bath and North East Somerset,7
-Child Non Fiction,South Gloucestershire,Bristol,30
+Child Non Fiction,South Gloucestershire,Bristol,31
 Child Non Fiction,South Gloucestershire,Dorset,23
 Child Non Fiction,South Gloucestershire,North Somerset,7
 Child Non Fiction,South Gloucestershire,Poole,8
@@ -487,8 +491,8 @@ Child Non Fiction,South Gloucestershire,Somerset,11
 Child Non Fiction,South Gloucestershire,South Gloucestershire,115
 Child Reference,Bath and North East Somerset,Bath and North East Somerset,1
 Child Reference,Bristol,Bristol,1
-Child Reference,North Somerset,North Somerset,2
-Child Spoken Word,Bath and North East Somerset,Bath and North East Somerset,22
+Child Reference,North Somerset,North Somerset,3
+Child Spoken Word,Bath and North East Somerset,Bath and North East Somerset,23
 Child Spoken Word,Bath and North East Somerset,Bristol,8
 Child Spoken Word,Bath and North East Somerset,Dorset,1
 Child Spoken Word,Bath and North East Somerset,North Somerset,2
@@ -496,11 +500,11 @@ Child Spoken Word,Bath and North East Somerset,Poole,1
 Child Spoken Word,Bath and North East Somerset,Somerset,6
 Child Spoken Word,Bath and North East Somerset,South Gloucestershire,5
 Child Spoken Word,Bristol,Bath and North East Somerset,6
-Child Spoken Word,Bristol,Bristol,177
+Child Spoken Word,Bristol,Bristol,182
 Child Spoken Word,Bristol,Dorset,9
 Child Spoken Word,Bristol,North Somerset,4
 Child Spoken Word,Bristol,Somerset,7
-Child Spoken Word,Bristol,South Gloucestershire,7
+Child Spoken Word,Bristol,South Gloucestershire,8
 Child Spoken Word,Dorset,Bath and North East Somerset,9
 Child Spoken Word,Dorset,Bristol,4
 Child Spoken Word,Dorset,Dorset,25
@@ -548,7 +552,7 @@ Drama Set,Dorset,Bristol,2
 Drama Set,Dorset,Dorset,5
 Drama Set,South Gloucestershire,Bristol,2
 Drama single copy,Bath and North East Somerset,Bath and North East Somerset,1
-Drama single copy,Bath and North East Somerset,Somerset,2
+Drama single copy,Bath and North East Somerset,Somerset,3
 Drama single copy,Bristol,Bristol,1
 Drama single copy,Bristol,Dorset,5
 Drama single copy,Bristol,Somerset,16
@@ -576,10 +580,10 @@ Fastrack,Bristol,Bristol,34
 Fastrack,Bristol,South Gloucestershire,1
 Fastrack,North Somerset,Bristol,4
 Fastrack,Somerset,Bristol,1
-Fastrack,South Gloucestershire,Bristol,1
-Fastrack,South Gloucestershire,South Gloucestershire,34
+Fastrack,South Gloucestershire,Bristol,2
+Fastrack,South Gloucestershire,South Gloucestershire,36
 Language Course,Bristol,Bristol,2
-Language Course,Bristol,Dorset,3
+Language Course,Bristol,Dorset,4
 Language Course,Bristol,Somerset,2
 Language Course,Bristol,South Gloucestershire,2
 Language Course,Dorset,Poole,1
@@ -595,15 +599,15 @@ Language Course,South Gloucestershire,Bath and North East Somerset,1
 Language Course,South Gloucestershire,Dorset,1
 Language Course,South Gloucestershire,Poole,1
 Language Course,South Gloucestershire,South Gloucestershire,4
-Large Print - Adult Fiction,Bath and North East Somerset,Bath and North East Somerset,228
+Large Print - Adult Fiction,Bath and North East Somerset,Bath and North East Somerset,231
 Large Print - Adult Fiction,Bath and North East Somerset,Bristol,16
 Large Print - Adult Fiction,Bath and North East Somerset,Dorset,15
-Large Print - Adult Fiction,Bath and North East Somerset,North Somerset,8
+Large Print - Adult Fiction,Bath and North East Somerset,North Somerset,9
 Large Print - Adult Fiction,Bath and North East Somerset,Poole,7
 Large Print - Adult Fiction,Bath and North East Somerset,Somerset,23
 Large Print - Adult Fiction,Bath and North East Somerset,South Gloucestershire,16
 Large Print - Adult Fiction,Bristol,Bath and North East Somerset,9
-Large Print - Adult Fiction,Bristol,Bristol,378
+Large Print - Adult Fiction,Bristol,Bristol,408
 Large Print - Adult Fiction,Bristol,Dorset,59
 Large Print - Adult Fiction,Bristol,North Somerset,13
 Large Print - Adult Fiction,Bristol,Poole,14
@@ -619,8 +623,8 @@ Large Print - Adult Fiction,Dorset,South Gloucestershire,27
 Large Print - Adult Fiction,North Somerset,Bath and North East Somerset,10
 Large Print - Adult Fiction,North Somerset,Bristol,28
 Large Print - Adult Fiction,North Somerset,Dorset,32
-Large Print - Adult Fiction,North Somerset,North Somerset,256
-Large Print - Adult Fiction,North Somerset,Poole,6
+Large Print - Adult Fiction,North Somerset,North Somerset,260
+Large Print - Adult Fiction,North Somerset,Poole,7
 Large Print - Adult Fiction,North Somerset,Somerset,10
 Large Print - Adult Fiction,North Somerset,South Gloucestershire,4
 Large Print - Adult Fiction,Poole,Bath and North East Somerset,8
@@ -645,11 +649,12 @@ Large Print - Adult Fiction,South Gloucestershire,Poole,12
 Large Print - Adult Fiction,South Gloucestershire,Somerset,26
 Large Print - Adult Fiction,South Gloucestershire,South Gloucestershire,73
 Large Print - Adult Non Fiction,Bath and North East Somerset,Bath and North East Somerset,18
+Large Print - Adult Non Fiction,Bath and North East Somerset,Dorset,1
 Large Print - Adult Non Fiction,Bath and North East Somerset,North Somerset,1
 Large Print - Adult Non Fiction,Bath and North East Somerset,Poole,1
 Large Print - Adult Non Fiction,Bath and North East Somerset,Somerset,2
 Large Print - Adult Non Fiction,Bristol,Bath and North East Somerset,1
-Large Print - Adult Non Fiction,Bristol,Bristol,32
+Large Print - Adult Non Fiction,Bristol,Bristol,34
 Large Print - Adult Non Fiction,Bristol,Dorset,2
 Large Print - Adult Non Fiction,Bristol,North Somerset,2
 Large Print - Adult Non Fiction,Bristol,Poole,1
@@ -708,25 +713,25 @@ Large Print - Children,South Gloucestershire,Bath and North East Somerset,1
 Large Print - Children,South Gloucestershire,Somerset,1
 Large Print - Children,South Gloucestershire,South Gloucestershire,2
 Music CD,Bath and North East Somerset,Bath and North East Somerset,2
-Music CD,Bath and North East Somerset,Bristol,2
+Music CD,Bath and North East Somerset,Bristol,3
 Music CD,Bath and North East Somerset,Dorset,1
 Music CD,Bath and North East Somerset,North Somerset,1
 Music CD,Bath and North East Somerset,Poole,4
 Music CD,Bristol,Bath and North East Somerset,5
-Music CD,Bristol,Bristol,19
+Music CD,Bristol,Bristol,22
 Music CD,Bristol,Dorset,5
 Music CD,Bristol,North Somerset,1
 Music CD,Bristol,Poole,10
-Music CD,Bristol,Somerset,7
+Music CD,Bristol,Somerset,8
 Music CD,Dorset,Bath and North East Somerset,3
 Music CD,Dorset,Bristol,11
 Music CD,Dorset,Dorset,3
 Music CD,Dorset,Poole,8
 Music CD,Dorset,Somerset,4
 Music CD,Dorset,South Gloucestershire,2
-Music CD,North Somerset,Bristol,8
+Music CD,North Somerset,Bristol,9
 Music CD,North Somerset,Dorset,1
-Music CD,North Somerset,North Somerset,159
+Music CD,North Somerset,North Somerset,161
 Music CD,North Somerset,Poole,3
 Music CD,North Somerset,Somerset,2
 Music CD,Poole,Bath and North East Somerset,2
@@ -743,13 +748,13 @@ Music CD,Somerset,Poole,5
 Music CD,Somerset,Somerset,3
 Music CD,Somerset,South Gloucestershire,1
 Music CD,South Gloucestershire,Bath and North East Somerset,1
-Music CD,South Gloucestershire,Bristol,15
+Music CD,South Gloucestershire,Bristol,16
 Music CD,South Gloucestershire,Dorset,2
 Music CD,South Gloucestershire,North Somerset,1
 Music CD,South Gloucestershire,Poole,3
 Music CD,South Gloucestershire,Somerset,5
 Music CD,South Gloucestershire,South Gloucestershire,9
-Music Score,Bath and North East Somerset,Bristol,2
+Music Score,Bath and North East Somerset,Bristol,3
 Music Score,Bath and North East Somerset,Dorset,2
 Music Score,Bath and North East Somerset,Somerset,2
 Music Score,Bristol,Bath and North East Somerset,1
@@ -804,7 +809,7 @@ PG DVD Standard,Somerset,North Somerset,1
 PG DVD Standard,Somerset,Poole,1
 PG DVD Standard,Somerset,Somerset,55
 PG DVD Standard,South Gloucestershire,Bath and North East Somerset,2
-PG DVD Standard,South Gloucestershire,Bristol,3
+PG DVD Standard,South Gloucestershire,Bristol,4
 PG DVD Standard,South Gloucestershire,Dorset,2
 PG DVD Standard,South Gloucestershire,North Somerset,2
 PG DVD Standard,South Gloucestershire,Poole,1
@@ -840,21 +845,21 @@ U DVD Standard,Somerset,Dorset,1
 U DVD Standard,Somerset,Poole,2
 U DVD Standard,Somerset,Somerset,50
 U DVD Standard,South Gloucestershire,Bath and North East Somerset,3
-U DVD Standard,South Gloucestershire,Bristol,6
+U DVD Standard,South Gloucestershire,Bristol,7
 U DVD Standard,South Gloucestershire,Dorset,4
 U DVD Standard,South Gloucestershire,North Somerset,1
 U DVD Standard,South Gloucestershire,Poole,1
 U DVD Standard,South Gloucestershire,South Gloucestershire,21
 Visual Material,Bath and North East Somerset,Bath and North East Somerset,2
-YA / Teen Fiction,Bath and North East Somerset,Bath and North East Somerset,52
-YA / Teen Fiction,Bath and North East Somerset,Bristol,20
-YA / Teen Fiction,Bath and North East Somerset,Dorset,15
-YA / Teen Fiction,Bath and North East Somerset,North Somerset,11
-YA / Teen Fiction,Bath and North East Somerset,Poole,5
+YA / Teen Fiction,Bath and North East Somerset,Bath and North East Somerset,53
+YA / Teen Fiction,Bath and North East Somerset,Bristol,21
+YA / Teen Fiction,Bath and North East Somerset,Dorset,19
+YA / Teen Fiction,Bath and North East Somerset,North Somerset,10
+YA / Teen Fiction,Bath and North East Somerset,Poole,6
 YA / Teen Fiction,Bath and North East Somerset,Somerset,26
-YA / Teen Fiction,Bath and North East Somerset,South Gloucestershire,10
+YA / Teen Fiction,Bath and North East Somerset,South Gloucestershire,13
 YA / Teen Fiction,Bristol,Bath and North East Somerset,18
-YA / Teen Fiction,Bristol,Bristol,218
+YA / Teen Fiction,Bristol,Bristol,223
 YA / Teen Fiction,Bristol,Dorset,35
 YA / Teen Fiction,Bristol,North Somerset,12
 YA / Teen Fiction,Bristol,Poole,12
@@ -862,7 +867,7 @@ YA / Teen Fiction,Bristol,Somerset,24
 YA / Teen Fiction,Bristol,South Gloucestershire,17
 YA / Teen Fiction,Dorset,Bath and North East Somerset,23
 YA / Teen Fiction,Dorset,Bristol,38
-YA / Teen Fiction,Dorset,Dorset,314
+YA / Teen Fiction,Dorset,Dorset,325
 YA / Teen Fiction,Dorset,North Somerset,11
 YA / Teen Fiction,Dorset,Poole,29
 YA / Teen Fiction,Dorset,Somerset,27
@@ -870,7 +875,7 @@ YA / Teen Fiction,Dorset,South Gloucestershire,13
 YA / Teen Fiction,North Somerset,Bath and North East Somerset,14
 YA / Teen Fiction,North Somerset,Bristol,15
 YA / Teen Fiction,North Somerset,Dorset,11
-YA / Teen Fiction,North Somerset,North Somerset,70
+YA / Teen Fiction,North Somerset,North Somerset,80
 YA / Teen Fiction,North Somerset,Poole,6
 YA / Teen Fiction,North Somerset,Somerset,11
 YA / Teen Fiction,North Somerset,South Gloucestershire,5
@@ -889,12 +894,12 @@ YA / Teen Fiction,Somerset,Poole,15
 YA / Teen Fiction,Somerset,Somerset,180
 YA / Teen Fiction,Somerset,South Gloucestershire,14
 YA / Teen Fiction,South Gloucestershire,Bath and North East Somerset,17
-YA / Teen Fiction,South Gloucestershire,Bristol,31
+YA / Teen Fiction,South Gloucestershire,Bristol,32
 YA / Teen Fiction,South Gloucestershire,Dorset,20
 YA / Teen Fiction,South Gloucestershire,North Somerset,11
 YA / Teen Fiction,South Gloucestershire,Poole,5
 YA / Teen Fiction,South Gloucestershire,Somerset,7
-YA / Teen Fiction,South Gloucestershire,South Gloucestershire,61
+YA / Teen Fiction,South Gloucestershire,South Gloucestershire,63
 YA / Teen Non Fiction,Bath and North East Somerset,Bath and North East Somerset,2
 YA / Teen Non Fiction,Bath and North East Somerset,Bristol,1
 YA / Teen Non Fiction,Bath and North East Somerset,Poole,1
@@ -903,7 +908,7 @@ YA / Teen Non Fiction,Bristol,Dorset,3
 YA / Teen Non Fiction,Bristol,Poole,1
 YA / Teen Non Fiction,Bristol,Somerset,1
 YA / Teen Non Fiction,Dorset,Bristol,2
-YA / Teen Non Fiction,Dorset,Dorset,20
+YA / Teen Non Fiction,Dorset,Dorset,21
 YA / Teen Non Fiction,Dorset,Poole,2
 YA / Teen Non Fiction,Dorset,Somerset,2
 YA / Teen Non Fiction,Dorset,South Gloucestershire,2
