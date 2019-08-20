@@ -1388,7 +1388,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,Somerset,Dulverton Library,OVERDUE,CASH,30,10,10
 2017-08,Somerset,Frome Library,BFR,DEBITCARD,0,20,20
 2017-08,Somerset,Frome Library,CHARGE,CANCEL,30,60,0
-2017-08,Somerset,Frome Library,CHARGE,CASH,580,1000,1000
+2017-08,Somerset,Frome Library,CHARGE,CASH,570,990,990
 2017-08,Somerset,Frome Library,CHARGE,DEBITCARD,50,110,110
 2017-08,Somerset,Frome Library,CHARGE,FORGIVEN,20,40,0
 2017-08,Somerset,Frome Library,CHARGE,VOUCH,0,0,0
@@ -2096,7 +2096,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,South Gloucestershire,Winterbourne Library,OVERDUE,CANCEL,20,30,0
 2017-08,South Gloucestershire,Winterbourne Library,OVERDUE,CASH,50,30,30
 2017-08,South Gloucestershire,Yate Library,CHARGE,CANCEL,20,30,0
-2017-08,South Gloucestershire,Yate Library,CHARGE,CASH,190,260,260
+2017-08,South Gloucestershire,Yate Library,CHARGE,CASH,190,250,250
 2017-08,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,0,0,0
 2017-08,South Gloucestershire,Yate Library,CHARGE,VOUCH,20,20,20
 2017-08,South Gloucestershire,Yate Library,CHARGEX,CASH,0,10,10
@@ -2124,7 +2124,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-08,South Gloucestershire,Yate Mobile,CHARGE,FORGIVEN,0,10,0
 2017-08,South Gloucestershire,Yate Mobile,CHARGE,VOUCH,0,0,0
 2017-08,South Gloucestershire,Yate Mobile,HOLD,CANCEL,0,0,0
-2017-08,South Gloucestershire,Yate Mobile,LOST,CANCEL,10,80,0
+2017-08,South Gloucestershire,Yate Mobile,LOST,CANCEL,0,50,0
 2017-08,South Gloucestershire,Yate Mobile,OVERDUE,CANCEL,10,10,0
 2017-09,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,CANCEL,0,0,0
 2017-09,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,CASH,20,40,40
@@ -4031,7 +4031,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,South Gloucestershire,Hanham Library,OVERDUE,FORGIVEN,30,40,0
 2017-09,South Gloucestershire,Hanham Library,SALENOVAT,FORGIVEN,0,0,0
 2017-09,South Gloucestershire,Kingswood Library,CHARGE,CANCEL,10,10,0
-2017-09,South Gloucestershire,Kingswood Library,CHARGE,CASH,130,150,150
+2017-09,South Gloucestershire,Kingswood Library,CHARGE,CASH,120,140,140
 2017-09,South Gloucestershire,Kingswood Library,CHARGE,CREDITACCT,0,0,0
 2017-09,South Gloucestershire,Kingswood Library,CHARGE,FORGIVEN,20,20,0
 2017-09,South Gloucestershire,Kingswood Library,CHARGE,VOUCH,20,20,20
@@ -4118,7 +4118,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,South Gloucestershire,Winterbourne Library,OVERDUE,CASH,90,70,70
 2017-09,South Gloucestershire,Winterbourne Library,PROCESSFEE,CASH,0,0,0
 2017-09,South Gloucestershire,Yate Library,CHARGE,CANCEL,30,40,0
-2017-09,South Gloucestershire,Yate Library,CHARGE,CASH,300,380,380
+2017-09,South Gloucestershire,Yate Library,CHARGE,CASH,290,370,370
 2017-09,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,20,40,0
 2017-09,South Gloucestershire,Yate Library,CHARGE,NONE,0,0,0
 2017-09,South Gloucestershire,Yate Library,CHARGE,VOUCH,80,80,80
@@ -4129,7 +4129,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-09,South Gloucestershire,Yate Library,HOLD,CANCEL,10,10,0
 2017-09,South Gloucestershire,Yate Library,HOLD,CASH,210,150,150
 2017-09,South Gloucestershire,Yate Library,HOLD,FORGIVEN,10,10,0
-2017-09,South Gloucestershire,Yate Library,LOST,CANCEL,230,1290,0
+2017-09,South Gloucestershire,Yate Library,LOST,CANCEL,220,1280,0
 2017-09,South Gloucestershire,Yate Library,LOST,CASH,0,10,10
 2017-09,South Gloucestershire,Yate Library,LOST,FORGIVEN,20,60,0
 2017-09,South Gloucestershire,Yate Library,OVERDUE,CANCEL,60,110,0
@@ -5312,7 +5312,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Somerset,Bruton Library,OVERDUE,DEBITCARD,10,30,30
 2017-10,Somerset,Bruton Library,OVERDUE,FORGIVEN,0,10,0
 2017-10,Somerset,Burnham Library,CHARGE,CANCEL,10,20,0
-2017-10,Somerset,Burnham Library,CHARGE,CASH,130,260,260
+2017-10,Somerset,Burnham Library,CHARGE,CASH,120,250,250
 2017-10,Somerset,Burnham Library,CHARGE,FORGIVEN,10,10,0
 2017-10,Somerset,Burnham Library,CHARGEX,CANCEL,0,10,0
 2017-10,Somerset,Burnham Library,CHARGEX,CASH,0,0,0
@@ -5854,7 +5854,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,30,20,20
 2017-10,South Gloucestershire,Cadbury Heath Library,HOLD,FORGIVEN,0,0,0
 2017-10,South Gloucestershire,Cadbury Heath Library,HOLDX,FORGIVEN,0,0,0
-2017-10,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,20,100,0
+2017-10,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,20,90,0
 2017-10,South Gloucestershire,Cadbury Heath Library,LOST,CASH,0,0,0
 2017-10,South Gloucestershire,Cadbury Heath Library,OVERDUE,CANCEL,10,10,0
 2017-10,South Gloucestershire,Cadbury Heath Library,OVERDUE,CASH,70,60,60
@@ -6017,7 +6017,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,South Gloucestershire,Yate Library,HOLD,CANCEL,10,0,0
 2017-10,South Gloucestershire,Yate Library,HOLD,CASH,210,150,150
 2017-10,South Gloucestershire,Yate Library,HOLD,FORGIVEN,10,0,0
-2017-10,South Gloucestershire,Yate Library,LOST,CANCEL,230,1290,0
+2017-10,South Gloucestershire,Yate Library,LOST,CANCEL,220,1280,0
 2017-10,South Gloucestershire,Yate Library,LOST,CASH,10,20,20
 2017-10,South Gloucestershire,Yate Library,LOST,FORGIVEN,70,550,0
 2017-10,South Gloucestershire,Yate Library,OVERDUE,CANCEL,60,90,0
@@ -7199,7 +7199,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,Somerset,Dulverton Library,OVERDUE,FORGIVEN,30,10,0
 2017-11,Somerset,Frome Library,BFR,CASH,0,10,10
 2017-11,Somerset,Frome Library,CHARGE,CANCEL,30,50,0
-2017-11,Somerset,Frome Library,CHARGE,CASH,470,830,830
+2017-11,Somerset,Frome Library,CHARGE,CASH,470,820,820
 2017-11,Somerset,Frome Library,CHARGE,DEBITCARD,50,100,100
 2017-11,Somerset,Frome Library,CHARGE,FORGIVEN,20,20,0
 2017-11,Somerset,Frome Library,CHARGEX,CASH,0,0,0
@@ -7813,7 +7813,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-11,South Gloucestershire,Yate Library,LOST,CANCEL,150,840,0
 2017-11,South Gloucestershire,Yate Library,LOST,CASH,0,10,10
 2017-11,South Gloucestershire,Yate Library,LOST,FORGIVEN,0,30,0
-2017-11,South Gloucestershire,Yate Library,OVERDUE,CANCEL,250,930,0
+2017-11,South Gloucestershire,Yate Library,OVERDUE,CANCEL,250,920,0
 2017-11,South Gloucestershire,Yate Library,OVERDUE,CASH,290,270,270
 2017-11,South Gloucestershire,Yate Library,OVERDUE,CREDITACCT,0,0,0
 2017-11,South Gloucestershire,Yate Library,OVERDUE,FORGIVEN,50,110,0
@@ -9143,7 +9143,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Somerset,Taunton Library,PROCESSFEE,CASH,0,0,0
 2017-12,Somerset,Taunton Library,SALEVAT,CASH,0,0,0
 2017-12,Somerset,Taunton Mobile,CHARGE,CASH,0,10,10
-2017-12,Somerset,Taunton Mobile,CHARGE,FORGIVEN,0,10,0
+2017-12,Somerset,Taunton Mobile,CHARGE,FORGIVEN,0,0,0
 2017-12,Somerset,Taunton Mobile,LOST,CANCEL,10,30,0
 2017-12,Somerset,Taunton Mobile,OVERDUE,CASH,0,0,0
 2017-12,Somerset,Taunton Mobile,OVERDUE,FORGIVEN,0,10,0
@@ -9454,7 +9454,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,South Gloucestershire,Yate Library,LOST,CASH,10,50,50
 2017-12,South Gloucestershire,Yate Library,LOST,FORGIVEN,0,0,0
 2017-12,South Gloucestershire,Yate Library,LOSTX,CANCEL,10,70,0
-2017-12,South Gloucestershire,Yate Library,OVERDUE,CANCEL,40,60,0
+2017-12,South Gloucestershire,Yate Library,OVERDUE,CANCEL,30,60,0
 2017-12,South Gloucestershire,Yate Library,OVERDUE,CASH,280,220,220
 2017-12,South Gloucestershire,Yate Library,OVERDUE,FORGIVEN,70,120,0
 2017-12,South Gloucestershire,Yate Library,OVERDUEX,CANCEL,10,50,0
@@ -10621,7 +10621,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Dulverton Library,OVERDUE,DEBITCARD,10,10,10
 2018-01,Somerset,Dulverton Library,OVERDUE,FORGIVEN,10,30,0
 2018-01,Somerset,Frome Library,CHARGE,CANCEL,30,50,0
-2018-01,Somerset,Frome Library,CHARGE,CASH,450,780,780
+2018-01,Somerset,Frome Library,CHARGE,CASH,440,770,770
 2018-01,Somerset,Frome Library,CHARGE,DEBITCARD,70,150,150
 2018-01,Somerset,Frome Library,CHARGE,FORGIVEN,10,30,0
 2018-01,Somerset,Frome Library,CHARGEX,CANCEL,0,10,0
@@ -10910,7 +10910,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-01,Somerset,Taunton Mobile,LOST,CANCEL,30,170,0
 2018-01,Somerset,Taunton Mobile,OVERDUE,FORGIVEN,10,50,0
 2018-01,Somerset,Watchet Library,CHARGE,CASH,10,20,20
-2018-01,Somerset,Watchet Library,CHARGE,FORGIVEN,0,0,0
 2018-01,Somerset,Watchet Library,HOLD,CASH,30,30,30
 2018-01,Somerset,Watchet Library,LOST,CANCEL,0,10,0
 2018-01,Somerset,Watchet Library,OVERDUE,CASH,30,40,40
@@ -12352,8 +12351,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Somerset,Dulverton Library,OVERDUE,CASH,30,30,30
 2018-02,Somerset,Dulverton Library,PROCESSFEE,CASH,0,0,0
 2018-02,Somerset,Frome Library,BFR,CASH,0,0,0
-2018-02,Somerset,Frome Library,CHARGE,CANCEL,30,60,0
-2018-02,Somerset,Frome Library,CHARGE,CASH,400,730,730
+2018-02,Somerset,Frome Library,CHARGE,CANCEL,30,50,0
+2018-02,Somerset,Frome Library,CHARGE,CASH,390,720,720
 2018-02,Somerset,Frome Library,CHARGE,CREDITCARD,10,20,20
 2018-02,Somerset,Frome Library,CHARGE,DEBITCARD,90,150,150
 2018-02,Somerset,Frome Library,CHARGE,FORGIVEN,0,10,0
@@ -12927,7 +12926,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,South Gloucestershire,Winterbourne Library,OVERDUE,CANCEL,20,20,0
 2018-02,South Gloucestershire,Winterbourne Library,OVERDUE,CASH,40,30,30
 2018-02,South Gloucestershire,Yate Library,CHARGE,CANCEL,10,10,0
-2018-02,South Gloucestershire,Yate Library,CHARGE,CASH,280,370,370
+2018-02,South Gloucestershire,Yate Library,CHARGE,CASH,270,370,370
 2018-02,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,10,10,0
 2018-02,South Gloucestershire,Yate Library,CHARGEX,FORGIVEN,0,10,0
 2018-02,South Gloucestershire,Yate Library,GROUP,CASH,10,30,30
@@ -12976,7 +12975,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bath and North East Somerset,Bath Central Library,LOSTCARD,CASH,10,10,10
 2018-03,Bath and North East Somerset,Bath Central Library,LOSTCARD,FORGIVEN,0,0,0
 2018-03,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,120,130,0
-2018-03,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,790,450,450
+2018-03,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,790,440,440
 2018-03,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITACCT,10,10,10
 2018-03,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,520,770,770
 2018-03,Bath and North East Somerset,Bath Central Library,OVERDUE,FORGIVEN,70,90,0
@@ -16218,8 +16217,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,South Gloucestershire,Filton Library,LOST,CANCEL,70,310,0
 2018-04,South Gloucestershire,Filton Library,LOST,CASH,0,20,20
 2018-04,South Gloucestershire,Filton Library,OVERDUE,CANCEL,10,30,0
-2018-04,South Gloucestershire,Filton Library,OVERDUE,CASH,110,70,70
-2018-04,South Gloucestershire,Filton Library,OVERDUE,FORGIVEN,20,40,0
+2018-04,South Gloucestershire,Filton Library,OVERDUE,CASH,100,70,70
+2018-04,South Gloucestershire,Filton Library,OVERDUE,FORGIVEN,20,30,0
 2018-04,South Gloucestershire,Filton Library,SALENOVAT,CASH,0,0,0
 2018-04,South Gloucestershire,Filton Library,SALENOVAT,FORGIVEN,0,0,0
 2018-04,South Gloucestershire,Hanham Library,CHARGE,CANCEL,0,0,0
@@ -16250,7 +16249,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,South Gloucestershire,Kingswood Library,HOLD,CASH,80,50,50
 2018-04,South Gloucestershire,Kingswood Library,HOLD,FORGIVEN,0,0,0
 2018-04,South Gloucestershire,Kingswood Library,HOLDX,CANCEL,0,0,0
-2018-04,South Gloucestershire,Kingswood Library,LOST,CANCEL,30,170,0
+2018-04,South Gloucestershire,Kingswood Library,LOST,CANCEL,30,160,0
 2018-04,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,50,40,0
 2018-04,South Gloucestershire,Kingswood Library,OVERDUE,CASH,100,140,140
 2018-04,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,10,10,0
@@ -16372,7 +16371,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Bath and North East Somerset,Bath Central Library,LOST,FORGIVEN,0,10,0
 2018-05,Bath and North East Somerset,Bath Central Library,LOSTCARD,CASH,0,0,0
 2018-05,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,100,100,0
-2018-05,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,720,400,400
+2018-05,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,710,400,400
 2018-05,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITACCT,0,0,0
 2018-05,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,810,810,810
 2018-05,Bath and North East Somerset,Bath Central Library,OVERDUE,FORGIVEN,130,150,0
@@ -17391,7 +17390,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Somerset,Dulverton Library,OVERDUE,CASH,50,30,30
 2018-05,Somerset,Dulverton Library,OVERDUE,DEBITCARD,0,20,20
 2018-05,Somerset,Frome Library,CHARGE,CANCEL,30,50,0
-2018-05,Somerset,Frome Library,CHARGE,CASH,400,700,700
+2018-05,Somerset,Frome Library,CHARGE,CASH,400,690,690
 2018-05,Somerset,Frome Library,CHARGE,CREDITCARD,10,20,20
 2018-05,Somerset,Frome Library,CHARGE,DEBITCARD,60,90,90
 2018-05,Somerset,Frome Library,CHARGE,FORGIVEN,10,20,0
@@ -17910,7 +17909,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,South Gloucestershire,Thornbury Library,GROUP,CASH,10,50,50
 2018-05,South Gloucestershire,Thornbury Library,GROUP,FORGIVEN,0,10,0
 2018-05,South Gloucestershire,Thornbury Library,HOLD,CANCEL,0,0,0
-2018-05,South Gloucestershire,Thornbury Library,HOLD,CASH,160,110,110
+2018-05,South Gloucestershire,Thornbury Library,HOLD,CASH,150,110,110
 2018-05,South Gloucestershire,Thornbury Library,HOLD,FORGIVEN,0,0,0
 2018-05,South Gloucestershire,Thornbury Library,HOLD,VOUCH,0,0,0
 2018-05,South Gloucestershire,Thornbury Library,LOST,CANCEL,50,230,0
@@ -18977,7 +18976,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Dulverton Library,OVERDUE,CASH,30,30,30
 2018-06,Somerset,Dulverton Library,OVERDUE,FORGIVEN,0,0,0
 2018-06,Somerset,Frome Library,CHARGE,CANCEL,10,20,0
-2018-06,Somerset,Frome Library,CHARGE,CASH,340,610,610
+2018-06,Somerset,Frome Library,CHARGE,CASH,340,590,590
 2018-06,Somerset,Frome Library,CHARGE,CREDITCARD,0,10,10
 2018-06,Somerset,Frome Library,CHARGE,DEBITCARD,70,140,140
 2018-06,Somerset,Frome Library,CHARGE,FORGIVEN,10,10,0
@@ -19001,7 +19000,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Frome Library,OVERDUE,CREDITACCT,0,0,0
 2018-06,Somerset,Frome Library,OVERDUE,CREDITCARD,20,20,20
 2018-06,Somerset,Frome Library,OVERDUE,DEBITCARD,170,210,210
-2018-06,Somerset,Frome Library,OVERDUE,FORGIVEN,40,80,0
+2018-06,Somerset,Frome Library,OVERDUE,FORGIVEN,30,80,0
 2018-06,Somerset,Frome Library,OVERDUEX,CASH,20,20,20
 2018-06,Somerset,Glastonbury Library,CHARGE,CASH,160,340,340
 2018-06,Somerset,Glastonbury Library,CHARGE,CREDITCARD,10,10,10
@@ -22650,7 +22649,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Somerset County Reserve,HOLD,CANCEL,0,0,0
 2018-08,Somerset,Somerton Library,CHARGE,CANCEL,0,10,0
 2018-08,Somerset,Somerton Library,CHARGE,CASH,50,100,100
-2018-08,Somerset,Somerton Library,CHARGE,FORGIVEN,10,10,0
+2018-08,Somerset,Somerton Library,CHARGE,FORGIVEN,0,10,0
 2018-08,Somerset,Somerton Library,CHARGE,VOUCH,10,10,10
 2018-08,Somerset,Somerton Library,GROUP,CASH,0,10,10
 2018-08,Somerset,Somerton Library,HOLD,CANCEL,0,0,0
@@ -23004,7 +23003,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,South Gloucestershire,Kingswood Library,HOLD,CASH,60,40,40
 2018-08,South Gloucestershire,Kingswood Library,HOLD,FORGIVEN,0,0,0
 2018-08,South Gloucestershire,Kingswood Library,HOLDX,CANCEL,0,0,0
-2018-08,South Gloucestershire,Kingswood Library,LOST,CANCEL,60,240,0
+2018-08,South Gloucestershire,Kingswood Library,LOST,CANCEL,50,240,0
 2018-08,South Gloucestershire,Kingswood Library,LOST,CASH,0,10,10
 2018-08,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,40,60,0
 2018-08,South Gloucestershire,Kingswood Library,OVERDUE,CASH,120,130,130
@@ -24800,7 +24799,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,South Gloucestershire,Yate Library,LOST,CANCEL,50,220,0
 2018-09,South Gloucestershire,Yate Library,LOST,CASH,10,40,40
 2018-09,South Gloucestershire,Yate Library,LOSTCARD,CANCEL,0,0,0
-2018-09,South Gloucestershire,Yate Library,OVERDUE,CANCEL,20,50,0
+2018-09,South Gloucestershire,Yate Library,OVERDUE,CANCEL,20,30,0
 2018-09,South Gloucestershire,Yate Library,OVERDUE,CASH,300,250,250
 2018-09,South Gloucestershire,Yate Library,OVERDUE,CREDITACCT,0,0,0
 2018-09,South Gloucestershire,Yate Library,OVERDUE,FORGIVEN,20,70,0
@@ -29383,7 +29382,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,South Gloucestershire,Filton Library,LOST,CANCEL,40,190,0
 2018-12,South Gloucestershire,Filton Library,LOST,FORGIVEN,0,20,0
 2018-12,South Gloucestershire,Filton Library,OVERDUE,CANCEL,0,0,0
-2018-12,South Gloucestershire,Filton Library,OVERDUE,CASH,80,60,60
+2018-12,South Gloucestershire,Filton Library,OVERDUE,CASH,80,50,50
 2018-12,South Gloucestershire,Filton Library,OVERDUE,FORGIVEN,10,20,0
 2018-12,South Gloucestershire,Filton Library,SALENOVAT,FORGIVEN,0,0,0
 2018-12,South Gloucestershire,Hanham Library,CHARGE,CANCEL,0,0,0
@@ -30548,7 +30547,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Dulverton Library,OVERDUE,CASH,70,30,30
 2019-01,Somerset,Dulverton Library,OVERDUE,FORGIVEN,30,40,0
 2019-01,Somerset,Frome Library,CHARGE,CANCEL,20,40,0
-2019-01,Somerset,Frome Library,CHARGE,CASH,300,550,550
+2019-01,Somerset,Frome Library,CHARGE,CASH,290,540,540
 2019-01,Somerset,Frome Library,CHARGE,CHEQUE,0,10,10
 2019-01,Somerset,Frome Library,CHARGE,DEBITCARD,60,110,110
 2019-01,Somerset,Frome Library,CHARGE,FORGIVEN,10,20,0
@@ -32484,7 +32483,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,230,1080,0
 2019-02,South Gloucestershire,Bradley Stoke Library,LOST,CASH,0,10,10
 2019-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,10,110,0
-2019-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,160,150,150
+2019-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,160,140,140
 2019-02,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,20,80,0
 2019-02,South Gloucestershire,Bradley Stoke Library,SALENOVAT,CANCEL,0,0,0
 2019-02,South Gloucestershire,Bradley Stoke Library,SALENOVAT,CASH,0,0,0
@@ -33888,7 +33887,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Somerset,Watchet Library,OVERDUE,CASH,50,10,10
 2019-03,Somerset,Watchet Library,OVERDUE,FORGIVEN,0,0,0
 2019-03,Somerset,Wellington Library,CHARGE,CANCEL,10,10,0
-2019-03,Somerset,Wellington Library,CHARGE,CASH,100,210,210
+2019-03,Somerset,Wellington Library,CHARGE,CASH,100,200,200
 2019-03,Somerset,Wellington Library,CHARGE,CREDITACCT,0,0,0
 2019-03,Somerset,Wellington Library,CHARGE,DEBITCARD,20,50,50
 2019-03,Somerset,Wellington Library,CHARGE,FORGIVEN,0,0,0
@@ -34154,7 +34153,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,South Gloucestershire,Thornbury Library,GROUP,CANCEL,0,10,0
 2019-03,South Gloucestershire,Thornbury Library,GROUP,CASH,20,70,70
 2019-03,South Gloucestershire,Thornbury Library,HOLD,CANCEL,0,0,0
-2019-03,South Gloucestershire,Thornbury Library,HOLD,CASH,210,150,150
+2019-03,South Gloucestershire,Thornbury Library,HOLD,CASH,200,150,150
 2019-03,South Gloucestershire,Thornbury Library,HOLD,FORGIVEN,0,0,0
 2019-03,South Gloucestershire,Thornbury Library,HOLDX,FORGIVEN,0,0,0
 2019-03,South Gloucestershire,Thornbury Library,LOST,CANCEL,20,110,0
@@ -34176,7 +34175,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,South Gloucestershire,Winterbourne Library,OVERDUE,FORGIVEN,0,0,0
 2019-03,South Gloucestershire,Winterbourne Library,SALENOVAT,CANCEL,0,0,0
 2019-03,South Gloucestershire,Yate Library,CHARGE,CANCEL,10,20,0
-2019-03,South Gloucestershire,Yate Library,CHARGE,CASH,200,290,290
+2019-03,South Gloucestershire,Yate Library,CHARGE,CASH,200,280,280
 2019-03,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,20,30,0
 2019-03,South Gloucestershire,Yate Library,CHARGEX,FORGIVEN,10,10,0
 2019-03,South Gloucestershire,Yate Library,CREDIT,CANCEL,0,0,0
@@ -36689,7 +36688,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Somerset,Frome Library,CHARGE,CASH,250,490,490
 2019-05,Somerset,Frome Library,CHARGE,CREDITCARD,40,90,90
 2019-05,Somerset,Frome Library,CHARGE,DEBITCARD,40,80,80
-2019-05,Somerset,Frome Library,CHARGE,FORGIVEN,10,10,0
+2019-05,Somerset,Frome Library,CHARGE,FORGIVEN,0,0,0
 2019-05,Somerset,Frome Library,CHARGEX,CANCEL,0,10,0
 2019-05,Somerset,Frome Library,CHARGEX,CASH,0,0,0
 2019-05,Somerset,Frome Library,CHARGEX,CREDITCARD,0,0,0
