@@ -54,7 +54,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bath and North East Somerset,OVERDUE,CASH,16850,8770,8770
 2018/2019,Bath and North East Somerset,OVERDUE,CHEQUE,0,0,0
 2018/2019,Bath and North East Somerset,OVERDUE,CREDITACCT,70,20,20
-2018/2019,Bath and North East Somerset,OVERDUE,CREDITCARD,15270,14360,14360
+2018/2019,Bath and North East Somerset,OVERDUE,CREDITCARD,15260,14340,14340
 2018/2019,Bath and North East Somerset,OVERDUE,DEBITCARD,0,10,10
 2018/2019,Bath and North East Somerset,OVERDUE,FORGIVEN,1710,2620,0
 2018/2019,Bath and North East Somerset,OVERDUE,NONE,80,70,70
@@ -214,7 +214,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Dorset,MISC,CASH,10,10,10
 2018/2019,Dorset,MISC,FORGIVEN,0,10,0
 2018/2019,Dorset,OVERDUE,CANCEL,1660,3390,0
-2018/2019,Dorset,OVERDUE,CASH,28760,26370,26370
+2018/2019,Dorset,OVERDUE,CASH,28750,26370,26370
 2018/2019,Dorset,OVERDUE,CHEQUE,20,20,20
 2018/2019,Dorset,OVERDUE,CREDITACCT,0,0,0
 2018/2019,Dorset,OVERDUE,DEBITCARD,10,10,10
@@ -237,7 +237,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,North Somerset,BFR,CASH,0,20,20
 2018/2019,North Somerset,BFR,FORGIVEN,10,80,0
 2018/2019,North Somerset,CHARGE,CANCEL,840,1140,0
-2018/2019,North Somerset,CHARGE,CASH,13800,19200,19200
+2018/2019,North Somerset,CHARGE,CASH,13780,19160,19160
 2018/2019,North Somerset,CHARGE,CREDITCARD,10,20,20
 2018/2019,North Somerset,CHARGE,DEBITCARD,130,190,190
 2018/2019,North Somerset,CHARGE,FORGIVEN,530,610,0
@@ -361,7 +361,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Somerset,CHARGE,DEBITCARD,2490,5210,5210
 2018/2019,Somerset,CHARGE,FORGIVEN,860,1690,0
 2018/2019,Somerset,CHARGE,NONE,0,10,10
-2018/2019,Somerset,CHARGE,VOUCH,60,100,100
+2018/2019,Somerset,CHARGE,VOUCH,50,100,100
 2018/2019,Somerset,CHARGEX,CANCEL,100,170,0
 2018/2019,Somerset,CHARGEX,CASH,200,210,210
 2018/2019,Somerset,CHARGEX,CREDITCARD,0,10,10
