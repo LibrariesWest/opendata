@@ -12733,7 +12733,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Bristol Central Lending Library,HOLDX,CANCEL,0,0,0
 2018-04,Bristol,Bristol Central Lending Library,HOLDX,CASH,0,0,0
 2018-04,Bristol,Bristol Central Lending Library,HOLDX,FORGIVEN,0,0,0
-2018-04,Bristol,Bristol Central Lending Library,LOST,CANCEL,220,1170,0
+2018-04,Bristol,Bristol Central Lending Library,LOST,CANCEL,210,1130,0
 2018-04,Bristol,Bristol Central Lending Library,LOST,CASH,10,80,80
 2018-04,Bristol,Bristol Central Lending Library,LOST,CHEQUE,10,70,70
 2018-04,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,20,150,150
@@ -24774,7 +24774,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Bristol,Wick Road Library,LOST,FORGIVEN,0,10,0
 2018-11,Bristol,Wick Road Library,LOSTX,CANCEL,10,40,0
 2018-11,Bristol,Wick Road Library,OVERDUE,CANCEL,20,20,0
-2018-11,Bristol,Wick Road Library,OVERDUE,CASH,100,80,80
+2018-11,Bristol,Wick Road Library,OVERDUE,CASH,100,70,70
 2018-11,Bristol,Wick Road Library,OVERDUE,FORGIVEN,50,50,0
 2018-11,Bristol,Wick Road Library,OVERDUEX,CASH,0,0,0
 2018-11,Bristol,Wick Road Library,REFERRAL,CASH,0,10,10
@@ -26318,7 +26318,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Bristol,Wick Road Library,HOLDX,CASH,0,0,0
 2018-12,Bristol,Wick Road Library,LOST,CANCEL,50,200,0
 2018-12,Bristol,Wick Road Library,LOST,CASH,0,0,0
-2018-12,Bristol,Wick Road Library,OVERDUE,CASH,190,130,130
+2018-12,Bristol,Wick Road Library,OVERDUE,CASH,180,120,120
 2018-12,Bristol,Wick Road Library,OVERDUE,FORGIVEN,0,0,0
 2018-12,Bristol,Wick Road Library,OVERDUEX,CASH,0,0,0
 2018-12,Dorset,Beaminster Library,BFR,CASH,0,10,10
