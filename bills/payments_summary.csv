@@ -125,8 +125,8 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bristol,HOLDX,DEBITCARD,10,10,10
 2018/2019,Bristol,HOLDX,FORGIVEN,70,80,0
 2018/2019,Bristol,ILL,CASH,0,0,0
-2018/2019,Bristol,LOST,CANCEL,23470,116240,0
-2018/2019,Bristol,LOST,CASH,850,4510,4510
+2018/2019,Bristol,LOST,CANCEL,23460,116230,0
+2018/2019,Bristol,LOST,CASH,840,4500,4500
 2018/2019,Bristol,LOST,CHEQUE,20,190,190
 2018/2019,Bristol,LOST,CREDITCARD,320,1960,1960
 2018/2019,Bristol,LOST,DEBITCARD,110,740,740
@@ -493,7 +493,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,LOSTX,CANCEL,10,150,0
 2018/2019,South Gloucestershire,LOSTX,CASH,0,10,10
 2018/2019,South Gloucestershire,LOSTX,FORGIVEN,20,180,0
-2018/2019,South Gloucestershire,OVERDUE,CANCEL,2320,5500,0
+2018/2019,South Gloucestershire,OVERDUE,CANCEL,2310,5500,0
 2018/2019,South Gloucestershire,OVERDUE,CASH,17820,14970,14970
 2018/2019,South Gloucestershire,OVERDUE,CHEQUE,0,10,10
 2018/2019,South Gloucestershire,OVERDUE,CREDITACCT,20,10,10
