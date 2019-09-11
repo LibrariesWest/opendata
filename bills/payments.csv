@@ -21274,7 +21274,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Henleaze Library,DAMAGE,DEBITCARD,0,20,20
 2018-09,Bristol,Henleaze Library,HOLD,CASH,10,30,30
 2018-09,Bristol,Henleaze Library,LOST,CANCEL,140,640,0
-2018-09,Bristol,Henleaze Library,LOST,CASH,10,20,20
+2018-09,Bristol,Henleaze Library,LOST,CASH,0,10,10
 2018-09,Bristol,Henleaze Library,LOST,DEBITCARD,0,10,10
 2018-09,Bristol,Henleaze Library,LOST,FORGIVEN,0,10,0
 2018-09,Bristol,Henleaze Library,OVERDUE,CANCEL,20,10,0
@@ -24614,7 +24614,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Bristol,Henleaze Library,CHARGE,VOUCH,10,10,10
 2018-11,Bristol,Henleaze Library,CREDIT,CANCEL,0,0,0
 2018-11,Bristol,Henleaze Library,HOLD,CASH,0,20,20
-2018-11,Bristol,Henleaze Library,LOST,CANCEL,190,900,0
+2018-11,Bristol,Henleaze Library,LOST,CANCEL,190,890,0
 2018-11,Bristol,Henleaze Library,LOST,CASH,0,20,20
 2018-11,Bristol,Henleaze Library,LOST,CREDITCARD,10,20,20
 2018-11,Bristol,Henleaze Library,LOST,DEBITCARD,0,0,0
