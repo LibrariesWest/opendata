@@ -2260,7 +2260,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bristol,Bristol Central Lending Library,HOLD,FORGIVEN,0,0,0
 2017-10,Bristol,Bristol Central Lending Library,HOLDX,CASH,0,0,0
 2017-10,Bristol,Bristol Central Lending Library,HOLDX,FORGIVEN,0,0,0
-2017-10,Bristol,Bristol Central Lending Library,LOST,CANCEL,230,1520,0
+2017-10,Bristol,Bristol Central Lending Library,LOST,CANCEL,210,1450,0
 2017-10,Bristol,Bristol Central Lending Library,LOST,CASH,10,50,50
 2017-10,Bristol,Bristol Central Lending Library,LOST,CHEQUE,10,20,20
 2017-10,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,10,110,110
@@ -2269,7 +2269,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bristol,Bristol Central Lending Library,LOSTX,CANCEL,0,10,0
 2017-10,Bristol,Bristol Central Lending Library,LOSTX,DEBITCARD,0,50,50
 2017-10,Bristol,Bristol Central Lending Library,LOSTX,FORGIVEN,10,70,0
-2017-10,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,40,70,0
+2017-10,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,20,40,0
 2017-10,Bristol,Bristol Central Lending Library,OVERDUE,CASH,1280,710,710
 2017-10,Bristol,Bristol Central Lending Library,OVERDUE,CREDITACCT,0,0,0
 2017-10,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,660,770,770
@@ -2349,7 +2349,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-10,Bristol,Henbury Library,OVERDUE,CASH,80,80,80
 2017-10,Bristol,Henbury Library,OVERDUE,FORGIVEN,90,110,0
 2017-10,Bristol,Henbury Library,REFERRAL,CASH,0,10,10
-2017-10,Bristol,Henbury Library,REFERRAL,FORGIVEN,0,20,0
 2017-10,Bristol,Henleaze Library,CHARGE,CANCEL,10,10,0
 2017-10,Bristol,Henleaze Library,CHARGE,CASH,410,520,520
 2017-10,Bristol,Henleaze Library,CHARGE,CREDITCARD,90,120,120
@@ -12732,7 +12731,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bristol,Bristol Central Lending Library,HOLDX,CANCEL,0,0,0
 2018-04,Bristol,Bristol Central Lending Library,HOLDX,CASH,0,0,0
 2018-04,Bristol,Bristol Central Lending Library,HOLDX,FORGIVEN,0,0,0
-2018-04,Bristol,Bristol Central Lending Library,LOST,CANCEL,210,1130,0
+2018-04,Bristol,Bristol Central Lending Library,LOST,CANCEL,190,1040,0
 2018-04,Bristol,Bristol Central Lending Library,LOST,CASH,10,80,80
 2018-04,Bristol,Bristol Central Lending Library,LOST,CHEQUE,10,70,70
 2018-04,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,20,150,150
@@ -36646,7 +36645,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,South Gloucestershire,Yate Library,SALENOVAT,CANCEL,0,0,0
 2019-06,South Gloucestershire,Yate Library,SALENOVAT,CASH,0,0,0
 2019-06,South Gloucestershire,Yate Library,SALENOVAT,FORGIVEN,0,0,0
-2019-07,Bath and North East Somerset,B&NES Mobile Libraries,LOST,CANCEL,20,170,0
+2019-07,Bath and North East Somerset,B&NES Mobile Libraries,LOST,CANCEL,20,150,0
 2019-07,Bath and North East Somerset,B&NES Mobile Libraries,LOST,FORGIVEN,0,10,0
 2019-07,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,20,30,0
 2019-07,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,110,210,210
@@ -37760,7 +37759,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Somerset,Frome Library,LOSTCARD,CREDITCARD,0,0,0
 2019-07,Somerset,Frome Library,LOSTCARD,FORGIVEN,0,0,0
 2019-07,Somerset,Frome Library,OVERDUE,CANCEL,10,0,0
-2019-07,Somerset,Frome Library,OVERDUE,CASH,680,380,380
+2019-07,Somerset,Frome Library,OVERDUE,CASH,670,380,380
 2019-07,Somerset,Frome Library,OVERDUE,CREDITCARD,280,200,200
 2019-07,Somerset,Frome Library,OVERDUE,DEBITCARD,210,200,200
 2019-07,Somerset,Frome Library,OVERDUE,FORGIVEN,80,100,0
@@ -38486,7 +38485,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Bristol,Bristol Central Lending Library,HOLDX,CASH,0,0,0
 2019-08,Bristol,Bristol Central Lending Library,HOLDX,CREDITCARD,0,0,0
 2019-08,Bristol,Bristol Central Lending Library,HOLDX,FORGIVEN,0,10,0
-2019-08,Bristol,Bristol Central Lending Library,LOST,CANCEL,290,1930,0
+2019-08,Bristol,Bristol Central Lending Library,LOST,CANCEL,280,1910,0
 2019-08,Bristol,Bristol Central Lending Library,LOST,CASH,10,50,50
 2019-08,Bristol,Bristol Central Lending Library,LOST,CHEQUE,0,10,10
 2019-08,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,0,40,40
@@ -38500,7 +38499,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Bristol,Bristol Central Lending Library,OVERDUE,CREDITACCT,0,0,0
 2019-08,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,520,520,520
 2019-08,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,250,360,360
-2019-08,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,320,690,0
+2019-08,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,310,660,0
 2019-08,Bristol,Bristol Central Lending Library,OVERDUE,PAYPAL,160,190,190
 2019-08,Bristol,Bristol Central Lending Library,OVERDUEX,CASH,0,0,0
 2019-08,Bristol,Bristol Central Lending Library,OVERDUEX,FORGIVEN,0,20,0
