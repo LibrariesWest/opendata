@@ -30017,7 +30017,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Somerset,Frome Library,HOLD,DEBITCARD,10,10,10
 2019-02,Somerset,Frome Library,HOLD,FORGIVEN,10,10,0
 2019-02,Somerset,Frome Library,HOLDX,DEBITCARD,0,0,0
-2019-02,Somerset,Frome Library,LOST,CANCEL,50,280,0
+2019-02,Somerset,Frome Library,LOST,CANCEL,50,260,0
 2019-02,Somerset,Frome Library,LOST,CASH,10,30,30
 2019-02,Somerset,Frome Library,LOST,CREDITCARD,0,10,10
 2019-02,Somerset,Frome Library,LOST,DEBITCARD,10,30,30
@@ -30028,7 +30028,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Somerset,Frome Library,OVERDUE,CASH,460,350,350
 2019-02,Somerset,Frome Library,OVERDUE,CREDITCARD,10,20,20
 2019-02,Somerset,Frome Library,OVERDUE,DEBITCARD,130,190,190
-2019-02,Somerset,Frome Library,OVERDUE,FORGIVEN,20,50,0
+2019-02,Somerset,Frome Library,OVERDUE,FORGIVEN,20,30,0
 2019-02,Somerset,Frome Library,OVERDUEX,CANCEL,0,0,0
 2019-02,Somerset,Frome Library,OVERDUEX,DEBITCARD,0,10,10
 2019-02,Somerset,Frome Library,SALENOVAT,CASH,0,0,0
@@ -32555,7 +32555,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,Dorset,Gillingham Library,OVERDUE,CASH,70,80,80
 2019-04,Dorset,Gillingham Library,OVERDUE,FORGIVEN,10,0,0
 2019-04,Dorset,Gillingham Library,OVERDUEX,CASH,0,10,10
-2019-04,Dorset,Home Library Service Mobile Dorset,LOST,CANCEL,80,670,0
+2019-04,Dorset,Home Library Service Mobile Dorset,LOST,CANCEL,60,570,0
 2019-04,Dorset,Littlemoor Library,CHARGE,CASH,10,10,10
 2019-04,Dorset,Littlemoor Library,CHARGE,FORGIVEN,0,0,0
 2019-04,Dorset,Littlemoor Library,LOST,CANCEL,40,150,0
@@ -37172,7 +37172,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Dorset,Gillingham Library,OVERDUE,FORGIVEN,0,10,0
 2019-07,Dorset,Gillingham Library,PROCESSFEE,CASH,0,0,0
 2019-07,Dorset,Home Library Service Mobile Dorset,LOST,CANCEL,10,90,0
-2019-07,Dorset,Home Library Service Mobile Dorset,LOST,CHEQUE,10,50,50
 2019-07,Dorset,Littlemoor Library,CHARGE,CASH,10,20,20
 2019-07,Dorset,Littlemoor Library,CHARGE,FORGIVEN,0,0,0
 2019-07,Dorset,Littlemoor Library,LOST,CANCEL,20,130,0
