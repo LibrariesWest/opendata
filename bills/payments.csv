@@ -7289,7 +7289,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,South Gloucestershire,Thornbury Library,ILL,CASH,0,20,20
 2017-12,South Gloucestershire,Thornbury Library,LOST,CANCEL,60,280,0
 2017-12,South Gloucestershire,Thornbury Library,LOST,CASH,0,0,0
-2017-12,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,30,120,0
+2017-12,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,30,110,0
 2017-12,South Gloucestershire,Thornbury Library,OVERDUE,CASH,150,130,130
 2017-12,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,40,80,0
 2017-12,South Gloucestershire,Thornbury Library,PROCESSFEE,CASH,0,0,0
@@ -33085,7 +33085,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,Somerset,Glastonbury Library,OVERDUE,CASH,190,160,160
 2019-04,Somerset,Glastonbury Library,OVERDUE,DEBITCARD,90,110,110
 2019-04,Somerset,Glastonbury Library,OVERDUE,FORGIVEN,10,10,0
-2019-04,Somerset,Glastonbury Library,OVERDUEX,FORGIVEN,0,0,0
 2019-04,Somerset,Ilminster Library,CHARGE,CASH,10,30,30
 2019-04,Somerset,Ilminster Library,CHARGEX,FORGIVEN,0,0,0
 2019-04,Somerset,Ilminster Library,GROUP,CASH,0,10,10
