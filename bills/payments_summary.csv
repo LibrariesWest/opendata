@@ -214,7 +214,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Dorset,MISC,CASH,10,10,10
 2018/2019,Dorset,MISC,FORGIVEN,0,10,0
 2018/2019,Dorset,OVERDUE,CANCEL,1660,3390,0
-2018/2019,Dorset,OVERDUE,CASH,28750,26360,26360
+2018/2019,Dorset,OVERDUE,CASH,28740,26360,26360
 2018/2019,Dorset,OVERDUE,CHEQUE,20,20,20
 2018/2019,Dorset,OVERDUE,CREDITACCT,0,0,0
 2018/2019,Dorset,OVERDUE,DEBITCARD,10,10,10
@@ -237,7 +237,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,North Somerset,BFR,CASH,0,20,20
 2018/2019,North Somerset,BFR,FORGIVEN,10,80,0
 2018/2019,North Somerset,CHARGE,CANCEL,840,1140,0
-2018/2019,North Somerset,CHARGE,CASH,13770,19150,19150
+2018/2019,North Somerset,CHARGE,CASH,13770,19140,19140
 2018/2019,North Somerset,CHARGE,CREDITCARD,10,20,20
 2018/2019,North Somerset,CHARGE,DEBITCARD,130,190,190
 2018/2019,North Somerset,CHARGE,FORGIVEN,530,610,0
@@ -377,8 +377,8 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Somerset,DAMAGE,CREDITCARD,10,60,60
 2018/2019,Somerset,DAMAGE,DEBITCARD,30,180,180
 2018/2019,Somerset,DAMAGE,FORGIVEN,10,60,0
-2018/2019,Somerset,GROUP,CANCEL,60,290,0
-2018/2019,Somerset,GROUP,CASH,1760,9480,9480
+2018/2019,Somerset,GROUP,CANCEL,50,280,0
+2018/2019,Somerset,GROUP,CASH,1750,9430,9430
 2018/2019,Somerset,GROUP,CHEQUE,10,60,60
 2018/2019,Somerset,GROUP,CREDITCARD,10,60,60
 2018/2019,Somerset,GROUP,DEBITCARD,50,260,260
@@ -484,7 +484,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,ILL,CANCEL,0,40,0
 2018/2019,South Gloucestershire,ILL,CASH,10,220,220
 2018/2019,South Gloucestershire,ILL,CHEQUE,10,360,360
-2018/2019,South Gloucestershire,LOST,CANCEL,8710,42320,0
+2018/2019,South Gloucestershire,LOST,CANCEL,8710,42280,0
 2018/2019,South Gloucestershire,LOST,CASH,370,1820,1820
 2018/2019,South Gloucestershire,LOST,CHEQUE,0,10,10
 2018/2019,South Gloucestershire,LOST,FORGIVEN,150,1040,0
