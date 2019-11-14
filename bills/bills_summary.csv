@@ -7,7 +7,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2018/2019,Bath and North East Somerset,ILL,10,40
 2018/2019,Bath and North East Somerset,LOST,270,1950
 2018/2019,Bath and North East Somerset,LOSTCARD,150,260
-2018/2019,Bath and North East Somerset,OVERDUE,40120,37280
+2018/2019,Bath and North East Somerset,OVERDUE,40120,37260
 2018/2019,Bath and North East Somerset,PROCESSFEE,160,410
 2018/2019,Bath and North East Somerset,SALENOVAT,140,540
 2018/2019,Bath and North East Somerset,SALEVAT,210,2090
@@ -30,7 +30,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2018/2019,Dorset,GROUP,10,120
 2018/2019,Dorset,HOLD,230,220
 2018/2019,Dorset,ILL,10,80
-2018/2019,Dorset,LOST,12890,62590
+2018/2019,Dorset,LOST,12880,62580
 2018/2019,Dorset,LOSTCARD,310,640
 2018/2019,Dorset,OVERDUE,38250,45010
 2018/2019,Dorset,PRIVILEGE,30,60
@@ -65,9 +65,9 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2018/2019,Somerset,GROUP,1870,10260
 2018/2019,Somerset,HOLD,47360,49340
 2018/2019,Somerset,ILL,20,80
-2018/2019,Somerset,LOST,13190,71270
+2018/2019,Somerset,LOST,13180,71260
 2018/2019,Somerset,LOSTCARD,1390,2800
-2018/2019,Somerset,OVERDUE,102810,93310
+2018/2019,Somerset,OVERDUE,102800,93300
 2018/2019,Somerset,PRIVILEGE,10,0
 2018/2019,Somerset,PROCESSFEE,0,10
 2018/2019,Somerset,SALENOVAT,150,210
@@ -77,7 +77,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2018/2019,South Gloucestershire,GROUP,680,2910
 2018/2019,South Gloucestershire,HOLD,14470,10680
 2018/2019,South Gloucestershire,ILL,20,790
-2018/2019,South Gloucestershire,LOST,11040,55690
+2018/2019,South Gloucestershire,LOST,11040,55680
 2018/2019,South Gloucestershire,LOSTCARD,0,0
 2018/2019,South Gloucestershire,OVERDUE,23660,29590
 2018/2019,South Gloucestershire,PRIVILEGE,0,0
