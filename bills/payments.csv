@@ -878,7 +878,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,Poole,Canford Cliffs Library,OVERDUE,CANCEL,0,0,0
 2017-12,Poole,Canford Cliffs Library,OVERDUE,CASH,100,100,100
 2017-12,Poole,Canford Cliffs Library,OVERDUE,FORGIVEN,0,10,0
-2017-12,Poole,Canford Heath Library,CHARGE,CANCEL,0,0,0
 2017-12,Poole,Canford Heath Library,CHARGE,CASH,20,30,30
 2017-12,Poole,Canford Heath Library,HOLD,CASH,20,20,20
 2017-12,Poole,Canford Heath Library,HOLD,FORGIVEN,0,0,0
@@ -4536,7 +4535,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Somerset,Frome Library,CREDIT,CASH,0,0,0
 2018-02,Somerset,Frome Library,CREDIT,DEBITCARD,0,0,0
 2018-02,Somerset,Frome Library,GROUP,CASH,20,90,90
-2018-02,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
 2018-02,Somerset,Frome Library,HOLD,CANCEL,10,10,0
 2018-02,Somerset,Frome Library,HOLD,CASH,240,250,250
 2018-02,Somerset,Frome Library,HOLD,CREDITCARD,0,0,0
@@ -6241,7 +6239,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Frome Library,CREDIT,CASH,0,0,0
 2018-03,Somerset,Frome Library,DAMAGE,CANCEL,0,10,0
 2018-03,Somerset,Frome Library,GROUP,CANCEL,0,10,0
-2018-03,Somerset,Frome Library,GROUP,CASH,20,90,90
+2018-03,Somerset,Frome Library,GROUP,CASH,20,80,80
 2018-03,Somerset,Frome Library,GROUP,CREDITCARD,0,10,10
 2018-03,Somerset,Frome Library,HOLD,CASH,290,290,290
 2018-03,Somerset,Frome Library,HOLD,CREDITCARD,10,10,10
@@ -9569,7 +9567,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Somerset,Frome Library,CREDIT,CASH,0,0,0
 2018-05,Somerset,Frome Library,DAMAGE,CANCEL,0,10,0
 2018-05,Somerset,Frome Library,GROUP,CASH,10,80,80
-2018-05,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
 2018-05,Somerset,Frome Library,HOLD,CANCEL,0,0,0
 2018-05,Somerset,Frome Library,HOLD,CASH,300,300,300
 2018-05,Somerset,Frome Library,HOLD,CREDITCARD,0,0,0
@@ -11964,7 +11961,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Bristol,Henleaze Library,OVERDUE,CASH,430,260,260
 2018-07,Bristol,Henleaze Library,OVERDUE,CREDITCARD,160,230,230
 2018-07,Bristol,Henleaze Library,OVERDUE,DEBITCARD,70,80,80
-2018-07,Bristol,Henleaze Library,OVERDUE,FORGIVEN,60,120,0
+2018-07,Bristol,Henleaze Library,OVERDUE,FORGIVEN,60,110,0
 2018-07,Bristol,Henleaze Library,OVERDUEX,CANCEL,0,0,0
 2018-07,Bristol,Henleaze Library,OVERDUEX,CASH,0,0,0
 2018-07,Bristol,Henleaze Library,REFERRAL,CREDITCARD,0,10,10
@@ -12824,7 +12821,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Somerset,Frome Library,GROUP,CASH,10,70,70
 2018-07,Somerset,Frome Library,GROUP,FORGIVEN,0,10,0
 2018-07,Somerset,Frome Library,HOLD,CANCEL,10,10,0
-2018-07,Somerset,Frome Library,HOLD,CASH,280,270,270
+2018-07,Somerset,Frome Library,HOLD,CASH,280,260,260
 2018-07,Somerset,Frome Library,HOLD,DEBITCARD,30,40,40
 2018-07,Somerset,Frome Library,HOLDX,CASH,0,0,0
 2018-07,Somerset,Frome Library,LOST,CANCEL,100,490,0
@@ -14625,7 +14622,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Frome Library,CREDIT,CASH,0,0,0
 2018-08,Somerset,Frome Library,CREDIT,DEBITCARD,0,0,0
 2018-08,Somerset,Frome Library,DAMAGE,CASH,0,10,10
-2018-08,Somerset,Frome Library,GROUP,CASH,20,80,80
+2018-08,Somerset,Frome Library,GROUP,CASH,10,80,80
 2018-08,Somerset,Frome Library,GROUP,CREDITCARD,0,10,10
 2018-08,Somerset,Frome Library,HOLD,CANCEL,0,0,0
 2018-08,Somerset,Frome Library,HOLD,CASH,280,270,270
@@ -19664,7 +19661,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Somerset,Frome Library,CHARGE,FORGIVEN,10,10,0
 2018-11,Somerset,Frome Library,CHARGEX,DEBITCARD,0,0,0
 2018-11,Somerset,Frome Library,CREDIT,CASH,0,0,0
-2018-11,Somerset,Frome Library,GROUP,CASH,10,50,50
+2018-11,Somerset,Frome Library,GROUP,CASH,10,40,40
 2018-11,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
 2018-11,Somerset,Frome Library,HOLD,CANCEL,0,0,0
 2018-11,Somerset,Frome Library,HOLD,CASH,300,290,290
@@ -22711,7 +22708,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Frome Library,CREDIT,CASH,0,0,0
 2019-01,Somerset,Frome Library,DAMAGE,CANCEL,0,10,0
 2019-01,Somerset,Frome Library,GROUP,CASH,20,100,100
-2019-01,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
 2019-01,Somerset,Frome Library,HOLD,CASH,270,270,270
 2019-01,Somerset,Frome Library,HOLD,CREDITCARD,0,0,0
 2019-01,Somerset,Frome Library,HOLD,DEBITCARD,40,40,40
@@ -27332,7 +27328,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,Somerset,Frome Library,CREDIT,CASH,0,0,0
 2019-04,Somerset,Frome Library,CREDIT,DEBITCARD,0,0,0
 2019-04,Somerset,Frome Library,DAMAGE,CASH,0,10,10
-2019-04,Somerset,Frome Library,GROUP,CASH,20,120,120
+2019-04,Somerset,Frome Library,GROUP,CASH,20,110,110
 2019-04,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
 2019-04,Somerset,Frome Library,HOLD,CANCEL,10,10,0
 2019-04,Somerset,Frome Library,HOLD,CASH,280,260,260
@@ -28844,7 +28840,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Somerset,Frome Library,CREDIT,FORGIVEN,0,0,0
 2019-05,Somerset,Frome Library,DAMAGE,CASH,0,10,10
 2019-05,Somerset,Frome Library,GROUP,CANCEL,0,10,0
-2019-05,Somerset,Frome Library,GROUP,CASH,20,90,90
+2019-05,Somerset,Frome Library,GROUP,CASH,20,80,80
 2019-05,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
 2019-05,Somerset,Frome Library,HOLD,CANCEL,10,10,0
 2019-05,Somerset,Frome Library,HOLD,CASH,280,270,270
@@ -30377,7 +30373,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Somerset,Frome Library,CHARGEX,CASH,0,0,0
 2019-06,Somerset,Frome Library,DAMAGE,CASH,0,10,10
 2019-06,Somerset,Frome Library,DAMAGE,DEBITCARD,0,20,20
-2019-06,Somerset,Frome Library,GROUP,CASH,10,80,80
+2019-06,Somerset,Frome Library,GROUP,CASH,10,70,70
 2019-06,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
 2019-06,Somerset,Frome Library,HOLD,CANCEL,0,0,0
 2019-06,Somerset,Frome Library,HOLD,CASH,290,280,280
@@ -33747,7 +33743,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Somerset,Frome Library,DAMAGE,CREDITCARD,0,0,0
 2019-08,Somerset,Frome Library,DAMAGE,FORGIVEN,0,10,0
 2019-08,Somerset,Frome Library,GROUP,CANCEL,0,10,0
-2019-08,Somerset,Frome Library,GROUP,CASH,20,90,90
+2019-08,Somerset,Frome Library,GROUP,CASH,20,80,80
 2019-08,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
 2019-08,Somerset,Frome Library,HOLD,CANCEL,0,0,0
 2019-08,Somerset,Frome Library,HOLD,CASH,300,290,290
@@ -37113,7 +37109,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-10,Somerset,Frome Library,CREDIT,CASH,0,0,0
 2019-10,Somerset,Frome Library,DAMAGE,CASH,0,10,10
 2019-10,Somerset,Frome Library,GROUP,CANCEL,0,10,0
-2019-10,Somerset,Frome Library,GROUP,CASH,10,60,60
+2019-10,Somerset,Frome Library,GROUP,CASH,10,50,50
 2019-10,Somerset,Frome Library,GROUP,DEBITCARD,0,20,20
 2019-10,Somerset,Frome Library,GROUP,FORGIVEN,0,10,0
 2019-10,Somerset,Frome Library,HOLD,CANCEL,10,10,0
