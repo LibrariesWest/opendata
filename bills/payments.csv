@@ -784,7 +784,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2017-12,North Somerset,Portishead Library,OVERDUE,CANCEL,10,0,0
 2017-12,North Somerset,Portishead Library,OVERDUE,CASH,410,260,260
 2017-12,North Somerset,Portishead Library,OVERDUE,CREDITACCT,0,0,0
-2017-12,North Somerset,Portishead Library,OVERDUE,FORGIVEN,30,50,0
+2017-12,North Somerset,Portishead Library,OVERDUE,FORGIVEN,20,50,0
 2017-12,North Somerset,Portishead Library,OVERDUEX,CASH,10,0,0
 2017-12,North Somerset,Portishead Library,PROCESSFEE,CASH,0,0,0
 2017-12,North Somerset,Portishead Library,SALENOVAT,CANCEL,0,0,0
@@ -6231,7 +6231,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Dulverton Library,OVERDUE,CASH,20,20,20
 2018-03,Somerset,Dulverton Library,OVERDUE,DEBITCARD,10,20,20
 2018-03,Somerset,Frome Library,CHARGE,CANCEL,30,60,0
-2018-03,Somerset,Frome Library,CHARGE,CASH,530,990,990
+2018-03,Somerset,Frome Library,CHARGE,CASH,530,980,980
 2018-03,Somerset,Frome Library,CHARGE,CREDITACCT,0,0,0
 2018-03,Somerset,Frome Library,CHARGE,CREDITCARD,0,20,20
 2018-03,Somerset,Frome Library,CHARGE,DEBITCARD,80,150,150
@@ -6251,7 +6251,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Frome Library,LOSTCARD,CASH,10,20,20
 2018-03,Somerset,Frome Library,LOSTCARD,DEBITCARD,0,0,0
 2018-03,Somerset,Frome Library,OVERDUE,CANCEL,40,60,0
-2018-03,Somerset,Frome Library,OVERDUE,CASH,510,430,430
+2018-03,Somerset,Frome Library,OVERDUE,CASH,510,420,420
 2018-03,Somerset,Frome Library,OVERDUE,CREDITCARD,10,10,10
 2018-03,Somerset,Frome Library,OVERDUE,DEBITCARD,230,270,270
 2018-03,Somerset,Frome Library,OVERDUE,FORGIVEN,80,80,0
@@ -6483,17 +6483,15 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Somerset,Taunton Library,OVERDUE,CANCEL,30,30,0
 2018-03,Somerset,Taunton Library,OVERDUE,CASH,830,700,700
 2018-03,Somerset,Taunton Library,OVERDUE,CREDITCARD,70,70,70
-2018-03,Somerset,Taunton Library,OVERDUE,DEBITCARD,240,240,240
+2018-03,Somerset,Taunton Library,OVERDUE,DEBITCARD,230,240,240
 2018-03,Somerset,Taunton Library,OVERDUE,FORGIVEN,120,150,0
 2018-03,Somerset,Taunton Library,OVERDUEX,CANCEL,10,10,0
 2018-03,Somerset,Taunton Library,OVERDUEX,CASH,0,0,0
 2018-03,Somerset,Taunton Library,OVERDUEX,CREDITCARD,0,0,0
 2018-03,Somerset,Taunton Library,OVERDUEX,DEBITCARD,0,0,0
 2018-03,Somerset,Taunton Library,OVERDUEX,FORGIVEN,0,0,0
-2018-03,Somerset,Taunton Library,SALENOVAT,DEBITCARD,0,0,0
 2018-03,Somerset,Taunton Library,SALEVAT,CANCEL,0,0,0
 2018-03,Somerset,Taunton Library,SALEVAT,CASH,0,0,0
-2018-03,Somerset,Taunton Library,SALEVAT,DEBITCARD,0,0,0
 2018-03,Somerset,Taunton Mobile,CHARGE,FORGIVEN,0,0,0
 2018-03,Somerset,Taunton Mobile,LOST,CANCEL,10,60,0
 2018-03,Somerset,Taunton Mobile,LOST,FORGIVEN,0,10,0
@@ -7397,8 +7395,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Dorset,Littlemoor Library,CHARGE,CASH,20,40,40
 2018-04,Dorset,Littlemoor Library,LOST,CANCEL,10,20,0
 2018-04,Dorset,Littlemoor Library,LOST,FORGIVEN,0,0,0
-2018-04,Dorset,Littlemoor Library,OVERDUE,CASH,50,30,30
-2018-04,Dorset,Littlemoor Library,OVERDUE,FORGIVEN,10,40,0
+2018-04,Dorset,Littlemoor Library,OVERDUE,CASH,40,20,20
+2018-04,Dorset,Littlemoor Library,OVERDUE,FORGIVEN,10,30,0
 2018-04,Dorset,Lyme Regis Library,CHARGE,CASH,20,40,40
 2018-04,Dorset,Lyme Regis Library,CHARGEX,CASH,0,0,0
 2018-04,Dorset,Lyme Regis Library,ILL,CASH,0,10,10
@@ -14630,7 +14628,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Frome Library,HOLD,DEBITCARD,30,30,30
 2018-08,Somerset,Frome Library,HOLD,FORGIVEN,0,0,0
 2018-08,Somerset,Frome Library,HOLDX,CASH,10,10,10
-2018-08,Somerset,Frome Library,LOST,CANCEL,110,590,0
+2018-08,Somerset,Frome Library,LOST,CANCEL,110,560,0
 2018-08,Somerset,Frome Library,LOST,CASH,20,70,70
 2018-08,Somerset,Frome Library,LOST,DEBITCARD,10,30,30
 2018-08,Somerset,Frome Library,LOSTCARD,CASH,20,40,40
@@ -15129,7 +15127,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,South Gloucestershire,Filton Library,OVERDUE,CASH,70,40,40
 2018-08,South Gloucestershire,Filton Library,OVERDUE,FORGIVEN,10,10,0
 2018-08,South Gloucestershire,Hanham Library,CHARGE,CANCEL,20,20,0
-2018-08,South Gloucestershire,Hanham Library,CHARGE,CASH,120,150,150
+2018-08,South Gloucestershire,Hanham Library,CHARGE,CASH,120,140,140
 2018-08,South Gloucestershire,Hanham Library,CHARGE,FORGIVEN,0,0,0
 2018-08,South Gloucestershire,Hanham Library,CHARGE,VOUCH,40,40,40
 2018-08,South Gloucestershire,Hanham Library,CREDIT,CANCEL,0,0,0
@@ -16037,7 +16035,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,North Somerset,N Som Healthy Living Centre,GROUP,CASH,0,10,10
 2018-09,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,20,0
 2018-09,North Somerset,N Som Healthy Living Centre,LOSTCARD,CASH,0,0,0
-2018-09,North Somerset,N Som Healthy Living Centre,LOSTX,CANCEL,0,10,0
 2018-09,North Somerset,N Som Healthy Living Centre,OVERDUE,CANCEL,20,20,0
 2018-09,North Somerset,N Som Healthy Living Centre,OVERDUE,CASH,110,50,50
 2018-09,North Somerset,N Som Healthy Living Centre,OVERDUE,FORGIVEN,20,20,0
@@ -18071,7 +18068,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Somerset,Frome Library,HOLDX,CANCEL,0,0,0
 2018-10,Somerset,Frome Library,HOLDX,CASH,0,0,0
 2018-10,Somerset,Frome Library,HOLDX,DEBITCARD,0,0,0
-2018-10,Somerset,Frome Library,LOST,CANCEL,180,990,0
+2018-10,Somerset,Frome Library,LOST,CANCEL,180,980,0
 2018-10,Somerset,Frome Library,LOST,CASH,20,70,70
 2018-10,Somerset,Frome Library,LOST,CREDITCARD,0,20,20
 2018-10,Somerset,Frome Library,LOST,DEBITCARD,10,30,30
@@ -19157,7 +19154,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Dorset,Littlemoor Library,LOST,CANCEL,10,60,0
 2018-11,Dorset,Littlemoor Library,LOST,CASH,0,10,10
 2018-11,Dorset,Littlemoor Library,OVERDUE,CASH,40,30,30
-2018-11,Dorset,Littlemoor Library,OVERDUE,FORGIVEN,20,30,0
+2018-11,Dorset,Littlemoor Library,OVERDUE,FORGIVEN,10,30,0
 2018-11,Dorset,Lyme Regis Library,CHARGE,CASH,20,30,30
 2018-11,Dorset,Lyme Regis Library,ILL,CASH,0,20,20
 2018-11,Dorset,Lyme Regis Library,LOST,CANCEL,10,40,0
