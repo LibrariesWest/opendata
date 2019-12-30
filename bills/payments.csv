@@ -9019,7 +9019,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-05,Dorset,Dorchester Library,LOSTCARD,CASH,10,20,20
 2018-05,Dorset,Dorchester Library,OVERDUE,CANCEL,10,20,0
 2018-05,Dorset,Dorchester Library,OVERDUE,CASH,260,250,250
-2018-05,Dorset,Dorchester Library,OVERDUE,FORGIVEN,20,40,0
+2018-05,Dorset,Dorchester Library,OVERDUE,FORGIVEN,20,30,0
 2018-05,Dorset,Dorchester Library,PRIVILEGE,CASH,0,0,0
 2018-05,Dorset,Dorchester Library,PROCESSFEE,CASH,0,0,0
 2018-05,Dorset,Ferndown Library,CHARGE,CANCEL,0,0,0
@@ -15806,7 +15806,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Dorset,Dorchester Library,HOLD,CASH,0,0,0
 2018-09,Dorset,Dorchester Library,LOST,CANCEL,110,520,0
 2018-09,Dorset,Dorchester Library,LOST,CASH,0,20,20
-2018-09,Dorset,Dorchester Library,LOST,CHEQUE,0,10,10
 2018-09,Dorset,Dorchester Library,LOST,FORGIVEN,0,30,0
 2018-09,Dorset,Dorchester Library,LOSTCARD,CASH,10,10,10
 2018-09,Dorset,Dorchester Library,OVERDUE,CANCEL,0,0,0
@@ -19120,7 +19119,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Dorset,Dorchester Library,LOST,FORGIVEN,0,0,0
 2018-11,Dorset,Dorchester Library,LOSTCARD,CASH,10,10,10
 2018-11,Dorset,Dorchester Library,OVERDUE,CANCEL,10,40,0
-2018-11,Dorset,Dorchester Library,OVERDUE,CASH,310,340,340
+2018-11,Dorset,Dorchester Library,OVERDUE,CASH,310,330,330
 2018-11,Dorset,Dorchester Library,OVERDUE,CHEQUE,10,0,0
 2018-11,Dorset,Dorchester Library,OVERDUE,FORGIVEN,70,120,0
 2018-11,Dorset,Dorchester Library,OVERDUEX,CASH,10,0,0
@@ -26811,7 +26810,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,Dorset,Dorchester Library,LOST,FORGIVEN,0,10,0
 2019-04,Dorset,Dorchester Library,LOSTCARD,CASH,10,20,20
 2019-04,Dorset,Dorchester Library,OVERDUE,CANCEL,10,30,0
-2019-04,Dorset,Dorchester Library,OVERDUE,CASH,240,250,250
+2019-04,Dorset,Dorchester Library,OVERDUE,CASH,230,250,250
 2019-04,Dorset,Dorchester Library,OVERDUE,CREDITCARD,30,30,30
 2019-04,Dorset,Dorchester Library,OVERDUE,DEBITCARD,0,10,10
 2019-04,Dorset,Dorchester Library,OVERDUE,FORGIVEN,30,80,0
