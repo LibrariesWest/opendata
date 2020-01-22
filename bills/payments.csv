@@ -5210,7 +5210,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,Bath and North East Somerset,Bath Central Library,LOST,CREDITCARD,0,10,10
 2018-04,Bath and North East Somerset,Bath Central Library,LOSTCARD,CANCEL,0,0,0
 2018-04,Bath and North East Somerset,Bath Central Library,LOSTCARD,CASH,0,0,0
-2018-04,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,80,140,0
+2018-04,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,70,130,0
 2018-04,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,1020,570,570
 2018-04,Bath and North East Somerset,Bath Central Library,OVERDUE,CHEQUE,0,0,0
 2018-04,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,520,710,710
@@ -5922,7 +5922,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-04,North Somerset,Clevedon Library,LOSTCARD,CANCEL,0,0,0
 2018-04,North Somerset,Clevedon Library,LOSTCARD,CASH,0,0,0
 2018-04,North Somerset,Clevedon Library,OVERDUE,CANCEL,0,30,0
-2018-04,North Somerset,Clevedon Library,OVERDUE,CASH,360,210,210
+2018-04,North Somerset,Clevedon Library,OVERDUE,CASH,350,210,210
 2018-04,North Somerset,Clevedon Library,OVERDUE,CREDITACCT,0,0,0
 2018-04,North Somerset,Clevedon Library,OVERDUE,FORGIVEN,40,40,0
 2018-04,North Somerset,Clevedon Library,OVERDUEX,CANCEL,0,0,0
@@ -12377,7 +12377,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Dorset,Dorchester Library,MISC,CANCEL,0,0,0
 2018-08,Dorset,Dorchester Library,OVERDUE,CANCEL,10,20,0
 2018-08,Dorset,Dorchester Library,OVERDUE,CASH,330,350,350
-2018-08,Dorset,Dorchester Library,OVERDUE,FORGIVEN,60,90,0
+2018-08,Dorset,Dorchester Library,OVERDUE,FORGIVEN,50,80,0
 2018-08,Dorset,Dorchester Library,OVERDUEX,CASH,0,0,0
 2018-08,Dorset,Dorchester Library,PRIVILEGE,CASH,0,0,0
 2018-08,Dorset,Ferndown Library,CHARGE,CANCEL,0,10,0
@@ -23620,7 +23620,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Dorset,Dorchester Library,LOST,CASH,0,30,30
 2019-03,Dorset,Dorchester Library,LOSTCARD,CASH,10,10,10
 2019-03,Dorset,Dorchester Library,OVERDUE,CANCEL,10,10,0
-2019-03,Dorset,Dorchester Library,OVERDUE,CASH,340,320,320
+2019-03,Dorset,Dorchester Library,OVERDUE,CASH,340,310,310
 2019-03,Dorset,Dorchester Library,OVERDUE,FORGIVEN,50,80,0
 2019-03,Dorset,Dorchester Library,OVERDUEX,CASH,0,0,0
 2019-03,Dorset,Dorchester Library,PRIVILEGE,CASH,0,0,0
@@ -23807,7 +23807,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,North Somerset,Clevedon Library,LOST,CASH,10,30,30
 2019-03,North Somerset,Clevedon Library,LOSTCARD,CASH,0,0,0
 2019-03,North Somerset,Clevedon Library,OVERDUE,CANCEL,20,20,0
-2019-03,North Somerset,Clevedon Library,OVERDUE,CASH,350,170,170
+2019-03,North Somerset,Clevedon Library,OVERDUE,CASH,340,160,160
 2019-03,North Somerset,Clevedon Library,OVERDUE,CREDITACCT,0,0,0
 2019-03,North Somerset,Clevedon Library,OVERDUE,FORGIVEN,50,20,0
 2019-03,North Somerset,Congresbury Library,CHARGE,CANCEL,0,0,0
@@ -38255,7 +38255,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-12,Dorset,Wyke Regis Library,CHARGE,CASH,0,10,10
 2019-12,Dorset,Wyke Regis Library,CHARGE,FORGIVEN,0,0,0
 2019-12,Dorset,Wyke Regis Library,LOST,CANCEL,10,40,0
-2019-12,Dorset,Wyke Regis Library,OVERDUE,CANCEL,0,0,0
 2019-12,Dorset,Wyke Regis Library,OVERDUE,CASH,60,40,40
 2019-12,Dorset,Wyke Regis Library,OVERDUE,FORGIVEN,10,10,0
 2019-12,North Somerset,Campus Library,CHARGE,CASH,80,120,120
