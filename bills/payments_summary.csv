@@ -139,7 +139,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Bristol,LOSTX,DEBITCARD,0,20,20
 2018/2019,Bristol,LOSTX,FORGIVEN,170,1920,0
 2018/2019,Bristol,OVERDUE,CANCEL,2110,3280,0
-2018/2019,Bristol,OVERDUE,CASH,52170,36560,36560
+2018/2019,Bristol,OVERDUE,CASH,52150,36550,36550
 2018/2019,Bristol,OVERDUE,CHEQUE,100,320,320
 2018/2019,Bristol,OVERDUE,CREDITACCT,100,40,40
 2018/2019,Bristol,OVERDUE,CREDITCARD,15600,15850,15850
@@ -214,7 +214,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,Dorset,MISC,CASH,10,10,10
 2018/2019,Dorset,MISC,FORGIVEN,0,10,0
 2018/2019,Dorset,OVERDUE,CANCEL,1650,3370,0
-2018/2019,Dorset,OVERDUE,CASH,28590,26210,26210
+2018/2019,Dorset,OVERDUE,CASH,28590,26200,26200
 2018/2019,Dorset,OVERDUE,CHEQUE,20,20,20
 2018/2019,Dorset,OVERDUE,CREDITACCT,0,0,0
 2018/2019,Dorset,OVERDUE,DEBITCARD,10,10,10
@@ -484,7 +484,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,ILL,CANCEL,0,40,0
 2018/2019,South Gloucestershire,ILL,CASH,10,220,220
 2018/2019,South Gloucestershire,ILL,CHEQUE,10,360,360
-2018/2019,South Gloucestershire,LOST,CANCEL,8680,42150,0
+2018/2019,South Gloucestershire,LOST,CANCEL,8680,42140,0
 2018/2019,South Gloucestershire,LOST,CASH,370,1820,1820
 2018/2019,South Gloucestershire,LOST,CHEQUE,0,10,10
 2018/2019,South Gloucestershire,LOST,FORGIVEN,150,1030,0
@@ -494,11 +494,11 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2018/2019,South Gloucestershire,LOSTX,CASH,0,10,10
 2018/2019,South Gloucestershire,LOSTX,FORGIVEN,20,180,0
 2018/2019,South Gloucestershire,OVERDUE,CANCEL,2310,5490,0
-2018/2019,South Gloucestershire,OVERDUE,CASH,17800,14960,14960
+2018/2019,South Gloucestershire,OVERDUE,CASH,17790,14960,14960
 2018/2019,South Gloucestershire,OVERDUE,CHEQUE,0,10,10
 2018/2019,South Gloucestershire,OVERDUE,CREDITACCT,20,10,10
 2018/2019,South Gloucestershire,OVERDUE,DEBITCARD,50,40,40
-2018/2019,South Gloucestershire,OVERDUE,FORGIVEN,2900,5860,0
+2018/2019,South Gloucestershire,OVERDUE,FORGIVEN,2900,5850,0
 2018/2019,South Gloucestershire,OVERDUE,NONE,30,20,20
 2018/2019,South Gloucestershire,OVERDUE,VOUCH,10,10,10
 2018/2019,South Gloucestershire,OVERDUEX,CANCEL,70,130,0
