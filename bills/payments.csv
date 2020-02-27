@@ -27258,7 +27258,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Somerset,Williton Library,HOLD,FORGIVEN,10,10,0
 2019-06,Somerset,Williton Library,LOST,CANCEL,30,150,0
 2019-06,Somerset,Williton Library,LOST,FORGIVEN,0,10,0
-2019-06,Somerset,Williton Library,LOSTCARD,CASH,0,10,10
+2019-06,Somerset,Williton Library,LOSTCARD,CASH,0,0,0
 2019-06,Somerset,Williton Library,OVERDUE,CASH,170,100,100
 2019-06,Somerset,Williton Library,OVERDUE,DEBITCARD,0,10,10
 2019-06,Somerset,Williton Library,OVERDUE,FORGIVEN,10,10,0
@@ -32128,7 +32128,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-09,Somerset,Minehead Library,OVERDUE,CREDITCARD,30,40,40
 2019-09,Somerset,Minehead Library,OVERDUE,DEBITCARD,0,10,10
 2019-09,Somerset,Minehead Library,OVERDUE,FORGIVEN,0,10,0
-2019-09,Somerset,Minehead Library,OVERDUE,PAYPAL,10,10,10
+2019-09,Somerset,Minehead Library,OVERDUE,PAYPAL,10,0,0
 2019-09,Somerset,Minehead Library,OVERDUEX,CASH,0,0,0
 2019-09,Somerset,Nether Stowey Library,CHARGE,CASH,0,10,10
 2019-09,Somerset,Nether Stowey Library,CHARGE,FORGIVEN,0,0,0
@@ -33797,7 +33797,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-10,Somerset,Minehead Library,CHARGE,DEBITCARD,0,0,0
 2019-10,Somerset,Minehead Library,CHARGE,FORGIVEN,10,10,0
 2019-10,Somerset,Minehead Library,GROUP,CASH,10,60,60
-2019-10,Somerset,Minehead Library,HOLD,CANCEL,0,0,0
 2019-10,Somerset,Minehead Library,HOLD,CASH,160,160,160
 2019-10,Somerset,Minehead Library,HOLD,CREDITCARD,30,30,30
 2019-10,Somerset,Minehead Library,HOLD,FORGIVEN,10,10,0
@@ -33805,7 +33804,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-10,Somerset,Minehead Library,LOST,CANCEL,10,70,0
 2019-10,Somerset,Minehead Library,LOST,CASH,0,10,10
 2019-10,Somerset,Minehead Library,LOSTCARD,CASH,10,10,10
-2019-10,Somerset,Minehead Library,OVERDUE,CANCEL,10,0,0
 2019-10,Somerset,Minehead Library,OVERDUE,CASH,170,100,100
 2019-10,Somerset,Minehead Library,OVERDUE,CREDITCARD,60,50,50
 2019-10,Somerset,Minehead Library,OVERDUE,DEBITCARD,10,10,10
@@ -35421,7 +35419,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-11,Somerset,Minehead Library,HOLD,PAYPAL,30,30,30
 2019-11,Somerset,Minehead Library,LOST,CANCEL,20,130,0
 2019-11,Somerset,Minehead Library,LOST,CREDITCARD,0,10,10
-2019-11,Somerset,Minehead Library,OVERDUE,CASH,140,100,100
+2019-11,Somerset,Minehead Library,OVERDUE,CASH,130,80,80
 2019-11,Somerset,Minehead Library,OVERDUE,CREDITCARD,100,60,60
 2019-11,Somerset,Minehead Library,OVERDUE,DEBITCARD,0,10,10
 2019-11,Somerset,Minehead Library,OVERDUE,FORGIVEN,10,0,0
@@ -38487,7 +38485,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Somerset,Minehead Library,OVERDUE,CREDITCARD,60,50,50
 2020-01,Somerset,Minehead Library,OVERDUE,DEBITCARD,10,20,20
 2020-01,Somerset,Minehead Library,OVERDUE,FORGIVEN,10,0,0
-2020-01,Somerset,Minehead Library,OVERDUE,PAYPAL,20,20,20
+2020-01,Somerset,Minehead Library,OVERDUE,PAYPAL,20,10,10
 2020-01,Somerset,Minehead Library,SALENOVAT,CASH,0,0,0
 2020-01,Somerset,Nether Stowey Library,BFR,FORGIVEN,0,0,0
 2020-01,Somerset,Nether Stowey Library,CHARGE,CASH,10,10,10
