@@ -909,7 +909,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-02,Poole,Broadstone Library,LOST,CANCEL,0,0,0
 2018-02,Poole,Broadstone Library,OVERDUE,CANCEL,0,10,0
 2018-02,Poole,Broadstone Library,OVERDUE,CASH,230,200,200
-2018-02,Poole,Broadstone Library,OVERDUE,FORGIVEN,40,130,0
+2018-02,Poole,Broadstone Library,OVERDUE,FORGIVEN,40,120,0
 2018-02,Poole,Broadstone Library,OVERDUE,NONE,0,0,0
 2018-02,Poole,Broadstone Library,OVERDUEX,CASH,10,10,10
 2018-02,Poole,Canford Cliffs Library,CHARGE,CASH,50,80,80
@@ -22155,7 +22155,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Poole,Broadstone Library,LOST,CANCEL,0,10,0
 2019-03,Poole,Broadstone Library,LOST,CASH,0,10,10
 2019-03,Poole,Broadstone Library,OVERDUE,CANCEL,10,30,0
-2019-03,Poole,Broadstone Library,OVERDUE,CASH,240,190,190
+2019-03,Poole,Broadstone Library,OVERDUE,CASH,230,190,190
 2019-03,Poole,Broadstone Library,OVERDUE,FORGIVEN,20,30,0
 2019-03,Poole,Broadstone Library,OVERDUEX,CASH,0,0,0
 2019-03,Poole,Broadstone Library,SALENOVAT,CASH,0,0,0
@@ -30076,7 +30076,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Poole,Canford Cliffs Library,CHARGE,CANCEL,0,0,0
 2019-08,Poole,Canford Cliffs Library,CHARGE,CASH,30,50,50
 2019-08,Poole,Canford Cliffs Library,CHARGE,FORGIVEN,10,10,0
-2019-08,Poole,Canford Cliffs Library,HOLD,CANCEL,0,0,0
 2019-08,Poole,Canford Cliffs Library,HOLD,CASH,110,110,110
 2019-08,Poole,Canford Cliffs Library,LOST,CANCEL,0,10,0
 2019-08,Poole,Canford Cliffs Library,OVERDUE,CANCEL,10,20,0
