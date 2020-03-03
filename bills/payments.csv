@@ -15625,7 +15625,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Dorset,Swanage Library,LOST,CASH,0,10,10
 2018-12,Dorset,Swanage Library,LOST,FORGIVEN,0,10,0
 2018-12,Dorset,Swanage Library,OVERDUE,CASH,90,70,70
-2018-12,Dorset,Swanage Library,OVERDUE,FORGIVEN,30,20,0
+2018-12,Dorset,Swanage Library,OVERDUE,FORGIVEN,20,10,0
 2018-12,Dorset,Swanage Library,PROCESSFEE,CASH,0,0,0
 2018-12,Dorset,Upton Library,CHARGE,CASH,10,10,10
 2018-12,Dorset,Upton Library,CHARGEX,CASH,0,0,0
@@ -23261,7 +23261,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Dorset,Swanage Library,LOST,CANCEL,20,110,0
 2019-05,Dorset,Swanage Library,LOST,CASH,0,0,0
 2019-05,Dorset,Swanage Library,OVERDUE,CANCEL,0,0,0
-2019-05,Dorset,Swanage Library,OVERDUE,CASH,100,70,70
+2019-05,Dorset,Swanage Library,OVERDUE,CASH,90,70,70
 2019-05,Dorset,Swanage Library,OVERDUE,FORGIVEN,30,20,0
 2019-05,Dorset,Swanage Library,OVERDUEX,FORGIVEN,0,10,0
 2019-05,Dorset,Upton Library,CHARGE,CASH,10,20,20
@@ -34326,7 +34326,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-12,Bristol,Bristol Central Lending Library,HOLD,CREDITCARD,0,0,0
 2019-12,Bristol,Bristol Central Lending Library,HOLD,DEBITCARD,0,20,20
 2019-12,Bristol,Bristol Central Lending Library,HOLDX,FORGIVEN,0,0,0
-2019-12,Bristol,Bristol Central Lending Library,LOST,CANCEL,250,1720,0
+2019-12,Bristol,Bristol Central Lending Library,LOST,CANCEL,250,1690,0
 2019-12,Bristol,Bristol Central Lending Library,LOST,CASH,10,30,30
 2019-12,Bristol,Bristol Central Lending Library,LOST,CHEQUE,0,20,20
 2019-12,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,0,20,20
@@ -37616,7 +37616,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-02,Dorset,Blandford Library,CHARGE,CASH,30,70,70
 2020-02,Dorset,Blandford Library,CHARGE,FORGIVEN,0,10,0
 2020-02,Dorset,Blandford Library,GROUP,CASH,0,0,0
-2020-02,Dorset,Blandford Library,LOST,CANCEL,30,130,0
+2020-02,Dorset,Blandford Library,LOST,CANCEL,30,140,0
 2020-02,Dorset,Blandford Library,LOST,CASH,0,30,30
 2020-02,Dorset,Blandford Library,LOSTCARD,CASH,0,0,0
 2020-02,Dorset,Blandford Library,OVERDUE,CANCEL,0,20,0
@@ -37884,7 +37884,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-02,North Somerset,N Som Healthy Living Centre,CHARGE,FORGIVEN,0,0,0
 2020-02,North Somerset,N Som Healthy Living Centre,GROUP,CASH,0,20,20
 2020-02,North Somerset,N Som Healthy Living Centre,GROUP,FORGIVEN,0,10,0
-2020-02,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,50,0
+2020-02,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,60,0
 2020-02,North Somerset,N Som Healthy Living Centre,LOST,CASH,0,10,10
 2020-02,North Somerset,N Som Healthy Living Centre,LOSTCARD,CASH,0,0,0
 2020-02,North Somerset,N Som Healthy Living Centre,OVERDUE,CANCEL,0,10,0
