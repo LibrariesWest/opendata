@@ -16,7 +16,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2018/2019,Bristol,DAMAGE,90,620
 2018/2019,Bristol,GROUP,0,70
 2018/2019,Bristol,HOLD,80,620
-2018/2019,Bristol,LOST,30330,155940
+2018/2019,Bristol,LOST,30330,155930
 2018/2019,Bristol,LOSTCARD,0,10
 2018/2019,Bristol,OVERDUE,87150,86050
 2018/2019,Bristol,PRIVILEGE,0,20
@@ -52,7 +52,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2018/2019,Poole,BFR,0,0
 2018/2019,Poole,CHARGE,6640,10640
 2018/2019,Poole,DAMAGE,0,50
-2018/2019,Poole,HOLD,8560,8560
+2018/2019,Poole,HOLD,8550,8560
 2018/2019,Poole,LOST,80,630
 2018/2019,Poole,LOSTCARD,40,80
 2018/2019,Poole,OVERDUE,20070,31000
@@ -63,7 +63,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2018/2019,Somerset,CHARGE,32930,70840
 2018/2019,Somerset,DAMAGE,180,1080
 2018/2019,Somerset,GROUP,1870,10260
-2018/2019,Somerset,HOLD,47360,49340
+2018/2019,Somerset,HOLD,47350,49330
 2018/2019,Somerset,ILL,20,80
 2018/2019,Somerset,LOST,13180,71250
 2018/2019,Somerset,LOSTCARD,1390,2800
