@@ -233,7 +233,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-03,Bristol,Bristol Central Lending Library,LOST,CASH,10,70,70
 2018-03,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,10,40,40
 2018-03,Bristol,Bristol Central Lending Library,LOST,DEBITCARD,10,80,80
-2018-03,Bristol,Bristol Central Lending Library,LOST,FORGIVEN,30,160,0
+2018-03,Bristol,Bristol Central Lending Library,LOST,FORGIVEN,30,150,0
 2018-03,Bristol,Bristol Central Lending Library,LOST,NONE,0,20,20
 2018-03,Bristol,Bristol Central Lending Library,LOSTX,CANCEL,0,20,0
 2018-03,Bristol,Bristol Central Lending Library,LOSTX,FORGIVEN,0,10,0
@@ -15242,12 +15242,11 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Bristol,Bristol Central Lending Library,LOST,FORGIVEN,10,60,0
 2018-12,Bristol,Bristol Central Lending Library,LOSTX,DEBITCARD,0,10,10
 2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,10,20,0
-2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CASH,860,510,510
+2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CASH,850,500,500
 2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,10,20,20
 2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,640,540,540
 2018-12,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,160,260,260
 2018-12,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,180,270,0
-2018-12,Bristol,Bristol Central Lending Library,OVERDUEX,CASH,0,0,0
 2018-12,Bristol,Bristol Central Lending Library,OVERDUEX,DEBITCARD,10,30,30
 2018-12,Bristol,Bristol Central Lending Library,OVERDUEX,FORGIVEN,10,0,0
 2018-12,Bristol,Bristol Central Lending Library,PROCESSFEE,DEBITCARD,0,0,0
@@ -20290,7 +20289,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Dorset,Wool Library,CHARGE,FORGIVEN,0,0,0
 2019-03,Dorset,Wool Library,ILL,CASH,0,10,10
 2019-03,Dorset,Wool Library,LOST,CANCEL,0,20,0
-2019-03,Dorset,Wool Library,OVERDUE,CASH,20,10,10
+2019-03,Dorset,Wool Library,OVERDUE,CASH,10,10,10
 2019-03,Dorset,Wool Library,OVERDUE,FORGIVEN,10,10,0
 2019-03,Dorset,Wyke Regis Library,CHARGE,CASH,0,0,0
 2019-03,Dorset,Wyke Regis Library,LOST,CANCEL,20,90,0
@@ -27406,11 +27405,9 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,South Gloucestershire,Staple Hill Library,HOLD,FORGIVEN,0,0,0
 2019-07,South Gloucestershire,Staple Hill Library,HOLDX,CANCEL,0,0,0
 2019-07,South Gloucestershire,Staple Hill Library,LOST,CANCEL,70,390,0
-2019-07,South Gloucestershire,Staple Hill Library,LOSTX,CANCEL,0,10,0
 2019-07,South Gloucestershire,Staple Hill Library,OVERDUE,CANCEL,10,0,0
 2019-07,South Gloucestershire,Staple Hill Library,OVERDUE,CASH,100,100,100
 2019-07,South Gloucestershire,Staple Hill Library,OVERDUE,FORGIVEN,30,30,0
-2019-07,South Gloucestershire,Staple Hill Library,SALENOVAT,CANCEL,0,0,0
 2019-07,South Gloucestershire,Thornbury Library,CHARGE,CANCEL,0,0,0
 2019-07,South Gloucestershire,Thornbury Library,CHARGE,CASH,80,110,110
 2019-07,South Gloucestershire,Thornbury Library,CHARGE,FORGIVEN,0,0,0
@@ -37626,7 +37623,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-02,Dorset,Bridport Library,OVERDUE,CANCEL,10,10,0
 2020-02,Dorset,Bridport Library,OVERDUE,CASH,130,120,120
 2020-02,Dorset,Bridport Library,OVERDUE,CREDITCARD,50,70,70
-2020-02,Dorset,Bridport Library,OVERDUE,FORGIVEN,10,0,0
+2020-02,Dorset,Bridport Library,OVERDUE,FORGIVEN,0,0,0
 2020-02,Dorset,Bridport Library,OVERDUE,PAYPAL,10,10,10
 2020-02,Dorset,Burton Bradstock Library,CHARGE,CASH,0,0,0
 2020-02,Dorset,Burton Bradstock Library,OVERDUE,CASH,0,0,0
