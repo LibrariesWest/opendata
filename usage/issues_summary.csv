@@ -11,7 +11,7 @@ month_issued,authority,item_type,issues,renewals
 2018-03,Bath and North East Somerset,Boxed Set 12 DVD,1,0
 2018-03,Bath and North East Somerset,Boxed Set 15 DVD,9,1
 2018-03,Bath and North East Somerset,Boxed Set 18 DVD,6,0
-2018-03,Bath and North East Somerset,Child Fiction,8472,6363
+2018-03,Bath and North East Somerset,Child Fiction,8472,6364
 2018-03,Bath and North East Somerset,Child Non Fiction,818,700
 2018-03,Bath and North East Somerset,Child Spoken Word,225,319
 2018-03,Bath and North East Somerset,Classification Exempt,2,0
@@ -43,7 +43,7 @@ month_issued,authority,item_type,issues,renewals
 2018-03,Bristol,Boxed Set 18 DVD,46,1
 2018-03,Bristol,Boxed Set PG DVD,3,0
 2018-03,Bristol,Boxed Set U DVD,4,0
-2018-03,Bristol,Child Fiction,26506,16363
+2018-03,Bristol,Child Fiction,26506,16364
 2018-03,Bristol,Child Non Fiction,2743,2456
 2018-03,Bristol,Child Reference,3,3
 2018-03,Bristol,Child Spoken Word,409,247
@@ -68,8 +68,8 @@ month_issued,authority,item_type,issues,renewals
 2018-03,Dorset,18 DVD Standard,36,0
 2018-03,Dorset,Adult Fiction,32331,11400
 2018-03,Dorset,Adult Graphic Novel,56,62
-2018-03,Dorset,Adult Non Fiction,8205,7619
-2018-03,Dorset,Adult Reference,12,0
+2018-03,Dorset,Adult Non Fiction,8203,7616
+2018-03,Dorset,Adult Reference,11,0
 2018-03,Dorset,Adult Spoken Word,2139,429
 2018-03,Dorset,B.O.P.,38,47
 2018-03,Dorset,Boxed Set 12 DVD,2,0
@@ -154,16 +154,16 @@ month_issued,authority,item_type,issues,renewals
 2018-03,Poole,YA / Teen Fiction,361,272
 2018-03,Poole,YA / Teen Non Fiction,66,81
 2018-03,Somerset,12 DVD Standard,628,25
-2018-03,Somerset,15 DVD Standard,616,24
+2018-03,Somerset,15 DVD Standard,615,24
 2018-03,Somerset,18 DVD Standard,67,0
 2018-03,Somerset,Adult Fiction,32990,18890
 2018-03,Somerset,Adult Graphic Novel,238,149
-2018-03,Somerset,Adult Non Fiction,10518,14314
+2018-03,Somerset,Adult Non Fiction,10518,14316
 2018-03,Somerset,Adult Reference,3,3
 2018-03,Somerset,Adult Spoken Word,1800,562
 2018-03,Somerset,B.O.P.,176,229
 2018-03,Somerset,Boxed Set 12 DVD,12,0
-2018-03,Somerset,Boxed Set 15 DVD,23,1
+2018-03,Somerset,Boxed Set 15 DVD,24,1
 2018-03,Somerset,Boxed Set 18 DVD,21,0
 2018-03,Somerset,Boxed Set PG DVD,2,0
 2018-03,Somerset,Boxed Set U DVD,1,0
@@ -249,9 +249,9 @@ month_issued,authority,item_type,issues,renewals
 2018-04,Bristol,12 DVD Standard,402,19
 2018-04,Bristol,15 DVD Standard,491,23
 2018-04,Bristol,18 DVD Standard,51,1
-2018-04,Bristol,Adult Fiction,17518,13502
+2018-04,Bristol,Adult Fiction,17518,13503
 2018-04,Bristol,Adult Graphic Novel,974,767
-2018-04,Bristol,Adult Non Fiction,9860,19017
+2018-04,Bristol,Adult Non Fiction,9860,19018
 2018-04,Bristol,Adult Reference,1,0
 2018-04,Bristol,Adult Spoken Word,1076,391
 2018-04,Bristol,B.O.P.,75,165
@@ -286,7 +286,7 @@ month_issued,authority,item_type,issues,renewals
 2018-04,Dorset,18 DVD Standard,23,4
 2018-04,Dorset,Adult Fiction,32474,12332
 2018-04,Dorset,Adult Graphic Novel,58,41
-2018-04,Dorset,Adult Non Fiction,8783,8158
+2018-04,Dorset,Adult Non Fiction,8781,8157
 2018-04,Dorset,Adult Reference,13,5
 2018-04,Dorset,Adult Spoken Word,2094,449
 2018-04,Dorset,B.O.P.,26,34
@@ -294,8 +294,8 @@ month_issued,authority,item_type,issues,renewals
 2018-04,Dorset,Boxed Set 15 DVD,7,0
 2018-04,Dorset,Boxed Set 18 DVD,2,0
 2018-04,Dorset,Boxed Set U DVD,1,0
-2018-04,Dorset,Child Fiction,15653,6228
-2018-04,Dorset,Child Non Fiction,2125,1196
+2018-04,Dorset,Child Fiction,15651,6226
+2018-04,Dorset,Child Non Fiction,2124,1196
 2018-04,Dorset,Child Spoken Word,235,36
 2018-04,Dorset,Classification Exempt,41,7
 2018-04,Dorset,Drama Set,30,1
@@ -310,7 +310,7 @@ month_issued,authority,item_type,issues,renewals
 2018-04,Dorset,PG DVD Standard,159,1
 2018-04,Dorset,Reading Group Set,1774,99
 2018-04,Dorset,U DVD Standard,153,2
-2018-04,Dorset,YA / Teen Fiction,963,978
+2018-04,Dorset,YA / Teen Fiction,962,977
 2018-04,Dorset,YA / Teen Non Fiction,63,98
 2018-04,North Somerset,12 DVD Standard,165,2
 2018-04,North Somerset,15 DVD Standard,116,1
@@ -372,7 +372,7 @@ month_issued,authority,item_type,issues,renewals
 2018-04,Poole,YA / Teen Fiction,452,371
 2018-04,Poole,YA / Teen Non Fiction,67,66
 2018-04,Somerset,12 DVD Standard,534,11
-2018-04,Somerset,15 DVD Standard,422,10
+2018-04,Somerset,15 DVD Standard,421,10
 2018-04,Somerset,18 DVD Standard,39,2
 2018-04,Somerset,Adult Fiction,31365,18378
 2018-04,Somerset,Adult Graphic Novel,205,156
@@ -381,7 +381,7 @@ month_issued,authority,item_type,issues,renewals
 2018-04,Somerset,Adult Spoken Word,1784,610
 2018-04,Somerset,B.O.P.,196,193
 2018-04,Somerset,Boxed Set 12 DVD,12,1
-2018-04,Somerset,Boxed Set 15 DVD,22,4
+2018-04,Somerset,Boxed Set 15 DVD,23,4
 2018-04,Somerset,Boxed Set 18 DVD,19,1
 2018-04,Somerset,Boxed Set PG DVD,1,2
 2018-04,Somerset,Boxed Set U DVD,1,0
@@ -470,7 +470,7 @@ month_issued,authority,item_type,issues,renewals
 2018-05,Bristol,12 DVD Standard,417,12
 2018-05,Bristol,15 DVD Standard,486,10
 2018-05,Bristol,18 DVD Standard,53,7
-2018-05,Bristol,Adult Fiction,18228,13696
+2018-05,Bristol,Adult Fiction,18228,13698
 2018-05,Bristol,Adult Graphic Novel,1015,816
 2018-05,Bristol,Adult Non Fiction,9292,15845
 2018-05,Bristol,Adult Spoken Word,1052,455
@@ -498,7 +498,7 @@ month_issued,authority,item_type,issues,renewals
 2018-05,Bristol,PG DVD Standard,232,7
 2018-05,Bristol,Reading Group Set,6,2
 2018-05,Bristol,U DVD Standard,300,5
-2018-05,Bristol,YA / Teen Fiction,891,852
+2018-05,Bristol,YA / Teen Fiction,891,853
 2018-05,Bristol,YA / Teen Non Fiction,42,89
 2018-05,Dorset,12 DVD Standard,355,5
 2018-05,Dorset,15 DVD Standard,283,2
@@ -688,7 +688,7 @@ month_issued,authority,item_type,issues,renewals
 2018-06,Bristol,12 DVD Standard,375,7
 2018-06,Bristol,15 DVD Standard,509,21
 2018-06,Bristol,18 DVD Standard,51,1
-2018-06,Bristol,Adult Fiction,18808,14462
+2018-06,Bristol,Adult Fiction,18808,14466
 2018-06,Bristol,Adult Graphic Novel,926,681
 2018-06,Bristol,Adult Non Fiction,9909,18054
 2018-06,Bristol,Adult Reference,1,0
@@ -733,7 +733,7 @@ month_issued,authority,item_type,issues,renewals
 2018-06,Dorset,Boxed Set 15 DVD,10,0
 2018-06,Dorset,Boxed Set 18 DVD,2,0
 2018-06,Dorset,Boxed Set U DVD,1,0
-2018-06,Dorset,Child Fiction,13200,4227
+2018-06,Dorset,Child Fiction,13199,4227
 2018-06,Dorset,Child Non Fiction,1565,994
 2018-06,Dorset,Child Spoken Word,194,33
 2018-06,Dorset,Classification Exempt,29,0
@@ -812,7 +812,7 @@ month_issued,authority,item_type,issues,renewals
 2018-06,Poole,YA / Teen Fiction,401,196
 2018-06,Poole,YA / Teen Non Fiction,64,52
 2018-06,Somerset,12 DVD Standard,438,9
-2018-06,Somerset,15 DVD Standard,480,12
+2018-06,Somerset,15 DVD Standard,479,12
 2018-06,Somerset,18 DVD Standard,24,0
 2018-06,Somerset,Adult Fiction,34413,19004
 2018-06,Somerset,Adult Graphic Novel,248,336
@@ -821,7 +821,7 @@ month_issued,authority,item_type,issues,renewals
 2018-06,Somerset,Adult Spoken Word,1699,614
 2018-06,Somerset,B.O.P.,392,562
 2018-06,Somerset,Boxed Set 12 DVD,8,2
-2018-06,Somerset,Boxed Set 15 DVD,23,2
+2018-06,Somerset,Boxed Set 15 DVD,24,2
 2018-06,Somerset,Boxed Set 18 DVD,6,2
 2018-06,Somerset,Child Fiction,25198,18725
 2018-06,Somerset,Child Non Fiction,2343,2506
@@ -843,15 +843,15 @@ month_issued,authority,item_type,issues,renewals
 2018-06,Somerset,YA / Teen Fiction,1274,1358
 2018-06,Somerset,YA / Teen Non Fiction,43,57
 2018-06,South Gloucestershire,12 DVD Standard,295,39
-2018-06,South Gloucestershire,15 DVD Standard,254,27
+2018-06,South Gloucestershire,15 DVD Standard,255,27
 2018-06,South Gloucestershire,18 DVD Standard,30,3
-2018-06,South Gloucestershire,Adult Fiction,14091,9035
+2018-06,South Gloucestershire,Adult Fiction,14091,9036
 2018-06,South Gloucestershire,Adult Graphic Novel,83,73
 2018-06,South Gloucestershire,Adult Non Fiction,3683,5228
 2018-06,South Gloucestershire,Adult Spoken Word,763,209
 2018-06,South Gloucestershire,B.O.P.,258,389
 2018-06,South Gloucestershire,Boxed Set 12 DVD,6,6
-2018-06,South Gloucestershire,Boxed Set 15 DVD,24,5
+2018-06,South Gloucestershire,Boxed Set 15 DVD,23,5
 2018-06,South Gloucestershire,Boxed Set 18 DVD,4,5
 2018-06,South Gloucestershire,Boxed Set PG DVD,1,0
 2018-06,South Gloucestershire,Boxed Set U DVD,5,0
@@ -863,7 +863,7 @@ month_issued,authority,item_type,issues,renewals
 2018-06,South Gloucestershire,Equipment,19,22
 2018-06,South Gloucestershire,Fastrack,397,252
 2018-06,South Gloucestershire,Language Course,20,34
-2018-06,South Gloucestershire,Large Print - Adult Fiction,1558,546
+2018-06,South Gloucestershire,Large Print - Adult Fiction,1553,544
 2018-06,South Gloucestershire,Large Print - Adult Non Fiction,99,58
 2018-06,South Gloucestershire,Large Print - Children,23,18
 2018-06,South Gloucestershire,Music CD,65,14
@@ -940,7 +940,7 @@ month_issued,authority,item_type,issues,renewals
 2018-07,Dorset,18 DVD Standard,20,1
 2018-07,Dorset,Adult Fiction,34434,11822
 2018-07,Dorset,Adult Graphic Novel,87,54
-2018-07,Dorset,Adult Non Fiction,8103,7421
+2018-07,Dorset,Adult Non Fiction,8103,7422
 2018-07,Dorset,Adult Reference,1,12
 2018-07,Dorset,Adult Spoken Word,1863,335
 2018-07,Dorset,B.O.P.,37,32
@@ -963,7 +963,7 @@ month_issued,authority,item_type,issues,renewals
 2018-07,Dorset,PG DVD Standard,162,2
 2018-07,Dorset,Reading Group Set,1585,33
 2018-07,Dorset,U DVD Standard,124,2
-2018-07,Dorset,YA / Teen Fiction,1319,894
+2018-07,Dorset,YA / Teen Fiction,1318,894
 2018-07,Dorset,YA / Teen Non Fiction,68,50
 2018-07,North Somerset,12 DVD Standard,128,0
 2018-07,North Somerset,15 DVD Standard,125,2
@@ -1029,7 +1029,7 @@ month_issued,authority,item_type,issues,renewals
 2018-07,Somerset,18 DVD Standard,19,1
 2018-07,Somerset,Adult Fiction,37030,20258
 2018-07,Somerset,Adult Graphic Novel,316,200
-2018-07,Somerset,Adult Non Fiction,10700,13949
+2018-07,Somerset,Adult Non Fiction,10700,13950
 2018-07,Somerset,Adult Reference,3,0
 2018-07,Somerset,Adult Spoken Word,1755,600
 2018-07,Somerset,B.O.P.,313,451
@@ -1080,8 +1080,8 @@ month_issued,authority,item_type,issues,renewals
 2018-07,South Gloucestershire,Fastrack,481,286
 2018-07,South Gloucestershire,ILL,1,0
 2018-07,South Gloucestershire,Language Course,17,28
-2018-07,South Gloucestershire,Large Print - Adult Fiction,1854,702
-2018-07,South Gloucestershire,Large Print - Adult Non Fiction,107,44
+2018-07,South Gloucestershire,Large Print - Adult Fiction,1849,697
+2018-07,South Gloucestershire,Large Print - Adult Non Fiction,106,43
 2018-07,South Gloucestershire,Large Print - Children,67,49
 2018-07,South Gloucestershire,Music CD,85,31
 2018-07,South Gloucestershire,Music Score,9,17
@@ -1122,9 +1122,9 @@ month_issued,authority,item_type,issues,renewals
 2018-08,Bristol,12 DVD Standard,491,9
 2018-08,Bristol,15 DVD Standard,695,9
 2018-08,Bristol,18 DVD Standard,82,1
-2018-08,Bristol,Adult Fiction,21522,17403
+2018-08,Bristol,Adult Fiction,21522,17405
 2018-08,Bristol,Adult Graphic Novel,1133,982
-2018-08,Bristol,Adult Non Fiction,11142,20324
+2018-08,Bristol,Adult Non Fiction,11142,20328
 2018-08,Bristol,Adult Reference,1,0
 2018-08,Bristol,Adult Spoken Word,1060,394
 2018-08,Bristol,B.O.P.,121,238
@@ -1243,7 +1243,7 @@ month_issued,authority,item_type,issues,renewals
 2018-08,Poole,YA / Teen Fiction,703,527
 2018-08,Poole,YA / Teen Non Fiction,90,45
 2018-08,Somerset,12 DVD Standard,549,22
-2018-08,Somerset,15 DVD Standard,608,16
+2018-08,Somerset,15 DVD Standard,607,16
 2018-08,Somerset,18 DVD Standard,55,3
 2018-08,Somerset,Adult Fiction,39307,23149
 2018-08,Somerset,Adult Graphic Novel,342,281
@@ -1252,7 +1252,7 @@ month_issued,authority,item_type,issues,renewals
 2018-08,Somerset,Adult Spoken Word,1892,550
 2018-08,Somerset,B.O.P.,317,357
 2018-08,Somerset,Boxed Set 12 DVD,7,0
-2018-08,Somerset,Boxed Set 15 DVD,29,6
+2018-08,Somerset,Boxed Set 15 DVD,30,6
 2018-08,Somerset,Boxed Set 18 DVD,10,0
 2018-08,Somerset,Boxed Set PG DVD,5,0
 2018-08,Somerset,Child Fiction,56783,31129
@@ -1297,7 +1297,7 @@ month_issued,authority,item_type,issues,renewals
 2018-08,South Gloucestershire,Equipment,16,6
 2018-08,South Gloucestershire,Fastrack,473,251
 2018-08,South Gloucestershire,Language Course,25,63
-2018-08,South Gloucestershire,Large Print - Adult Fiction,1812,779
+2018-08,South Gloucestershire,Large Print - Adult Fiction,1810,777
 2018-08,South Gloucestershire,Large Print - Adult Non Fiction,95,34
 2018-08,South Gloucestershire,Large Print - Children,70,46
 2018-08,South Gloucestershire,Music CD,52,34
@@ -1340,9 +1340,9 @@ month_issued,authority,item_type,issues,renewals
 2018-09,Bristol,12 DVD Standard,457,9
 2018-09,Bristol,15 DVD Standard,622,15
 2018-09,Bristol,18 DVD Standard,42,0
-2018-09,Bristol,Adult Fiction,19355,15402
+2018-09,Bristol,Adult Fiction,19355,15403
 2018-09,Bristol,Adult Graphic Novel,968,751
-2018-09,Bristol,Adult Non Fiction,10550,18544
+2018-09,Bristol,Adult Non Fiction,10550,18547
 2018-09,Bristol,Adult Reference,5,10
 2018-09,Bristol,Adult Spoken Word,1009,411
 2018-09,Bristol,B.O.P.,109,215
@@ -1383,7 +1383,7 @@ month_issued,authority,item_type,issues,renewals
 2018-09,Dorset,Boxed Set 12 DVD,1,0
 2018-09,Dorset,Boxed Set 15 DVD,13,0
 2018-09,Dorset,Boxed Set 18 DVD,6,0
-2018-09,Dorset,Child Fiction,16685,5734
+2018-09,Dorset,Child Fiction,16681,5734
 2018-09,Dorset,Child Non Fiction,2255,1557
 2018-09,Dorset,Child Spoken Word,210,35
 2018-09,Dorset,Classification Exempt,35,0
@@ -1460,7 +1460,7 @@ month_issued,authority,item_type,issues,renewals
 2018-09,Somerset,12 DVD Standard,524,20
 2018-09,Somerset,15 DVD Standard,524,21
 2018-09,Somerset,18 DVD Standard,32,1
-2018-09,Somerset,Adult Fiction,33255,20180
+2018-09,Somerset,Adult Fiction,33255,20181
 2018-09,Somerset,Adult Graphic Novel,250,236
 2018-09,Somerset,Adult Non Fiction,10694,14858
 2018-09,Somerset,Adult Reference,3,1
@@ -1494,7 +1494,7 @@ month_issued,authority,item_type,issues,renewals
 2018-09,South Gloucestershire,18 DVD Standard,25,4
 2018-09,South Gloucestershire,Adult Fiction,14160,9893
 2018-09,South Gloucestershire,Adult Graphic Novel,71,67
-2018-09,South Gloucestershire,Adult Non Fiction,3871,5634
+2018-09,South Gloucestershire,Adult Non Fiction,3871,5635
 2018-09,South Gloucestershire,Adult Spoken Word,618,168
 2018-09,South Gloucestershire,B.O.P.,175,289
 2018-09,South Gloucestershire,Boxed Set 12 DVD,8,10
@@ -1502,7 +1502,7 @@ month_issued,authority,item_type,issues,renewals
 2018-09,South Gloucestershire,Boxed Set 18 DVD,13,6
 2018-09,South Gloucestershire,Boxed Set PG DVD,4,1
 2018-09,South Gloucestershire,Boxed Set U DVD,12,2
-2018-09,South Gloucestershire,Child Fiction,16651,8588
+2018-09,South Gloucestershire,Child Fiction,16650,8586
 2018-09,South Gloucestershire,Child Non Fiction,1951,1637
 2018-09,South Gloucestershire,Child Spoken Word,319,204
 2018-09,South Gloucestershire,Classification Exempt,5,2
@@ -1553,7 +1553,7 @@ month_issued,authority,item_type,issues,renewals
 2018-10,Bristol,12 DVD Standard,439,8
 2018-10,Bristol,15 DVD Standard,641,6
 2018-10,Bristol,18 DVD Standard,52,0
-2018-10,Bristol,Adult Fiction,20690,15926
+2018-10,Bristol,Adult Fiction,20694,15927
 2018-10,Bristol,Adult Graphic Novel,1028,877
 2018-10,Bristol,Adult Non Fiction,10959,20088
 2018-10,Bristol,Adult Reference,2,2
@@ -1564,14 +1564,14 @@ month_issued,authority,item_type,issues,renewals
 2018-10,Bristol,Boxed Set 18 DVD,23,0
 2018-10,Bristol,Boxed Set PG DVD,5,0
 2018-10,Bristol,Boxed Set U DVD,3,0
-2018-10,Bristol,Child Fiction,30204,17881
+2018-10,Bristol,Child Fiction,30204,17882
 2018-10,Bristol,Child Non Fiction,2993,2755
 2018-10,Bristol,Child Spoken Word,345,226
 2018-10,Bristol,Classification Exempt,11,0
 2018-10,Bristol,Drama Set,14,4
 2018-10,Bristol,Drama single copy,67,167
 2018-10,Bristol,Equipment,22,23
-2018-10,Bristol,Fastrack,28,3
+2018-10,Bristol,Fastrack,24,3
 2018-10,Bristol,Language Course,40,40
 2018-10,Bristol,Large Print - Adult Fiction,919,530
 2018-10,Bristol,Large Print - Adult Non Fiction,70,60
@@ -1586,7 +1586,7 @@ month_issued,authority,item_type,issues,renewals
 2018-10,Dorset,12 DVD Standard,291,4
 2018-10,Dorset,15 DVD Standard,250,5
 2018-10,Dorset,18 DVD Standard,22,0
-2018-10,Dorset,Adult Fiction,33622,12575
+2018-10,Dorset,Adult Fiction,33621,12566
 2018-10,Dorset,Adult Graphic Novel,97,67
 2018-10,Dorset,Adult Non Fiction,9001,8992
 2018-10,Dorset,Adult Reference,4,0
@@ -1712,7 +1712,7 @@ month_issued,authority,item_type,issues,renewals
 2018-10,South Gloucestershire,18 DVD Standard,12,1
 2018-10,South Gloucestershire,Adult Fiction,15604,10519
 2018-10,South Gloucestershire,Adult Graphic Novel,87,65
-2018-10,South Gloucestershire,Adult Non Fiction,4264,6830
+2018-10,South Gloucestershire,Adult Non Fiction,4264,6831
 2018-10,South Gloucestershire,Adult Spoken Word,822,196
 2018-10,South Gloucestershire,B.O.P.,160,255
 2018-10,South Gloucestershire,Boxed Set 12 DVD,4,3
@@ -1729,8 +1729,8 @@ month_issued,authority,item_type,issues,renewals
 2018-10,South Gloucestershire,Equipment,12,18
 2018-10,South Gloucestershire,Fastrack,504,306
 2018-10,South Gloucestershire,Language Course,11,33
-2018-10,South Gloucestershire,Large Print - Adult Fiction,1808,728
-2018-10,South Gloucestershire,Large Print - Adult Non Fiction,106,65
+2018-10,South Gloucestershire,Large Print - Adult Fiction,1802,728
+2018-10,South Gloucestershire,Large Print - Adult Non Fiction,103,65
 2018-10,South Gloucestershire,Large Print - Children,31,36
 2018-10,South Gloucestershire,Music CD,84,31
 2018-10,South Gloucestershire,Music Score,3,41
@@ -1772,12 +1772,12 @@ month_issued,authority,item_type,issues,renewals
 2018-11,Bristol,12 DVD Standard,407,3
 2018-11,Bristol,15 DVD Standard,590,23
 2018-11,Bristol,18 DVD Standard,66,1
-2018-11,Bristol,Adult Fiction,19255,14830
+2018-11,Bristol,Adult Fiction,19259,14833
 2018-11,Bristol,Adult Graphic Novel,825,760
-2018-11,Bristol,Adult Non Fiction,9840,17014
+2018-11,Bristol,Adult Non Fiction,9840,17016
 2018-11,Bristol,Adult Reference,1,1
 2018-11,Bristol,Adult Spoken Word,969,331
-2018-11,Bristol,B.O.P.,92,158
+2018-11,Bristol,B.O.P.,92,159
 2018-11,Bristol,Boxed Set 12 DVD,15,0
 2018-11,Bristol,Boxed Set 15 DVD,34,1
 2018-11,Bristol,Boxed Set 18 DVD,23,0
@@ -1791,7 +1791,7 @@ month_issued,authority,item_type,issues,renewals
 2018-11,Bristol,Drama Set,24,8
 2018-11,Bristol,Drama single copy,59,46
 2018-11,Bristol,Equipment,16,5
-2018-11,Bristol,Fastrack,31,3
+2018-11,Bristol,Fastrack,27,1
 2018-11,Bristol,Language Course,36,40
 2018-11,Bristol,Large Print - Adult Fiction,929,531
 2018-11,Bristol,Large Print - Adult Non Fiction,59,50
@@ -1869,7 +1869,7 @@ month_issued,authority,item_type,issues,renewals
 2018-11,Poole,18 DVD Standard,9,5
 2018-11,Poole,Adult Fiction,10523,6369
 2018-11,Poole,Adult Graphic Novel,17,4
-2018-11,Poole,Adult Non Fiction,3094,3998
+2018-11,Poole,Adult Non Fiction,3094,3999
 2018-11,Poole,Adult Spoken Word,587,227
 2018-11,Poole,B.O.P.,44,36
 2018-11,Poole,Boxed Set 12 DVD,5,1
@@ -1990,9 +1990,9 @@ month_issued,authority,item_type,issues,renewals
 2018-12,Bristol,12 DVD Standard,447,15
 2018-12,Bristol,15 DVD Standard,571,14
 2018-12,Bristol,18 DVD Standard,49,2
-2018-12,Bristol,Adult Fiction,17406,14106
+2018-12,Bristol,Adult Fiction,17409,14108
 2018-12,Bristol,Adult Graphic Novel,671,625
-2018-12,Bristol,Adult Non Fiction,7981,14329
+2018-12,Bristol,Adult Non Fiction,7981,14333
 2018-12,Bristol,Adult Spoken Word,865,347
 2018-12,Bristol,B.O.P.,76,127
 2018-12,Bristol,Boxed Set 12 DVD,13,1
@@ -2007,7 +2007,7 @@ month_issued,authority,item_type,issues,renewals
 2018-12,Bristol,Drama Set,21,2
 2018-12,Bristol,Drama single copy,79,100
 2018-12,Bristol,Equipment,23,39
-2018-12,Bristol,Fastrack,24,0
+2018-12,Bristol,Fastrack,21,0
 2018-12,Bristol,Language Course,31,15
 2018-12,Bristol,Large Print - Adult Fiction,718,449
 2018-12,Bristol,Large Print - Adult Non Fiction,64,67
@@ -2204,9 +2204,9 @@ month_issued,authority,item_type,issues,renewals
 2019-01,Bristol,12 DVD Standard,471,10
 2019-01,Bristol,15 DVD Standard,638,13
 2019-01,Bristol,18 DVD Standard,32,1
-2019-01,Bristol,Adult Fiction,20089,15336
+2019-01,Bristol,Adult Fiction,20089,15338
 2019-01,Bristol,Adult Graphic Novel,843,684
-2019-01,Bristol,Adult Non Fiction,11513,21328
+2019-01,Bristol,Adult Non Fiction,11512,21332
 2019-01,Bristol,Adult Reference,1,4
 2019-01,Bristol,Adult Spoken Word,1101,454
 2019-01,Bristol,B.O.P.,147,299
@@ -2224,8 +2224,8 @@ month_issued,authority,item_type,issues,renewals
 2019-01,Bristol,Equipment,6,11
 2019-01,Bristol,Fastrack,13,0
 2019-01,Bristol,Language Course,33,33
-2019-01,Bristol,Large Print - Adult Fiction,980,564
-2019-01,Bristol,Large Print - Adult Non Fiction,86,106
+2019-01,Bristol,Large Print - Adult Fiction,971,564
+2019-01,Bristol,Large Print - Adult Non Fiction,84,106
 2019-01,Bristol,Large Print - Children,51,55
 2019-01,Bristol,Music CD,369,83
 2019-01,Bristol,Music Score,174,489
@@ -2305,7 +2305,7 @@ month_issued,authority,item_type,issues,renewals
 2019-01,Poole,Boxed Set 18 DVD,6,3
 2019-01,Poole,Boxed Set PG DVD,1,0
 2019-01,Poole,Boxed Set U DVD,2,0
-2019-01,Poole,Child Fiction,8619,3833
+2019-01,Poole,Child Fiction,8618,3833
 2019-01,Poole,Child Non Fiction,1075,604
 2019-01,Poole,Child Spoken Word,87,67
 2019-01,Poole,Classification Exempt,5,7
@@ -2356,11 +2356,11 @@ month_issued,authority,item_type,issues,renewals
 2019-01,Somerset,YA / Teen Fiction,953,1321
 2019-01,Somerset,YA / Teen Non Fiction,32,55
 2019-01,South Gloucestershire,12 DVD Standard,286,30
-2019-01,South Gloucestershire,15 DVD Standard,283,33
+2019-01,South Gloucestershire,15 DVD Standard,283,34
 2019-01,South Gloucestershire,18 DVD Standard,18,1
 2019-01,South Gloucestershire,Adult Fiction,14676,9014
 2019-01,South Gloucestershire,Adult Graphic Novel,98,109
-2019-01,South Gloucestershire,Adult Non Fiction,4322,6863
+2019-01,South Gloucestershire,Adult Non Fiction,4322,6864
 2019-01,South Gloucestershire,Adult Spoken Word,762,193
 2019-01,South Gloucestershire,B.O.P.,190,303
 2019-01,South Gloucestershire,Boxed Set 12 DVD,8,1
@@ -2377,7 +2377,7 @@ month_issued,authority,item_type,issues,renewals
 2019-01,South Gloucestershire,Fastrack,499,277
 2019-01,South Gloucestershire,ILL,4,0
 2019-01,South Gloucestershire,Language Course,21,30
-2019-01,South Gloucestershire,Large Print - Adult Fiction,1624,696
+2019-01,South Gloucestershire,Large Print - Adult Fiction,1618,687
 2019-01,South Gloucestershire,Large Print - Adult Non Fiction,80,62
 2019-01,South Gloucestershire,Large Print - Children,18,18
 2019-01,South Gloucestershire,Music CD,106,58
@@ -2420,7 +2420,7 @@ month_issued,authority,item_type,issues,renewals
 2019-02,Bristol,18 DVD Standard,47,1
 2019-02,Bristol,Adult Fiction,18310,14282
 2019-02,Bristol,Adult Graphic Novel,770,766
-2019-02,Bristol,Adult Non Fiction,10298,18091
+2019-02,Bristol,Adult Non Fiction,10298,18094
 2019-02,Bristol,Adult Reference,1,2
 2019-02,Bristol,Adult Spoken Word,969,368
 2019-02,Bristol,B.O.P.,88,163
@@ -2439,20 +2439,20 @@ month_issued,authority,item_type,issues,renewals
 2019-02,Bristol,Equipment,9,4
 2019-02,Bristol,Fastrack,21,0
 2019-02,Bristol,Language Course,43,30
-2019-02,Bristol,Large Print - Adult Fiction,862,479
-2019-02,Bristol,Large Print - Adult Non Fiction,83,46
+2019-02,Bristol,Large Print - Adult Fiction,859,479
+2019-02,Bristol,Large Print - Adult Non Fiction,82,46
 2019-02,Bristol,Large Print - Children,61,45
 2019-02,Bristol,Music CD,390,64
 2019-02,Bristol,Music Score,104,347
 2019-02,Bristol,PG DVD Standard,282,6
 2019-02,Bristol,Reading Group Set,8,1
 2019-02,Bristol,U DVD Standard,348,7
-2019-02,Bristol,YA / Teen Fiction,965,1165
+2019-02,Bristol,YA / Teen Fiction,965,1166
 2019-02,Bristol,YA / Teen Non Fiction,77,177
 2019-02,Dorset,12 DVD Standard,301,0
 2019-02,Dorset,15 DVD Standard,242,1
 2019-02,Dorset,18 DVD Standard,14,0
-2019-02,Dorset,Adult Fiction,30155,10680
+2019-02,Dorset,Adult Fiction,30155,10681
 2019-02,Dorset,Adult Graphic Novel,48,24
 2019-02,Dorset,Adult Non Fiction,8318,8040
 2019-02,Dorset,Adult Reference,8,1
@@ -2462,7 +2462,7 @@ month_issued,authority,item_type,issues,renewals
 2019-02,Dorset,Boxed Set 15 DVD,15,1
 2019-02,Dorset,Boxed Set 18 DVD,7,0
 2019-02,Dorset,Boxed Set U DVD,1,0
-2019-02,Dorset,Child Fiction,14588,5026
+2019-02,Dorset,Child Fiction,14587,5026
 2019-02,Dorset,Child Non Fiction,2009,1059
 2019-02,Dorset,Child Spoken Word,205,57
 2019-02,Dorset,Classification Exempt,20,0
@@ -2477,7 +2477,7 @@ month_issued,authority,item_type,issues,renewals
 2019-02,Dorset,PG DVD Standard,140,0
 2019-02,Dorset,Reading Group Set,1598,27
 2019-02,Dorset,U DVD Standard,98,0
-2019-02,Dorset,YA / Teen Fiction,872,558
+2019-02,Dorset,YA / Teen Fiction,871,558
 2019-02,Dorset,YA / Teen Non Fiction,43,38
 2019-02,North Somerset,12 DVD Standard,146,1
 2019-02,North Somerset,15 DVD Standard,152,0
@@ -2538,16 +2538,16 @@ month_issued,authority,item_type,issues,renewals
 2019-02,Poole,YA / Teen Fiction,339,276
 2019-02,Poole,YA / Teen Non Fiction,56,42
 2019-02,Somerset,12 DVD Standard,432,18
-2019-02,Somerset,15 DVD Standard,512,12
+2019-02,Somerset,15 DVD Standard,511,12
 2019-02,Somerset,18 DVD Standard,43,1
 2019-02,Somerset,Adult Fiction,33926,19934
 2019-02,Somerset,Adult Graphic Novel,200,145
-2019-02,Somerset,Adult Non Fiction,10244,14185
+2019-02,Somerset,Adult Non Fiction,10244,14187
 2019-02,Somerset,Adult Reference,1,0
 2019-02,Somerset,Adult Spoken Word,1699,555
 2019-02,Somerset,B.O.P.,212,269
 2019-02,Somerset,Boxed Set 12 DVD,12,4
-2019-02,Somerset,Boxed Set 15 DVD,23,8
+2019-02,Somerset,Boxed Set 15 DVD,24,8
 2019-02,Somerset,Boxed Set 18 DVD,15,1
 2019-02,Somerset,Boxed Set PG DVD,3,1
 2019-02,Somerset,Boxed Set U DVD,1,0
@@ -2617,7 +2617,7 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Bath and North East Somerset,Boxed Set 12 DVD,2,0
 2019-03,Bath and North East Somerset,Boxed Set 15 DVD,11,0
 2019-03,Bath and North East Somerset,Boxed Set 18 DVD,11,0
-2019-03,Bath and North East Somerset,Child Fiction,9160,6607
+2019-03,Bath and North East Somerset,Child Fiction,9160,6609
 2019-03,Bath and North East Somerset,Child Non Fiction,936,925
 2019-03,Bath and North East Somerset,Child Spoken Word,191,184
 2019-03,Bath and North East Somerset,Classification Exempt,12,3
@@ -2638,9 +2638,9 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Bristol,12 DVD Standard,444,12
 2019-03,Bristol,15 DVD Standard,582,20
 2019-03,Bristol,18 DVD Standard,78,2
-2019-03,Bristol,Adult Fiction,20169,15063
+2019-03,Bristol,Adult Fiction,20169,15067
 2019-03,Bristol,Adult Graphic Novel,927,929
-2019-03,Bristol,Adult Non Fiction,11084,20137
+2019-03,Bristol,Adult Non Fiction,11084,20150
 2019-03,Bristol,Adult Reference,3,4
 2019-03,Bristol,Adult Spoken Word,1054,406
 2019-03,Bristol,B.O.P.,107,183
@@ -2651,7 +2651,7 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Bristol,Boxed Set PG DVD,1,0
 2019-03,Bristol,Boxed Set U DVD,3,0
 2019-03,Bristol,Child Fiction,29769,16770
-2019-03,Bristol,Child Non Fiction,2797,2356
+2019-03,Bristol,Child Non Fiction,2796,2356
 2019-03,Bristol,Child Spoken Word,317,240
 2019-03,Bristol,Classification Exempt,7,0
 2019-03,Bristol,Drama Set,21,8
@@ -2659,7 +2659,7 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Bristol,Equipment,8,16
 2019-03,Bristol,Fastrack,23,0
 2019-03,Bristol,Language Course,43,48
-2019-03,Bristol,Large Print - Adult Fiction,975,572
+2019-03,Bristol,Large Print - Adult Fiction,968,572
 2019-03,Bristol,Large Print - Adult Non Fiction,76,107
 2019-03,Bristol,Large Print - Children,59,47
 2019-03,Bristol,Music CD,383,68
@@ -2672,9 +2672,9 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Dorset,12 DVD Standard,257,5
 2019-03,Dorset,15 DVD Standard,215,1
 2019-03,Dorset,18 DVD Standard,22,0
-2019-03,Dorset,Adult Fiction,33296,12495
+2019-03,Dorset,Adult Fiction,33296,12496
 2019-03,Dorset,Adult Graphic Novel,56,48
-2019-03,Dorset,Adult Non Fiction,9132,8378
+2019-03,Dorset,Adult Non Fiction,9132,8380
 2019-03,Dorset,Adult Reference,11,3
 2019-03,Dorset,Adult Spoken Word,2015,400
 2019-03,Dorset,B.O.P.,38,49
@@ -2682,7 +2682,7 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Dorset,Boxed Set 15 DVD,10,1
 2019-03,Dorset,Boxed Set 18 DVD,7,0
 2019-03,Dorset,Boxed Set PG DVD,2,0
-2019-03,Dorset,Child Fiction,14750,6134
+2019-03,Dorset,Child Fiction,14748,6134
 2019-03,Dorset,Child Non Fiction,1905,1282
 2019-03,Dorset,Child Reference,1,0
 2019-03,Dorset,Child Spoken Word,225,96
@@ -2733,15 +2733,15 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Poole,12 DVD Standard,145,5
 2019-03,Poole,15 DVD Standard,156,7
 2019-03,Poole,18 DVD Standard,17,2
-2019-03,Poole,Adult Fiction,10733,6294
+2019-03,Poole,Adult Fiction,10733,6295
 2019-03,Poole,Adult Graphic Novel,21,7
-2019-03,Poole,Adult Non Fiction,3381,4259
+2019-03,Poole,Adult Non Fiction,3381,4260
 2019-03,Poole,Adult Spoken Word,601,150
 2019-03,Poole,B.O.P.,44,13
 2019-03,Poole,Boxed Set 12 DVD,7,0
 2019-03,Poole,Boxed Set 15 DVD,21,2
 2019-03,Poole,Boxed Set 18 DVD,5,2
-2019-03,Poole,Child Fiction,8743,3579
+2019-03,Poole,Child Fiction,8742,3580
 2019-03,Poole,Child Non Fiction,1058,584
 2019-03,Poole,Child Spoken Word,89,46
 2019-03,Poole,Classification Exempt,1,0
@@ -2759,21 +2759,21 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Poole,YA / Teen Fiction,277,198
 2019-03,Poole,YA / Teen Non Fiction,45,39
 2019-03,Somerset,12 DVD Standard,560,16
-2019-03,Somerset,15 DVD Standard,504,25
+2019-03,Somerset,15 DVD Standard,502,25
 2019-03,Somerset,18 DVD Standard,52,0
 2019-03,Somerset,Adult Fiction,37829,21277
 2019-03,Somerset,Adult Graphic Novel,231,209
-2019-03,Somerset,Adult Non Fiction,11138,14806
+2019-03,Somerset,Adult Non Fiction,11138,14809
 2019-03,Somerset,Adult Reference,3,0
 2019-03,Somerset,Adult Spoken Word,1922,761
 2019-03,Somerset,B.O.P.,236,271
 2019-03,Somerset,Boxed Set 12 DVD,6,0
-2019-03,Somerset,Boxed Set 15 DVD,26,0
+2019-03,Somerset,Boxed Set 15 DVD,28,0
 2019-03,Somerset,Boxed Set 18 DVD,10,1
 2019-03,Somerset,Boxed Set PG DVD,2,3
 2019-03,Somerset,Boxed Set U DVD,2,0
-2019-03,Somerset,Child Fiction,28637,18648
-2019-03,Somerset,Child Non Fiction,3016,2972
+2019-03,Somerset,Child Fiction,28637,18650
+2019-03,Somerset,Child Non Fiction,3015,2972
 2019-03,Somerset,Child Spoken Word,313,199
 2019-03,Somerset,Classification Exempt,7,0
 2019-03,Somerset,Drama single copy,475,41
@@ -2783,19 +2783,19 @@ month_issued,authority,item_type,issues,renewals
 2019-03,Somerset,Large Print - Adult Non Fiction,268,200
 2019-03,Somerset,Large Print - Children,20,33
 2019-03,Somerset,Music CD,82,17
-2019-03,Somerset,Music Score,162,305
+2019-03,Somerset,Music Score,162,306
 2019-03,Somerset,Music Set,73,2
 2019-03,Somerset,PG DVD Standard,300,10
 2019-03,Somerset,Reading Group Set,3,0
 2019-03,Somerset,U DVD Standard,246,19
 2019-03,Somerset,YA / Teen Fiction,1211,1262
-2019-03,Somerset,YA / Teen Non Fiction,30,34
+2019-03,Somerset,YA / Teen Non Fiction,31,34
 2019-03,South Gloucestershire,12 DVD Standard,282,20
 2019-03,South Gloucestershire,15 DVD Standard,258,59
 2019-03,South Gloucestershire,18 DVD Standard,30,1
 2019-03,South Gloucestershire,Adult Fiction,14430,9210
 2019-03,South Gloucestershire,Adult Graphic Novel,84,51
-2019-03,South Gloucestershire,Adult Non Fiction,4540,6815
+2019-03,South Gloucestershire,Adult Non Fiction,4540,6819
 2019-03,South Gloucestershire,Adult Reference,1,0
 2019-03,South Gloucestershire,Adult Spoken Word,746,272
 2019-03,South Gloucestershire,B.O.P.,162,220
@@ -2829,7 +2829,7 @@ month_issued,authority,item_type,issues,renewals
 2019-04,Bath and North East Somerset,18 DVD Standard,12,0
 2019-04,Bath and North East Somerset,Adult Fiction,8189,5182
 2019-04,Bath and North East Somerset,Adult Graphic Novel,71,103
-2019-04,Bath and North East Somerset,Adult Non Fiction,3526,5568
+2019-04,Bath and North East Somerset,Adult Non Fiction,3526,5570
 2019-04,Bath and North East Somerset,Adult Reference,2,0
 2019-04,Bath and North East Somerset,Adult Spoken Word,393,134
 2019-04,Bath and North East Somerset,B.O.P.,30,46
@@ -2860,9 +2860,9 @@ month_issued,authority,item_type,issues,renewals
 2019-04,Bristol,12 DVD Standard,462,7
 2019-04,Bristol,15 DVD Standard,478,10
 2019-04,Bristol,18 DVD Standard,51,2
-2019-04,Bristol,Adult Fiction,19897,14719
+2019-04,Bristol,Adult Fiction,19898,14725
 2019-04,Bristol,Adult Graphic Novel,899,744
-2019-04,Bristol,Adult Non Fiction,10644,18623
+2019-04,Bristol,Adult Non Fiction,10644,18625
 2019-04,Bristol,Adult Reference,1,0
 2019-04,Bristol,Adult Spoken Word,1059,436
 2019-04,Bristol,B.O.P.,80,135
@@ -2871,17 +2871,17 @@ month_issued,authority,item_type,issues,renewals
 2019-04,Bristol,Boxed Set 18 DVD,17,0
 2019-04,Bristol,Boxed Set PG DVD,3,1
 2019-04,Bristol,Boxed Set U DVD,4,0
-2019-04,Bristol,Child Fiction,27594,16576
+2019-04,Bristol,Child Fiction,27594,16577
 2019-04,Bristol,Child Non Fiction,2699,2612
 2019-04,Bristol,Child Spoken Word,434,305
 2019-04,Bristol,Classification Exempt,3,1
 2019-04,Bristol,Drama Set,14,26
 2019-04,Bristol,Drama single copy,105,144
 2019-04,Bristol,Equipment,13,26
-2019-04,Bristol,Fastrack,27,2
+2019-04,Bristol,Fastrack,26,2
 2019-04,Bristol,Language Course,37,53
-2019-04,Bristol,Large Print - Adult Fiction,979,539
-2019-04,Bristol,Large Print - Adult Non Fiction,77,64
+2019-04,Bristol,Large Print - Adult Fiction,971,539
+2019-04,Bristol,Large Print - Adult Non Fiction,75,64
 2019-04,Bristol,Large Print - Children,53,42
 2019-04,Bristol,Music CD,278,78
 2019-04,Bristol,Music Score,165,567
@@ -2895,7 +2895,7 @@ month_issued,authority,item_type,issues,renewals
 2019-04,Dorset,18 DVD Standard,15,1
 2019-04,Dorset,Adult Fiction,31489,11363
 2019-04,Dorset,Adult Graphic Novel,44,26
-2019-04,Dorset,Adult Non Fiction,8071,8374
+2019-04,Dorset,Adult Non Fiction,8071,8375
 2019-04,Dorset,Adult Reference,8,0
 2019-04,Dorset,Adult Spoken Word,2017,413
 2019-04,Dorset,B.O.P.,40,37
@@ -2903,7 +2903,7 @@ month_issued,authority,item_type,issues,renewals
 2019-04,Dorset,Boxed Set 15 DVD,7,0
 2019-04,Dorset,Boxed Set 18 DVD,7,0
 2019-04,Dorset,Boxed Set U DVD,1,0
-2019-04,Dorset,Child Fiction,14705,5719
+2019-04,Dorset,Child Fiction,14706,5720
 2019-04,Dorset,Child Non Fiction,1864,1201
 2019-04,Dorset,Child Spoken Word,284,39
 2019-04,Dorset,Classification Exempt,31,0
@@ -2918,14 +2918,14 @@ month_issued,authority,item_type,issues,renewals
 2019-04,Dorset,PG DVD Standard,115,3
 2019-04,Dorset,Reading Group Set,1719,48
 2019-04,Dorset,U DVD Standard,82,0
-2019-04,Dorset,YA / Teen Fiction,969,556
+2019-04,Dorset,YA / Teen Fiction,968,555
 2019-04,Dorset,YA / Teen Non Fiction,53,77
 2019-04,North Somerset,12 DVD Standard,175,1
 2019-04,North Somerset,15 DVD Standard,95,2
 2019-04,North Somerset,18 DVD Standard,12,1
-2019-04,North Somerset,Adult Fiction,12769,7026
+2019-04,North Somerset,Adult Fiction,12769,7028
 2019-04,North Somerset,Adult Graphic Novel,76,108
-2019-04,North Somerset,Adult Non Fiction,3460,4420
+2019-04,North Somerset,Adult Non Fiction,3460,4422
 2019-04,North Somerset,Adult Spoken Word,951,244
 2019-04,North Somerset,B.O.P.,100,98
 2019-04,North Somerset,Boxed Set 12 DVD,1,0
@@ -2979,7 +2979,7 @@ month_issued,authority,item_type,issues,renewals
 2019-04,Somerset,18 DVD Standard,30,2
 2019-04,Somerset,Adult Fiction,37855,20454
 2019-04,Somerset,Adult Graphic Novel,238,214
-2019-04,Somerset,Adult Non Fiction,10594,13652
+2019-04,Somerset,Adult Non Fiction,10594,13653
 2019-04,Somerset,Adult Reference,3,0
 2019-04,Somerset,Adult Spoken Word,1858,805
 2019-04,Somerset,B.O.P.,215,344
@@ -3006,13 +3006,13 @@ month_issued,authority,item_type,issues,renewals
 2019-04,Somerset,PG DVD Standard,285,8
 2019-04,Somerset,Reading Group Set,6,1
 2019-04,Somerset,U DVD Standard,299,22
-2019-04,Somerset,YA / Teen Fiction,1364,1825
+2019-04,Somerset,YA / Teen Fiction,1364,1826
 2019-04,Somerset,YA / Teen Non Fiction,25,31
 2019-04,South Gloucestershire,Unknown,1,0
 2019-04,South Gloucestershire,12 DVD Standard,299,55
 2019-04,South Gloucestershire,15 DVD Standard,202,50
 2019-04,South Gloucestershire,18 DVD Standard,22,2
-2019-04,South Gloucestershire,Adult Fiction,14436,9379
+2019-04,South Gloucestershire,Adult Fiction,14436,9380
 2019-04,South Gloucestershire,Adult Graphic Novel,87,52
 2019-04,South Gloucestershire,Adult Non Fiction,4123,5405
 2019-04,South Gloucestershire,Adult Spoken Word,732,275
@@ -3046,7 +3046,7 @@ month_issued,authority,item_type,issues,renewals
 2019-05,Bath and North East Somerset,18 DVD Standard,7,2
 2019-05,Bath and North East Somerset,Adult Fiction,8447,5374
 2019-05,Bath and North East Somerset,Adult Graphic Novel,68,70
-2019-05,Bath and North East Somerset,Adult Non Fiction,3583,5703
+2019-05,Bath and North East Somerset,Adult Non Fiction,3583,5707
 2019-05,Bath and North East Somerset,Adult Reference,2,0
 2019-05,Bath and North East Somerset,Adult Spoken Word,367,107
 2019-05,Bath and North East Somerset,B.O.P.,36,62
@@ -3077,9 +3077,9 @@ month_issued,authority,item_type,issues,renewals
 2019-05,Bristol,12 DVD Standard,415,10
 2019-05,Bristol,15 DVD Standard,512,11
 2019-05,Bristol,18 DVD Standard,60,3
-2019-05,Bristol,Adult Fiction,20237,15660
+2019-05,Bristol,Adult Fiction,20237,15662
 2019-05,Bristol,Adult Graphic Novel,996,671
-2019-05,Bristol,Adult Non Fiction,10868,18979
+2019-05,Bristol,Adult Non Fiction,10868,18993
 2019-05,Bristol,Adult Reference,2,0
 2019-05,Bristol,Adult Spoken Word,1037,523
 2019-05,Bristol,B.O.P.,96,222
@@ -3088,16 +3088,16 @@ month_issued,authority,item_type,issues,renewals
 2019-05,Bristol,Boxed Set 18 DVD,19,1
 2019-05,Bristol,Boxed Set PG DVD,5,0
 2019-05,Bristol,Boxed Set U DVD,2,0
-2019-05,Bristol,Child Fiction,26340,16724
+2019-05,Bristol,Child Fiction,26340,16726
 2019-05,Bristol,Child Non Fiction,2764,2627
-2019-05,Bristol,Child Spoken Word,344,265
+2019-05,Bristol,Child Spoken Word,344,266
 2019-05,Bristol,Classification Exempt,4,0
 2019-05,Bristol,Drama Set,29,17
 2019-05,Bristol,Drama single copy,97,148
 2019-05,Bristol,Equipment,12,26
 2019-05,Bristol,Fastrack,14,0
 2019-05,Bristol,Language Course,26,24
-2019-05,Bristol,Large Print - Adult Fiction,933,499
+2019-05,Bristol,Large Print - Adult Fiction,922,499
 2019-05,Bristol,Large Print - Adult Non Fiction,82,51
 2019-05,Bristol,Large Print - Children,57,59
 2019-05,Bristol,Music CD,333,62
@@ -3110,9 +3110,9 @@ month_issued,authority,item_type,issues,renewals
 2019-05,Dorset,12 DVD Standard,219,2
 2019-05,Dorset,15 DVD Standard,181,0
 2019-05,Dorset,18 DVD Standard,9,0
-2019-05,Dorset,Adult Fiction,32647,12910
+2019-05,Dorset,Adult Fiction,32647,12912
 2019-05,Dorset,Adult Graphic Novel,47,51
-2019-05,Dorset,Adult Non Fiction,8467,7931
+2019-05,Dorset,Adult Non Fiction,8467,7933
 2019-05,Dorset,Adult Reference,3,0
 2019-05,Dorset,Adult Spoken Word,2082,537
 2019-05,Dorset,B.O.P.,40,45
@@ -3144,7 +3144,7 @@ month_issued,authority,item_type,issues,renewals
 2019-05,North Somerset,Adult Fiction,12793,6881
 2019-05,North Somerset,Adult Graphic Novel,69,86
 2019-05,North Somerset,Adult Non Fiction,3524,4455
-2019-05,North Somerset,Adult Spoken Word,960,323
+2019-05,North Somerset,Adult Spoken Word,960,324
 2019-05,North Somerset,B.O.P.,77,102
 2019-05,North Somerset,Boxed Set 12 DVD,1,0
 2019-05,North Somerset,Boxed Set 15 DVD,4,0
@@ -3195,7 +3195,7 @@ month_issued,authority,item_type,issues,renewals
 2019-05,Somerset,18 DVD Standard,28,1
 2019-05,Somerset,Adult Fiction,38030,21735
 2019-05,Somerset,Adult Graphic Novel,236,193
-2019-05,Somerset,Adult Non Fiction,10143,13153
+2019-05,Somerset,Adult Non Fiction,10143,13159
 2019-05,Somerset,Adult Reference,3,5
 2019-05,Somerset,Adult Spoken Word,1837,734
 2019-05,Somerset,B.O.P.,207,214
@@ -3204,7 +3204,7 @@ month_issued,authority,item_type,issues,renewals
 2019-05,Somerset,Boxed Set 18 DVD,5,0
 2019-05,Somerset,Boxed Set EX DVD,1,0
 2019-05,Somerset,Boxed Set PG DVD,3,4
-2019-05,Somerset,Child Fiction,27613,17299
+2019-05,Somerset,Child Fiction,27613,17302
 2019-05,Somerset,Child Non Fiction,2920,3129
 2019-05,Somerset,Child Spoken Word,226,170
 2019-05,Somerset,Classification Exempt,5,1
@@ -3247,7 +3247,7 @@ month_issued,authority,item_type,issues,renewals
 2019-05,South Gloucestershire,Equipment,17,21
 2019-05,South Gloucestershire,Fastrack,598,395
 2019-05,South Gloucestershire,Language Course,6,10
-2019-05,South Gloucestershire,Large Print - Adult Fiction,1557,640
+2019-05,South Gloucestershire,Large Print - Adult Fiction,1554,638
 2019-05,South Gloucestershire,Large Print - Adult Non Fiction,72,39
 2019-05,South Gloucestershire,Large Print - Children,29,27
 2019-05,South Gloucestershire,Music CD,107,12
@@ -3260,7 +3260,7 @@ month_issued,authority,item_type,issues,renewals
 2019-06,Bath and North East Somerset,12 DVD Standard,75,3
 2019-06,Bath and North East Somerset,15 DVD Standard,96,8
 2019-06,Bath and North East Somerset,18 DVD Standard,6,0
-2019-06,Bath and North East Somerset,Adult Fiction,8355,5391
+2019-06,Bath and North East Somerset,Adult Fiction,8355,5392
 2019-06,Bath and North East Somerset,Adult Graphic Novel,43,33
 2019-06,Bath and North East Somerset,Adult Non Fiction,3527,5313
 2019-06,Bath and North East Somerset,Adult Reference,2,0
@@ -3278,7 +3278,7 @@ month_issued,authority,item_type,issues,renewals
 2019-06,Bath and North East Somerset,Equipment,1,2
 2019-06,Bath and North East Somerset,Fastrack,1,0
 2019-06,Bath and North East Somerset,Language Course,8,7
-2019-06,Bath and North East Somerset,Large Print - Adult Fiction,660,240
+2019-06,Bath and North East Somerset,Large Print - Adult Fiction,660,242
 2019-06,Bath and North East Somerset,Large Print - Adult Non Fiction,37,36
 2019-06,Bath and North East Somerset,Large Print - Children,9,10
 2019-06,Bath and North East Somerset,Music CD,42,2
@@ -3292,9 +3292,9 @@ month_issued,authority,item_type,issues,renewals
 2019-06,Bristol,12 DVD Standard,345,5
 2019-06,Bristol,15 DVD Standard,494,11
 2019-06,Bristol,18 DVD Standard,35,0
-2019-06,Bristol,Adult Fiction,19395,14470
-2019-06,Bristol,Adult Graphic Novel,1028,804
-2019-06,Bristol,Adult Non Fiction,10445,17849
+2019-06,Bristol,Adult Fiction,19395,14473
+2019-06,Bristol,Adult Graphic Novel,1028,805
+2019-06,Bristol,Adult Non Fiction,10445,17855
 2019-06,Bristol,Adult Spoken Word,989,413
 2019-06,Bristol,B.O.P.,84,122
 2019-06,Bristol,Boxed Set 12 DVD,8,0
@@ -3302,17 +3302,17 @@ month_issued,authority,item_type,issues,renewals
 2019-06,Bristol,Boxed Set 18 DVD,14,2
 2019-06,Bristol,Boxed Set PG DVD,2,0
 2019-06,Bristol,Boxed Set U DVD,2,1
-2019-06,Bristol,Child Fiction,25311,15450
+2019-06,Bristol,Child Fiction,25311,15451
 2019-06,Bristol,Child Non Fiction,2560,2253
-2019-06,Bristol,Child Spoken Word,326,198
+2019-06,Bristol,Child Spoken Word,326,199
 2019-06,Bristol,Classification Exempt,5,2
 2019-06,Bristol,Drama Set,33,7
 2019-06,Bristol,Drama single copy,63,91
 2019-06,Bristol,Equipment,9,11
 2019-06,Bristol,Fastrack,14,0
 2019-06,Bristol,Language Course,38,28
-2019-06,Bristol,Large Print - Adult Fiction,850,557
-2019-06,Bristol,Large Print - Adult Non Fiction,68,67
+2019-06,Bristol,Large Print - Adult Fiction,838,557
+2019-06,Bristol,Large Print - Adult Non Fiction,67,67
 2019-06,Bristol,Large Print - Children,44,25
 2019-06,Bristol,Music CD,331,85
 2019-06,Bristol,Music Score,108,328
@@ -3324,15 +3324,15 @@ month_issued,authority,item_type,issues,renewals
 2019-06,Dorset,12 DVD Standard,150,3
 2019-06,Dorset,15 DVD Standard,188,8
 2019-06,Dorset,18 DVD Standard,8,0
-2019-06,Dorset,Adult Fiction,30299,11888
+2019-06,Dorset,Adult Fiction,30298,11889
 2019-06,Dorset,Adult Graphic Novel,55,51
-2019-06,Dorset,Adult Non Fiction,7843,7862
+2019-06,Dorset,Adult Non Fiction,7843,7863
 2019-06,Dorset,Adult Reference,4,0
 2019-06,Dorset,Adult Spoken Word,1903,461
 2019-06,Dorset,B.O.P.,35,31
 2019-06,Dorset,Boxed Set 15 DVD,5,0
 2019-06,Dorset,Boxed Set 18 DVD,6,0
-2019-06,Dorset,Child Fiction,13073,5204
+2019-06,Dorset,Child Fiction,13072,5204
 2019-06,Dorset,Child Non Fiction,1572,886
 2019-06,Dorset,Child Spoken Word,154,32
 2019-06,Dorset,Classification Exempt,17,9
@@ -3354,7 +3354,7 @@ month_issued,authority,item_type,issues,renewals
 2019-06,North Somerset,12 DVD Standard,120,0
 2019-06,North Somerset,15 DVD Standard,151,0
 2019-06,North Somerset,18 DVD Standard,4,0
-2019-06,North Somerset,Adult Fiction,12507,6452
+2019-06,North Somerset,Adult Fiction,12507,6455
 2019-06,North Somerset,Adult Graphic Novel,50,59
 2019-06,North Somerset,Adult Non Fiction,3505,4273
 2019-06,North Somerset,Adult Reference,1,0
@@ -3386,14 +3386,14 @@ month_issued,authority,item_type,issues,renewals
 2019-06,Poole,18 DVD Standard,8,0
 2019-06,Poole,Adult Fiction,9959,5742
 2019-06,Poole,Adult Graphic Novel,20,35
-2019-06,Poole,Adult Non Fiction,3073,3538
+2019-06,Poole,Adult Non Fiction,3073,3541
 2019-06,Poole,Adult Spoken Word,485,113
 2019-06,Poole,B.O.P.,43,32
 2019-06,Poole,Boxed Set 12 DVD,5,0
 2019-06,Poole,Boxed Set 15 DVD,9,1
 2019-06,Poole,Boxed Set 18 DVD,1,1
 2019-06,Poole,Boxed Set PG DVD,1,0
-2019-06,Poole,Child Fiction,7746,3204
+2019-06,Poole,Child Fiction,7746,3205
 2019-06,Poole,Child Non Fiction,1050,536
 2019-06,Poole,Child Spoken Word,89,39
 2019-06,Poole,Classification Exempt,1,0
@@ -3412,12 +3412,12 @@ month_issued,authority,item_type,issues,renewals
 2019-06,Somerset,12 DVD Standard,329,15
 2019-06,Somerset,15 DVD Standard,457,13
 2019-06,Somerset,18 DVD Standard,23,0
-2019-06,Somerset,Adult Fiction,37296,20811
+2019-06,Somerset,Adult Fiction,37296,20814
 2019-06,Somerset,Adult Graphic Novel,242,194
-2019-06,Somerset,Adult Non Fiction,10322,13915
+2019-06,Somerset,Adult Non Fiction,10322,13922
 2019-06,Somerset,Adult Reference,1,1
-2019-06,Somerset,Adult Spoken Word,1831,599
-2019-06,Somerset,B.O.P.,178,245
+2019-06,Somerset,Adult Spoken Word,1831,600
+2019-06,Somerset,B.O.P.,178,248
 2019-06,Somerset,Boxed Set 12 DVD,4,0
 2019-06,Somerset,Boxed Set 15 DVD,18,0
 2019-06,Somerset,Boxed Set 18 DVD,13,0
@@ -3446,9 +3446,9 @@ month_issued,authority,item_type,issues,renewals
 2019-06,South Gloucestershire,12 DVD Standard,252,43
 2019-06,South Gloucestershire,15 DVD Standard,217,42
 2019-06,South Gloucestershire,18 DVD Standard,6,3
-2019-06,South Gloucestershire,Adult Fiction,13708,9331
+2019-06,South Gloucestershire,Adult Fiction,13708,9334
 2019-06,South Gloucestershire,Adult Graphic Novel,79,104
-2019-06,South Gloucestershire,Adult Non Fiction,3689,5048
+2019-06,South Gloucestershire,Adult Non Fiction,3689,5050
 2019-06,South Gloucestershire,Adult Spoken Word,798,257
 2019-06,South Gloucestershire,B.O.P.,122,105
 2019-06,South Gloucestershire,Boxed Set 12 DVD,9,1
@@ -3480,9 +3480,9 @@ month_issued,authority,item_type,issues,renewals
 2019-07,Bath and North East Somerset,12 DVD Standard,101,2
 2019-07,Bath and North East Somerset,15 DVD Standard,84,4
 2019-07,Bath and North East Somerset,18 DVD Standard,3,0
-2019-07,Bath and North East Somerset,Adult Fiction,9666,6235
-2019-07,Bath and North East Somerset,Adult Graphic Novel,54,57
-2019-07,Bath and North East Somerset,Adult Non Fiction,3845,5981
+2019-07,Bath and North East Somerset,Adult Fiction,9666,6236
+2019-07,Bath and North East Somerset,Adult Graphic Novel,54,58
+2019-07,Bath and North East Somerset,Adult Non Fiction,3845,5983
 2019-07,Bath and North East Somerset,Adult Reference,1,1
 2019-07,Bath and North East Somerset,Adult Spoken Word,408,68
 2019-07,Bath and North East Somerset,B.O.P.,53,97
@@ -3505,15 +3505,15 @@ month_issued,authority,item_type,issues,renewals
 2019-07,Bath and North East Somerset,PG DVD Standard,74,9
 2019-07,Bath and North East Somerset,Reading Group Set,4,0
 2019-07,Bath and North East Somerset,U DVD Standard,48,4
-2019-07,Bath and North East Somerset,YA / Teen Fiction,879,902
+2019-07,Bath and North East Somerset,YA / Teen Fiction,879,905
 2019-07,Bath and North East Somerset,YA / Teen Non Fiction,15,32
 2019-07,Bristol,Unknown,1,1
-2019-07,Bristol,12 DVD Standard,393,27
+2019-07,Bristol,12 DVD Standard,393,28
 2019-07,Bristol,15 DVD Standard,487,12
 2019-07,Bristol,18 DVD Standard,40,3
-2019-07,Bristol,Adult Fiction,21610,16321
-2019-07,Bristol,Adult Graphic Novel,1202,829
-2019-07,Bristol,Adult Non Fiction,10793,18191
+2019-07,Bristol,Adult Fiction,21612,16328
+2019-07,Bristol,Adult Graphic Novel,1202,832
+2019-07,Bristol,Adult Non Fiction,10792,18202
 2019-07,Bristol,Adult Spoken Word,971,367
 2019-07,Bristol,B.O.P.,86,165
 2019-07,Bristol,Boxed Set 12 DVD,11,0
@@ -3521,16 +3521,16 @@ month_issued,authority,item_type,issues,renewals
 2019-07,Bristol,Boxed Set 18 DVD,15,0
 2019-07,Bristol,Boxed Set PG DVD,1,0
 2019-07,Bristol,Boxed Set U DVD,3,0
-2019-07,Bristol,Child Fiction,35408,21003
-2019-07,Bristol,Child Non Fiction,3545,2989
+2019-07,Bristol,Child Fiction,35408,21010
+2019-07,Bristol,Child Non Fiction,3545,2991
 2019-07,Bristol,Child Spoken Word,431,364
 2019-07,Bristol,Classification Exempt,7,0
 2019-07,Bristol,Drama Set,13,2
 2019-07,Bristol,Drama single copy,83,48
 2019-07,Bristol,Equipment,9,20
-2019-07,Bristol,Fastrack,15,1
+2019-07,Bristol,Fastrack,13,0
 2019-07,Bristol,Language Course,41,48
-2019-07,Bristol,Large Print - Adult Fiction,949,623
+2019-07,Bristol,Large Print - Adult Fiction,940,623
 2019-07,Bristol,Large Print - Adult Non Fiction,62,74
 2019-07,Bristol,Large Print - Children,61,26
 2019-07,Bristol,Music CD,288,79
@@ -3538,14 +3538,14 @@ month_issued,authority,item_type,issues,renewals
 2019-07,Bristol,PG DVD Standard,308,5
 2019-07,Bristol,Reading Group Set,5,2
 2019-07,Bristol,U DVD Standard,385,8
-2019-07,Bristol,YA / Teen Fiction,1491,1654
+2019-07,Bristol,YA / Teen Fiction,1491,1655
 2019-07,Bristol,YA / Teen Non Fiction,85,168
 2019-07,Dorset,12 DVD Standard,181,1
 2019-07,Dorset,15 DVD Standard,154,3
 2019-07,Dorset,18 DVD Standard,5,0
-2019-07,Dorset,Adult Fiction,34920,13041
+2019-07,Dorset,Adult Fiction,34920,13042
 2019-07,Dorset,Adult Graphic Novel,58,44
-2019-07,Dorset,Adult Non Fiction,8730,8203
+2019-07,Dorset,Adult Non Fiction,8730,8212
 2019-07,Dorset,Adult Reference,4,5
 2019-07,Dorset,Adult Spoken Word,2152,450
 2019-07,Dorset,B.O.P.,36,36
@@ -3553,7 +3553,7 @@ month_issued,authority,item_type,issues,renewals
 2019-07,Dorset,Boxed Set 15 DVD,4,0
 2019-07,Dorset,Boxed Set 18 DVD,4,2
 2019-07,Dorset,Boxed Set PG DVD,1,0
-2019-07,Dorset,Child Fiction,27068,8774
+2019-07,Dorset,Child Fiction,27067,8774
 2019-07,Dorset,Child Non Fiction,3108,1361
 2019-07,Dorset,Child Spoken Word,421,68
 2019-07,Dorset,Classification Exempt,24,1
@@ -3573,17 +3573,17 @@ month_issued,authority,item_type,issues,renewals
 2019-07,North Somerset,12 DVD Standard,151,2
 2019-07,North Somerset,15 DVD Standard,100,0
 2019-07,North Somerset,18 DVD Standard,4,0
-2019-07,North Somerset,Adult Fiction,13526,7097
+2019-07,North Somerset,Adult Fiction,13526,7100
 2019-07,North Somerset,Adult Graphic Novel,78,52
-2019-07,North Somerset,Adult Non Fiction,3476,4184
+2019-07,North Somerset,Adult Non Fiction,3476,4186
 2019-07,North Somerset,Adult Reference,3,0
-2019-07,North Somerset,Adult Spoken Word,865,219
+2019-07,North Somerset,Adult Spoken Word,865,220
 2019-07,North Somerset,B.O.P.,91,104
 2019-07,North Somerset,Boxed Set 12 DVD,1,0
 2019-07,North Somerset,Boxed Set 15 DVD,6,1
 2019-07,North Somerset,Boxed Set 18 DVD,1,0
 2019-07,North Somerset,Boxed Set PG DVD,2,0
-2019-07,North Somerset,Child Fiction,17758,8640
+2019-07,North Somerset,Child Fiction,17758,8642
 2019-07,North Somerset,Child Non Fiction,2287,1561
 2019-07,North Somerset,Child Spoken Word,387,312
 2019-07,North Somerset,Classification Exempt,1,0
@@ -3603,7 +3603,7 @@ month_issued,authority,item_type,issues,renewals
 2019-07,Poole,18 DVD Standard,6,0
 2019-07,Poole,Adult Fiction,11643,6757
 2019-07,Poole,Adult Graphic Novel,16,9
-2019-07,Poole,Adult Non Fiction,3428,4331
+2019-07,Poole,Adult Non Fiction,3428,4339
 2019-07,Poole,Adult Reference,1,0
 2019-07,Poole,Adult Spoken Word,537,112
 2019-07,Poole,B.O.P.,52,62
@@ -3631,19 +3631,19 @@ month_issued,authority,item_type,issues,renewals
 2019-07,Somerset,12 DVD Standard,374,17
 2019-07,Somerset,15 DVD Standard,345,15
 2019-07,Somerset,18 DVD Standard,14,1
-2019-07,Somerset,Adult Fiction,40801,21975
+2019-07,Somerset,Adult Fiction,40801,21978
 2019-07,Somerset,Adult Graphic Novel,257,202
-2019-07,Somerset,Adult Non Fiction,10423,12804
+2019-07,Somerset,Adult Non Fiction,10423,12815
 2019-07,Somerset,Adult Reference,6,16
 2019-07,Somerset,Adult Spoken Word,1827,568
-2019-07,Somerset,B.O.P.,211,233
+2019-07,Somerset,B.O.P.,211,234
 2019-07,Somerset,Boxed Set 12 DVD,9,4
 2019-07,Somerset,Boxed Set 15 DVD,8,1
 2019-07,Somerset,Boxed Set 18 DVD,6,0
 2019-07,Somerset,Boxed Set PG DVD,3,1
 2019-07,Somerset,Boxed Set U DVD,1,0
-2019-07,Somerset,Child Fiction,44402,24712
-2019-07,Somerset,Child Non Fiction,4617,3514
+2019-07,Somerset,Child Fiction,44402,24719
+2019-07,Somerset,Child Non Fiction,4617,3517
 2019-07,Somerset,Child Spoken Word,376,251
 2019-07,Somerset,Classification Exempt,5,3
 2019-07,Somerset,Drama single copy,463,163
@@ -3665,28 +3665,28 @@ month_issued,authority,item_type,issues,renewals
 2019-07,South Gloucestershire,12 DVD Standard,270,23
 2019-07,South Gloucestershire,15 DVD Standard,193,15
 2019-07,South Gloucestershire,18 DVD Standard,10,0
-2019-07,South Gloucestershire,Adult Fiction,15428,9505
+2019-07,South Gloucestershire,Adult Fiction,15427,9505
 2019-07,South Gloucestershire,Adult Graphic Novel,113,69
-2019-07,South Gloucestershire,Adult Non Fiction,4132,5456
+2019-07,South Gloucestershire,Adult Non Fiction,4132,5457
 2019-07,South Gloucestershire,Adult Spoken Word,768,238
 2019-07,South Gloucestershire,B.O.P.,150,151
 2019-07,South Gloucestershire,Boxed Set 12 DVD,3,0
 2019-07,South Gloucestershire,Boxed Set 15 DVD,14,3
 2019-07,South Gloucestershire,Boxed Set 18 DVD,5,3
 2019-07,South Gloucestershire,Boxed Set U DVD,7,1
-2019-07,South Gloucestershire,Child Fiction,28024,12913
+2019-07,South Gloucestershire,Child Fiction,28024,12917
 2019-07,South Gloucestershire,Child Non Fiction,3077,2274
 2019-07,South Gloucestershire,Child Spoken Word,455,297
 2019-07,South Gloucestershire,Classification Exempt,5,5
 2019-07,South Gloucestershire,Equipment,9,21
-2019-07,South Gloucestershire,Fastrack,794,489
+2019-07,South Gloucestershire,Fastrack,792,488
 2019-07,South Gloucestershire,ILL,5,1
 2019-07,South Gloucestershire,Language Course,21,15
 2019-07,South Gloucestershire,Large Print - Adult Fiction,1583,645
 2019-07,South Gloucestershire,Large Print - Adult Non Fiction,68,34
 2019-07,South Gloucestershire,Large Print - Children,47,34
 2019-07,South Gloucestershire,Music CD,76,29
-2019-07,South Gloucestershire,Music Score,5,28
+2019-07,South Gloucestershire,Music Score,5,29
 2019-07,South Gloucestershire,PG DVD Standard,211,19
 2019-07,South Gloucestershire,Reading Group Set,4,0
 2019-07,South Gloucestershire,U DVD Standard,305,56
@@ -3695,16 +3695,16 @@ month_issued,authority,item_type,issues,renewals
 2019-08,Bath and North East Somerset,12 DVD Standard,132,7
 2019-08,Bath and North East Somerset,15 DVD Standard,94,3
 2019-08,Bath and North East Somerset,18 DVD Standard,10,0
-2019-08,Bath and North East Somerset,Adult Fiction,9530,5838
+2019-08,Bath and North East Somerset,Adult Fiction,9530,5840
 2019-08,Bath and North East Somerset,Adult Graphic Novel,61,52
-2019-08,Bath and North East Somerset,Adult Non Fiction,3838,5212
+2019-08,Bath and North East Somerset,Adult Non Fiction,3838,5217
 2019-08,Bath and North East Somerset,Adult Spoken Word,398,110
 2019-08,Bath and North East Somerset,B.O.P.,39,29
 2019-08,Bath and North East Somerset,Boxed Set 12 DVD,1,0
 2019-08,Bath and North East Somerset,Boxed Set 15 DVD,9,0
 2019-08,Bath and North East Somerset,Boxed Set 18 DVD,4,0
 2019-08,Bath and North East Somerset,Boxed Set PG DVD,2,0
-2019-08,Bath and North East Somerset,Child Fiction,15160,8420
+2019-08,Bath and North East Somerset,Child Fiction,15160,8421
 2019-08,Bath and North East Somerset,Child Non Fiction,1508,1187
 2019-08,Bath and North East Somerset,Child Reference,1,3
 2019-08,Bath and North East Somerset,Child Spoken Word,284,188
@@ -3722,30 +3722,30 @@ month_issued,authority,item_type,issues,renewals
 2019-08,Bath and North East Somerset,Reading Group Set,2,1
 2019-08,Bath and North East Somerset,U DVD Standard,82,5
 2019-08,Bath and North East Somerset,YA / Teen Fiction,895,987
-2019-08,Bath and North East Somerset,YA / Teen Non Fiction,16,23
+2019-08,Bath and North East Somerset,YA / Teen Non Fiction,16,24
 2019-08,Bristol,Unknown,1,0
 2019-08,Bristol,12 DVD Standard,539,7
 2019-08,Bristol,15 DVD Standard,666,15
 2019-08,Bristol,18 DVD Standard,52,1
-2019-08,Bristol,Adult Fiction,22977,17470
+2019-08,Bristol,Adult Fiction,22981,17478
 2019-08,Bristol,Adult Graphic Novel,1303,975
-2019-08,Bristol,Adult Non Fiction,11588,19383
+2019-08,Bristol,Adult Non Fiction,11588,19421
 2019-08,Bristol,Adult Reference,1,5
 2019-08,Bristol,Adult Spoken Word,1069,408
-2019-08,Bristol,B.O.P.,94,209
+2019-08,Bristol,B.O.P.,94,210
 2019-08,Bristol,Boxed Set 12 DVD,16,2
 2019-08,Bristol,Boxed Set 15 DVD,46,2
 2019-08,Bristol,Boxed Set 18 DVD,16,0
 2019-08,Bristol,Boxed Set PG DVD,5,0
 2019-08,Bristol,Boxed Set U DVD,14,0
-2019-08,Bristol,Child Fiction,38308,21450
-2019-08,Bristol,Child Non Fiction,4286,3213
+2019-08,Bristol,Child Fiction,38308,21484
+2019-08,Bristol,Child Non Fiction,4286,3215
 2019-08,Bristol,Child Spoken Word,499,371
 2019-08,Bristol,Classification Exempt,11,0
 2019-08,Bristol,Drama Set,18,12
-2019-08,Bristol,Drama single copy,123,259
-2019-08,Bristol,Equipment,17,39
-2019-08,Bristol,Fastrack,23,2
+2019-08,Bristol,Drama single copy,123,266
+2019-08,Bristol,Equipment,17,40
+2019-08,Bristol,Fastrack,19,2
 2019-08,Bristol,Language Course,41,23
 2019-08,Bristol,Large Print - Adult Fiction,942,596
 2019-08,Bristol,Large Print - Adult Non Fiction,61,77
@@ -3760,16 +3760,16 @@ month_issued,authority,item_type,issues,renewals
 2019-08,Dorset,12 DVD Standard,294,4
 2019-08,Dorset,15 DVD Standard,179,1
 2019-08,Dorset,18 DVD Standard,12,0
-2019-08,Dorset,Adult Fiction,37743,14494
+2019-08,Dorset,Adult Fiction,37743,14496
 2019-08,Dorset,Adult Graphic Novel,84,79
-2019-08,Dorset,Adult Non Fiction,9636,8671
+2019-08,Dorset,Adult Non Fiction,9636,8682
 2019-08,Dorset,Adult Reference,7,1
 2019-08,Dorset,Adult Spoken Word,2130,417
 2019-08,Dorset,B.O.P.,34,31
 2019-08,Dorset,Boxed Set 12 DVD,4,0
 2019-08,Dorset,Boxed Set 15 DVD,11,2
 2019-08,Dorset,Boxed Set 18 DVD,5,0
-2019-08,Dorset,Child Fiction,31818,8953
+2019-08,Dorset,Child Fiction,31818,8954
 2019-08,Dorset,Child Non Fiction,4061,1733
 2019-08,Dorset,Child Spoken Word,521,50
 2019-08,Dorset,Classification Exempt,57,4
@@ -3792,9 +3792,9 @@ month_issued,authority,item_type,issues,renewals
 2019-08,North Somerset,18 DVD Standard,11,0
 2019-08,North Somerset,Adult Fiction,14974,8541
 2019-08,North Somerset,Adult Graphic Novel,81,68
-2019-08,North Somerset,Adult Non Fiction,4156,5278
+2019-08,North Somerset,Adult Non Fiction,4156,5283
 2019-08,North Somerset,Adult Spoken Word,899,264
-2019-08,North Somerset,B.O.P.,103,124
+2019-08,North Somerset,B.O.P.,103,125
 2019-08,North Somerset,Boxed Set 15 DVD,8,0
 2019-08,North Somerset,Boxed Set 18 DVD,2,1
 2019-08,North Somerset,Boxed Set PG DVD,1,0
@@ -3821,15 +3821,15 @@ month_issued,authority,item_type,issues,renewals
 2019-08,Poole,18 DVD Standard,7,0
 2019-08,Poole,Adult Fiction,12013,6765
 2019-08,Poole,Adult Graphic Novel,22,58
-2019-08,Poole,Adult Non Fiction,3417,3897
+2019-08,Poole,Adult Non Fiction,3417,3917
 2019-08,Poole,Adult Spoken Word,540,84
 2019-08,Poole,B.O.P.,34,41
 2019-08,Poole,Boxed Set 12 DVD,4,0
 2019-08,Poole,Boxed Set 15 DVD,8,4
 2019-08,Poole,Boxed Set 18 DVD,4,2
 2019-08,Poole,Boxed Set PG DVD,4,0
-2019-08,Poole,Child Fiction,14146,4662
-2019-08,Poole,Child Non Fiction,1801,781
+2019-08,Poole,Child Fiction,14145,4665
+2019-08,Poole,Child Non Fiction,1801,782
 2019-08,Poole,Child Spoken Word,113,42
 2019-08,Poole,Classification Exempt,2,0
 2019-08,Poole,Drama single copy,3,1
@@ -3846,20 +3846,20 @@ month_issued,authority,item_type,issues,renewals
 2019-08,Poole,YA / Teen Fiction,611,399
 2019-08,Poole,YA / Teen Non Fiction,76,69
 2019-08,Somerset,12 DVD Standard,555,24
-2019-08,Somerset,15 DVD Standard,449,11
+2019-08,Somerset,15 DVD Standard,447,11
 2019-08,Somerset,18 DVD Standard,28,0
-2019-08,Somerset,Adult Fiction,42601,23245
+2019-08,Somerset,Adult Fiction,42601,23256
 2019-08,Somerset,Adult Graphic Novel,270,210
-2019-08,Somerset,Adult Non Fiction,10912,14355
+2019-08,Somerset,Adult Non Fiction,10912,14373
 2019-08,Somerset,Adult Reference,1,0
 2019-08,Somerset,Adult Spoken Word,1842,551
 2019-08,Somerset,B.O.P.,209,222
 2019-08,Somerset,Boxed Set 12 DVD,6,2
-2019-08,Somerset,Boxed Set 15 DVD,19,1
+2019-08,Somerset,Boxed Set 15 DVD,21,1
 2019-08,Somerset,Boxed Set 18 DVD,8,0
 2019-08,Somerset,Boxed Set PG DVD,5,0
-2019-08,Somerset,Child Fiction,54931,26356
-2019-08,Somerset,Child Non Fiction,5881,4227
+2019-08,Somerset,Child Fiction,54931,26362
+2019-08,Somerset,Child Non Fiction,5880,4226
 2019-08,Somerset,Child Spoken Word,544,310
 2019-08,Somerset,Classification Exempt,10,7
 2019-08,Somerset,Drama single copy,260,118
@@ -3874,14 +3874,14 @@ month_issued,authority,item_type,issues,renewals
 2019-08,Somerset,PG DVD Standard,415,17
 2019-08,Somerset,Reading Group Set,4,2
 2019-08,Somerset,U DVD Standard,486,46
-2019-08,Somerset,YA / Teen Fiction,1930,2256
-2019-08,Somerset,YA / Teen Non Fiction,44,102
+2019-08,Somerset,YA / Teen Fiction,1930,2261
+2019-08,Somerset,YA / Teen Non Fiction,45,104
 2019-08,South Gloucestershire,12 DVD Standard,380,36
 2019-08,South Gloucestershire,15 DVD Standard,221,34
 2019-08,South Gloucestershire,18 DVD Standard,15,8
-2019-08,South Gloucestershire,Adult Fiction,16346,10928
+2019-08,South Gloucestershire,Adult Fiction,16347,10943
 2019-08,South Gloucestershire,Adult Graphic Novel,107,72
-2019-08,South Gloucestershire,Adult Non Fiction,4810,6393
+2019-08,South Gloucestershire,Adult Non Fiction,4810,6402
 2019-08,South Gloucestershire,Adult Spoken Word,892,375
 2019-08,South Gloucestershire,B.O.P.,170,178
 2019-08,South Gloucestershire,Boxed Set 12 DVD,5,4
@@ -3889,31 +3889,31 @@ month_issued,authority,item_type,issues,renewals
 2019-08,South Gloucestershire,Boxed Set 18 DVD,5,0
 2019-08,South Gloucestershire,Boxed Set PG DVD,7,1
 2019-08,South Gloucestershire,Boxed Set U DVD,14,4
-2019-08,South Gloucestershire,Child Fiction,31550,13638
+2019-08,South Gloucestershire,Child Fiction,31550,13643
 2019-08,South Gloucestershire,Child Non Fiction,3692,2316
 2019-08,South Gloucestershire,Child Spoken Word,520,329
 2019-08,South Gloucestershire,Classification Exempt,6,1
 2019-08,South Gloucestershire,Drama single copy,1,3
 2019-08,South Gloucestershire,Equipment,7,4
-2019-08,South Gloucestershire,Fastrack,903,551
+2019-08,South Gloucestershire,Fastrack,902,548
 2019-08,South Gloucestershire,ILL,1,0
 2019-08,South Gloucestershire,Language Course,24,16
-2019-08,South Gloucestershire,Large Print - Adult Fiction,1732,647
+2019-08,South Gloucestershire,Large Print - Adult Fiction,1727,646
 2019-08,South Gloucestershire,Large Print - Adult Non Fiction,120,72
 2019-08,South Gloucestershire,Large Print - Children,61,23
 2019-08,South Gloucestershire,Music CD,59,4
-2019-08,South Gloucestershire,Music Score,11,62
+2019-08,South Gloucestershire,Music Score,11,64
 2019-08,South Gloucestershire,PG DVD Standard,514,44
 2019-08,South Gloucestershire,Reading Group Set,1,0
 2019-08,South Gloucestershire,U DVD Standard,712,83
-2019-08,South Gloucestershire,YA / Teen Fiction,988,836
+2019-08,South Gloucestershire,YA / Teen Fiction,988,837
 2019-08,South Gloucestershire,YA / Teen Non Fiction,46,30
 2019-09,Bath and North East Somerset,12 DVD Standard,105,13
 2019-09,Bath and North East Somerset,15 DVD Standard,94,12
 2019-09,Bath and North East Somerset,18 DVD Standard,14,1
-2019-09,Bath and North East Somerset,Adult Fiction,8495,5658
+2019-09,Bath and North East Somerset,Adult Fiction,8495,5663
 2019-09,Bath and North East Somerset,Adult Graphic Novel,38,42
-2019-09,Bath and North East Somerset,Adult Non Fiction,3423,4653
+2019-09,Bath and North East Somerset,Adult Non Fiction,3423,4661
 2019-09,Bath and North East Somerset,Adult Reference,1,0
 2019-09,Bath and North East Somerset,Adult Spoken Word,411,118
 2019-09,Bath and North East Somerset,B.O.P.,27,35
@@ -3921,14 +3921,14 @@ month_issued,authority,item_type,issues,renewals
 2019-09,Bath and North East Somerset,Boxed Set 15 DVD,9,2
 2019-09,Bath and North East Somerset,Boxed Set 18 DVD,2,0
 2019-09,Bath and North East Somerset,Boxed Set PG DVD,1,0
-2019-09,Bath and North East Somerset,Child Fiction,9844,6065
-2019-09,Bath and North East Somerset,Child Non Fiction,1082,1127
+2019-09,Bath and North East Somerset,Child Fiction,9844,6068
+2019-09,Bath and North East Somerset,Child Non Fiction,1082,1129
 2019-09,Bath and North East Somerset,Child Spoken Word,245,240
 2019-09,Bath and North East Somerset,Classification Exempt,1,0
 2019-09,Bath and North East Somerset,Drama single copy,5,6
 2019-09,Bath and North East Somerset,Fastrack,1,0
 2019-09,Bath and North East Somerset,Language Course,5,4
-2019-09,Bath and North East Somerset,Large Print - Adult Fiction,672,360
+2019-09,Bath and North East Somerset,Large Print - Adult Fiction,672,361
 2019-09,Bath and North East Somerset,Large Print - Adult Non Fiction,39,47
 2019-09,Bath and North East Somerset,Large Print - Children,12,7
 2019-09,Bath and North East Somerset,Music CD,30,3
@@ -3939,12 +3939,12 @@ month_issued,authority,item_type,issues,renewals
 2019-09,Bath and North East Somerset,YA / Teen Fiction,510,755
 2019-09,Bath and North East Somerset,YA / Teen Non Fiction,13,18
 2019-09,Bristol,Unknown,1,0
-2019-09,Bristol,12 DVD Standard,400,18
+2019-09,Bristol,12 DVD Standard,400,19
 2019-09,Bristol,15 DVD Standard,517,19
 2019-09,Bristol,18 DVD Standard,58,0
-2019-09,Bristol,Adult Fiction,19965,15597
+2019-09,Bristol,Adult Fiction,19969,15617
 2019-09,Bristol,Adult Graphic Novel,969,859
-2019-09,Bristol,Adult Non Fiction,11088,18439
+2019-09,Bristol,Adult Non Fiction,11088,18514
 2019-09,Bristol,Adult Spoken Word,891,316
 2019-09,Bristol,B.O.P.,83,147
 2019-09,Bristol,Boxed Set 12 DVD,10,0
@@ -3952,30 +3952,30 @@ month_issued,authority,item_type,issues,renewals
 2019-09,Bristol,Boxed Set 18 DVD,14,0
 2019-09,Bristol,Boxed Set PG DVD,5,2
 2019-09,Bristol,Boxed Set U DVD,6,0
-2019-09,Bristol,Child Fiction,29084,17058
-2019-09,Bristol,Child Non Fiction,3417,3126
+2019-09,Bristol,Child Fiction,29084,17074
+2019-09,Bristol,Child Non Fiction,3417,3131
 2019-09,Bristol,Child Spoken Word,298,262
 2019-09,Bristol,Classification Exempt,5,0
 2019-09,Bristol,Drama Set,33,12
 2019-09,Bristol,Drama single copy,77,93
 2019-09,Bristol,Equipment,10,5
-2019-09,Bristol,Fastrack,50,1
+2019-09,Bristol,Fastrack,46,1
 2019-09,Bristol,Language Course,38,46
-2019-09,Bristol,Large Print - Adult Fiction,872,504
+2019-09,Bristol,Large Print - Adult Fiction,864,504
 2019-09,Bristol,Large Print - Adult Non Fiction,67,90
 2019-09,Bristol,Large Print - Children,51,56
 2019-09,Bristol,Music CD,312,63
 2019-09,Bristol,Music Score,157,352
 2019-09,Bristol,PG DVD Standard,400,14
 2019-09,Bristol,U DVD Standard,519,11
-2019-09,Bristol,YA / Teen Fiction,936,1154
+2019-09,Bristol,YA / Teen Fiction,936,1157
 2019-09,Bristol,YA / Teen Non Fiction,70,91
 2019-09,Dorset,12 DVD Standard,256,4
 2019-09,Dorset,15 DVD Standard,235,3
 2019-09,Dorset,18 DVD Standard,15,0
-2019-09,Dorset,Adult Fiction,31668,12470
+2019-09,Dorset,Adult Fiction,31668,12477
 2019-09,Dorset,Adult Graphic Novel,45,33
-2019-09,Dorset,Adult Non Fiction,8600,7593
+2019-09,Dorset,Adult Non Fiction,8599,7614
 2019-09,Dorset,Adult Reference,4,0
 2019-09,Dorset,Adult Spoken Word,1969,406
 2019-09,Dorset,B.O.P.,23,55
@@ -3983,13 +3983,13 @@ month_issued,authority,item_type,issues,renewals
 2019-09,Dorset,Boxed Set 15 DVD,7,1
 2019-09,Dorset,Boxed Set 18 DVD,6,0
 2019-09,Dorset,Boxed Set U DVD,1,0
-2019-09,Dorset,Child Fiction,16986,6999
-2019-09,Dorset,Child Non Fiction,2186,1446
+2019-09,Dorset,Child Fiction,16986,7010
+2019-09,Dorset,Child Non Fiction,2186,1447
 2019-09,Dorset,Child Reference,1,0
 2019-09,Dorset,Child Spoken Word,358,47
 2019-09,Dorset,Classification Exempt,46,0
 2019-09,Dorset,Drama Set,38,1
-2019-09,Dorset,Drama single copy,16,15
+2019-09,Dorset,Drama single copy,16,16
 2019-09,Dorset,Equipment,7,0
 2019-09,Dorset,ILL,11,1
 2019-09,Dorset,Language Course,19,2
@@ -4001,14 +4001,14 @@ month_issued,authority,item_type,issues,renewals
 2019-09,Dorset,PG DVD Standard,107,1
 2019-09,Dorset,Reading Group Set,1742,36
 2019-09,Dorset,U DVD Standard,69,1
-2019-09,Dorset,YA / Teen Fiction,790,644
+2019-09,Dorset,YA / Teen Fiction,790,646
 2019-09,Dorset,YA / Teen Non Fiction,44,35
 2019-09,North Somerset,12 DVD Standard,165,4
 2019-09,North Somerset,15 DVD Standard,86,2
 2019-09,North Somerset,18 DVD Standard,2,0
-2019-09,North Somerset,Adult Fiction,12445,6909
+2019-09,North Somerset,Adult Fiction,12445,6913
 2019-09,North Somerset,Adult Graphic Novel,54,67
-2019-09,North Somerset,Adult Non Fiction,3286,4332
+2019-09,North Somerset,Adult Non Fiction,3286,4339
 2019-09,North Somerset,Adult Reference,2,0
 2019-09,North Somerset,Adult Spoken Word,788,165
 2019-09,North Somerset,B.O.P.,64,47
@@ -4016,8 +4016,8 @@ month_issued,authority,item_type,issues,renewals
 2019-09,North Somerset,Boxed Set 15 DVD,1,1
 2019-09,North Somerset,Boxed Set 18 DVD,1,0
 2019-09,North Somerset,Boxed Set U DVD,1,0
-2019-09,North Somerset,Child Fiction,11299,6461
-2019-09,North Somerset,Child Non Fiction,1558,1454
+2019-09,North Somerset,Child Fiction,11299,6467
+2019-09,North Somerset,Child Non Fiction,1558,1455
 2019-09,North Somerset,Child Spoken Word,211,235
 2019-09,North Somerset,Drama Set,1,0
 2019-09,North Somerset,Drama single copy,5,1
@@ -4028,27 +4028,27 @@ month_issued,authority,item_type,issues,renewals
 2019-09,North Somerset,Large Print - Adult Non Fiction,179,105
 2019-09,North Somerset,Large Print - Children,29,26
 2019-09,North Somerset,Music CD,19,4
-2019-09,North Somerset,Music Score,19,54
+2019-09,North Somerset,Music Score,19,57
 2019-09,North Somerset,PG DVD Standard,139,6
 2019-09,North Somerset,Reading Group Set,6,0
 2019-09,North Somerset,U DVD Standard,121,6
-2019-09,North Somerset,YA / Teen Fiction,444,440
+2019-09,North Somerset,YA / Teen Fiction,444,442
 2019-09,North Somerset,YA / Teen Non Fiction,12,9
 2019-09,Poole,12 DVD Standard,124,10
 2019-09,Poole,15 DVD Standard,97,9
 2019-09,Poole,18 DVD Standard,13,0
-2019-09,Poole,Adult Fiction,10357,6003
+2019-09,Poole,Adult Fiction,10357,6006
 2019-09,Poole,Adult Graphic Novel,20,40
-2019-09,Poole,Adult Non Fiction,3109,3443
+2019-09,Poole,Adult Non Fiction,3109,3452
 2019-09,Poole,Adult Spoken Word,568,191
-2019-09,Poole,B.O.P.,37,23
+2019-09,Poole,B.O.P.,36,23
 2019-09,Poole,Boxed Set 12 DVD,1,0
 2019-09,Poole,Boxed Set 15 DVD,7,0
 2019-09,Poole,Boxed Set 18 DVD,4,0
 2019-09,Poole,Boxed Set PG DVD,1,0
 2019-09,Poole,Boxed Set U DVD,1,0
-2019-09,Poole,Child Fiction,9102,3745
-2019-09,Poole,Child Non Fiction,1383,783
+2019-09,Poole,Child Fiction,9103,3749
+2019-09,Poole,Child Non Fiction,1383,784
 2019-09,Poole,Child Spoken Word,69,33
 2019-09,Poole,Classification Exempt,2,0
 2019-09,Poole,Language Course,3,2
@@ -4061,14 +4061,14 @@ month_issued,authority,item_type,issues,renewals
 2019-09,Poole,Reading Group Set,19,33
 2019-09,Poole,U DVD Standard,65,1
 2019-09,Poole,Visual Material,10,5
-2019-09,Poole,YA / Teen Fiction,351,301
+2019-09,Poole,YA / Teen Fiction,351,306
 2019-09,Poole,YA / Teen Non Fiction,74,51
 2019-09,Somerset,12 DVD Standard,429,25
 2019-09,Somerset,15 DVD Standard,317,14
 2019-09,Somerset,18 DVD Standard,28,1
-2019-09,Somerset,Adult Fiction,37848,20853
+2019-09,Somerset,Adult Fiction,37848,20870
 2019-09,Somerset,Adult Graphic Novel,218,163
-2019-09,Somerset,Adult Non Fiction,9880,13006
+2019-09,Somerset,Adult Non Fiction,9880,13055
 2019-09,Somerset,Adult Spoken Word,1819,606
 2019-09,Somerset,B.O.P.,157,122
 2019-09,Somerset,Boxed Set 12 DVD,7,0
@@ -4076,11 +4076,11 @@ month_issued,authority,item_type,issues,renewals
 2019-09,Somerset,Boxed Set 18 DVD,11,4
 2019-09,Somerset,Boxed Set PG DVD,2,0
 2019-09,Somerset,Boxed Set U DVD,1,0
-2019-09,Somerset,Child Fiction,28698,18601
-2019-09,Somerset,Child Non Fiction,3344,3481
+2019-09,Somerset,Child Fiction,28698,18607
+2019-09,Somerset,Child Non Fiction,3344,3483
 2019-09,Somerset,Child Spoken Word,300,257
 2019-09,Somerset,Classification Exempt,6,2
-2019-09,Somerset,Drama single copy,300,37
+2019-09,Somerset,Drama single copy,300,38
 2019-09,Somerset,Equipment,2,13
 2019-09,Somerset,ILL,14,0
 2019-09,Somerset,iPad,1,0
@@ -4089,51 +4089,51 @@ month_issued,authority,item_type,issues,renewals
 2019-09,Somerset,Large Print - Adult Non Fiction,265,121
 2019-09,Somerset,Large Print - Children,20,40
 2019-09,Somerset,Music CD,58,4
-2019-09,Somerset,Music Score,129,226
+2019-09,Somerset,Music Score,129,227
 2019-09,Somerset,Music Set,36,1
 2019-09,Somerset,PG DVD Standard,255,14
 2019-09,Somerset,Reading Group Set,2,1
 2019-09,Somerset,U DVD Standard,201,23
-2019-09,Somerset,YA / Teen Fiction,1122,1505
+2019-09,Somerset,YA / Teen Fiction,1122,1507
 2019-09,Somerset,YA / Teen Non Fiction,30,54
 2019-09,South Gloucestershire,12 DVD Standard,234,41
 2019-09,South Gloucestershire,15 DVD Standard,166,34
 2019-09,South Gloucestershire,18 DVD Standard,16,1
-2019-09,South Gloucestershire,Adult Fiction,13687,9537
+2019-09,South Gloucestershire,Adult Fiction,13686,9548
 2019-09,South Gloucestershire,Adult Graphic Novel,77,50
-2019-09,South Gloucestershire,Adult Non Fiction,4003,5190
+2019-09,South Gloucestershire,Adult Non Fiction,4003,5210
 2019-09,South Gloucestershire,Adult Spoken Word,769,269
-2019-09,South Gloucestershire,B.O.P.,144,153
+2019-09,South Gloucestershire,B.O.P.,144,154
 2019-09,South Gloucestershire,Boxed Set 12 DVD,1,0
 2019-09,South Gloucestershire,Boxed Set 15 DVD,11,0
 2019-09,South Gloucestershire,Boxed Set 18 DVD,4,0
 2019-09,South Gloucestershire,Boxed Set PG DVD,1,0
 2019-09,South Gloucestershire,Boxed Set U DVD,10,0
-2019-09,South Gloucestershire,Child Fiction,19748,10418
-2019-09,South Gloucestershire,Child Non Fiction,2458,2267
+2019-09,South Gloucestershire,Child Fiction,19748,10426
+2019-09,South Gloucestershire,Child Non Fiction,2458,2269
 2019-09,South Gloucestershire,Child Spoken Word,279,239
 2019-09,South Gloucestershire,Classification Exempt,1,4
 2019-09,South Gloucestershire,Drama single copy,9,27
 2019-09,South Gloucestershire,Equipment,9,6
-2019-09,South Gloucestershire,Fastrack,731,475
+2019-09,South Gloucestershire,Fastrack,731,476
 2019-09,South Gloucestershire,ILL,1,0
 2019-09,South Gloucestershire,Language Course,19,28
 2019-09,South Gloucestershire,Large Print - Adult Fiction,1561,613
-2019-09,South Gloucestershire,Large Print - Adult Non Fiction,80,85
+2019-09,South Gloucestershire,Large Print - Adult Non Fiction,80,86
 2019-09,South Gloucestershire,Large Print - Children,23,10
 2019-09,South Gloucestershire,Music CD,58,9
 2019-09,South Gloucestershire,Music Score,4,2
 2019-09,South Gloucestershire,PG DVD Standard,288,27
 2019-09,South Gloucestershire,Reading Group Set,8,1
 2019-09,South Gloucestershire,U DVD Standard,422,62
-2019-09,South Gloucestershire,YA / Teen Fiction,597,654
+2019-09,South Gloucestershire,YA / Teen Fiction,597,655
 2019-09,South Gloucestershire,YA / Teen Non Fiction,41,76
 2019-10,Bath and North East Somerset,12 DVD Standard,118,12
 2019-10,Bath and North East Somerset,15 DVD Standard,104,12
 2019-10,Bath and North East Somerset,18 DVD Standard,14,0
-2019-10,Bath and North East Somerset,Adult Fiction,8877,6046
+2019-10,Bath and North East Somerset,Adult Fiction,8877,6064
 2019-10,Bath and North East Somerset,Adult Graphic Novel,57,55
-2019-10,Bath and North East Somerset,Adult Non Fiction,3754,5704
+2019-10,Bath and North East Somerset,Adult Non Fiction,3754,5725
 2019-10,Bath and North East Somerset,Adult Spoken Word,418,91
 2019-10,Bath and North East Somerset,B.O.P.,35,31
 2019-10,Bath and North East Somerset,Boxed Set 12 DVD,3,1
@@ -4141,9 +4141,9 @@ month_issued,authority,item_type,issues,renewals
 2019-10,Bath and North East Somerset,Boxed Set 18 DVD,2,0
 2019-10,Bath and North East Somerset,Boxed Set EX DVD,1,1
 2019-10,Bath and North East Somerset,Boxed Set PG DVD,1,0
-2019-10,Bath and North East Somerset,Child Fiction,10814,7838
-2019-10,Bath and North East Somerset,Child Non Fiction,1115,1091
-2019-10,Bath and North East Somerset,Child Spoken Word,170,166
+2019-10,Bath and North East Somerset,Child Fiction,10814,7856
+2019-10,Bath and North East Somerset,Child Non Fiction,1115,1092
+2019-10,Bath and North East Somerset,Child Spoken Word,170,167
 2019-10,Bath and North East Somerset,Classification Exempt,1,0
 2019-10,Bath and North East Somerset,Drama single copy,3,8
 2019-10,Bath and North East Somerset,Fastrack,1,0
@@ -4162,51 +4162,50 @@ month_issued,authority,item_type,issues,renewals
 2019-10,Bristol,12 DVD Standard,416,14
 2019-10,Bristol,15 DVD Standard,596,23
 2019-10,Bristol,18 DVD Standard,79,1
-2019-10,Bristol,Adult Fiction,20940,15911
-2019-10,Bristol,Adult Graphic Novel,1077,924
-2019-10,Bristol,Adult Non Fiction,11139,17170
-2019-10,Bristol,Adult Reference,1,2
-2019-10,Bristol,Adult Spoken Word,1095,459
+2019-10,Bristol,Adult Fiction,20945,15957
+2019-10,Bristol,Adult Graphic Novel,1077,925
+2019-10,Bristol,Adult Non Fiction,11138,17241
+2019-10,Bristol,Adult Reference,2,2
+2019-10,Bristol,Adult Spoken Word,1095,460
 2019-10,Bristol,B.O.P.,97,103
 2019-10,Bristol,Boxed Set 12 DVD,11,1
 2019-10,Bristol,Boxed Set 15 DVD,33,1
 2019-10,Bristol,Boxed Set 18 DVD,13,0
 2019-10,Bristol,Boxed Set PG DVD,4,0
 2019-10,Bristol,Boxed Set U DVD,5,0
-2019-10,Bristol,Child Fiction,31066,18805
-2019-10,Bristol,Child Non Fiction,3342,2776
+2019-10,Bristol,Child Fiction,31066,18841
+2019-10,Bristol,Child Non Fiction,3342,2781
 2019-10,Bristol,Child Reference,1,0
-2019-10,Bristol,Child Spoken Word,395,367
+2019-10,Bristol,Child Spoken Word,395,369
 2019-10,Bristol,Classification Exempt,8,2
 2019-10,Bristol,Drama Set,15,7
 2019-10,Bristol,Drama single copy,82,182
 2019-10,Bristol,Equipment,9,7
-2019-10,Bristol,Fastrack,92,25
+2019-10,Bristol,Fastrack,87,26
 2019-10,Bristol,Language Course,21,11
-2019-10,Bristol,Large Print - Adult Fiction,823,453
+2019-10,Bristol,Large Print - Adult Fiction,819,453
 2019-10,Bristol,Large Print - Adult Non Fiction,98,105
 2019-10,Bristol,Large Print - Children,44,18
 2019-10,Bristol,Music CD,339,110
-2019-10,Bristol,Music Score,160,296
+2019-10,Bristol,Music Score,160,297
 2019-10,Bristol,PG DVD Standard,417,6
 2019-10,Bristol,Reading Group Set,4,1
 2019-10,Bristol,U DVD Standard,508,12
-2019-10,Bristol,YA / Teen Fiction,1104,1255
-2019-10,Bristol,YA / Teen Non Fiction,77,105
+2019-10,Bristol,YA / Teen Fiction,1104,1258
+2019-10,Bristol,YA / Teen Non Fiction,77,106
 2019-10,Dorset,12 DVD Standard,283,2
 2019-10,Dorset,15 DVD Standard,221,2
 2019-10,Dorset,18 DVD Standard,17,0
-2019-10,Dorset,Adult Fiction,33621,13637
+2019-10,Dorset,Adult Fiction,33621,13659
 2019-10,Dorset,Adult Graphic Novel,71,46
-2019-10,Dorset,Adult Non Fiction,8911,8076
-2019-10,Dorset,Adult Reference,1,0
+2019-10,Dorset,Adult Non Fiction,8912,8107
 2019-10,Dorset,Adult Spoken Word,2227,564
 2019-10,Dorset,B.O.P.,42,54
 2019-10,Dorset,Boxed Set 12 DVD,2,0
 2019-10,Dorset,Boxed Set 15 DVD,14,0
 2019-10,Dorset,Boxed Set 18 DVD,7,1
-2019-10,Dorset,Child Fiction,17160,6289
-2019-10,Dorset,Child Non Fiction,2337,1307
+2019-10,Dorset,Child Fiction,17160,6309
+2019-10,Dorset,Child Non Fiction,2336,1311
 2019-10,Dorset,Child Spoken Word,257,43
 2019-10,Dorset,Classification Exempt,16,3
 2019-10,Dorset,Drama Set,34,0
@@ -4222,22 +4221,22 @@ month_issued,authority,item_type,issues,renewals
 2019-10,Dorset,PG DVD Standard,178,0
 2019-10,Dorset,Reading Group Set,1536,6
 2019-10,Dorset,U DVD Standard,98,2
-2019-10,Dorset,YA / Teen Fiction,924,630
-2019-10,Dorset,YA / Teen Non Fiction,44,25
+2019-10,Dorset,YA / Teen Fiction,924,632
+2019-10,Dorset,YA / Teen Non Fiction,45,25
 2019-10,North Somerset,12 DVD Standard,155,0
 2019-10,North Somerset,15 DVD Standard,103,1
 2019-10,North Somerset,18 DVD Standard,9,0
-2019-10,North Somerset,Adult Fiction,13826,7949
+2019-10,North Somerset,Adult Fiction,13826,7962
 2019-10,North Somerset,Adult Graphic Novel,75,101
-2019-10,North Somerset,Adult Non Fiction,3747,4488
+2019-10,North Somerset,Adult Non Fiction,3747,4503
 2019-10,North Somerset,Adult Spoken Word,908,250
 2019-10,North Somerset,B.O.P.,94,97
 2019-10,North Somerset,Boxed Set 12 DVD,2,0
 2019-10,North Somerset,Boxed Set 15 DVD,4,0
 2019-10,North Somerset,Boxed Set 18 DVD,4,0
 2019-10,North Somerset,Boxed Set PG DVD,2,0
-2019-10,North Somerset,Child Fiction,11983,7284
-2019-10,North Somerset,Child Non Fiction,1759,1473
+2019-10,North Somerset,Child Fiction,11983,7304
+2019-10,North Somerset,Child Non Fiction,1759,1481
 2019-10,North Somerset,Child Spoken Word,305,190
 2019-10,North Somerset,Classification Exempt,2,0
 2019-10,North Somerset,Drama single copy,2,2
@@ -4250,20 +4249,20 @@ month_issued,authority,item_type,issues,renewals
 2019-10,North Somerset,Music Score,15,18
 2019-10,North Somerset,PG DVD Standard,174,1
 2019-10,North Somerset,U DVD Standard,188,5
-2019-10,North Somerset,YA / Teen Fiction,399,379
+2019-10,North Somerset,YA / Teen Fiction,399,380
 2019-10,North Somerset,YA / Teen Non Fiction,19,21
 2019-10,Poole,12 DVD Standard,121,6
 2019-10,Poole,15 DVD Standard,130,10
 2019-10,Poole,18 DVD Standard,16,1
-2019-10,Poole,Adult Fiction,10599,6211
+2019-10,Poole,Adult Fiction,10599,6216
 2019-10,Poole,Adult Graphic Novel,29,57
-2019-10,Poole,Adult Non Fiction,3393,3975
+2019-10,Poole,Adult Non Fiction,3393,3989
 2019-10,Poole,Adult Spoken Word,571,104
-2019-10,Poole,B.O.P.,51,27
+2019-10,Poole,B.O.P.,50,27
 2019-10,Poole,Boxed Set 12 DVD,4,0
 2019-10,Poole,Boxed Set 15 DVD,9,0
 2019-10,Poole,Boxed Set PG DVD,3,0
-2019-10,Poole,Child Fiction,9596,4156
+2019-10,Poole,Child Fiction,9596,4159
 2019-10,Poole,Child Non Fiction,1372,905
 2019-10,Poole,Child Spoken Word,74,35
 2019-10,Poole,Drama single copy,2,0
@@ -4280,9 +4279,9 @@ month_issued,authority,item_type,issues,renewals
 2019-10,Somerset,12 DVD Standard,463,28
 2019-10,Somerset,15 DVD Standard,449,22
 2019-10,Somerset,18 DVD Standard,43,6
-2019-10,Somerset,Adult Fiction,40150,22242
-2019-10,Somerset,Adult Graphic Novel,203,175
-2019-10,Somerset,Adult Non Fiction,10905,12518
+2019-10,Somerset,Adult Fiction,40150,22266
+2019-10,Somerset,Adult Graphic Novel,203,176
+2019-10,Somerset,Adult Non Fiction,10905,12592
 2019-10,Somerset,Adult Reference,2,1
 2019-10,Somerset,Adult Spoken Word,1944,524
 2019-10,Somerset,B.O.P.,203,217
@@ -4290,8 +4289,8 @@ month_issued,authority,item_type,issues,renewals
 2019-10,Somerset,Boxed Set 15 DVD,23,1
 2019-10,Somerset,Boxed Set 18 DVD,10,1
 2019-10,Somerset,Boxed Set PG DVD,5,0
-2019-10,Somerset,Child Fiction,32098,21232
-2019-10,Somerset,Child Non Fiction,3494,3502
+2019-10,Somerset,Child Fiction,32098,21259
+2019-10,Somerset,Child Non Fiction,3494,3510
 2019-10,Somerset,Child Spoken Word,333,276
 2019-10,Somerset,Classification Exempt,5,2
 2019-10,Somerset,Drama single copy,276,91
@@ -4302,34 +4301,34 @@ month_issued,authority,item_type,issues,renewals
 2019-10,Somerset,Large Print - Adult Non Fiction,283,163
 2019-10,Somerset,Large Print - Children,27,25
 2019-10,Somerset,Music CD,60,8
-2019-10,Somerset,Music Score,162,331
+2019-10,Somerset,Music Score,162,332
 2019-10,Somerset,Music Set,50,2
 2019-10,Somerset,PG DVD Standard,327,7
 2019-10,Somerset,Reading Group Set,1,0
 2019-10,Somerset,U DVD Standard,306,23
-2019-10,Somerset,YA / Teen Fiction,1167,1387
+2019-10,Somerset,YA / Teen Fiction,1167,1392
 2019-10,Somerset,YA / Teen Non Fiction,34,33
 2019-10,South Gloucestershire,12 DVD Standard,293,19
 2019-10,South Gloucestershire,15 DVD Standard,201,23
 2019-10,South Gloucestershire,18 DVD Standard,15,0
-2019-10,South Gloucestershire,Adult Fiction,13609,9028
+2019-10,South Gloucestershire,Adult Fiction,13611,9047
 2019-10,South Gloucestershire,Adult Graphic Novel,89,100
-2019-10,South Gloucestershire,Adult Non Fiction,3979,5465
-2019-10,South Gloucestershire,Adult Spoken Word,847,307
-2019-10,South Gloucestershire,B.O.P.,222,236
+2019-10,South Gloucestershire,Adult Non Fiction,3979,5485
+2019-10,South Gloucestershire,Adult Spoken Word,847,308
+2019-10,South Gloucestershire,B.O.P.,222,238
 2019-10,South Gloucestershire,Boxed Set 12 DVD,2,1
 2019-10,South Gloucestershire,Boxed Set 15 DVD,12,1
 2019-10,South Gloucestershire,Boxed Set 18 DVD,9,2
 2019-10,South Gloucestershire,Boxed Set PG DVD,2,0
 2019-10,South Gloucestershire,Boxed Set U DVD,7,0
-2019-10,South Gloucestershire,Child Fiction,21009,11436
-2019-10,South Gloucestershire,Child Non Fiction,2360,1973
+2019-10,South Gloucestershire,Child Fiction,21009,11439
+2019-10,South Gloucestershire,Child Non Fiction,2360,1976
 2019-10,South Gloucestershire,Child Spoken Word,363,339
 2019-10,South Gloucestershire,Classification Exempt,1,0
 2019-10,South Gloucestershire,Drama Set,1,0
 2019-10,South Gloucestershire,Drama single copy,15,13
-2019-10,South Gloucestershire,Equipment,10,12
-2019-10,South Gloucestershire,Fastrack,854,531
+2019-10,South Gloucestershire,Equipment,10,13
+2019-10,South Gloucestershire,Fastrack,852,531
 2019-10,South Gloucestershire,ILL,1,0
 2019-10,South Gloucestershire,Language Course,25,20
 2019-10,South Gloucestershire,Large Print - Adult Fiction,1551,574
@@ -4339,21 +4338,21 @@ month_issued,authority,item_type,issues,renewals
 2019-10,South Gloucestershire,Music Score,8,31
 2019-10,South Gloucestershire,PG DVD Standard,324,38
 2019-10,South Gloucestershire,U DVD Standard,405,53
-2019-10,South Gloucestershire,YA / Teen Fiction,592,613
+2019-10,South Gloucestershire,YA / Teen Fiction,592,615
 2019-10,South Gloucestershire,YA / Teen Non Fiction,36,25
 2019-11,Bath and North East Somerset,12 DVD Standard,106,4
 2019-11,Bath and North East Somerset,15 DVD Standard,84,3
 2019-11,Bath and North East Somerset,18 DVD Standard,17,3
-2019-11,Bath and North East Somerset,Adult Fiction,8490,6120
+2019-11,Bath and North East Somerset,Adult Fiction,8490,6130
 2019-11,Bath and North East Somerset,Adult Graphic Novel,34,21
-2019-11,Bath and North East Somerset,Adult Non Fiction,3453,4686
+2019-11,Bath and North East Somerset,Adult Non Fiction,3453,4720
 2019-11,Bath and North East Somerset,Adult Reference,1,0
 2019-11,Bath and North East Somerset,Adult Spoken Word,395,115
 2019-11,Bath and North East Somerset,B.O.P.,44,54
 2019-11,Bath and North East Somerset,Boxed Set 12 DVD,3,0
 2019-11,Bath and North East Somerset,Boxed Set 18 DVD,2,0
-2019-11,Bath and North East Somerset,Child Fiction,9615,6883
-2019-11,Bath and North East Somerset,Child Non Fiction,952,923
+2019-11,Bath and North East Somerset,Child Fiction,9615,6924
+2019-11,Bath and North East Somerset,Child Non Fiction,952,951
 2019-11,Bath and North East Somerset,Child Spoken Word,160,187
 2019-11,Bath and North East Somerset,Classification Exempt,1,0
 2019-11,Bath and North East Somerset,Drama single copy,5,8
@@ -4366,54 +4365,54 @@ month_issued,authority,item_type,issues,renewals
 2019-11,Bath and North East Somerset,Music Score,19,60
 2019-11,Bath and North East Somerset,PG DVD Standard,56,8
 2019-11,Bath and North East Somerset,U DVD Standard,48,11
-2019-11,Bath and North East Somerset,YA / Teen Fiction,461,519
+2019-11,Bath and North East Somerset,YA / Teen Fiction,461,523
 2019-11,Bath and North East Somerset,YA / Teen Non Fiction,11,13
 2019-11,Bristol,Unknown,1,4
 2019-11,Bristol,12 DVD Standard,435,16
 2019-11,Bristol,15 DVD Standard,584,19
 2019-11,Bristol,18 DVD Standard,78,0
-2019-11,Bristol,Adult Fiction,19834,14827
-2019-11,Bristol,Adult Graphic Novel,907,725
-2019-11,Bristol,Adult Non Fiction,10494,16068
+2019-11,Bristol,Adult Fiction,19837,14917
+2019-11,Bristol,Adult Graphic Novel,907,726
+2019-11,Bristol,Adult Non Fiction,10494,16200
 2019-11,Bristol,Adult Spoken Word,960,387
-2019-11,Bristol,B.O.P.,80,110
+2019-11,Bristol,B.O.P.,80,112
 2019-11,Bristol,Boxed Set 12 DVD,17,0
 2019-11,Bristol,Boxed Set 15 DVD,32,0
 2019-11,Bristol,Boxed Set 18 DVD,23,1
 2019-11,Bristol,Boxed Set PG DVD,4,0
 2019-11,Bristol,Boxed Set U DVD,2,1
-2019-11,Bristol,Child Fiction,28219,17619
-2019-11,Bristol,Child Non Fiction,2950,2472
-2019-11,Bristol,Child Spoken Word,279,196
+2019-11,Bristol,Child Fiction,28219,17686
+2019-11,Bristol,Child Non Fiction,2950,2495
+2019-11,Bristol,Child Spoken Word,279,197
 2019-11,Bristol,Classification Exempt,9,1
 2019-11,Bristol,Drama Set,18,2
 2019-11,Bristol,Drama single copy,82,82
 2019-11,Bristol,Equipment,9,7
-2019-11,Bristol,Fastrack,106,3
+2019-11,Bristol,Fastrack,103,3
 2019-11,Bristol,Language Course,32,29
-2019-11,Bristol,Large Print - Adult Fiction,826,578
+2019-11,Bristol,Large Print - Adult Fiction,817,580
 2019-11,Bristol,Large Print - Adult Non Fiction,73,46
 2019-11,Bristol,Large Print - Children,55,30
 2019-11,Bristol,Music CD,296,83
-2019-11,Bristol,Music Score,162,275
+2019-11,Bristol,Music Score,162,276
 2019-11,Bristol,PG DVD Standard,319,4
 2019-11,Bristol,U DVD Standard,360,11
-2019-11,Bristol,YA / Teen Fiction,986,988
-2019-11,Bristol,YA / Teen Non Fiction,65,95
+2019-11,Bristol,YA / Teen Fiction,986,992
+2019-11,Bristol,YA / Teen Non Fiction,65,96
 2019-11,Dorset,12 DVD Standard,276,4
 2019-11,Dorset,15 DVD Standard,184,2
 2019-11,Dorset,18 DVD Standard,20,0
-2019-11,Dorset,Adult Fiction,32552,13636
+2019-11,Dorset,Adult Fiction,32552,13663
 2019-11,Dorset,Adult Graphic Novel,58,103
-2019-11,Dorset,Adult Non Fiction,8971,7728
+2019-11,Dorset,Adult Non Fiction,8971,7785
 2019-11,Dorset,Adult Reference,12,2
-2019-11,Dorset,Adult Spoken Word,2067,480
+2019-11,Dorset,Adult Spoken Word,2067,481
 2019-11,Dorset,B.O.P.,33,45
 2019-11,Dorset,Boxed Set 12 DVD,4,0
 2019-11,Dorset,Boxed Set 15 DVD,8,1
 2019-11,Dorset,Boxed Set 18 DVD,5,0
-2019-11,Dorset,Child Fiction,15786,6421
-2019-11,Dorset,Child Non Fiction,2081,1162
+2019-11,Dorset,Child Fiction,15786,6435
+2019-11,Dorset,Child Non Fiction,2080,1165
 2019-11,Dorset,Child Spoken Word,199,34
 2019-11,Dorset,Classification Exempt,19,2
 2019-11,Dorset,Drama Set,53,0
@@ -4421,7 +4420,7 @@ month_issued,authority,item_type,issues,renewals
 2019-11,Dorset,Equipment,11,0
 2019-11,Dorset,ILL,15,0
 2019-11,Dorset,Language Course,22,3
-2019-11,Dorset,Large Print - Adult Fiction,3889,1288
+2019-11,Dorset,Large Print - Adult Fiction,3889,1291
 2019-11,Dorset,Large Print - Adult Non Fiction,504,208
 2019-11,Dorset,Large Print - Children,41,24
 2019-11,Dorset,Music CD,73,1
@@ -4429,24 +4428,24 @@ month_issued,authority,item_type,issues,renewals
 2019-11,Dorset,PG DVD Standard,153,1
 2019-11,Dorset,Reading Group Set,1611,1
 2019-11,Dorset,U DVD Standard,95,0
-2019-11,Dorset,YA / Teen Fiction,737,525
-2019-11,Dorset,YA / Teen Non Fiction,61,60
+2019-11,Dorset,YA / Teen Fiction,737,528
+2019-11,Dorset,YA / Teen Non Fiction,61,61
 2019-11,North Somerset,12 DVD Standard,141,1
 2019-11,North Somerset,15 DVD Standard,79,1
 2019-11,North Somerset,18 DVD Standard,6,0
-2019-11,North Somerset,Adult Fiction,13016,7687
+2019-11,North Somerset,Adult Fiction,13016,7706
 2019-11,North Somerset,Adult Graphic Novel,52,36
-2019-11,North Somerset,Adult Non Fiction,3760,4790
+2019-11,North Somerset,Adult Non Fiction,3760,4817
 2019-11,North Somerset,Adult Reference,1,0
 2019-11,North Somerset,Adult Spoken Word,842,258
-2019-11,North Somerset,B.O.P.,93,127
+2019-11,North Somerset,B.O.P.,93,128
 2019-11,North Somerset,Boxed Set 12 DVD,6,0
 2019-11,North Somerset,Boxed Set 15 DVD,1,0
 2019-11,North Somerset,Boxed Set 18 DVD,6,0
 2019-11,North Somerset,Boxed Set PG DVD,1,0
-2019-11,North Somerset,Child Fiction,10954,6787
-2019-11,North Somerset,Child Non Fiction,1396,1183
-2019-11,North Somerset,Child Spoken Word,201,139
+2019-11,North Somerset,Child Fiction,10954,6802
+2019-11,North Somerset,Child Non Fiction,1396,1193
+2019-11,North Somerset,Child Spoken Word,201,140
 2019-11,North Somerset,Drama single copy,12,7
 2019-11,North Somerset,Language Course,4,0
 2019-11,North Somerset,Large Print - Adult Fiction,1788,673
@@ -4457,28 +4456,28 @@ month_issued,authority,item_type,issues,renewals
 2019-11,North Somerset,PG DVD Standard,142,8
 2019-11,North Somerset,Reading Group Set,1,0
 2019-11,North Somerset,U DVD Standard,173,9
-2019-11,North Somerset,YA / Teen Fiction,400,320
+2019-11,North Somerset,YA / Teen Fiction,400,321
 2019-11,North Somerset,YA / Teen Non Fiction,15,25
 2019-11,Poole,12 DVD Standard,97,17
 2019-11,Poole,15 DVD Standard,99,3
 2019-11,Poole,18 DVD Standard,9,1
-2019-11,Poole,Adult Fiction,10095,6476
+2019-11,Poole,Adult Fiction,10095,6491
 2019-11,Poole,Adult Graphic Novel,24,29
-2019-11,Poole,Adult Non Fiction,2965,2999
+2019-11,Poole,Adult Non Fiction,2965,3023
 2019-11,Poole,Adult Reference,1,0
-2019-11,Poole,Adult Spoken Word,579,129
+2019-11,Poole,Adult Spoken Word,579,131
 2019-11,Poole,B.O.P.,25,22
 2019-11,Poole,Boxed Set 12 DVD,1,0
 2019-11,Poole,Boxed Set 15 DVD,4,1
 2019-11,Poole,Boxed Set PG DVD,3,0
-2019-11,Poole,Child Fiction,7933,3194
-2019-11,Poole,Child Non Fiction,1104,792
-2019-11,Poole,Child Spoken Word,73,58
+2019-11,Poole,Child Fiction,7933,3198
+2019-11,Poole,Child Non Fiction,1104,793
+2019-11,Poole,Child Spoken Word,73,59
 2019-11,Poole,Classification Exempt,1,0
 2019-11,Poole,Drama single copy,1,2
 2019-11,Poole,Language Course,2,0
-2019-11,Poole,Large Print - Adult Fiction,1346,568
-2019-11,Poole,Large Print - Adult Non Fiction,193,98
+2019-11,Poole,Large Print - Adult Fiction,1346,571
+2019-11,Poole,Large Print - Adult Non Fiction,193,99
 2019-11,Poole,Large Print - Children,11,10
 2019-11,Poole,Music CD,91,15
 2019-11,Poole,Music Score,3,7
@@ -4491,58 +4490,58 @@ month_issued,authority,item_type,issues,renewals
 2019-11,Somerset,12 DVD Standard,443,12
 2019-11,Somerset,15 DVD Standard,375,7
 2019-11,Somerset,18 DVD Standard,47,2
-2019-11,Somerset,Adult Fiction,38026,22029
-2019-11,Somerset,Adult Graphic Novel,205,165
-2019-11,Somerset,Adult Non Fiction,10072,11649
+2019-11,Somerset,Adult Fiction,38026,22079
+2019-11,Somerset,Adult Graphic Novel,205,166
+2019-11,Somerset,Adult Non Fiction,10072,11736
 2019-11,Somerset,Adult Reference,4,0
-2019-11,Somerset,Adult Spoken Word,1992,786
-2019-11,Somerset,B.O.P.,156,172
+2019-11,Somerset,Adult Spoken Word,1992,790
+2019-11,Somerset,B.O.P.,156,174
 2019-11,Somerset,Boxed Set 12 DVD,7,0
 2019-11,Somerset,Boxed Set 15 DVD,25,0
 2019-11,Somerset,Boxed Set 18 DVD,13,2
 2019-11,Somerset,Boxed Set EX DVD,2,0
 2019-11,Somerset,Boxed Set PG DVD,2,1
 2019-11,Somerset,Boxed Set U DVD,1,0
-2019-11,Somerset,Child Fiction,28297,18052
-2019-11,Somerset,Child Non Fiction,2731,2550
+2019-11,Somerset,Child Fiction,28297,18083
+2019-11,Somerset,Child Non Fiction,2731,2560
 2019-11,Somerset,Child Spoken Word,343,274
 2019-11,Somerset,Classification Exempt,6,0
 2019-11,Somerset,Drama single copy,466,85
 2019-11,Somerset,Equipment,3,9
 2019-11,Somerset,ILL,54,2
 2019-11,Somerset,Language Course,24,22
-2019-11,Somerset,Large Print - Adult Fiction,3157,1520
+2019-11,Somerset,Large Print - Adult Fiction,3157,1522
 2019-11,Somerset,Large Print - Adult Non Fiction,243,118
 2019-11,Somerset,Large Print - Children,17,15
 2019-11,Somerset,Music CD,83,20
-2019-11,Somerset,Music Score,156,314
+2019-11,Somerset,Music Score,156,315
 2019-11,Somerset,Music Set,68,1
 2019-11,Somerset,PG DVD Standard,266,11
 2019-11,Somerset,Reading Group Set,1,0
 2019-11,Somerset,U DVD Standard,237,12
-2019-11,Somerset,YA / Teen Fiction,1010,1056
+2019-11,Somerset,YA / Teen Fiction,1010,1062
 2019-11,Somerset,YA / Teen Non Fiction,23,36
-2019-11,South Gloucestershire,12 DVD Standard,240,16
+2019-11,South Gloucestershire,12 DVD Standard,240,17
 2019-11,South Gloucestershire,15 DVD Standard,163,35
 2019-11,South Gloucestershire,18 DVD Standard,13,0
-2019-11,South Gloucestershire,Adult Fiction,13024,9359
+2019-11,South Gloucestershire,Adult Fiction,13025,9384
 2019-11,South Gloucestershire,Adult Graphic Novel,72,49
-2019-11,South Gloucestershire,Adult Non Fiction,3485,4553
+2019-11,South Gloucestershire,Adult Non Fiction,3485,4589
 2019-11,South Gloucestershire,Adult Spoken Word,764,314
-2019-11,South Gloucestershire,B.O.P.,267,251
+2019-11,South Gloucestershire,B.O.P.,267,255
 2019-11,South Gloucestershire,Boxed Set 12 DVD,3,3
 2019-11,South Gloucestershire,Boxed Set 15 DVD,6,5
 2019-11,South Gloucestershire,Boxed Set 18 DVD,7,0
 2019-11,South Gloucestershire,Boxed Set PG DVD,2,0
 2019-11,South Gloucestershire,Boxed Set U DVD,6,1
-2019-11,South Gloucestershire,Child Fiction,18964,9470
+2019-11,South Gloucestershire,Child Fiction,18964,9489
 2019-11,South Gloucestershire,Child Non Fiction,2118,1746
 2019-11,South Gloucestershire,Child Spoken Word,229,154
 2019-11,South Gloucestershire,Classification Exempt,5,2
 2019-11,South Gloucestershire,Drama Set,1,4
 2019-11,South Gloucestershire,Drama single copy,3,3
 2019-11,South Gloucestershire,Equipment,11,16
-2019-11,South Gloucestershire,Fastrack,962,631
+2019-11,South Gloucestershire,Fastrack,959,632
 2019-11,South Gloucestershire,ILL,4,0
 2019-11,South Gloucestershire,Language Course,6,5
 2019-11,South Gloucestershire,Large Print - Adult Fiction,1503,611
@@ -4552,92 +4551,93 @@ month_issued,authority,item_type,issues,renewals
 2019-11,South Gloucestershire,Music Score,17,43
 2019-11,South Gloucestershire,PG DVD Standard,187,25
 2019-11,South Gloucestershire,U DVD Standard,220,38
-2019-11,South Gloucestershire,YA / Teen Fiction,477,485
-2019-11,South Gloucestershire,YA / Teen Non Fiction,28,24
+2019-11,South Gloucestershire,YA / Teen Fiction,477,486
+2019-11,South Gloucestershire,YA / Teen Non Fiction,28,25
 2019-12,Bath and North East Somerset,12 DVD Standard,85,7
 2019-12,Bath and North East Somerset,15 DVD Standard,66,11
 2019-12,Bath and North East Somerset,18 DVD Standard,22,2
-2019-12,Bath and North East Somerset,Adult Fiction,7124,4611
-2019-12,Bath and North East Somerset,Adult Graphic Novel,64,37
-2019-12,Bath and North East Somerset,Adult Non Fiction,2464,2905
+2019-12,Bath and North East Somerset,Adult Fiction,7124,4633
+2019-12,Bath and North East Somerset,Adult Graphic Novel,64,38
+2019-12,Bath and North East Somerset,Adult Non Fiction,2464,2952
 2019-12,Bath and North East Somerset,Adult Spoken Word,324,115
-2019-12,Bath and North East Somerset,B.O.P.,16,15
+2019-12,Bath and North East Somerset,B.O.P.,16,16
 2019-12,Bath and North East Somerset,Boxed Set 12 DVD,4,0
 2019-12,Bath and North East Somerset,Boxed Set 15 DVD,3,0
 2019-12,Bath and North East Somerset,Boxed Set 18 DVD,4,0
 2019-12,Bath and North East Somerset,Boxed Set PG DVD,1,0
-2019-12,Bath and North East Somerset,Child Fiction,6325,3879
-2019-12,Bath and North East Somerset,Child Non Fiction,492,454
+2019-12,Bath and North East Somerset,Child Fiction,6325,3895
+2019-12,Bath and North East Somerset,Child Non Fiction,492,460
 2019-12,Bath and North East Somerset,Child Spoken Word,97,122
 2019-12,Bath and North East Somerset,Classification Exempt,1,0
-2019-12,Bath and North East Somerset,Drama single copy,4,9
+2019-12,Bath and North East Somerset,Drama single copy,4,10
 2019-12,Bath and North East Somerset,ILL,1,4
 2019-12,Bath and North East Somerset,Language Course,7,1
 2019-12,Bath and North East Somerset,Large Print - Adult Fiction,583,328
 2019-12,Bath and North East Somerset,Large Print - Adult Non Fiction,43,38
 2019-12,Bath and North East Somerset,Large Print - Children,6,3
 2019-12,Bath and North East Somerset,Music CD,23,1
-2019-12,Bath and North East Somerset,Music Score,15,26
+2019-12,Bath and North East Somerset,Music Score,15,27
 2019-12,Bath and North East Somerset,PG DVD Standard,45,0
 2019-12,Bath and North East Somerset,U DVD Standard,40,7
-2019-12,Bath and North East Somerset,YA / Teen Fiction,466,491
-2019-12,Bath and North East Somerset,YA / Teen Non Fiction,9,13
+2019-12,Bath and North East Somerset,YA / Teen Fiction,466,493
+2019-12,Bath and North East Somerset,YA / Teen Non Fiction,9,14
 2019-12,Bristol,12 DVD Standard,332,23
 2019-12,Bristol,15 DVD Standard,419,31
 2019-12,Bristol,18 DVD Standard,68,2
-2019-12,Bristol,Adult Fiction,17179,12752
-2019-12,Bristol,Adult Graphic Novel,785,462
-2019-12,Bristol,Adult Non Fiction,8102,11335
-2019-12,Bristol,Adult Spoken Word,808,401
+2019-12,Bristol,Adult Fiction,17185,12861
+2019-12,Bristol,Adult Graphic Novel,785,463
+2019-12,Bristol,Adult Non Fiction,8100,11480
+2019-12,Bristol,Adult Reference,1,2
+2019-12,Bristol,Adult Spoken Word,808,406
 2019-12,Bristol,B.O.P.,54,68
 2019-12,Bristol,Boxed Set 12 DVD,8,0
 2019-12,Bristol,Boxed Set 15 DVD,27,1
 2019-12,Bristol,Boxed Set 18 DVD,16,0
 2019-12,Bristol,Boxed Set PG DVD,2,0
 2019-12,Bristol,Boxed Set U DVD,1,0
-2019-12,Bristol,Child Fiction,19357,11266
-2019-12,Bristol,Child Non Fiction,1864,1625
-2019-12,Bristol,Child Spoken Word,229,172
+2019-12,Bristol,Child Fiction,19357,11314
+2019-12,Bristol,Child Non Fiction,1863,1646
+2019-12,Bristol,Child Spoken Word,229,175
 2019-12,Bristol,Classification Exempt,7,1
 2019-12,Bristol,Drama Set,14,0
 2019-12,Bristol,Drama single copy,58,50
 2019-12,Bristol,Equipment,1,0
-2019-12,Bristol,Fastrack,120,3
+2019-12,Bristol,Fastrack,114,3
 2019-12,Bristol,ILL,1,5
 2019-12,Bristol,Language Course,19,18
-2019-12,Bristol,Large Print - Adult Fiction,661,393
-2019-12,Bristol,Large Print - Adult Non Fiction,67,63
-2019-12,Bristol,Large Print - Children,31,24
-2019-12,Bristol,Music CD,371,83
-2019-12,Bristol,Music Score,101,231
+2019-12,Bristol,Large Print - Adult Fiction,657,397
+2019-12,Bristol,Large Print - Adult Non Fiction,67,67
+2019-12,Bristol,Large Print - Children,31,26
+2019-12,Bristol,Music CD,371,86
+2019-12,Bristol,Music Score,101,232
 2019-12,Bristol,PG DVD Standard,239,8
 2019-12,Bristol,U DVD Standard,282,14
-2019-12,Bristol,YA / Teen Fiction,897,912
-2019-12,Bristol,YA / Teen Non Fiction,55,93
+2019-12,Bristol,YA / Teen Fiction,897,921
+2019-12,Bristol,YA / Teen Non Fiction,56,93
 2019-12,Dorset,12 DVD Standard,197,0
 2019-12,Dorset,15 DVD Standard,152,7
 2019-12,Dorset,18 DVD Standard,27,1
-2019-12,Dorset,Adult Fiction,28747,12439
+2019-12,Dorset,Adult Fiction,28747,12490
 2019-12,Dorset,Adult Graphic Novel,57,44
-2019-12,Dorset,Adult Non Fiction,6999,5738
-2019-12,Dorset,Adult Spoken Word,1983,472
-2019-12,Dorset,B.O.P.,29,37
+2019-12,Dorset,Adult Non Fiction,6999,5801
+2019-12,Dorset,Adult Spoken Word,1983,473
+2019-12,Dorset,B.O.P.,29,38
 2019-12,Dorset,Boxed Set 15 DVD,5,0
 2019-12,Dorset,Boxed Set 18 DVD,8,0
-2019-12,Dorset,Child Fiction,10921,4384
-2019-12,Dorset,Child Non Fiction,1209,737
-2019-12,Dorset,Child Spoken Word,155,26
+2019-12,Dorset,Child Fiction,10921,4426
+2019-12,Dorset,Child Non Fiction,1209,743
+2019-12,Dorset,Child Spoken Word,155,27
 2019-12,Dorset,Classification Exempt,17,0
 2019-12,Dorset,Drama Set,21,0
 2019-12,Dorset,Drama single copy,11,6
 2019-12,Dorset,Equipment,1,0
 2019-12,Dorset,ILL,13,0
 2019-12,Dorset,Language Course,5,3
-2019-12,Dorset,Large Print - Adult Fiction,3517,1091
-2019-12,Dorset,Large Print - Adult Non Fiction,473,119
+2019-12,Dorset,Large Print - Adult Fiction,3517,1094
+2019-12,Dorset,Large Print - Adult Non Fiction,473,120
 2019-12,Dorset,Large Print - Children,31,11
 2019-12,Dorset,Music CD,65,3
-2019-12,Dorset,Music Score,35,62
+2019-12,Dorset,Music Score,35,63
 2019-12,Dorset,PG DVD Standard,106,0
 2019-12,Dorset,Reading Group Set,1502,21
 2019-12,Dorset,U DVD Standard,68,1
@@ -4646,38 +4646,38 @@ month_issued,authority,item_type,issues,renewals
 2019-12,North Somerset,12 DVD Standard,97,1
 2019-12,North Somerset,15 DVD Standard,75,0
 2019-12,North Somerset,18 DVD Standard,17,0
-2019-12,North Somerset,Adult Fiction,10563,6123
+2019-12,North Somerset,Adult Fiction,10563,6149
 2019-12,North Somerset,Adult Graphic Novel,34,48
-2019-12,North Somerset,Adult Non Fiction,2612,2871
-2019-12,North Somerset,Adult Spoken Word,694,172
-2019-12,North Somerset,B.O.P.,40,34
+2019-12,North Somerset,Adult Non Fiction,2612,2905
+2019-12,North Somerset,Adult Spoken Word,694,174
+2019-12,North Somerset,B.O.P.,40,35
 2019-12,North Somerset,Boxed Set 12 DVD,2,0
 2019-12,North Somerset,Boxed Set 15 DVD,1,0
 2019-12,North Somerset,Boxed Set 18 DVD,3,0
 2019-12,North Somerset,Boxed Set EX DVD,1,0
-2019-12,North Somerset,Child Fiction,6619,4327
-2019-12,North Somerset,Child Non Fiction,748,708
+2019-12,North Somerset,Child Fiction,6618,4365
+2019-12,North Somerset,Child Non Fiction,748,729
 2019-12,North Somerset,Child Spoken Word,169,138
 2019-12,North Somerset,Classification Exempt,2,0
 2019-12,North Somerset,Drama single copy,1,1
 2019-12,North Somerset,Equipment,1,0
 2019-12,North Somerset,ILL,1,0
 2019-12,North Somerset,Language Course,2,1
-2019-12,North Somerset,Large Print - Adult Fiction,1292,569
+2019-12,North Somerset,Large Print - Adult Fiction,1292,572
 2019-12,North Somerset,Large Print - Adult Non Fiction,136,69
 2019-12,North Somerset,Large Print - Children,16,19
 2019-12,North Somerset,Music CD,21,0
 2019-12,North Somerset,Music Score,9,14
 2019-12,North Somerset,PG DVD Standard,84,2
 2019-12,North Somerset,U DVD Standard,100,4
-2019-12,North Somerset,YA / Teen Fiction,236,201
+2019-12,North Somerset,YA / Teen Fiction,236,203
 2019-12,North Somerset,YA / Teen Non Fiction,7,18
 2019-12,Poole,12 DVD Standard,112,19
 2019-12,Poole,15 DVD Standard,89,3
 2019-12,Poole,18 DVD Standard,14,1
-2019-12,Poole,Adult Fiction,8558,5188
+2019-12,Poole,Adult Fiction,8558,5221
 2019-12,Poole,Adult Graphic Novel,10,2
-2019-12,Poole,Adult Non Fiction,2163,2116
+2019-12,Poole,Adult Non Fiction,2163,2136
 2019-12,Poole,Adult Spoken Word,539,108
 2019-12,Poole,B.O.P.,24,13
 2019-12,Poole,Boxed Set 12 DVD,5,0
@@ -4685,13 +4685,13 @@ month_issued,authority,item_type,issues,renewals
 2019-12,Poole,Boxed Set 18 DVD,3,0
 2019-12,Poole,Boxed Set PG DVD,1,0
 2019-12,Poole,Boxed Set U DVD,1,0
-2019-12,Poole,Child Fiction,5630,2639
-2019-12,Poole,Child Non Fiction,678,442
+2019-12,Poole,Child Fiction,5630,2642
+2019-12,Poole,Child Non Fiction,678,446
 2019-12,Poole,Child Spoken Word,55,28
 2019-12,Poole,ILL,1,0
 2019-12,Poole,Language Course,1,0
 2019-12,Poole,Large Print - Adult Fiction,1038,474
-2019-12,Poole,Large Print - Adult Non Fiction,163,70
+2019-12,Poole,Large Print - Adult Non Fiction,163,71
 2019-12,Poole,Large Print - Children,8,4
 2019-12,Poole,Music CD,58,2
 2019-12,Poole,Music Score,3,9
@@ -4699,28 +4699,28 @@ month_issued,authority,item_type,issues,renewals
 2019-12,Poole,Reading Group Set,5,5
 2019-12,Poole,U DVD Standard,54,6
 2019-12,Poole,Visual Material,1,1
-2019-12,Poole,YA / Teen Fiction,243,143
+2019-12,Poole,YA / Teen Fiction,243,144
 2019-12,Poole,YA / Teen Non Fiction,25,30
 2019-12,Somerset,12 DVD Standard,356,22
 2019-12,Somerset,15 DVD Standard,295,15
 2019-12,Somerset,18 DVD Standard,68,1
-2019-12,Somerset,Adult Fiction,31875,18181
-2019-12,Somerset,Adult Graphic Novel,165,135
-2019-12,Somerset,Adult Non Fiction,7103,7794
-2019-12,Somerset,Adult Spoken Word,1612,646
+2019-12,Somerset,Adult Fiction,31875,18253
+2019-12,Somerset,Adult Graphic Novel,165,136
+2019-12,Somerset,Adult Non Fiction,7103,7873
+2019-12,Somerset,Adult Spoken Word,1612,650
 2019-12,Somerset,B.O.P.,109,93
 2019-12,Somerset,Boxed Set 12 DVD,4,1
 2019-12,Somerset,Boxed Set 15 DVD,21,1
 2019-12,Somerset,Boxed Set 18 DVD,19,3
-2019-12,Somerset,Child Fiction,18870,11125
-2019-12,Somerset,Child Non Fiction,1695,1590
+2019-12,Somerset,Child Fiction,18870,11196
+2019-12,Somerset,Child Non Fiction,1695,1616
 2019-12,Somerset,Child Spoken Word,227,181
 2019-12,Somerset,Classification Exempt,2,1
 2019-12,Somerset,Drama single copy,180,44
 2019-12,Somerset,Equipment,1,0
 2019-12,Somerset,ILL,60,4
 2019-12,Somerset,Language Course,20,19
-2019-12,Somerset,Large Print - Adult Fiction,2978,1432
+2019-12,Somerset,Large Print - Adult Fiction,2978,1448
 2019-12,Somerset,Large Print - Adult Non Fiction,249,168
 2019-12,Somerset,Large Print - Children,14,15
 2019-12,Somerset,Music CD,62,2
@@ -4729,122 +4729,121 @@ month_issued,authority,item_type,issues,renewals
 2019-12,Somerset,PG DVD Standard,231,16
 2019-12,Somerset,U DVD Standard,175,12
 2019-12,Somerset,Visual Material,2,0
-2019-12,Somerset,YA / Teen Fiction,822,881
+2019-12,Somerset,YA / Teen Fiction,822,889
 2019-12,Somerset,YA / Teen Non Fiction,16,30
 2019-12,South Gloucestershire,12 DVD Standard,219,36
 2019-12,South Gloucestershire,15 DVD Standard,155,33
 2019-12,South Gloucestershire,18 DVD Standard,24,3
-2019-12,South Gloucestershire,Adult Fiction,10943,7181
+2019-12,South Gloucestershire,Adult Fiction,10944,7227
 2019-12,South Gloucestershire,Adult Graphic Novel,72,48
-2019-12,South Gloucestershire,Adult Non Fiction,2842,3492
+2019-12,South Gloucestershire,Adult Non Fiction,2842,3554
 2019-12,South Gloucestershire,Adult Spoken Word,702,241
-2019-12,South Gloucestershire,B.O.P.,186,152
+2019-12,South Gloucestershire,B.O.P.,186,155
 2019-12,South Gloucestershire,Boxed Set 12 DVD,1,2
 2019-12,South Gloucestershire,Boxed Set 15 DVD,6,1
 2019-12,South Gloucestershire,Boxed Set 18 DVD,6,1
 2019-12,South Gloucestershire,Boxed Set PG DVD,1,0
 2019-12,South Gloucestershire,Boxed Set U DVD,2,0
-2019-12,South Gloucestershire,Child Fiction,12869,6237
-2019-12,South Gloucestershire,Child Non Fiction,1288,930
-2019-12,South Gloucestershire,Child Spoken Word,195,164
+2019-12,South Gloucestershire,Child Fiction,12869,6274
+2019-12,South Gloucestershire,Child Non Fiction,1288,941
+2019-12,South Gloucestershire,Child Spoken Word,195,165
 2019-12,South Gloucestershire,Classification Exempt,6,9
 2019-12,South Gloucestershire,Drama single copy,1,0
 2019-12,South Gloucestershire,Equipment,3,10
-2019-12,South Gloucestershire,Fastrack,794,500
+2019-12,South Gloucestershire,Fastrack,793,504
 2019-12,South Gloucestershire,ILL,1,0
 2019-12,South Gloucestershire,Language Course,12,14
-2019-12,South Gloucestershire,Large Print - Adult Fiction,1269,509
-2019-12,South Gloucestershire,Large Print - Adult Non Fiction,78,40
+2019-12,South Gloucestershire,Large Print - Adult Fiction,1269,511
+2019-12,South Gloucestershire,Large Print - Adult Non Fiction,78,41
 2019-12,South Gloucestershire,Large Print - Children,19,10
 2019-12,South Gloucestershire,Music CD,55,31
 2019-12,South Gloucestershire,Music Score,4,12
 2019-12,South Gloucestershire,PG DVD Standard,149,37
 2019-12,South Gloucestershire,U DVD Standard,195,43
-2019-12,South Gloucestershire,YA / Teen Fiction,347,262
+2019-12,South Gloucestershire,YA / Teen Fiction,347,264
 2019-12,South Gloucestershire,YA / Teen Non Fiction,14,8
 2020-01,Bath and North East Somerset,12 DVD Premium,2,0
 2020-01,Bath and North East Somerset,12 DVD Standard,68,9
-2020-01,Bath and North East Somerset,15 DVD Premium,4,0
-2020-01,Bath and North East Somerset,15 DVD Standard,87,15
+2020-01,Bath and North East Somerset,15 DVD Standard,91,15
 2020-01,Bath and North East Somerset,18 DVD Standard,16,0
-2020-01,Bath and North East Somerset,Adult Fiction,8456,4879
-2020-01,Bath and North East Somerset,Adult Graphic Novel,77,53
-2020-01,Bath and North East Somerset,Adult Non Fiction,3698,3523
+2020-01,Bath and North East Somerset,Adult Fiction,8456,4919
+2020-01,Bath and North East Somerset,Adult Graphic Novel,77,56
+2020-01,Bath and North East Somerset,Adult Non Fiction,3698,3601
 2020-01,Bath and North East Somerset,Adult Spoken Word,385,91
-2020-01,Bath and North East Somerset,B.O.P.,33,37
+2020-01,Bath and North East Somerset,B.O.P.,33,38
 2020-01,Bath and North East Somerset,Boxed Set 15 DVD,5,0
 2020-01,Bath and North East Somerset,Boxed Set 18 DVD,2,2
 2020-01,Bath and North East Somerset,Boxed Set PG DVD,1,0
-2020-01,Bath and North East Somerset,Child Fiction,9240,4666
-2020-01,Bath and North East Somerset,Child Non Fiction,997,753
-2020-01,Bath and North East Somerset,Child Spoken Word,111,93
+2020-01,Bath and North East Somerset,Child Fiction,9239,4746
+2020-01,Bath and North East Somerset,Child Non Fiction,997,770
+2020-01,Bath and North East Somerset,Child Spoken Word,111,95
 2020-01,Bath and North East Somerset,Classification Exempt,6,3
 2020-01,Bath and North East Somerset,Drama single copy,4,1
 2020-01,Bath and North East Somerset,Equipment,2,6
 2020-01,Bath and North East Somerset,Fastrack,4,0
 2020-01,Bath and North East Somerset,ILL,1,0
-2020-01,Bath and North East Somerset,Language Course,14,11
-2020-01,Bath and North East Somerset,Large Print - Adult Fiction,785,361
-2020-01,Bath and North East Somerset,Large Print - Adult Non Fiction,83,65
+2020-01,Bath and North East Somerset,Language Course,14,12
+2020-01,Bath and North East Somerset,Large Print - Adult Fiction,785,364
+2020-01,Bath and North East Somerset,Large Print - Adult Non Fiction,83,66
 2020-01,Bath and North East Somerset,Large Print - Children,11,4
 2020-01,Bath and North East Somerset,Music CD,25,0
 2020-01,Bath and North East Somerset,Music Score,14,23
 2020-01,Bath and North East Somerset,PG DVD Premium,2,0
 2020-01,Bath and North East Somerset,PG DVD Standard,39,4
 2020-01,Bath and North East Somerset,U DVD Standard,46,5
-2020-01,Bath and North East Somerset,YA / Teen Fiction,466,374
-2020-01,Bath and North East Somerset,YA / Teen Non Fiction,14,18
+2020-01,Bath and North East Somerset,YA / Teen Fiction,466,382
+2020-01,Bath and North East Somerset,YA / Teen Non Fiction,14,19
 2020-01,Bristol,12 DVD Premium,4,0
 2020-01,Bristol,12 DVD Standard,319,11
-2020-01,Bristol,15 DVD Premium,4,0
-2020-01,Bristol,15 DVD Standard,452,9
+2020-01,Bristol,15 DVD Premium,1,0
+2020-01,Bristol,15 DVD Standard,454,9
 2020-01,Bristol,18 DVD Standard,69,1
-2020-01,Bristol,Adult Fiction,20028,11571
-2020-01,Bristol,Adult Graphic Novel,928,620
-2020-01,Bristol,Adult Non Fiction,11570,12308
-2020-01,Bristol,Adult Spoken Word,1005,274
+2020-01,Bristol,Adult Fiction,20032,11834
+2020-01,Bristol,Adult Graphic Novel,926,644
+2020-01,Bristol,Adult Non Fiction,11570,12616
+2020-01,Bristol,Adult Spoken Word,1005,281
 2020-01,Bristol,B.O.P.,79,77
 2020-01,Bristol,Boxed Set 12 DVD,14,1
 2020-01,Bristol,Boxed Set 15 DVD,25,0
 2020-01,Bristol,Boxed Set 18 DVD,25,0
 2020-01,Bristol,Boxed Set PG DVD,2,0
 2020-01,Bristol,Boxed Set U DVD,3,1
-2020-01,Bristol,Child Fiction,27835,13456
-2020-01,Bristol,Child Non Fiction,2944,1802
-2020-01,Bristol,Child Spoken Word,266,126
+2020-01,Bristol,Child Fiction,27835,13701
+2020-01,Bristol,Child Non Fiction,2944,1829
+2020-01,Bristol,Child Spoken Word,266,136
 2020-01,Bristol,Classification Exempt,8,0
-2020-01,Bristol,Drama Set,32,6
-2020-01,Bristol,Drama single copy,86,52
-2020-01,Bristol,Equipment,16,10
-2020-01,Bristol,Fastrack,153,30
+2020-01,Bristol,Drama Set,32,9
+2020-01,Bristol,Drama single copy,86,56
+2020-01,Bristol,Equipment,16,11
+2020-01,Bristol,Fastrack,149,32
 2020-01,Bristol,ILL,4,3
 2020-01,Bristol,Language Course,28,26
-2020-01,Bristol,Large Print - Adult Fiction,846,496
-2020-01,Bristol,Large Print - Adult Non Fiction,76,60
-2020-01,Bristol,Large Print - Children,49,28
-2020-01,Bristol,Music CD,393,86
+2020-01,Bristol,Large Print - Adult Fiction,836,503
+2020-01,Bristol,Large Print - Adult Non Fiction,75,60
+2020-01,Bristol,Large Print - Children,49,29
+2020-01,Bristol,Music CD,393,88
 2020-01,Bristol,Music Score,176,274
-2020-01,Bristol,PG DVD Premium,7,0
-2020-01,Bristol,PG DVD Standard,210,7
+2020-01,Bristol,PG DVD Premium,6,0
+2020-01,Bristol,PG DVD Standard,211,7
 2020-01,Bristol,U DVD Standard,282,12
-2020-01,Bristol,YA / Teen Fiction,954,804
-2020-01,Bristol,YA / Teen Non Fiction,74,77
+2020-01,Bristol,YA / Teen Fiction,953,818
+2020-01,Bristol,YA / Teen Non Fiction,74,78
 2020-01,Dorset,12 DVD Premium,5,0
 2020-01,Dorset,12 DVD Standard,181,0
 2020-01,Dorset,15 DVD Premium,2,0
 2020-01,Dorset,15 DVD Standard,195,0
 2020-01,Dorset,18 DVD Standard,28,0
-2020-01,Dorset,Adult Fiction,32464,11207
-2020-01,Dorset,Adult Graphic Novel,61,41
-2020-01,Dorset,Adult Non Fiction,9721,6352
+2020-01,Dorset,Adult Fiction,32461,11369
+2020-01,Dorset,Adult Graphic Novel,61,42
+2020-01,Dorset,Adult Non Fiction,9721,6486
 2020-01,Dorset,Adult Reference,20,1
-2020-01,Dorset,Adult Spoken Word,2054,400
+2020-01,Dorset,Adult Spoken Word,2054,401
 2020-01,Dorset,B.O.P.,32,21
 2020-01,Dorset,Boxed Set 12 DVD,1,0
 2020-01,Dorset,Boxed Set 15 DVD,9,0
 2020-01,Dorset,Boxed Set 18 DVD,3,0
-2020-01,Dorset,Child Fiction,15115,5442
-2020-01,Dorset,Child Non Fiction,2287,1229
+2020-01,Dorset,Child Fiction,15114,5575
+2020-01,Dorset,Child Non Fiction,2287,1249
 2020-01,Dorset,Child Spoken Word,185,21
 2020-01,Dorset,Classification Exempt,25,0
 2020-01,Dorset,Drama Set,57,0
@@ -4852,75 +4851,75 @@ month_issued,authority,item_type,issues,renewals
 2020-01,Dorset,Equipment,12,0
 2020-01,Dorset,ILL,31,1
 2020-01,Dorset,Language Course,28,5
-2020-01,Dorset,Large Print - Adult Fiction,4036,1065
-2020-01,Dorset,Large Print - Adult Non Fiction,574,156
-2020-01,Dorset,Large Print - Children,31,16
+2020-01,Dorset,Large Print - Adult Fiction,4036,1085
+2020-01,Dorset,Large Print - Adult Non Fiction,574,161
+2020-01,Dorset,Large Print - Children,31,18
 2020-01,Dorset,Music CD,56,0
 2020-01,Dorset,Music Score,53,44
 2020-01,Dorset,PG DVD Premium,4,0
 2020-01,Dorset,PG DVD Standard,119,0
 2020-01,Dorset,Reading Group Set,1588,11
 2020-01,Dorset,U DVD Standard,79,0
-2020-01,Dorset,YA / Teen Fiction,720,429
+2020-01,Dorset,YA / Teen Fiction,720,431
 2020-01,Dorset,YA / Teen Non Fiction,45,19
 2020-01,North Somerset,12 DVD Premium,4,0
 2020-01,North Somerset,12 DVD Standard,125,0
-2020-01,North Somerset,15 DVD Premium,6,0
-2020-01,North Somerset,15 DVD Standard,120,0
+2020-01,North Somerset,15 DVD Premium,1,0
+2020-01,North Somerset,15 DVD Standard,125,0
 2020-01,North Somerset,18 DVD Standard,28,0
-2020-01,North Somerset,Adult Fiction,12804,6082
-2020-01,North Somerset,Adult Graphic Novel,41,23
-2020-01,North Somerset,Adult Non Fiction,4066,3612
-2020-01,North Somerset,Adult Spoken Word,840,171
-2020-01,North Somerset,B.O.P.,86,65
+2020-01,North Somerset,Adult Fiction,12804,6156
+2020-01,North Somerset,Adult Graphic Novel,41,24
+2020-01,North Somerset,Adult Non Fiction,4066,3713
+2020-01,North Somerset,Adult Spoken Word,840,172
+2020-01,North Somerset,B.O.P.,86,66
 2020-01,North Somerset,Boxed Set 12 DVD,2,0
 2020-01,North Somerset,Boxed Set 15 DVD,8,0
 2020-01,North Somerset,Boxed Set 18 DVD,2,0
 2020-01,North Somerset,Boxed Set EX DVD,1,0
 2020-01,North Somerset,Boxed Set U DVD,1,0
-2020-01,North Somerset,Child Fiction,9983,5167
-2020-01,North Somerset,Child Non Fiction,1417,1094
-2020-01,North Somerset,Child Spoken Word,195,114
+2020-01,North Somerset,Child Fiction,9983,5274
+2020-01,North Somerset,Child Non Fiction,1417,1133
+2020-01,North Somerset,Child Spoken Word,195,124
 2020-01,North Somerset,Classification Exempt,1,0
 2020-01,North Somerset,Drama single copy,6,3
 2020-01,North Somerset,Equipment,4,2
 2020-01,North Somerset,Fastrack,69,0
 2020-01,North Somerset,ILL,1,0
 2020-01,North Somerset,Language Course,9,1
-2020-01,North Somerset,Large Print - Adult Fiction,1744,564
-2020-01,North Somerset,Large Print - Adult Non Fiction,172,76
-2020-01,North Somerset,Large Print - Children,27,29
+2020-01,North Somerset,Large Print - Adult Fiction,1744,567
+2020-01,North Somerset,Large Print - Adult Non Fiction,172,78
+2020-01,North Somerset,Large Print - Children,27,30
 2020-01,North Somerset,Music CD,33,0
 2020-01,North Somerset,Music Score,10,7
 2020-01,North Somerset,PG DVD Premium,5,0
 2020-01,North Somerset,PG DVD Standard,95,2
 2020-01,North Somerset,U DVD Standard,107,5
-2020-01,North Somerset,YA / Teen Fiction,373,254
+2020-01,North Somerset,YA / Teen Fiction,373,255
 2020-01,North Somerset,YA / Teen Non Fiction,6,5
 2020-01,Poole,12 DVD Premium,3,0
 2020-01,Poole,12 DVD Standard,71,5
 2020-01,Poole,15 DVD Standard,79,8
 2020-01,Poole,18 DVD Standard,24,0
-2020-01,Poole,Adult Fiction,10029,5082
+2020-01,Poole,Adult Fiction,10029,5160
 2020-01,Poole,Adult Graphic Novel,28,8
-2020-01,Poole,Adult Non Fiction,3324,2466
-2020-01,Poole,Adult Spoken Word,616,119
-2020-01,Poole,B.O.P.,38,23
+2020-01,Poole,Adult Non Fiction,3324,2542
+2020-01,Poole,Adult Spoken Word,616,134
+2020-01,Poole,B.O.P.,37,24
 2020-01,Poole,Boxed Set 12 DVD,4,1
 2020-01,Poole,Boxed Set 15 DVD,3,0
 2020-01,Poole,Boxed Set 18 DVD,3,0
 2020-01,Poole,Boxed Set PG DVD,3,0
 2020-01,Poole,Boxed Set U DVD,2,0
-2020-01,Poole,Child Fiction,7506,2952
-2020-01,Poole,Child Non Fiction,1108,532
+2020-01,Poole,Child Fiction,7506,3000
+2020-01,Poole,Child Non Fiction,1108,537
 2020-01,Poole,Child Reference,1,1
-2020-01,Poole,Child Spoken Word,45,20
+2020-01,Poole,Child Spoken Word,45,21
 2020-01,Poole,Classification Exempt,1,0
 2020-01,Poole,Drama Set,2,4
 2020-01,Poole,Drama single copy,1,3
 2020-01,Poole,Language Course,2,0
-2020-01,Poole,Large Print - Adult Fiction,1254,353
-2020-01,Poole,Large Print - Adult Non Fiction,171,52
+2020-01,Poole,Large Print - Adult Fiction,1254,368
+2020-01,Poole,Large Print - Adult Non Fiction,171,54
 2020-01,Poole,Large Print - Children,9,12
 2020-01,Poole,Music CD,69,3
 2020-01,Poole,Music Score,1,0
@@ -4928,145 +4927,144 @@ month_issued,authority,item_type,issues,renewals
 2020-01,Poole,PG DVD Standard,56,2
 2020-01,Poole,U DVD Standard,53,5
 2020-01,Poole,Visual Material,12,0
-2020-01,Poole,YA / Teen Fiction,268,141
-2020-01,Poole,YA / Teen Non Fiction,38,26
+2020-01,Poole,YA / Teen Fiction,268,143
+2020-01,Poole,YA / Teen Non Fiction,38,27
 2020-01,Somerset,12 DVD Premium,8,0
 2020-01,Somerset,12 DVD Standard,328,20
-2020-01,Somerset,15 DVD Premium,10,1
-2020-01,Somerset,15 DVD Standard,320,10
+2020-01,Somerset,15 DVD Premium,3,0
+2020-01,Somerset,15 DVD Standard,327,11
 2020-01,Somerset,18 DVD Standard,60,1
-2020-01,Somerset,Adult Fiction,37984,17917
-2020-01,Somerset,Adult Graphic Novel,170,102
-2020-01,Somerset,Adult Non Fiction,10911,9459
+2020-01,Somerset,Adult Fiction,37984,18159
+2020-01,Somerset,Adult Graphic Novel,170,109
+2020-01,Somerset,Adult Non Fiction,10911,9704
 2020-01,Somerset,Adult Reference,4,0
-2020-01,Somerset,Adult Spoken Word,1920,562
-2020-01,Somerset,B.O.P.,209,119
+2020-01,Somerset,Adult Spoken Word,1920,569
+2020-01,Somerset,B.O.P.,209,122
 2020-01,Somerset,Boxed Set 12 DVD,5,0
 2020-01,Somerset,Boxed Set 15 DVD,24,2
 2020-01,Somerset,Boxed Set 18 DVD,7,0
 2020-01,Somerset,Boxed Set EX DVD,1,0
-2020-01,Somerset,Child Fiction,25708,14256
-2020-01,Somerset,Child Non Fiction,2855,2395
-2020-01,Somerset,Child Spoken Word,250,152
+2020-01,Somerset,Child Fiction,25708,14459
+2020-01,Somerset,Child Non Fiction,2855,2444
+2020-01,Somerset,Child Spoken Word,250,156
 2020-01,Somerset,Classification Exempt,10,2
-2020-01,Somerset,Drama single copy,495,35
+2020-01,Somerset,Drama single copy,495,38
 2020-01,Somerset,Equipment,3,0
 2020-01,Somerset,ILL,24,1
 2020-01,Somerset,Language Course,29,22
-2020-01,Somerset,Large Print - Adult Fiction,3389,1341
+2020-01,Somerset,Large Print - Adult Fiction,3389,1353
 2020-01,Somerset,Large Print - Adult Non Fiction,245,113
-2020-01,Somerset,Large Print - Children,24,11
+2020-01,Somerset,Large Print - Children,24,12
 2020-01,Somerset,Music CD,55,11
-2020-01,Somerset,Music Score,180,161
+2020-01,Somerset,Music Score,180,164
 2020-01,Somerset,Music Set,79,0
-2020-01,Somerset,PG DVD Premium,24,2
-2020-01,Somerset,PG DVD Standard,224,20
+2020-01,Somerset,PG DVD Premium,16,2
+2020-01,Somerset,PG DVD Standard,232,20
 2020-01,Somerset,U DVD Standard,191,23
-2020-01,Somerset,YA / Teen Fiction,969,855
-2020-01,Somerset,YA / Teen Non Fiction,37,29
+2020-01,Somerset,YA / Teen Fiction,969,885
+2020-01,Somerset,YA / Teen Non Fiction,37,32
 2020-01,South Gloucestershire,12 DVD Premium,2,0
-2020-01,South Gloucestershire,12 DVD Standard,180,31
-2020-01,South Gloucestershire,15 DVD Premium,5,0
-2020-01,South Gloucestershire,15 DVD Standard,160,31
-2020-01,South Gloucestershire,18 DVD Standard,43,2
-2020-01,South Gloucestershire,Adult Fiction,13373,6920
+2020-01,South Gloucestershire,12 DVD Standard,180,32
+2020-01,South Gloucestershire,15 DVD Standard,165,33
+2020-01,South Gloucestershire,18 DVD Standard,43,3
+2020-01,South Gloucestershire,Adult Fiction,13377,7034
 2020-01,South Gloucestershire,Adult Graphic Novel,58,43
-2020-01,South Gloucestershire,Adult Non Fiction,3988,3693
+2020-01,South Gloucestershire,Adult Non Fiction,3988,3796
 2020-01,South Gloucestershire,Adult Spoken Word,799,245
-2020-01,South Gloucestershire,B.O.P.,267,171
+2020-01,South Gloucestershire,B.O.P.,267,178
 2020-01,South Gloucestershire,Boxed Set 12 DVD,2,0
 2020-01,South Gloucestershire,Boxed Set 15 DVD,10,0
 2020-01,South Gloucestershire,Boxed Set 18 DVD,4,0
 2020-01,South Gloucestershire,Boxed Set U DVD,1,0
-2020-01,South Gloucestershire,Child Fiction,19199,8319
-2020-01,South Gloucestershire,Child Non Fiction,2340,1514
-2020-01,South Gloucestershire,Child Spoken Word,329,227
+2020-01,South Gloucestershire,Child Fiction,19199,8458
+2020-01,South Gloucestershire,Child Non Fiction,2340,1554
+2020-01,South Gloucestershire,Child Spoken Word,329,243
 2020-01,South Gloucestershire,Classification Exempt,3,0
 2020-01,South Gloucestershire,Drama Set,1,4
 2020-01,South Gloucestershire,Drama single copy,5,0
 2020-01,South Gloucestershire,Equipment,3,1
-2020-01,South Gloucestershire,Fastrack,1078,581
+2020-01,South Gloucestershire,Fastrack,1074,593
 2020-01,South Gloucestershire,ILL,6,1
 2020-01,South Gloucestershire,Language Course,19,12
-2020-01,South Gloucestershire,Large Print - Adult Fiction,1477,492
+2020-01,South Gloucestershire,Large Print - Adult Fiction,1477,495
 2020-01,South Gloucestershire,Large Print - Adult Non Fiction,73,27
 2020-01,South Gloucestershire,Large Print - Children,18,7
 2020-01,South Gloucestershire,Music CD,55,4
 2020-01,South Gloucestershire,Music Score,15,15
 2020-01,South Gloucestershire,Music Set,1,0
-2020-01,South Gloucestershire,PG DVD Premium,4,0
-2020-01,South Gloucestershire,PG DVD Standard,134,21
+2020-01,South Gloucestershire,PG DVD Premium,2,0
+2020-01,South Gloucestershire,PG DVD Standard,136,21
 2020-01,South Gloucestershire,U DVD Standard,188,41
-2020-01,South Gloucestershire,YA / Teen Fiction,466,336
+2020-01,South Gloucestershire,YA / Teen Fiction,466,343
 2020-01,South Gloucestershire,YA / Teen Non Fiction,18,13
 2020-02,Bath and North East Somerset,12 DVD Premium,21,2
 2020-02,Bath and North East Somerset,12 DVD Standard,55,3
-2020-02,Bath and North East Somerset,15 DVD Premium,14,0
-2020-02,Bath and North East Somerset,15 DVD Standard,77,8
+2020-02,Bath and North East Somerset,15 DVD Premium,11,0
+2020-02,Bath and North East Somerset,15 DVD Standard,80,8
 2020-02,Bath and North East Somerset,18 DVD Premium,5,0
 2020-02,Bath and North East Somerset,18 DVD Standard,13,1
-2020-02,Bath and North East Somerset,Adult Fiction,8185,3070
-2020-02,Bath and North East Somerset,Adult Graphic Novel,69,74
-2020-02,Bath and North East Somerset,Adult Non Fiction,3530,1720
+2020-02,Bath and North East Somerset,Adult Fiction,8185,3348
+2020-02,Bath and North East Somerset,Adult Graphic Novel,69,77
+2020-02,Bath and North East Somerset,Adult Non Fiction,3527,1911
 2020-02,Bath and North East Somerset,Adult Spoken Word,359,41
-2020-02,Bath and North East Somerset,B.O.P.,39,15
+2020-02,Bath and North East Somerset,B.O.P.,39,17
 2020-02,Bath and North East Somerset,Boxed Set 15 DVD,4,1
 2020-02,Bath and North East Somerset,Boxed Set 18 DVD,2,0
 2020-02,Bath and North East Somerset,Boxed Set U DVD,1,0
-2020-02,Bath and North East Somerset,Child Fiction,10488,3307
-2020-02,Bath and North East Somerset,Child Non Fiction,999,389
-2020-02,Bath and North East Somerset,Child Spoken Word,193,78
+2020-02,Bath and North East Somerset,Child Fiction,10488,3628
+2020-02,Bath and North East Somerset,Child Non Fiction,999,459
+2020-02,Bath and North East Somerset,Child Spoken Word,193,89
 2020-02,Bath and North East Somerset,Drama single copy,4,4
 2020-02,Bath and North East Somerset,ILL,1,0
 2020-02,Bath and North East Somerset,Language Course,5,1
-2020-02,Bath and North East Somerset,Large Print - Adult Fiction,676,205
-2020-02,Bath and North East Somerset,Large Print - Adult Non Fiction,74,24
+2020-02,Bath and North East Somerset,Large Print - Adult Fiction,676,220
+2020-02,Bath and North East Somerset,Large Print - Adult Non Fiction,74,25
 2020-02,Bath and North East Somerset,Large Print - Children,9,4
 2020-02,Bath and North East Somerset,Music CD,28,2
-2020-02,Bath and North East Somerset,Music Score,20,11
+2020-02,Bath and North East Somerset,Music Score,20,12
 2020-02,Bath and North East Somerset,PG DVD Premium,17,4
 2020-02,Bath and North East Somerset,PG DVD Standard,62,7
-2020-02,Bath and North East Somerset,U  DVD Premium,9,2
-2020-02,Bath and North East Somerset,U DVD Standard,48,8
-2020-02,Bath and North East Somerset,YA / Teen Fiction,557,276
+2020-02,Bath and North East Somerset,U  DVD Premium,9,3
+2020-02,Bath and North East Somerset,U DVD Standard,48,9
+2020-02,Bath and North East Somerset,YA / Teen Fiction,557,311
 2020-02,Bath and North East Somerset,YA / Teen Non Fiction,12,7
 2020-02,Bristol,12 DVD Premium,42,1
-2020-02,Bristol,12 DVD Standard,347,7
-2020-02,Bristol,15 DVD Premium,53,1
-2020-02,Bristol,15 DVD Standard,422,20
+2020-02,Bristol,12 DVD Standard,347,8
+2020-02,Bristol,15 DVD Premium,42,1
+2020-02,Bristol,15 DVD Standard,433,21
 2020-02,Bristol,18 DVD Premium,11,0
-2020-02,Bristol,18 DVD Standard,66,0
-2020-02,Bristol,Adult Fiction,19304,7371
-2020-02,Bristol,Adult Graphic Novel,909,407
-2020-02,Bristol,Adult Non Fiction,11057,6309
-2020-02,Bristol,Adult Reference,3,0
-2020-02,Bristol,Adult Spoken Word,897,211
-2020-02,Bristol,B.O.P.,97,43
+2020-02,Bristol,18 DVD Standard,66,1
+2020-02,Bristol,Adult Fiction,19308,8235
+2020-02,Bristol,Adult Graphic Novel,909,435
+2020-02,Bristol,Adult Non Fiction,11057,7095
+2020-02,Bristol,Adult Reference,2,0
+2020-02,Bristol,Adult Spoken Word,897,240
+2020-02,Bristol,B.O.P.,97,50
 2020-02,Bristol,Boxed Set 12 DVD,15,0
 2020-02,Bristol,Boxed Set 15 DVD,32,0
 2020-02,Bristol,Boxed Set 18 DVD,21,0
 2020-02,Bristol,Boxed Set PG DVD,2,0
 2020-02,Bristol,Boxed Set U DVD,2,0
-2020-02,Bristol,Child Fiction,31352,8384
-2020-02,Bristol,Child Non Fiction,3289,1191
-2020-02,Bristol,Child Spoken Word,396,142
+2020-02,Bristol,Child Fiction,31349,9452
+2020-02,Bristol,Child Non Fiction,3289,1341
+2020-02,Bristol,Child Spoken Word,396,160
 2020-02,Bristol,Classification Exempt,11,0
 2020-02,Bristol,Drama Set,14,2
-2020-02,Bristol,Drama single copy,134,33
+2020-02,Bristol,Drama single copy,134,35
 2020-02,Bristol,Equipment,9,3
-2020-02,Bristol,Fastrack,503,24
+2020-02,Bristol,Fastrack,499,25
 2020-02,Bristol,ILL,5,0
-2020-02,Bristol,Language Course,40,10
-2020-02,Bristol,Large Print - Adult Fiction,806,256
-2020-02,Bristol,Large Print - Adult Non Fiction,70,37
-2020-02,Bristol,Large Print - Children,71,23
-2020-02,Bristol,Music CD,344,42
-2020-02,Bristol,Music Score,174,108
-2020-02,Bristol,PG DVD Premium,49,2
-2020-02,Bristol,PG DVD Standard,296,7
+2020-02,Bristol,Language Course,40,13
+2020-02,Bristol,Large Print - Adult Fiction,800,283
+2020-02,Bristol,Large Print - Adult Non Fiction,69,42
+2020-02,Bristol,Large Print - Children,71,27
+2020-02,Bristol,Music CD,344,48
+2020-02,Bristol,Music Score,174,125
+2020-02,Bristol,PG DVD Premium,42,2
+2020-02,Bristol,PG DVD Standard,303,9
 2020-02,Bristol,U  DVD Premium,25,1
 2020-02,Bristol,U DVD Standard,368,10
-2020-02,Bristol,YA / Teen Fiction,1156,610
+2020-02,Bristol,YA / Teen Fiction,1156,661
 2020-02,Bristol,YA / Teen Non Fiction,81,47
 2020-02,Dorset,12 DVD Premium,35,1
 2020-02,Dorset,12 DVD Standard,186,0
@@ -5074,69 +5072,69 @@ month_issued,authority,item_type,issues,renewals
 2020-02,Dorset,15 DVD Standard,194,2
 2020-02,Dorset,18 DVD Premium,4,0
 2020-02,Dorset,18 DVD Standard,27,2
-2020-02,Dorset,Adult Fiction,32136,7257
-2020-02,Dorset,Adult Graphic Novel,67,16
-2020-02,Dorset,Adult Non Fiction,9457,3314
+2020-02,Dorset,Adult Fiction,32132,7976
+2020-02,Dorset,Adult Graphic Novel,67,17
+2020-02,Dorset,Adult Non Fiction,9456,3726
 2020-02,Dorset,Adult Reference,3,0
-2020-02,Dorset,Adult Spoken Word,1945,239
+2020-02,Dorset,Adult Spoken Word,1945,258
 2020-02,Dorset,B.O.P.,26,8
 2020-02,Dorset,Boxed Set 12 DVD,1,0
 2020-02,Dorset,Boxed Set 15 DVD,8,0
 2020-02,Dorset,Boxed Set 18 DVD,6,0
 2020-02,Dorset,Boxed Set U DVD,1,0
-2020-02,Dorset,Child Fiction,16713,3050
-2020-02,Dorset,Child Non Fiction,2364,648
-2020-02,Dorset,Child Spoken Word,191,16
+2020-02,Dorset,Child Fiction,16711,3438
+2020-02,Dorset,Child Non Fiction,2363,718
+2020-02,Dorset,Child Spoken Word,191,17
 2020-02,Dorset,Classification Exempt,27,0
 2020-02,Dorset,Drama Set,26,0
 2020-02,Dorset,Drama single copy,29,2
 2020-02,Dorset,Equipment,5,0
 2020-02,Dorset,ILL,18,1
 2020-02,Dorset,Language Course,24,2
-2020-02,Dorset,Large Print - Adult Fiction,3964,703
-2020-02,Dorset,Large Print - Adult Non Fiction,550,68
-2020-02,Dorset,Large Print - Children,56,8
+2020-02,Dorset,Large Print - Adult Fiction,3964,772
+2020-02,Dorset,Large Print - Adult Non Fiction,550,72
+2020-02,Dorset,Large Print - Children,56,14
 2020-02,Dorset,Music CD,71,1
-2020-02,Dorset,Music Score,53,23
+2020-02,Dorset,Music Score,53,25
 2020-02,Dorset,PG DVD Premium,43,0
 2020-02,Dorset,PG DVD Standard,128,0
 2020-02,Dorset,Reading Group Set,1672,2
-2020-02,Dorset,U  DVD Premium,10,2
+2020-02,Dorset,U  DVD Premium,10,3
 2020-02,Dorset,U DVD Standard,69,1
-2020-02,Dorset,YA / Teen Fiction,906,319
-2020-02,Dorset,YA / Teen Non Fiction,52,20
+2020-02,Dorset,YA / Teen Fiction,906,347
+2020-02,Dorset,YA / Teen Non Fiction,53,21
 2020-02,North Somerset,12 DVD Premium,41,0
 2020-02,North Somerset,12 DVD Standard,143,0
-2020-02,North Somerset,15 DVD Premium,34,1
-2020-02,North Somerset,15 DVD Standard,89,0
+2020-02,North Somerset,15 DVD Premium,30,1
+2020-02,North Somerset,15 DVD Standard,93,0
 2020-02,North Somerset,18 DVD Standard,20,2
-2020-02,North Somerset,Adult Fiction,12085,3526
-2020-02,North Somerset,Adult Graphic Novel,31,11
-2020-02,North Somerset,Adult Non Fiction,3875,1836
-2020-02,North Somerset,Adult Spoken Word,755,91
-2020-02,North Somerset,B.O.P.,274,56
+2020-02,North Somerset,Adult Fiction,12084,3867
+2020-02,North Somerset,Adult Graphic Novel,31,14
+2020-02,North Somerset,Adult Non Fiction,3875,2057
+2020-02,North Somerset,Adult Spoken Word,755,98
+2020-02,North Somerset,B.O.P.,274,68
 2020-02,North Somerset,Boxed Set 12 DVD,1,0
 2020-02,North Somerset,Boxed Set 15 DVD,5,0
 2020-02,North Somerset,Boxed Set 18 DVD,6,0
 2020-02,North Somerset,Boxed Set EX DVD,1,0
 2020-02,North Somerset,Boxed Set U DVD,2,0
-2020-02,North Somerset,Child Fiction,11313,3119
-2020-02,North Somerset,Child Non Fiction,1439,535
-2020-02,North Somerset,Child Spoken Word,271,81
+2020-02,North Somerset,Child Fiction,11310,3537
+2020-02,North Somerset,Child Non Fiction,1439,624
+2020-02,North Somerset,Child Spoken Word,271,94
 2020-02,North Somerset,Drama single copy,8,1
 2020-02,North Somerset,Equipment,1,1
 2020-02,North Somerset,Fastrack,223,2
 2020-02,North Somerset,Language Course,7,0
-2020-02,North Somerset,Large Print - Adult Fiction,1739,349
-2020-02,North Somerset,Large Print - Adult Non Fiction,188,34
+2020-02,North Somerset,Large Print - Adult Fiction,1739,388
+2020-02,North Somerset,Large Print - Adult Non Fiction,188,35
 2020-02,North Somerset,Large Print - Children,28,11
 2020-02,North Somerset,Music CD,38,1
-2020-02,North Somerset,Music Score,5,3
+2020-02,North Somerset,Music Score,5,5
 2020-02,North Somerset,PG DVD Premium,30,1
 2020-02,North Somerset,PG DVD Standard,140,1
 2020-02,North Somerset,U  DVD Premium,19,0
 2020-02,North Somerset,U DVD Standard,186,3
-2020-02,North Somerset,YA / Teen Fiction,439,206
+2020-02,North Somerset,YA / Teen Fiction,439,233
 2020-02,North Somerset,YA / Teen Non Fiction,14,6
 2020-02,Poole,12 DVD Premium,15,1
 2020-02,Poole,12 DVD Standard,66,2
@@ -5144,26 +5142,26 @@ month_issued,authority,item_type,issues,renewals
 2020-02,Poole,15 DVD Standard,84,7
 2020-02,Poole,18 DVD Premium,1,0
 2020-02,Poole,18 DVD Standard,16,1
-2020-02,Poole,Adult Fiction,9534,3088
-2020-02,Poole,Adult Graphic Novel,37,12
-2020-02,Poole,Adult Non Fiction,3313,1343
-2020-02,Poole,Adult Spoken Word,515,69
+2020-02,Poole,Adult Fiction,9534,3410
+2020-02,Poole,Adult Graphic Novel,37,14
+2020-02,Poole,Adult Non Fiction,3313,1508
+2020-02,Poole,Adult Spoken Word,515,71
 2020-02,Poole,B.O.P.,30,8
 2020-02,Poole,Boxed Set 12 DVD,6,1
 2020-02,Poole,Boxed Set 15 DVD,13,1
 2020-02,Poole,Boxed Set 18 DVD,1,0
 2020-02,Poole,Boxed Set PG DVD,1,0
 2020-02,Poole,Boxed Set U DVD,1,0
-2020-02,Poole,Child Fiction,9078,1695
-2020-02,Poole,Child Non Fiction,1227,315
+2020-02,Poole,Child Fiction,9078,1828
+2020-02,Poole,Child Non Fiction,1227,335
 2020-02,Poole,Child Reference,2,0
-2020-02,Poole,Child Spoken Word,73,24
+2020-02,Poole,Child Spoken Word,73,26
 2020-02,Poole,Classification Exempt,6,1
 2020-02,Poole,Drama single copy,2,2
 2020-02,Poole,Language Course,10,0
-2020-02,Poole,Large Print - Adult Fiction,1349,200
-2020-02,Poole,Large Print - Adult Non Fiction,196,30
-2020-02,Poole,Large Print - Children,10,4
+2020-02,Poole,Large Print - Adult Fiction,1349,243
+2020-02,Poole,Large Print - Adult Non Fiction,196,38
+2020-02,Poole,Large Print - Children,10,5
 2020-02,Poole,Music CD,72,4
 2020-02,Poole,PG DVD Premium,27,0
 2020-02,Poole,PG DVD Standard,67,7
@@ -5171,79 +5169,79 @@ month_issued,authority,item_type,issues,renewals
 2020-02,Poole,U  DVD Premium,6,0
 2020-02,Poole,U DVD Standard,92,8
 2020-02,Poole,Visual Material,1,1
-2020-02,Poole,YA / Teen Fiction,393,123
-2020-02,Poole,YA / Teen Non Fiction,55,18
+2020-02,Poole,YA / Teen Fiction,393,142
+2020-02,Poole,YA / Teen Non Fiction,55,19
 2020-02,Somerset,12 DVD Premium,99,6
-2020-02,Somerset,12 DVD Standard,360,8
-2020-02,Somerset,15 DVD Premium,98,5
-2020-02,Somerset,15 DVD Standard,335,16
+2020-02,Somerset,12 DVD Standard,360,9
+2020-02,Somerset,15 DVD Premium,86,5
+2020-02,Somerset,15 DVD Standard,347,16
 2020-02,Somerset,18 DVD Premium,10,0
 2020-02,Somerset,18 DVD Standard,59,2
-2020-02,Somerset,Adult Fiction,36630,10893
-2020-02,Somerset,Adult Graphic Novel,221,91
-2020-02,Somerset,Adult Non Fiction,10530,4643
+2020-02,Somerset,Adult Fiction,36630,12051
+2020-02,Somerset,Adult Graphic Novel,221,103
+2020-02,Somerset,Adult Non Fiction,10530,5273
 2020-02,Somerset,Adult Reference,7,0
-2020-02,Somerset,Adult Spoken Word,1818,219
-2020-02,Somerset,B.O.P.,298,74
+2020-02,Somerset,Adult Spoken Word,1818,261
+2020-02,Somerset,B.O.P.,298,81
 2020-02,Somerset,Boxed Set 12 DVD,7,2
 2020-02,Somerset,Boxed Set 15 DVD,17,1
 2020-02,Somerset,Boxed Set 18 DVD,6,1
 2020-02,Somerset,Boxed Set PG DVD,1,0
 2020-02,Somerset,Boxed Set U DVD,3,0
-2020-02,Somerset,Child Fiction,29835,9112
-2020-02,Somerset,Child Non Fiction,3766,1640
-2020-02,Somerset,Child Spoken Word,294,127
+2020-02,Somerset,Child Fiction,29833,10322
+2020-02,Somerset,Child Non Fiction,3766,1840
+2020-02,Somerset,Child Spoken Word,294,139
 2020-02,Somerset,Classification Exempt,2,0
 2020-02,Somerset,Drama single copy,438,46
-2020-02,Somerset,Equipment,1,1
+2020-02,Somerset,Equipment,1,2
 2020-02,Somerset,ILL,34,2
 2020-02,Somerset,Language Course,16,7
-2020-02,Somerset,Large Print - Adult Fiction,3068,699
-2020-02,Somerset,Large Print - Adult Non Fiction,247,92
-2020-02,Somerset,Large Print - Children,29,9
+2020-02,Somerset,Large Print - Adult Fiction,3068,768
+2020-02,Somerset,Large Print - Adult Non Fiction,247,96
+2020-02,Somerset,Large Print - Children,29,11
 2020-02,Somerset,Music CD,49,2
-2020-02,Somerset,Music Score,127,60
+2020-02,Somerset,Music Score,127,66
 2020-02,Somerset,Music Set,38,1
-2020-02,Somerset,PG DVD Premium,102,5
-2020-02,Somerset,PG DVD Standard,271,11
+2020-02,Somerset,PG DVD Premium,85,3
+2020-02,Somerset,PG DVD Standard,288,13
 2020-02,Somerset,U  DVD Premium,47,0
-2020-02,Somerset,U DVD Standard,294,26
+2020-02,Somerset,U DVD Standard,294,29
 2020-02,Somerset,Visual Material,1,0
-2020-02,Somerset,YA / Teen Fiction,1143,660
-2020-02,Somerset,YA / Teen Non Fiction,40,22
+2020-02,Somerset,YA / Teen Fiction,1143,768
+2020-02,Somerset,YA / Teen Non Fiction,40,31
 2020-02,South Gloucestershire,12 DVD Premium,41,1
-2020-02,South Gloucestershire,12 DVD Standard,187,27
-2020-02,South Gloucestershire,15 DVD Premium,41,1
-2020-02,South Gloucestershire,15 DVD Standard,174,32
+2020-02,South Gloucestershire,12 DVD Standard,187,29
+2020-02,South Gloucestershire,15 DVD Premium,34,0
+2020-02,South Gloucestershire,15 DVD Standard,181,36
 2020-02,South Gloucestershire,18 DVD Premium,4,1
 2020-02,South Gloucestershire,18 DVD Standard,24,3
-2020-02,South Gloucestershire,Adult Fiction,12452,4138
-2020-02,South Gloucestershire,Adult Graphic Novel,88,31
-2020-02,South Gloucestershire,Adult Non Fiction,3946,1958
-2020-02,South Gloucestershire,Adult Spoken Word,803,159
-2020-02,South Gloucestershire,B.O.P.,438,135
+2020-02,South Gloucestershire,Adult Fiction,12454,4552
+2020-02,South Gloucestershire,Adult Graphic Novel,88,34
+2020-02,South Gloucestershire,Adult Non Fiction,3946,2159
+2020-02,South Gloucestershire,Adult Spoken Word,803,168
+2020-02,South Gloucestershire,B.O.P.,438,146
 2020-02,South Gloucestershire,Boxed Set 15 DVD,6,0
 2020-02,South Gloucestershire,Boxed Set 18 DVD,6,0
 2020-02,South Gloucestershire,Boxed Set PG DVD,2,0
 2020-02,South Gloucestershire,Boxed Set U DVD,5,1
-2020-02,South Gloucestershire,Child Fiction,20538,4891
-2020-02,South Gloucestershire,Child Non Fiction,2541,901
-2020-02,South Gloucestershire,Child Spoken Word,366,158
+2020-02,South Gloucestershire,Child Fiction,20537,5475
+2020-02,South Gloucestershire,Child Non Fiction,2541,1024
+2020-02,South Gloucestershire,Child Spoken Word,366,184
 2020-02,South Gloucestershire,Classification Exempt,2,0
 2020-02,South Gloucestershire,Drama Set,1,0
 2020-02,South Gloucestershire,Drama single copy,23,3
-2020-02,South Gloucestershire,Equipment,13,6
-2020-02,South Gloucestershire,Fastrack,1215,382
+2020-02,South Gloucestershire,Equipment,13,7
+2020-02,South Gloucestershire,Fastrack,1212,421
 2020-02,South Gloucestershire,ILL,10,0
-2020-02,South Gloucestershire,Language Course,21,7
-2020-02,South Gloucestershire,Large Print - Adult Fiction,1518,333
+2020-02,South Gloucestershire,Language Course,21,10
+2020-02,South Gloucestershire,Large Print - Adult Fiction,1518,341
 2020-02,South Gloucestershire,Large Print - Adult Non Fiction,89,22
 2020-02,South Gloucestershire,Large Print - Children,32,15
 2020-02,South Gloucestershire,Music CD,36,9
-2020-02,South Gloucestershire,Music Score,20,14
+2020-02,South Gloucestershire,Music Score,20,18
 2020-02,South Gloucestershire,PG DVD Premium,27,2
-2020-02,South Gloucestershire,PG DVD Standard,183,26
+2020-02,South Gloucestershire,PG DVD Standard,183,27
 2020-02,South Gloucestershire,U  DVD Premium,18,1
 2020-02,South Gloucestershire,U DVD Standard,288,48
-2020-02,South Gloucestershire,YA / Teen Fiction,666,292
-2020-02,South Gloucestershire,YA / Teen Non Fiction,31,32
+2020-02,South Gloucestershire,YA / Teen Fiction,666,309
+2020-02,South Gloucestershire,YA / Teen Non Fiction,31,35
