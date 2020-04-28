@@ -7,7 +7,7 @@ We export two payment data files. A summary for basic data counts, and a full de
 
 The summary includes the number of payment records recorded in the Library Management System, separated by Library authority, the bill reason, and financial year of payment. This will cover the previous financial year, and the current.
 
-- [View bill payments summary data](https://github.com/LibrariesWest/opendata/blob/master/bills/payments_summary.csv)
+- [View bill payments summary data](https://github.com/LibrariesWest/opendata/blob/origin1/bills/payments_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -23,7 +23,7 @@ The summary includes the number of payment records recorded in the Library Manag
 
 For more detail use this download, the columns are described below. The data is still aggregated, but provides extra levels of detail.
 
-- [View bill payment data](https://github.com/LibrariesWest/opendata/blob/master/bills/payments.csv)
+- [View bill payment data](https://github.com/LibrariesWest/opendata/blob/origin1/bills/payments.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
