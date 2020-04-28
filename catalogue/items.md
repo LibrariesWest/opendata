@@ -7,7 +7,7 @@ Our item data includes millions of items held by all 7 library services. We are 
 
 A summary file includes counts of items, aggregated by item type, and library service. In this case we have one summary file for all services.
 
-- [View items summary data](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_summary.csv)
+- [View items summary data](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/items_summary.csv)
 
 | Field | Decription | Example |
 | ----- | ---------- | ------- |
@@ -21,13 +21,13 @@ A summary file includes counts of items, aggregated by item type, and library se
 
 For more details use the full details download. This is split out to give a file per library service.
 
-- [View Bath and North East Somerset Items](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_banes.csv)
-- [View Bristol Items](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_bristol.csv)
-- [View Dorset Items](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_dorset.csv)
-- [View North Somerset Items](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_northsomerset.csv)
-- [View Poole Items](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_poole.csv)
-- [View Somerset Items](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_somerset.csv)
-- [View South Gloucestershire Items](https://github.com/LibrariesWest/opendata/blob/master/catalogue/items_southglos.csv)
+- [View Bath and North East Somerset Items](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/items_banes.csv)
+- [View Bristol Items](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/items_bristol.csv)
+- [View Dorset Items](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/items_dorset.csv)
+- [View North Somerset Items](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/items_northsomerset.csv)
+- [View Poole Items](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/items_poole.csv)
+- [View Somerset Items](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/items_somerset.csv)
+- [View South Gloucestershire Items](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/items_southglos.csv)
 
 | Field | Decription | Example |
 | ----- | ---------- | ------- |
