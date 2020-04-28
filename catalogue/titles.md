@@ -7,7 +7,7 @@ We do not provide a summary file for the title data as there are few obvious way
 
 The single export is the full list of titles in the Library Management System.
 
-- [View titles](https://github.com/LibrariesWest/opendata/blob/master/catalogue/titles.csv)
+- [View titles](https://github.com/LibrariesWest/opendata/blob/origin1/catalogue/titles.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
