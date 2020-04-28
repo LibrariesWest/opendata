@@ -5,7 +5,7 @@ Active members by area
 
 Summary data provides basic active member counts per library. Counts are rounded to the nearest 10.
 
-- [View membership summary data](https://github.com/LibrariesWest/opendata/blob/master/membership/members_summary.csv)
+- [View membership summary data](https://github.com/LibrariesWest/opendata/blob/origin1/membership/members_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
