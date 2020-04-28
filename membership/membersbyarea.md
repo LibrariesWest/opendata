@@ -18,7 +18,7 @@ Further detail breaks down the membership counts into statistical areas that rep
 
 Because this data is reported at fairly detailed geographic detail, we suppress counts of less than 5, by using a * in place of a number. This should be taken into account if trying to sum the values of members in each area. For more accurate total numbers you would be better off using the summary data.
 
-- [View membership](https://github.com/LibrariesWest/opendata/blob/master/membership/members.csv)
+- [View membership](https://github.com/LibrariesWest/opendata/blob/origin1/membership/members.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
