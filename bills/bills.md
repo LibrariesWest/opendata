@@ -5,7 +5,7 @@ Bills
 
 The summary includes the number of bills generated in the Library Management System, separated by bill reason and library authority.
 
-- [View bills summary data](https://github.com/LibrariesWest/opendata/blob/master/bills/bills_summary.csv)
+- [View bills summary data](https://github.com/LibrariesWest/opendata/blob/origin1/bills/bills_summary.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -19,7 +19,7 @@ The summary includes the number of bills generated in the Library Management Sys
 
 For more detail use this download, the columns included are described below.
 
-- [View bills data](https://github.com/LibrariesWest/opendata/blob/master/bills/bills.csv)
+- [View bills data](https://github.com/LibrariesWest/opendata/blob/origin1/bills/bills.csv)
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
