@@ -33470,7 +33470,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-12,Somerset,Martock Library,HOLD,CASH,60,60,60
 2019-12,Somerset,Martock Library,HOLD,CREDITCARD,0,0,0
 2019-12,Somerset,Martock Library,HOLD,FORGIVEN,0,0,0
-2019-12,Somerset,Martock Library,LOST,CANCEL,10,90,0
+2019-12,Somerset,Martock Library,LOST,CANCEL,10,50,0
 2019-12,Somerset,Martock Library,LOST,CASH,0,10,10
 2019-12,Somerset,Martock Library,LOSTCARD,CASH,0,10,10
 2019-12,Somerset,Martock Library,OVERDUE,CANCEL,0,0,0
