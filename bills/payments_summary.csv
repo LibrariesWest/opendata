@@ -401,7 +401,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Somerset,HOLD,CASH,40050,41000,41000
 2019/2020,Somerset,HOLD,CHEQUE,0,10,10
 2019/2020,Somerset,HOLD,CREDITACCT,10,10,10
-2019/2020,Somerset,HOLD,CREDITCARD,3400,3400,3400
+2019/2020,Somerset,HOLD,CREDITCARD,3390,3390,3390
 2019/2020,Somerset,HOLD,DEBITCARD,1400,1420,1420
 2019/2020,Somerset,HOLD,FORGIVEN,620,600,0
 2019/2020,Somerset,HOLD,NONE,0,0,0
@@ -437,7 +437,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Somerset,OVERDUE,CASH,61800,40120,40120
 2019/2020,Somerset,OVERDUE,CHEQUE,30,10,10
 2019/2020,Somerset,OVERDUE,CREDITACCT,90,80,80
-2019/2020,Somerset,OVERDUE,CREDITCARD,11860,11140,11140
+2019/2020,Somerset,OVERDUE,CREDITCARD,11860,11130,11130
 2019/2020,Somerset,OVERDUE,DEBITCARD,9270,11830,11830
 2019/2020,Somerset,OVERDUE,FORGIVEN,6620,9520,0
 2019/2020,Somerset,OVERDUE,NONE,60,60,60
@@ -582,7 +582,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,LOST,PAYPAL,10,40,40
 2020/2021,Somerset,OVERDUE,CANCEL,0,0,0
 2020/2021,Somerset,OVERDUE,FORGIVEN,10,10,0
-2020/2021,Somerset,OVERDUE,PAYPAL,80,90,90
+2020/2021,Somerset,OVERDUE,PAYPAL,90,100,100
 2020/2021,Somerset,SALEVAT,PAYPAL,0,0,0
 2020/2021,South Gloucestershire,CHARGE,FORGIVEN,10,10,0
 2020/2021,South Gloucestershire,HOLD,FORGIVEN,0,0,0
@@ -590,4 +590,4 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,LOST,CANCEL,10,50,0
 2020/2021,South Gloucestershire,LOST,PAYPAL,0,20,20
 2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,20,10,0
-2020/2021,South Gloucestershire,OVERDUE,PAYPAL,20,30,30
+2020/2021,South Gloucestershire,OVERDUE,PAYPAL,30,30,30
