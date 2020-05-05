@@ -11292,7 +11292,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Somerset,Priorswood Library,OVERDUE,CASH,80,60,60
 2018-11,Somerset,Priorswood Library,OVERDUE,DEBITCARD,10,10,10
 2018-11,Somerset,Shepton Mallet Library,CHARGE,CANCEL,10,10,0
-2018-11,Somerset,Shepton Mallet Library,CHARGE,CASH,70,150,150
+2018-11,Somerset,Shepton Mallet Library,CHARGE,CASH,70,140,140
 2018-11,Somerset,Shepton Mallet Library,CHARGE,DEBITCARD,0,0,0
 2018-11,Somerset,Shepton Mallet Library,CHARGE,FORGIVEN,0,0,0
 2018-11,Somerset,Shepton Mallet Library,CHARGE,VOUCH,0,0,0
@@ -14329,7 +14329,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Priorswood Library,OVERDUE,DEBITCARD,20,30,30
 2019-01,Somerset,Priorswood Library,OVERDUE,FORGIVEN,10,0,0
 2019-01,Somerset,Shepton Mallet Library,CHARGE,CANCEL,0,10,0
-2019-01,Somerset,Shepton Mallet Library,CHARGE,CASH,80,150,150
+2019-01,Somerset,Shepton Mallet Library,CHARGE,CASH,70,150,150
 2019-01,Somerset,Shepton Mallet Library,GROUP,CASH,10,30,30
 2019-01,Somerset,Shepton Mallet Library,HOLD,CANCEL,0,0,0
 2019-01,Somerset,Shepton Mallet Library,HOLD,CASH,100,120,120
@@ -19586,7 +19586,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Bristol,Knowle Library,LOST,CANCEL,40,260,0
 2019-05,Bristol,Knowle Library,LOST,CASH,0,0,0
 2019-05,Bristol,Knowle Library,LOSTX,FORGIVEN,0,10,0
-2019-05,Bristol,Knowle Library,OVERDUE,CASH,170,110,110
+2019-05,Bristol,Knowle Library,OVERDUE,CASH,170,100,100
 2019-05,Bristol,Knowle Library,OVERDUE,FORGIVEN,30,70,0
 2019-05,Bristol,Knowle Library,REFERRAL,CASH,0,10,10
 2019-05,Bristol,Knowle Library,SALENOVAT,FORGIVEN,0,0,0
@@ -21330,7 +21330,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Dorset,Dorchester Library,BFR,CANCEL,0,10,0
 2019-06,Dorset,Dorchester Library,BFR,FORGIVEN,0,10,0
 2019-06,Dorset,Dorchester Library,CHARGE,CANCEL,0,0,0
-2019-06,Dorset,Dorchester Library,CHARGE,CASH,130,290,290
+2019-06,Dorset,Dorchester Library,CHARGE,CASH,130,280,280
 2019-06,Dorset,Dorchester Library,CHARGE,CREDITCARD,50,130,130
 2019-06,Dorset,Dorchester Library,CHARGE,FORGIVEN,10,10,0
 2019-06,Dorset,Dorchester Library,CHARGEX,CASH,0,0,0
@@ -24173,7 +24173,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Bristol,Avonmouth Library,OVERDUE,CASH,20,20,20
 2019-08,Bristol,Avonmouth Library,OVERDUE,FORGIVEN,10,10,0
 2019-08,Bristol,Bedminster Library,CHARGE,CANCEL,10,10,0
-2019-08,Bristol,Bedminster Library,CHARGE,CASH,250,290,290
+2019-08,Bristol,Bedminster Library,CHARGE,CASH,250,280,280
 2019-08,Bristol,Bedminster Library,CHARGE,FORGIVEN,0,10,0
 2019-08,Bristol,Bedminster Library,CHARGE,PAYPAL,0,0,0
 2019-08,Bristol,Bedminster Library,CHARGE,VOUCH,40,40,40
@@ -35453,7 +35453,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-03,Bristol,Bedminster Library,CHARGE,PAYPAL,10,10,10
 2020-03,Bristol,Bedminster Library,LOST,CANCEL,60,330,0
 2020-03,Bristol,Bedminster Library,LOST,CASH,0,20,20
-2020-03,Bristol,Bedminster Library,OVERDUE,CASH,180,130,130
+2020-03,Bristol,Bedminster Library,OVERDUE,CASH,170,130,130
 2020-03,Bristol,Bedminster Library,OVERDUE,FORGIVEN,20,30,0
 2020-03,Bristol,Bedminster Library,OVERDUE,PAYPAL,40,30,30
 2020-03,Bristol,Bedminster Library,REFERRAL,CASH,0,10,10
