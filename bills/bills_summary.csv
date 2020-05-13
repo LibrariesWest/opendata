@@ -83,8 +83,9 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2019/2020,South Gloucestershire,SALEVAT,50,60
 2020/2021,Bath and North East Somerset,CHARGE,10,20
 2020/2021,Bath and North East Somerset,LOST,0,10
-2020/2021,Bath and North East Somerset,LOSTCARD,0,0
+2020/2021,Bath and North East Somerset,LOSTCARD,0,10
 2020/2021,Bath and North East Somerset,PROCESSFEE,0,0
+2020/2021,Bath and North East Somerset,SALEVAT,0,20
 2020/2021,Bristol,CHARGE,0,0
 2020/2021,Bristol,OVERDUE,10,50
 2020/2021,Dorset,CHARGE,0,0
