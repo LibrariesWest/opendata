@@ -550,6 +550,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bath and North East Somerset,LOST,CANCEL,0,10,0
 2020/2021,Bath and North East Somerset,LOST,FORGIVEN,0,10,0
 2020/2021,Bath and North East Somerset,LOST,PAYPAL,0,10,10
+2020/2021,Bath and North East Somerset,LOSTCARD,CANCEL,0,0,0
 2020/2021,Bath and North East Somerset,OVERDUE,FORGIVEN,0,0,0
 2020/2021,Bath and North East Somerset,OVERDUE,PAYPAL,10,0,0
 2020/2021,Bath and North East Somerset,PROCESSFEE,FORGIVEN,0,0,0
@@ -565,7 +566,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,CHARGE,CANCEL,0,0,0
 2020/2021,Dorset,CHARGE,PAYPAL,0,0,0
 2020/2021,Dorset,CHARGEX,CANCEL,0,0,0
-2020/2021,Dorset,LOST,CANCEL,10,60,0
+2020/2021,Dorset,LOST,CANCEL,20,70,0
 2020/2021,Dorset,LOST,PAYPAL,0,10,10
 2020/2021,Dorset,OVERDUE,FORGIVEN,10,20,0
 2020/2021,Dorset,OVERDUE,PAYPAL,0,0,0
@@ -591,9 +592,10 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,OVERDUE,PAYPAL,130,160,160
 2020/2021,Somerset,SALEVAT,PAYPAL,0,0,0
 2020/2021,South Gloucestershire,CHARGE,FORGIVEN,20,20,0
+2020/2021,South Gloucestershire,CHARGE,PAYPAL,10,10,10
 2020/2021,South Gloucestershire,HOLD,FORGIVEN,0,0,0
 2020/2021,South Gloucestershire,HOLD,PAYPAL,0,0,0
-2020/2021,South Gloucestershire,LOST,CANCEL,10,80,0
+2020/2021,South Gloucestershire,LOST,CANCEL,20,110,0
 2020/2021,South Gloucestershire,LOST,PAYPAL,0,20,20
 2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,20,20,0
 2020/2021,South Gloucestershire,OVERDUE,PAYPAL,30,30,30
