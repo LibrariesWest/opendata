@@ -122,7 +122,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Bristol,HOLDX,DEBITCARD,0,0,0
 2019/2020,Bristol,HOLDX,FORGIVEN,40,50,0
 2019/2020,Bristol,ILL,CASH,0,20,20
-2019/2020,Bristol,LOST,CANCEL,23240,129580,0
+2019/2020,Bristol,LOST,CANCEL,23240,129570,0
 2019/2020,Bristol,LOST,CASH,760,4400,4400
 2019/2020,Bristol,LOST,CHEQUE,20,160,160
 2019/2020,Bristol,LOST,CREDITCARD,140,1010,1010
@@ -137,7 +137,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Bristol,LOSTX,CREDITCARD,0,10,10
 2019/2020,Bristol,LOSTX,FORGIVEN,100,960,0
 2019/2020,Bristol,OVERDUE,CANCEL,1140,1730,0
-2019/2020,Bristol,OVERDUE,CASH,50010,36020,36020
+2019/2020,Bristol,OVERDUE,CASH,50010,36010,36010
 2019/2020,Bristol,OVERDUE,CHEQUE,140,330,330
 2019/2020,Bristol,OVERDUE,CREDITACCT,70,20,20
 2019/2020,Bristol,OVERDUE,CREDITCARD,10730,10560,10560
@@ -340,7 +340,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Poole,MISC,CASH,0,10,10
 2019/2020,Poole,MISC,FORGIVEN,0,10,0
 2019/2020,Poole,OVERDUE,CANCEL,890,2130,0
-2019/2020,Poole,OVERDUE,CASH,13820,16120,16120
+2019/2020,Poole,OVERDUE,CASH,13810,16120,16120
 2019/2020,Poole,OVERDUE,DEBITCARD,10,30,30
 2019/2020,Poole,OVERDUE,FORGIVEN,1500,3630,0
 2019/2020,Poole,OVERDUE,INVOICE,0,0,0
@@ -546,13 +546,13 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,South Gloucestershire,SALEVAT,FORGIVEN,0,0,0
 2019/2020,South Gloucestershire,SALEVAT,PAYPAL,0,0,0
 2020/2021,Bath and North East Somerset,CHARGE,FORGIVEN,0,10,0
-2020/2021,Bath and North East Somerset,CHARGE,PAYPAL,0,0,0
+2020/2021,Bath and North East Somerset,CHARGE,PAYPAL,0,10,10
 2020/2021,Bath and North East Somerset,LOST,CANCEL,0,10,0
 2020/2021,Bath and North East Somerset,LOST,FORGIVEN,0,10,0
 2020/2021,Bath and North East Somerset,LOST,PAYPAL,0,10,10
 2020/2021,Bath and North East Somerset,LOSTCARD,CANCEL,0,0,0
 2020/2021,Bath and North East Somerset,OVERDUE,FORGIVEN,0,0,0
-2020/2021,Bath and North East Somerset,OVERDUE,PAYPAL,10,0,0
+2020/2021,Bath and North East Somerset,OVERDUE,PAYPAL,20,10,10
 2020/2021,Bath and North East Somerset,PROCESSFEE,FORGIVEN,0,0,0
 2020/2021,Bath and North East Somerset,SALEVAT,PAYPAL,0,0,0
 2020/2021,Bristol,CHARGE,CANCEL,0,0,0
@@ -595,9 +595,9 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,SALEVAT,PAYPAL,0,0,0
 2020/2021,South Gloucestershire,CHARGE,FORGIVEN,20,20,0
 2020/2021,South Gloucestershire,CHARGE,PAYPAL,10,10,10
-2020/2021,South Gloucestershire,HOLD,FORGIVEN,0,0,0
+2020/2021,South Gloucestershire,HOLD,FORGIVEN,10,0,0
 2020/2021,South Gloucestershire,HOLD,PAYPAL,0,0,0
 2020/2021,South Gloucestershire,LOST,CANCEL,20,110,0
 2020/2021,South Gloucestershire,LOST,PAYPAL,0,20,20
-2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,20,20,0
+2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,30,20,0
 2020/2021,South Gloucestershire,OVERDUE,PAYPAL,30,30,30
