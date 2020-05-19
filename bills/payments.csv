@@ -1645,7 +1645,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bath and North East Somerset,BNES Reserve Store,CHARGE,CASH,0,0,0
 2018-06,Bath and North East Somerset,BNES Reserve Store,DAMAGE,CASH,0,10,10
 2018-06,Bath and North East Somerset,BNES Reserve Store,OVERDUE,CANCEL,0,0,0
-2018-06,Bath and North East Somerset,Keynsham Library,CHARGE,CANCEL,0,10,0
+2018-06,Bath and North East Somerset,Keynsham Library,CHARGE,CANCEL,0,0,0
 2018-06,Bath and North East Somerset,Keynsham Library,CHARGE,CASH,50,90,90
 2018-06,Bath and North East Somerset,Keynsham Library,CHARGE,CREDITCARD,70,120,120
 2018-06,Bath and North East Somerset,Keynsham Library,CHARGE,FORGIVEN,20,10,0
@@ -2033,7 +2033,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Bristol,Wick Road Library,DAMAGE,CASH,0,0,0
 2018-06,Bristol,Wick Road Library,LOST,CANCEL,40,180,0
 2018-06,Bristol,Wick Road Library,OVERDUE,CANCEL,10,30,0
-2018-06,Bristol,Wick Road Library,OVERDUE,CASH,170,100,100
+2018-06,Bristol,Wick Road Library,OVERDUE,CASH,160,100,100
 2018-06,Bristol,Wick Road Library,OVERDUE,CREDITACCT,0,0,0
 2018-06,Bristol,Wick Road Library,OVERDUE,FORGIVEN,30,80,0
 2018-06,Dorset,Beaminster Library,CHARGE,CASH,10,10,10
@@ -2326,7 +2326,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,North Somerset,N Som Healthy Living Centre,CHARGEX,CASH,0,0,0
 2018-06,North Somerset,N Som Healthy Living Centre,GROUP,CASH,0,20,20
 2018-06,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,160,0
-2018-06,North Somerset,N Som Healthy Living Centre,LOSTCARD,CASH,0,0,0
 2018-06,North Somerset,N Som Healthy Living Centre,LOSTX,FORGIVEN,0,10,0
 2018-06,North Somerset,N Som Healthy Living Centre,OVERDUE,CASH,30,30,30
 2018-06,North Somerset,N Som Healthy Living Centre,OVERDUE,FORGIVEN,10,30,0
@@ -3296,13 +3295,13 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Bristol,Bedminster Library,CHARGE,FORGIVEN,10,10,0
 2018-07,Bristol,Bedminster Library,CHARGE,VOUCH,0,0,0
 2018-07,Bristol,Bedminster Library,CHARGEX,CASH,0,0,0
-2018-07,Bristol,Bedminster Library,LOST,CANCEL,240,1080,0
+2018-07,Bristol,Bedminster Library,LOST,CANCEL,240,1060,0
 2018-07,Bristol,Bedminster Library,LOST,CASH,10,30,30
 2018-07,Bristol,Bedminster Library,LOST,CREDITCARD,10,90,90
 2018-07,Bristol,Bedminster Library,LOST,FORGIVEN,0,10,0
 2018-07,Bristol,Bedminster Library,LOSTX,CANCEL,0,30,0
 2018-07,Bristol,Bedminster Library,LOSTX,FORGIVEN,0,10,0
-2018-07,Bristol,Bedminster Library,OVERDUE,CASH,360,230,230
+2018-07,Bristol,Bedminster Library,OVERDUE,CASH,350,230,230
 2018-07,Bristol,Bedminster Library,OVERDUE,CREDITACCT,0,0,0
 2018-07,Bristol,Bedminster Library,OVERDUE,CREDITCARD,240,220,220
 2018-07,Bristol,Bedminster Library,OVERDUE,FORGIVEN,20,60,0
@@ -5530,7 +5529,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Dorset,Gillingham Library,LOST,CASH,0,20,20
 2018-08,Dorset,Gillingham Library,OVERDUE,CANCEL,0,30,0
 2018-08,Dorset,Gillingham Library,OVERDUE,CASH,100,100,100
-2018-08,Dorset,Gillingham Library,OVERDUE,FORGIVEN,30,90,0
+2018-08,Dorset,Gillingham Library,OVERDUE,FORGIVEN,20,80,0
 2018-08,Dorset,Gillingham Library,OVERDUEX,FORGIVEN,0,0,0
 2018-08,Dorset,Littlemoor Library,CHARGE,CASH,10,10,10
 2018-08,Dorset,Littlemoor Library,CHARGE,FORGIVEN,0,0,0
@@ -6890,7 +6889,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Bristol,Bedminster Library,LOST,CREDITCARD,10,30,30
 2018-09,Bristol,Bedminster Library,LOST,FORGIVEN,0,0,0
 2018-09,Bristol,Bedminster Library,LOSTX,FORGIVEN,10,70,0
-2018-09,Bristol,Bedminster Library,OVERDUE,CASH,350,230,230
+2018-09,Bristol,Bedminster Library,OVERDUE,CASH,340,230,230
 2018-09,Bristol,Bedminster Library,OVERDUE,CREDITACCT,0,0,0
 2018-09,Bristol,Bedminster Library,OVERDUE,CREDITCARD,210,270,270
 2018-09,Bristol,Bedminster Library,OVERDUE,FORGIVEN,40,40,0
@@ -7325,7 +7324,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-09,Dorset,Gillingham Library,LOST,CASH,0,10,10
 2018-09,Dorset,Gillingham Library,LOSTCARD,CASH,0,0,0
 2018-09,Dorset,Gillingham Library,OVERDUE,CANCEL,10,10,0
-2018-09,Dorset,Gillingham Library,OVERDUE,CASH,80,90,90
+2018-09,Dorset,Gillingham Library,OVERDUE,CASH,80,80,80
 2018-09,Dorset,Gillingham Library,OVERDUE,FORGIVEN,10,20,0
 2018-09,Dorset,Littlemoor Library,CHARGE,CASH,10,30,30
 2018-09,Dorset,Littlemoor Library,CHARGE,FORGIVEN,0,0,0
@@ -11793,7 +11792,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Bath and North East Somerset,Saltford Library,SALEVAT,CANCEL,0,0,0
 2018-12,Bristol,Avonmouth Library,LOST,CANCEL,0,20,0
 2018-12,Bristol,Avonmouth Library,OVERDUE,FORGIVEN,10,0,0
-2018-12,Bristol,Bedminster Library,CHARGE,CASH,160,180,180
+2018-12,Bristol,Bedminster Library,CHARGE,CASH,150,180,180
 2018-12,Bristol,Bedminster Library,CHARGE,CREDITCARD,50,50,50
 2018-12,Bristol,Bedminster Library,CHARGE,FORGIVEN,10,10,0
 2018-12,Bristol,Bedminster Library,CREDIT,CASH,0,0,0
@@ -11836,7 +11835,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Bristol,Bishopsworth Library,OVERDUE,CASH,90,40,40
 2018-12,Bristol,Bishopsworth Library,OVERDUE,FORGIVEN,0,0,0
 2018-12,Bristol,Bristol Central Lending Library,CHARGE,CANCEL,30,40,0
-2018-12,Bristol,Bristol Central Lending Library,CHARGE,CASH,640,630,630
+2018-12,Bristol,Bristol Central Lending Library,CHARGE,CASH,630,630,630
 2018-12,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,160,200,200
 2018-12,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,30,50,50
 2018-12,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,40,50,0
@@ -12210,7 +12209,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Dorset,Sherborne Library,HOLD,CASH,0,0,0
 2018-12,Dorset,Sherborne Library,LOST,CANCEL,40,160,0
 2018-12,Dorset,Sherborne Library,LOST,CASH,0,10,10
-2018-12,Dorset,Sherborne Library,LOST,CHEQUE,0,10,10
 2018-12,Dorset,Sherborne Library,OVERDUE,CANCEL,0,0,0
 2018-12,Dorset,Sherborne Library,OVERDUE,CASH,170,120,120
 2018-12,Dorset,Sherborne Library,OVERDUE,FORGIVEN,10,10,0
@@ -14264,7 +14262,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Martock Library,OVERDUE,CANCEL,10,0,0
 2019-01,Somerset,Martock Library,OVERDUE,CASH,140,100,100
 2019-01,Somerset,Martock Library,OVERDUE,CREDITCARD,40,10,10
-2019-01,Somerset,Martock Library,OVERDUE,FORGIVEN,0,10,0
+2019-01,Somerset,Martock Library,OVERDUE,FORGIVEN,0,0,0
 2019-01,Somerset,Milborne Port Library,CHARGE,CASH,10,20,20
 2019-01,Somerset,Milborne Port Library,GROUP,CASH,0,20,20
 2019-01,Somerset,Milborne Port Library,HOLD,CANCEL,0,0,0
@@ -16458,7 +16456,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Bristol,Bristol Central Lending Library,SALENOVAT,CREDITCARD,0,10,10
 2019-03,Bristol,Bristol Central Lending Library,SALENOVAT,FORGIVEN,0,0,0
 2019-03,Bristol,Clifton Library,CHARGE,CANCEL,10,20,0
-2019-03,Bristol,Clifton Library,CHARGE,CASH,40,60,60
+2019-03,Bristol,Clifton Library,CHARGE,CASH,40,50,50
 2019-03,Bristol,Clifton Library,CHARGE,FORGIVEN,0,0,0
 2019-03,Bristol,Clifton Library,LOST,CANCEL,20,80,0
 2019-03,Bristol,Clifton Library,OVERDUE,CANCEL,0,0,0
@@ -18020,7 +18018,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,Bristol,Clifton Library,OVERDUE,CANCEL,10,10,0
 2019-04,Bristol,Clifton Library,OVERDUE,CASH,90,70,70
 2019-04,Bristol,Clifton Library,OVERDUE,FORGIVEN,30,40,0
-2019-04,Bristol,Eastville Library,SALENOVAT,CANCEL,40,90,0
+2019-04,Bristol,Eastville Library,SALENOVAT,CANCEL,30,30,0
 2019-04,Bristol,Eastville Library,SALENOVAT,CASH,10,10,10
 2019-04,Bristol,Filwood Library,CHARGE,CASH,0,10,10
 2019-04,Bristol,Filwood Library,CHARGEX,CASH,0,0,0
@@ -18103,7 +18101,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,Bristol,Junction 3 Library,HOLD,CASH,0,0,0
 2019-04,Bristol,Junction 3 Library,HOLDX,FORGIVEN,0,0,0
 2019-04,Bristol,Junction 3 Library,LOST,CANCEL,150,790,0
-2019-04,Bristol,Junction 3 Library,LOST,CASH,10,50,50
+2019-04,Bristol,Junction 3 Library,LOST,CASH,10,40,40
 2019-04,Bristol,Junction 3 Library,OVERDUE,CASH,190,200,200
 2019-04,Bristol,Junction 3 Library,OVERDUE,CREDITACCT,0,0,0
 2019-04,Bristol,Junction 3 Library,OVERDUE,FORGIVEN,10,10,0
@@ -18498,7 +18496,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,North Somerset,Nailsea Library,LOST,CASH,0,10,10
 2019-04,North Somerset,Nailsea Library,OVERDUE,CANCEL,30,60,0
 2019-04,North Somerset,Nailsea Library,OVERDUE,CASH,430,230,230
-2019-04,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,70,100,0
+2019-04,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,60,100,0
 2019-04,North Somerset,Nailsea Library,OVERDUEX,FORGIVEN,0,0,0
 2019-04,North Somerset,Nailsea Library,SALEVAT,CASH,0,0,0
 2019-04,North Somerset,North Somerset Mobile,CHARGE,CASH,10,10,10
@@ -19368,7 +19366,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Bath and North East Somerset,Keynsham Library,LOSTCARD,CASH,0,0,0
 2019-05,Bath and North East Somerset,Keynsham Library,LOSTCARD,CREDITCARD,0,0,0
 2019-05,Bath and North East Somerset,Keynsham Library,LOSTCARD,FORGIVEN,0,0,0
-2019-05,Bath and North East Somerset,Keynsham Library,OVERDUE,CASH,80,40,40
+2019-05,Bath and North East Somerset,Keynsham Library,OVERDUE,CASH,70,40,40
 2019-05,Bath and North East Somerset,Keynsham Library,OVERDUE,CREDITCARD,120,130,130
 2019-05,Bath and North East Somerset,Keynsham Library,OVERDUE,FORGIVEN,10,20,0
 2019-05,Bath and North East Somerset,Keynsham Library,SALENOVAT,FORGIVEN,0,30,0
@@ -24185,7 +24183,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Bristol,Bedminster Library,LOST,CASH,10,30,30
 2019-08,Bristol,Bedminster Library,LOSTX,FORGIVEN,10,90,0
 2019-08,Bristol,Bedminster Library,OVERDUE,CANCEL,20,10,0
-2019-08,Bristol,Bedminster Library,OVERDUE,CASH,560,440,440
+2019-08,Bristol,Bedminster Library,OVERDUE,CASH,550,440,440
 2019-08,Bristol,Bedminster Library,OVERDUE,FORGIVEN,20,30,0
 2019-08,Bristol,Bedminster Library,OVERDUE,PAYPAL,50,60,60
 2019-08,Bristol,Bedminster Library,OVERDUE,VOUCH,0,0,0
@@ -26121,7 +26119,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-09,Bristol,Marksbury Road Library,OVERDUE,CASH,30,20,20
 2019-09,Bristol,Marksbury Road Library,OVERDUE,FORGIVEN,10,0,0
 2019-09,Bristol,Redland Library,CHARGE,CASH,180,210,210
-2019-09,Bristol,Redland Library,CHARGE,CREDITCARD,30,40,40
+2019-09,Bristol,Redland Library,CHARGE,CREDITCARD,20,40,40
 2019-09,Bristol,Redland Library,CHARGE,FORGIVEN,0,10,0
 2019-09,Bristol,Redland Library,CHARGE,PAYPAL,10,10,10
 2019-09,Bristol,Redland Library,CHARGE,VOUCH,0,0,0
@@ -27832,7 +27830,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-10,Bristol,Redland Library,LOST,CANCEL,110,700,0
 2019-10,Bristol,Redland Library,LOST,CASH,0,0,0
 2019-10,Bristol,Redland Library,OVERDUE,CANCEL,10,0,0
-2019-10,Bristol,Redland Library,OVERDUE,CASH,270,220,220
+2019-10,Bristol,Redland Library,OVERDUE,CASH,260,210,210
 2019-10,Bristol,Redland Library,OVERDUE,CREDITCARD,10,20,20
 2019-10,Bristol,Redland Library,OVERDUE,FORGIVEN,40,40,0
 2019-10,Bristol,Redland Library,OVERDUE,PAYPAL,30,30,30
@@ -35673,7 +35671,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-03,Bristol,Wick Road Library,LOST,CANCEL,40,240,0
 2020-03,Bristol,Wick Road Library,LOST,CASH,0,20,20
 2020-03,Bristol,Wick Road Library,OVERDUE,CANCEL,0,0,0
-2020-03,Bristol,Wick Road Library,OVERDUE,CASH,70,60,60
+2020-03,Bristol,Wick Road Library,OVERDUE,CASH,60,60,60
 2020-03,Bristol,Wick Road Library,OVERDUE,FORGIVEN,0,10,0
 2020-03,Bristol,Wick Road Library,OVERDUE,PAYPAL,20,20,20
 2020-03,Dorset,Beaminster Library,CHARGE,CASH,0,10,10
