@@ -569,6 +569,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,CHARGEX,CANCEL,0,0,0
 2020/2021,Dorset,LOST,CANCEL,30,120,0
 2020/2021,Dorset,LOST,PAYPAL,0,10,10
+2020/2021,Dorset,OVERDUE,CASH,0,0,0
 2020/2021,Dorset,OVERDUE,FORGIVEN,10,20,0
 2020/2021,Dorset,OVERDUE,PAYPAL,10,10,10
 2020/2021,North Somerset,CHARGE,CANCEL,0,10,0
