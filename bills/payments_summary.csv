@@ -122,7 +122,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Bristol,HOLDX,DEBITCARD,0,0,0
 2019/2020,Bristol,HOLDX,FORGIVEN,40,50,0
 2019/2020,Bristol,ILL,CASH,0,20,20
-2019/2020,Bristol,LOST,CANCEL,23240,129560,0
+2019/2020,Bristol,LOST,CANCEL,23240,129530,0
 2019/2020,Bristol,LOST,CASH,760,4400,4400
 2019/2020,Bristol,LOST,CHEQUE,20,160,160
 2019/2020,Bristol,LOST,CREDITCARD,140,1010,1010
@@ -137,7 +137,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Bristol,LOSTX,CREDITCARD,0,10,10
 2019/2020,Bristol,LOSTX,FORGIVEN,100,960,0
 2019/2020,Bristol,OVERDUE,CANCEL,1140,1730,0
-2019/2020,Bristol,OVERDUE,CASH,50000,36000,36000
+2019/2020,Bristol,OVERDUE,CASH,49990,36000,36000
 2019/2020,Bristol,OVERDUE,CHEQUE,140,330,330
 2019/2020,Bristol,OVERDUE,CREDITACCT,70,20,20
 2019/2020,Bristol,OVERDUE,CREDITCARD,10730,10560,10560
@@ -224,7 +224,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Dorset,OVERDUE,CHEQUE,10,10,10
 2019/2020,Dorset,OVERDUE,CREDITCARD,2050,2580,2580
 2019/2020,Dorset,OVERDUE,DEBITCARD,40,70,70
-2019/2020,Dorset,OVERDUE,FORGIVEN,3040,6530,0
+2019/2020,Dorset,OVERDUE,FORGIVEN,3040,6520,0
 2019/2020,Dorset,OVERDUE,NONE,10,30,30
 2019/2020,Dorset,OVERDUE,PAYPAL,1170,1420,1420
 2019/2020,Dorset,OVERDUEX,CANCEL,20,80,0
@@ -508,7 +508,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,South Gloucestershire,ILL,CANCEL,0,110,0
 2019/2020,South Gloucestershire,ILL,CASH,10,250,250
 2019/2020,South Gloucestershire,ILL,CHEQUE,20,800,800
-2019/2020,South Gloucestershire,LOST,CANCEL,8370,46320,0
+2019/2020,South Gloucestershire,LOST,CANCEL,8370,46290,0
 2019/2020,South Gloucestershire,LOST,CASH,240,1340,1340
 2019/2020,South Gloucestershire,LOST,CREDITCARD,0,10,10
 2019/2020,South Gloucestershire,LOST,DEBITCARD,0,20,20
@@ -582,7 +582,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Poole,CHARGE,CASH,10,10,10
 2020/2021,Poole,HOLD,CASH,0,0,0
 2020/2021,Poole,OVERDUE,CASH,10,20,20
-2020/2021,Poole,OVERDUE,FORGIVEN,20,40,0
+2020/2021,Poole,OVERDUE,FORGIVEN,30,70,0
 2020/2021,Poole,OVERDUE,PAYPAL,10,30,30
 2020/2021,Somerset,CHARGE,CANCEL,30,50,0
 2020/2021,Somerset,CHARGE,FORGIVEN,0,0,0
@@ -603,5 +603,5 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,HOLD,PAYPAL,0,0,0
 2020/2021,South Gloucestershire,LOST,CANCEL,20,120,0
 2020/2021,South Gloucestershire,LOST,PAYPAL,0,20,20
-2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,30,30,0
+2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,40,30,0
 2020/2021,South Gloucestershire,OVERDUE,PAYPAL,30,30,30
