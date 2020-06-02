@@ -6,7 +6,7 @@ Bath and North East Somerset,15 DVD Premium,2,0,0
 Bath and North East Somerset,15 DVD Standard,571,5367,291
 Bath and North East Somerset,18 DVD Premium,2,0,0
 Bath and North East Somerset,18 DVD Standard,70,772,42
-Bath and North East Somerset,Adult Fiction,29433,393506,250715
+Bath and North East Somerset,Adult Fiction,29434,393522,250723
 Bath and North East Somerset,Adult Graphic Novel,345,6106,4683
 Bath and North East Somerset,Adult Non Fiction,34202,323373,430879
 Bath and North East Somerset,Adult Reference,27870,4113,2326
@@ -20,7 +20,7 @@ Bath and North East Somerset,Boxed Set PG DVD,5,100,5
 Bath and North East Somerset,Boxed Set U DVD,2,14,0
 Bath and North East Somerset,Cash Sales No VAT,2,0,0
 Bath and North East Somerset,Cash Sales With Tax,7,0,0
-Bath and North East Somerset,Child Fiction,31525,525275,352497
+Bath and North East Somerset,Child Fiction,31522,525148,352414
 Bath and North East Somerset,Child Non Fiction,7074,79934,68278
 Bath and North East Somerset,Child Reference,1366,286,153
 Bath and North East Somerset,Child Spoken Word,1520,22972,19316
@@ -50,11 +50,11 @@ Bristol,15 DVD Premium,3,0,0
 Bristol,15 DVD Standard,5117,57962,2425
 Bristol,18 DVD Premium,2,0,0
 Bristol,18 DVD Standard,604,8095,329
-Bristol,Adult Fiction,96263,925062,658923
+Bristol,Adult Fiction,96263,925064,658925
 Bristol,Adult Graphic Novel,5680,64026,51992
-Bristol,Adult Non Fiction,112717,679210,1218791
+Bristol,Adult Non Fiction,112717,679210,1218805
 Bristol,Adult Reference,106434,1154,1235
-Bristol,Adult Spoken Word,13360,122028,41399
+Bristol,Adult Spoken Word,13361,122039,41400
 Bristol,B.O.P.,1241,4185,7869
 Bristol,Boxed Set 12 DVD,96,1363,139
 Bristol,Boxed Set 15 DVD,287,4856,550
@@ -62,7 +62,7 @@ Bristol,Boxed Set 18 DVD,138,3221,303
 Bristol,Boxed Set EX DVD,3,72,9
 Bristol,Boxed Set PG DVD,34,393,55
 Bristol,Boxed Set U DVD,49,274,29
-Bristol,Child Fiction,94094,1389792,794505
+Bristol,Child Fiction,94094,1389792,794537
 Bristol,Child Non Fiction,22560,155442,133875
 Bristol,Child Reference,489,410,585
 Bristol,Child Spoken Word,2800,24808,18768
@@ -92,14 +92,14 @@ Dorset,15 DVD Premium,6,0,0
 Dorset,15 DVD Standard,3064,8980,382
 Dorset,18 DVD Premium,1,0,0
 Dorset,18 DVD Standard,397,902,49
-Dorset,Adult Fiction,113251,1125051,413384
+Dorset,Adult Fiction,113250,1125054,413388
 Dorset,Adult Graphic Novel,703,2734,1719
 Dorset,Adult Non Fiction,78239,315641,282603
 Dorset,Adult Reference,26175,201,100
 Dorset,Adult Spoken Word,10188,84331,16220
 Dorset,B.O.P.,308,1174,1648
 Dorset,Boxed Set 18 DVD,1,24,1
-Dorset,Child Fiction,68731,593759,207798
+Dorset,Child Fiction,68731,593759,207799
 Dorset,Child Non Fiction,20680,79456,42108
 Dorset,Child Reference,162,0,0
 Dorset,Child Spoken Word,2349,10739,1959
@@ -109,7 +109,7 @@ Dorset,Drama single copy,1179,847,814
 Dorset,Fastrack,4,1,0
 Dorset,ILL,5,68,2
 Dorset,Language Course,148,564,164
-Dorset,Large Print - Adult Fiction,20404,181580,46817
+Dorset,Large Print - Adult Fiction,20404,181581,46817
 Dorset,Large Print - Adult Non Fiction,2881,20644,6203
 Dorset,Large Print - Children,700,2993,1798
 Dorset,Music CD,440,792,73
@@ -124,10 +124,10 @@ North Somerset,12 DVD Standard,1283,11409,271
 North Somerset,15 DVD Standard,1187,8050,175
 North Somerset,18 DVD Premium,1,0,0
 North Somerset,18 DVD Standard,127,874,13
-North Somerset,Adult Fiction,35644,520886,276856
+North Somerset,Adult Fiction,35645,520894,276858
 North Somerset,Adult Graphic Novel,384,6299,4506
-North Somerset,Adult Non Fiction,34894,320152,374995
-North Somerset,Adult Reference,8903,1556,818
+North Somerset,Adult Non Fiction,34987,320942,375825
+North Somerset,Adult Reference,8905,1556,818
 North Somerset,Adult Spoken Word,4418,99235,26046
 North Somerset,B.O.P.,1763,4517,5246
 North Somerset,Boxed Set 12 DVD,12,135,16
@@ -138,20 +138,20 @@ North Somerset,Boxed Set PG DVD,4,49,4
 North Somerset,Boxed Set U DVD,13,118,12
 North Somerset,Cash Sales No VAT,9,0,0
 North Somerset,Cash Sales With Tax,13,0,0
-North Somerset,Child Fiction,33092,716258,394825
-North Somerset,Child Non Fiction,10585,144238,102266
+North Somerset,Child Fiction,33093,716262,394830
+North Somerset,Child Non Fiction,10585,144240,102266
 North Somerset,Child Reference,212,441,969
-North Somerset,Child Spoken Word,1684,23970,17883
+North Somerset,Child Spoken Word,1683,23966,17871
 North Somerset,Classification Exempt,11,48,1
 North Somerset,Drama single copy,5,9,5
 North Somerset,Equipment,117,543,159
 North Somerset,Fastrack,184,543,11
 North Somerset,Language Course,82,1473,582
-North Somerset,Large Print - Adult Fiction,10477,282349,67306
+North Somerset,Large Print - Adult Fiction,10478,282399,67316
 North Somerset,Large Print - Adult Non Fiction,1574,36995,11703
 North Somerset,Large Print - Children,315,5032,3693
 North Somerset,Music CD,939,12000,1629
-North Somerset,Music Score,1704,3624,5930
+North Somerset,Music Score,1705,3633,5942
 North Somerset,PG DVD Premium,1,0,0
 North Somerset,PG DVD Standard,874,14661,656
 North Somerset,U DVD Standard,1296,23658,1310
@@ -161,7 +161,7 @@ Poole,Unknown,3,0,0
 Poole,12 DVD Standard,1725,7066,555
 Poole,15 DVD Standard,2730,6862,565
 Poole,18 DVD Standard,355,867,89
-Poole,Adult Fiction,47770,426836,243916
+Poole,Adult Fiction,47770,426843,243916
 Poole,Adult Graphic Novel,160,459,331
 Poole,Adult Non Fiction,38323,155590,185704
 Poole,Adult Reference,788,15,13
@@ -179,27 +179,27 @@ Poole,Child Spoken Word,939,3918,2375
 Poole,Classification Exempt,35,77,17
 Poole,Equipment,7,3,5
 Poole,Language Course,31,141,171
-Poole,Large Print - Adult Fiction,8914,60666,24121
+Poole,Large Print - Adult Fiction,8914,60667,24121
 Poole,Large Print - Adult Non Fiction,1385,7970,3508
 Poole,Large Print - Children,163,425,265
-Poole,Music CD,2590,8348,811
+Poole,Music CD,2589,8347,811
 Poole,Music Score,12,23,22
 Poole,PG DVD Standard,998,4041,301
 Poole,Reading Group Set,9,22,134
 Poole,U DVD Standard,1335,4966,310
 Poole,Visual Material,46,349,239
-Poole,YA / Teen Fiction,4350,17715,13576
+Poole,YA / Teen Fiction,4350,17716,13576
 Poole,YA / Teen Non Fiction,1046,3031,2839
 Somerset,Unknown,11,0,0
 Somerset,12 DVD Premium,4,0,0
-Somerset,12 DVD Standard,2490,20425,815
+Somerset,12 DVD Standard,2489,20419,815
 Somerset,15 DVD Premium,3,0,0
 Somerset,15 DVD Standard,3094,20192,778
 Somerset,18 DVD Premium,2,0,0
 Somerset,18 DVD Standard,324,2072,91
-Somerset,Adult Fiction,123535,1918377,1052094
+Somerset,Adult Fiction,123516,1917865,1051558
 Somerset,Adult Graphic Novel,1570,32676,21837
-Somerset,Adult Non Fiction,135672,1782644,1512122
+Somerset,Adult Non Fiction,135673,1782649,1512146
 Somerset,Adult Reference,16288,32006,5195
 Somerset,Adult Spoken Word,11796,225734,69413
 Somerset,B.O.P.,2772,16388,23043
@@ -211,8 +211,8 @@ Somerset,Boxed Set PG DVD,16,236,29
 Somerset,Boxed Set U DVD,7,36,2
 Somerset,Cash Sales No VAT,18,0,0
 Somerset,Cash Sales With Tax,2,0,0
-Somerset,Child Fiction,102755,1312348,863105
-Somerset,Child Non Fiction,21446,225251,197201
+Somerset,Child Fiction,102753,1312277,863050
+Somerset,Child Non Fiction,21446,225251,197204
 Somerset,Child Reference,158,167,20
 Somerset,Child Spoken Word,2134,20486,8911
 Somerset,Classification Exempt,56,813,138
@@ -231,22 +231,22 @@ Somerset,Music Score,23382,119803,117245
 Somerset,Music Set,4048,4157,594
 Somerset,PG DVD Premium,1,0,0
 Somerset,PG DVD Standard,1688,14749,798
-Somerset,U DVD Standard,1779,20056,1476
+Somerset,U DVD Standard,1779,20057,1476
 Somerset,Visual Material,6,13,4
-Somerset,YA / Teen Fiction,10148,70973,72881
+Somerset,YA / Teen Fiction,10148,70973,72884
 Somerset,YA / Teen Non Fiction,451,1588,1957
 South Gloucestershire,Unknown,6,0,0
 South Gloucestershire,12 DVD Premium,4,0,0
-South Gloucestershire,12 DVD Standard,2349,27920,3502
+South Gloucestershire,12 DVD Standard,2349,27927,3502
 South Gloucestershire,15 DVD Premium,1,0,0
 South Gloucestershire,15 DVD Standard,2353,21900,3069
 South Gloucestershire,18 DVD Premium,1,0,0
 South Gloucestershire,18 DVD Standard,260,2408,284
-South Gloucestershire,Adult Fiction,49581,680172,431380
+South Gloucestershire,Adult Fiction,49581,680311,431381
 South Gloucestershire,Adult Graphic Novel,687,10052,7521
-South Gloucestershire,Adult Non Fiction,36326,346096,428585
+South Gloucestershire,Adult Non Fiction,36326,346107,428589
 South Gloucestershire,Adult Reference,1352,1049,385
-South Gloucestershire,Adult Spoken Word,5735,80392,21290
+South Gloucestershire,Adult Spoken Word,5735,80400,21290
 South Gloucestershire,B.O.P.,2129,9048,11419
 South Gloucestershire,Boxed Set 12 DVD,46,501,143
 South Gloucestershire,Boxed Set 15 DVD,125,1521,300
@@ -254,17 +254,17 @@ South Gloucestershire,Boxed Set 18 DVD,64,1039,138
 South Gloucestershire,Boxed Set EX DVD,3,23,17
 South Gloucestershire,Boxed Set PG DVD,18,169,27
 South Gloucestershire,Boxed Set U DVD,58,450,76
-South Gloucestershire,Child Fiction,51833,1077582,562950
-South Gloucestershire,Child Non Fiction,10986,147759,114988
+South Gloucestershire,Child Fiction,51834,1077647,562983
+South Gloucestershire,Child Non Fiction,10986,147763,114988
 South Gloucestershire,Child Reference,155,693,339
 South Gloucestershire,Child Spoken Word,2500,27441,19488
 South Gloucestershire,Classification Exempt,103,969,356
 South Gloucestershire,Drama single copy,5,110,123
 South Gloucestershire,Equipment,216,1371,1315
-South Gloucestershire,Fastrack,1979,17985,11278
+South Gloucestershire,Fastrack,1978,17973,11268
 South Gloucestershire,Language Course,198,2715,1734
-South Gloucestershire,Large Print - Adult Fiction,9823,160413,54587
-South Gloucestershire,Large Print - Adult Non Fiction,707,10601,5635
+South Gloucestershire,Large Print - Adult Fiction,9823,160443,54587
+South Gloucestershire,Large Print - Adult Non Fiction,707,10604,5635
 South Gloucestershire,Large Print - Children,178,3994,2773
 South Gloucestershire,Music CD,1436,15936,3588
 South Gloucestershire,Music Score,121,2478,4363
