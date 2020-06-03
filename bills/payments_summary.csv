@@ -565,7 +565,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bristol,OVERDUE,PAYPAL,140,100,100
 2020/2021,Bristol,REFERRAL,FORGIVEN,0,10,0
 2020/2021,Dorset,CHARGE,CANCEL,0,0,0
-2020/2021,Dorset,CHARGE,PAYPAL,10,10,10
+2020/2021,Dorset,CHARGE,PAYPAL,10,20,20
 2020/2021,Dorset,CHARGEX,CANCEL,0,0,0
 2020/2021,Dorset,LOST,CANCEL,30,130,0
 2020/2021,Dorset,LOST,PAYPAL,0,10,10
@@ -573,6 +573,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,OVERDUE,FORGIVEN,10,20,0
 2020/2021,Dorset,OVERDUE,PAYPAL,10,10,10
 2020/2021,North Somerset,CHARGE,CANCEL,0,10,0
+2020/2021,North Somerset,CHARGE,FORGIVEN,20,20,0
 2020/2021,North Somerset,CHARGE,PAYPAL,0,10,10
 2020/2021,North Somerset,LOST,CANCEL,0,30,0
 2020/2021,North Somerset,LOST,PAYPAL,0,10,10
