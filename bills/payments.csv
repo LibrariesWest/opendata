@@ -485,7 +485,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Dorset,Crossways Library,CHARGE,CASH,20,40,40
 2018-06,Dorset,Crossways Library,LOST,CANCEL,10,20,0
 2018-06,Dorset,Crossways Library,OVERDUE,CASH,20,20,20
-2018-06,Dorset,Dorchester Library,BFR,CANCEL,0,10,0
+2018-06,Dorset,Dorchester Library,BFR,CANCEL,0,0,0
 2018-06,Dorset,Dorchester Library,CHARGE,CANCEL,10,20,0
 2018-06,Dorset,Dorchester Library,CHARGE,CASH,210,480,480
 2018-06,Dorset,Dorchester Library,CHARGE,FORGIVEN,20,40,0
@@ -2116,10 +2116,9 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Dorset,Dorchester Library,LOSTCARD,CASH,10,20,20
 2018-07,Dorset,Dorchester Library,OVERDUE,CANCEL,10,20,0
 2018-07,Dorset,Dorchester Library,OVERDUE,CASH,280,310,310
-2018-07,Dorset,Dorchester Library,OVERDUE,FORGIVEN,40,140,0
+2018-07,Dorset,Dorchester Library,OVERDUE,FORGIVEN,30,140,0
 2018-07,Dorset,Dorchester Library,OVERDUEX,CANCEL,0,0,0
 2018-07,Dorset,Dorchester Library,OVERDUEX,CASH,0,10,10
-2018-07,Dorset,Dorchester Library,OVERDUEX,FORGIVEN,0,10,0
 2018-07,Dorset,Dorchester Library,PRIVILEGE,CASH,0,0,0
 2018-07,Dorset,Ferndown Library,CHARGE,CANCEL,0,0,0
 2018-07,Dorset,Ferndown Library,CHARGE,CASH,60,120,120
@@ -9338,7 +9337,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Poole,Broadstone Library,LOST,CANCEL,0,40,0
 2018-11,Poole,Broadstone Library,LOSTCARD,CASH,0,0,0
 2018-11,Poole,Broadstone Library,OVERDUE,CANCEL,10,20,0
-2018-11,Poole,Broadstone Library,OVERDUE,CASH,270,330,330
+2018-11,Poole,Broadstone Library,OVERDUE,CASH,270,320,320
 2018-11,Poole,Broadstone Library,OVERDUE,FORGIVEN,40,50,0
 2018-11,Poole,Broadstone Library,OVERDUEX,CANCEL,0,0,0
 2018-11,Poole,Broadstone Library,OVERDUEX,CASH,0,10,10
