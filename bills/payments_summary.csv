@@ -568,7 +568,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,CHARGE,CANCEL,0,0,0
 2020/2021,Dorset,CHARGE,PAYPAL,10,20,20
 2020/2021,Dorset,CHARGEX,CANCEL,0,0,0
-2020/2021,Dorset,LOST,CANCEL,30,130,0
+2020/2021,Dorset,LOST,CANCEL,30,150,0
 2020/2021,Dorset,LOST,PAYPAL,10,30,30
 2020/2021,Dorset,OVERDUE,CASH,0,0,0
 2020/2021,Dorset,OVERDUE,FORGIVEN,10,20,0
@@ -611,6 +611,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,HOLD,FORGIVEN,10,0,0
 2020/2021,South Gloucestershire,HOLD,PAYPAL,10,10,10
 2020/2021,South Gloucestershire,LOST,CANCEL,30,160,0
+2020/2021,South Gloucestershire,LOST,FORGIVEN,0,20,0
 2020/2021,South Gloucestershire,LOST,PAYPAL,0,20,20
 2020/2021,South Gloucestershire,OVERDUE,CANCEL,0,0,0
 2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,40,40,0
