@@ -220,7 +220,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Dorset,MISC,CREDITCARD,0,0,0
 2019/2020,Dorset,MISC,FORGIVEN,0,10,0
 2019/2020,Dorset,OVERDUE,CANCEL,1260,2850,0
-2019/2020,Dorset,OVERDUE,CASH,25650,22940,22940
+2019/2020,Dorset,OVERDUE,CASH,25640,22940,22940
 2019/2020,Dorset,OVERDUE,CHEQUE,10,10,10
 2019/2020,Dorset,OVERDUE,CREDITCARD,2050,2580,2580
 2019/2020,Dorset,OVERDUE,DEBITCARD,40,70,70
@@ -517,12 +517,12 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,South Gloucestershire,LOSTCARD,CASH,0,0,0
 2019/2020,South Gloucestershire,LOSTX,CANCEL,0,10,0
 2019/2020,South Gloucestershire,LOSTX,FORGIVEN,0,10,0
-2019/2020,South Gloucestershire,OVERDUE,CANCEL,2840,4970,0
+2019/2020,South Gloucestershire,OVERDUE,CANCEL,2830,4970,0
 2019/2020,South Gloucestershire,OVERDUE,CASH,16040,13000,13000
 2019/2020,South Gloucestershire,OVERDUE,CREDITACCT,10,10,10
 2019/2020,South Gloucestershire,OVERDUE,CREDITCARD,30,40,40
 2019/2020,South Gloucestershire,OVERDUE,DEBITCARD,150,210,210
-2019/2020,South Gloucestershire,OVERDUE,FORGIVEN,4050,7760,0
+2019/2020,South Gloucestershire,OVERDUE,FORGIVEN,4050,7750,0
 2019/2020,South Gloucestershire,OVERDUE,NONE,40,50,50
 2019/2020,South Gloucestershire,OVERDUE,PAYPAL,980,1150,1150
 2019/2020,South Gloucestershire,OVERDUE,VOUCH,10,10,10
@@ -545,6 +545,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,South Gloucestershire,SALEVAT,CASH,30,50,50
 2019/2020,South Gloucestershire,SALEVAT,FORGIVEN,0,0,0
 2019/2020,South Gloucestershire,SALEVAT,PAYPAL,0,0,0
+2020/2021,Bath and North East Somerset,CHARGE,CANCEL,0,10,0
 2020/2021,Bath and North East Somerset,CHARGE,FORGIVEN,0,10,0
 2020/2021,Bath and North East Somerset,CHARGE,PAYPAL,10,10,10
 2020/2021,Bath and North East Somerset,LOST,CANCEL,0,10,0
@@ -588,7 +589,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Poole,HOLD,CASH,0,0,0
 2020/2021,Poole,LOSTCARD,CASH,0,0,0
 2020/2021,Poole,OVERDUE,CASH,10,20,20
-2020/2021,Poole,OVERDUE,FORGIVEN,30,70,0
+2020/2021,Poole,OVERDUE,FORGIVEN,30,80,0
 2020/2021,Poole,OVERDUE,PAYPAL,20,30,30
 2020/2021,Poole,SALENOVAT,CASH,0,0,0
 2020/2021,Poole,SALEVAT,CASH,0,0,0
