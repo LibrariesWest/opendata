@@ -1064,7 +1064,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-06,Somerset,Glastonbury Library,LOST,CASH,0,10,10
 2018-06,Somerset,Glastonbury Library,LOSTCARD,CASH,0,10,10
 2018-06,Somerset,Glastonbury Library,OVERDUE,CANCEL,0,0,0
-2018-06,Somerset,Glastonbury Library,OVERDUE,CASH,250,150,150
+2018-06,Somerset,Glastonbury Library,OVERDUE,CASH,250,140,140
 2018-06,Somerset,Glastonbury Library,OVERDUE,DEBITCARD,30,30,30
 2018-06,Somerset,Glastonbury Library,OVERDUE,FORGIVEN,10,40,0
 2018-06,Somerset,Glastonbury Library,SALENOVAT,CASH,0,0,0
@@ -13331,7 +13331,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Bristol,Bristol Central Lending Library,LOST,DEBITCARD,10,60,60
 2019-02,Bristol,Bristol Central Lending Library,LOST,FORGIVEN,10,50,0
 2019-02,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,30,60,0
-2019-02,Bristol,Bristol Central Lending Library,OVERDUE,CASH,800,610,610
+2019-02,Bristol,Bristol Central Lending Library,OVERDUE,CASH,790,610,610
 2019-02,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,20,60,60
 2019-02,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,550,550,550
 2019-02,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,170,230,230
@@ -18290,7 +18290,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Dorset,West Moors Library,CHARGE,FORGIVEN,0,0,0
 2019-05,Dorset,West Moors Library,LOST,CANCEL,0,20,0
 2019-05,Dorset,West Moors Library,OVERDUE,CASH,50,30,30
-2019-05,Dorset,West Moors Library,OVERDUE,FORGIVEN,10,30,0
+2019-05,Dorset,West Moors Library,OVERDUE,FORGIVEN,0,10,0
 2019-05,Dorset,Weymouth Library,BFR,FORGIVEN,0,30,0
 2019-05,Dorset,Weymouth Library,CHARGE,CANCEL,0,0,0
 2019-05,Dorset,Weymouth Library,CHARGE,CASH,50,110,110
@@ -19440,7 +19440,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Bristol,Bristol Central Lending Library,LOSTX,CASH,0,10,10
 2019-06,Bristol,Bristol Central Lending Library,LOSTX,FORGIVEN,10,110,0
 2019-06,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,30,40,0
-2019-06,Bristol,Bristol Central Lending Library,OVERDUE,CASH,910,710,710
+2019-06,Bristol,Bristol Central Lending Library,OVERDUE,CASH,910,700,700
 2019-06,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,10,30,30
 2019-06,Bristol,Bristol Central Lending Library,OVERDUE,CREDITACCT,0,0,0
 2019-06,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,710,780,780
@@ -29302,7 +29302,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-12,Bristol,Bishopsworth Library,OVERDUE,PAYPAL,10,30,30
 2019-12,Bristol,Bristol Central Lending Library,BFR,FORGIVEN,0,10,0
 2019-12,Bristol,Bristol Central Lending Library,CHARGE,CANCEL,20,30,0
-2019-12,Bristol,Bristol Central Lending Library,CHARGE,CASH,490,460,460
+2019-12,Bristol,Bristol Central Lending Library,CHARGE,CASH,460,440,440
 2019-12,Bristol,Bristol Central Lending Library,CHARGE,CHEQUE,0,0,0
 2019-12,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,110,120,120
 2019-12,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,50,70,70
@@ -29323,7 +29323,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-12,Bristol,Bristol Central Lending Library,LOST,FORGIVEN,10,40,0
 2019-12,Bristol,Bristol Central Lending Library,LOST,PAYPAL,10,40,40
 2019-12,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,60,110,0
-2019-12,Bristol,Bristol Central Lending Library,OVERDUE,CASH,710,420,420
+2019-12,Bristol,Bristol Central Lending Library,OVERDUE,CASH,700,420,420
 2019-12,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,20,50,50
 2019-12,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,600,590,590
 2019-12,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,230,350,350
@@ -30765,10 +30765,10 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Bristol,Bishopsworth Library,OVERDUE,FORGIVEN,0,10,0
 2020-01,Bristol,Bishopsworth Library,REFERRAL,CASH,0,10,10
 2020-01,Bristol,Bristol Central Lending Library,CHARGE,CANCEL,10,20,0
-2020-01,Bristol,Bristol Central Lending Library,CHARGE,CASH,460,480,480
+2020-01,Bristol,Bristol Central Lending Library,CHARGE,CASH,450,470,470
 2020-01,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,190,210,210
 2020-01,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,50,60,60
-2020-01,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,100,100,0
+2020-01,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,90,90,0
 2020-01,Bristol,Bristol Central Lending Library,CHARGE,PAYPAL,10,10,10
 2020-01,Bristol,Bristol Central Lending Library,CHARGEX,CREDITCARD,10,0,0
 2020-01,Bristol,Bristol Central Lending Library,CHARGEX,FORGIVEN,0,0,0
@@ -30788,7 +30788,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,10,30,30
 2020-01,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,790,760,760
 2020-01,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,270,490,490
-2020-01,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,290,540,0
+2020-01,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,280,530,0
 2020-01,Bristol,Bristol Central Lending Library,OVERDUE,PAYPAL,220,360,360
 2020-01,Bristol,Bristol Central Lending Library,REFERRAL,CASH,0,10,10
 2020-01,Bristol,Bristol Central Lending Library,REFERRAL,CHEQUE,0,10,10
