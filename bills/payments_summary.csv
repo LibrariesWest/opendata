@@ -577,6 +577,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,OVERDUE,FORGIVEN,10,20,0
 2020/2021,Dorset,OVERDUE,PAYPAL,10,20,20
 2020/2021,North Somerset,CHARGE,CANCEL,0,10,0
+2020/2021,North Somerset,CHARGE,CREDITCARD,0,0,0
 2020/2021,North Somerset,CHARGE,FORGIVEN,20,30,0
 2020/2021,North Somerset,CHARGE,PAYPAL,0,10,10
 2020/2021,North Somerset,CHARGEX,FORGIVEN,0,0,0
@@ -588,6 +589,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,North Somerset,OVERDUE,CASH,0,10,10
 2020/2021,North Somerset,OVERDUE,FORGIVEN,60,30,0
 2020/2021,North Somerset,OVERDUE,PAYPAL,30,40,40
+2020/2021,North Somerset,SALENOVAT,CREDITCARD,0,0,0
 2020/2021,North Somerset,SALENOVAT,FORGIVEN,0,0,0
 2020/2021,Poole,CHARGE,CASH,10,10,10
 2020/2021,Poole,HOLD,CASH,0,0,0
@@ -623,3 +625,4 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,OVERDUE,PAYPAL,30,30,30
 2020/2021,South Gloucestershire,SALENOVAT,CANCEL,0,0,0
 2020/2021,South Gloucestershire,SALENOVAT,FORGIVEN,0,0,0
+2020/2021,South Gloucestershire,SALEVAT,CANCEL,0,0,0
