@@ -33,7 +33,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-07,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,370,1250,0
 2018-07,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,900,540,540
 2018-07,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITACCT,0,0,0
-2018-07,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,830,750,750
+2018-07,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,820,750,750
 2018-07,Bath and North East Somerset,Bath Central Library,OVERDUE,FORGIVEN,50,80,0
 2018-07,Bath and North East Somerset,Bath Central Library,OVERDUEX,CANCEL,0,0,0
 2018-07,Bath and North East Somerset,Bath Central Library,OVERDUEX,CASH,0,10,10
@@ -2866,7 +2866,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-08,Somerset,Chard Library,CHARGE,CANCEL,10,10,0
 2018-08,Somerset,Chard Library,CHARGE,CASH,80,140,140
 2018-08,Somerset,Chard Library,CHARGE,CREDITACCT,0,0,0
-2018-08,Somerset,Chard Library,CHARGE,DEBITCARD,0,10,10
 2018-08,Somerset,Chard Library,CHARGEX,CANCEL,0,0,0
 2018-08,Somerset,Chard Library,CHARGEX,CASH,0,0,0
 2018-08,Somerset,Chard Library,CREDIT,CASH,0,0,0
@@ -6321,7 +6320,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Somerset,Castle Cary Library,OVERDUE,DEBITCARD,10,30,30
 2018-10,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,10,0,0
 2018-10,Somerset,Chard Library,CHARGE,CANCEL,0,0,0
-2018-10,Somerset,Chard Library,CHARGE,CASH,60,100,100
+2018-10,Somerset,Chard Library,CHARGE,CASH,50,100,100
 2018-10,Somerset,Chard Library,CHARGE,FORGIVEN,0,0,0
 2018-10,Somerset,Chard Library,CREDIT,CASH,0,0,0
 2018-10,Somerset,Chard Library,GROUP,CASH,10,40,40
@@ -7923,7 +7922,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Somerset,Castle Cary Library,OVERDUE,CASH,60,30,30
 2018-11,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,0,0,0
 2018-11,Somerset,Chard Library,CHARGE,CANCEL,10,20,0
-2018-11,Somerset,Chard Library,CHARGE,CASH,70,110,110
+2018-11,Somerset,Chard Library,CHARGE,CASH,60,110,110
 2018-11,Somerset,Chard Library,CHARGE,DEBITCARD,10,10,10
 2018-11,Somerset,Chard Library,GROUP,CASH,10,40,40
 2018-11,Somerset,Chard Library,HOLD,CANCEL,0,10,0
@@ -10959,7 +10958,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Castle Cary Library,OVERDUE,CASH,70,40,40
 2019-01,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,0,0,0
 2019-01,Somerset,Chard Library,CHARGE,CANCEL,0,10,0
-2019-01,Somerset,Chard Library,CHARGE,CASH,30,50,50
+2019-01,Somerset,Chard Library,CHARGE,CASH,20,40,40
 2019-01,Somerset,Chard Library,CHARGE,FORGIVEN,0,0,0
 2019-01,Somerset,Chard Library,GROUP,CASH,10,50,50
 2019-01,Somerset,Chard Library,HOLD,CANCEL,10,10,0
@@ -17081,7 +17080,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,10,10,0
 2019-05,Somerset,Castle Cary Library,OVERDUE,NONE,0,0,0
 2019-05,Somerset,Castle Cary Library,SALENOVAT,CASH,0,0,0
-2019-05,Somerset,Chard Library,CHARGE,CASH,40,70,70
+2019-05,Somerset,Chard Library,CHARGE,CASH,40,60,60
 2019-05,Somerset,Chard Library,CHARGE,CREDITCARD,0,0,0
 2019-05,Somerset,Chard Library,CHARGE,DEBITCARD,0,10,10
 2019-05,Somerset,Chard Library,CHARGE,FORGIVEN,0,0,0
@@ -20253,8 +20252,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Somerset,Castle Cary Library,OVERDUE,CASH,50,50,50
 2019-07,Somerset,Castle Cary Library,OVERDUE,CREDITACCT,0,10,10
 2019-07,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,10,0,0
-2019-07,Somerset,Chard Library,CHARGE,CASH,30,60,60
-2019-07,Somerset,Chard Library,CHARGE,CREDITCARD,10,10,10
+2019-07,Somerset,Chard Library,CHARGE,CASH,30,50,50
+2019-07,Somerset,Chard Library,CHARGE,CREDITCARD,0,10,10
 2019-07,Somerset,Chard Library,GROUP,CASH,0,20,20
 2019-07,Somerset,Chard Library,GROUP,FORGIVEN,0,10,0
 2019-07,Somerset,Chard Library,HOLD,CANCEL,0,0,0
