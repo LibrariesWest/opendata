@@ -88,7 +88,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Bath and North East Somerset,SALEVAT,0,20
 2020/2021,Bristol,CHARGE,0,0
 2020/2021,Bristol,OVERDUE,30,130
-2020/2021,Bristol,SALENOVAT,10,20
+2020/2021,Bristol,SALENOVAT,10,60
 2020/2021,Dorset,CHARGE,0,0
 2020/2021,Dorset,OVERDUE,10,40
 2020/2021,North Somerset,CHARGE,0,0
@@ -109,4 +109,4 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,South Gloucestershire,LOSTCARD,0,0
 2020/2021,South Gloucestershire,OVERDUE,10,50
 2020/2021,South Gloucestershire,SALENOVAT,0,0
-2020/2021,South Gloucestershire,SALEVAT,40,10
+2020/2021,South Gloucestershire,SALEVAT,50,30
