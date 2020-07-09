@@ -522,7 +522,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,South Gloucestershire,OVERDUE,CREDITACCT,10,10,10
 2019/2020,South Gloucestershire,OVERDUE,CREDITCARD,30,40,40
 2019/2020,South Gloucestershire,OVERDUE,DEBITCARD,150,210,210
-2019/2020,South Gloucestershire,OVERDUE,FORGIVEN,4050,7750,0
+2019/2020,South Gloucestershire,OVERDUE,FORGIVEN,4040,7750,0
 2019/2020,South Gloucestershire,OVERDUE,NONE,40,50,50
 2019/2020,South Gloucestershire,OVERDUE,PAYPAL,980,1150,1150
 2019/2020,South Gloucestershire,OVERDUE,VOUCH,10,10,10
@@ -548,7 +548,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bath and North East Somerset,CHARGE,CANCEL,0,10,0
 2020/2021,Bath and North East Somerset,CHARGE,FORGIVEN,0,10,0
 2020/2021,Bath and North East Somerset,CHARGE,PAYPAL,10,10,10
-2020/2021,Bath and North East Somerset,LOST,CANCEL,0,10,0
+2020/2021,Bath and North East Somerset,LOST,CANCEL,0,20,0
 2020/2021,Bath and North East Somerset,LOST,FORGIVEN,0,10,0
 2020/2021,Bath and North East Somerset,LOST,PAYPAL,0,10,10
 2020/2021,Bath and North East Somerset,LOSTCARD,CANCEL,0,0,0
@@ -562,7 +562,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bristol,CHARGE,PAYPAL,10,10,10
 2020/2021,Bristol,LOST,CANCEL,20,100,0
 2020/2021,Bristol,LOST,PAYPAL,10,80,80
-2020/2021,Bristol,OVERDUE,CANCEL,0,0,0
+2020/2021,Bristol,OVERDUE,CANCEL,10,10,0
 2020/2021,Bristol,OVERDUE,CASH,0,0,0
 2020/2021,Bristol,OVERDUE,FORGIVEN,20,40,0
 2020/2021,Bristol,OVERDUE,PAYPAL,170,110,110
@@ -616,7 +616,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,HOLD,PAYPAL,40,40,40
 2020/2021,Somerset,HOLDX,CANCEL,0,0,0
 2020/2021,Somerset,HOLDX,FORGIVEN,0,0,0
-2020/2021,Somerset,LOST,CANCEL,10,230,0
+2020/2021,Somerset,LOST,CANCEL,10,240,0
 2020/2021,Somerset,LOST,PAYPAL,20,150,150
 2020/2021,Somerset,OVERDUE,CANCEL,10,10,0
 2020/2021,Somerset,OVERDUE,FORGIVEN,20,30,0
@@ -634,9 +634,10 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,LOST,FORGIVEN,0,20,0
 2020/2021,South Gloucestershire,LOST,PAYPAL,0,20,20
 2020/2021,South Gloucestershire,OVERDUE,CANCEL,0,10,0
-2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,50,40,0
+2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,70,50,0
 2020/2021,South Gloucestershire,OVERDUE,PAYPAL,30,30,30
-2020/2021,South Gloucestershire,SALENOVAT,CANCEL,0,0,0
+2020/2021,South Gloucestershire,SALENOVAT,CANCEL,0,10,0
 2020/2021,South Gloucestershire,SALENOVAT,FORGIVEN,0,0,0
-2020/2021,South Gloucestershire,SALEVAT,CANCEL,10,0,0
+2020/2021,South Gloucestershire,SALEVAT,CANCEL,20,0,0
+2020/2021,South Gloucestershire,SALEVAT,CASH,0,0,0
 2020/2021,South Gloucestershire,SALEVAT,FORGIVEN,10,0,0
