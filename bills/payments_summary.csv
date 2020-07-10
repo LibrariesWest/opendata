@@ -564,7 +564,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bristol,LOST,PAYPAL,10,80,80
 2020/2021,Bristol,OVERDUE,CANCEL,10,10,0
 2020/2021,Bristol,OVERDUE,CASH,0,0,0
-2020/2021,Bristol,OVERDUE,FORGIVEN,20,40,0
+2020/2021,Bristol,OVERDUE,FORGIVEN,40,50,0
 2020/2021,Bristol,OVERDUE,PAYPAL,170,110,110
 2020/2021,Bristol,REFERRAL,FORGIVEN,0,10,0
 2020/2021,Bristol,REFERRAL,PAYPAL,0,10,10
@@ -576,7 +576,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,CHARGE,PAYPAL,10,20,20
 2020/2021,Dorset,CHARGEX,CANCEL,0,0,0
 2020/2021,Dorset,ILL,CASH,0,10,10
-2020/2021,Dorset,LOST,CANCEL,30,150,0
+2020/2021,Dorset,LOST,CANCEL,30,160,0
 2020/2021,Dorset,LOST,PAYPAL,10,30,30
 2020/2021,Dorset,OVERDUE,CASH,10,10,10
 2020/2021,Dorset,OVERDUE,FORGIVEN,20,30,0
@@ -600,10 +600,10 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,North Somerset,SALENOVAT,CREDITCARD,0,0,0
 2020/2021,North Somerset,SALENOVAT,FORGIVEN,0,0,0
 2020/2021,North Somerset,SALEVAT,CREDITCARD,0,0,0
-2020/2021,Poole,CHARGE,CASH,10,10,10
+2020/2021,Poole,CHARGE,CASH,10,20,20
 2020/2021,Poole,HOLD,CASH,0,0,0
 2020/2021,Poole,LOSTCARD,CASH,0,0,0
-2020/2021,Poole,OVERDUE,CASH,20,20,20
+2020/2021,Poole,OVERDUE,CASH,30,30,30
 2020/2021,Poole,OVERDUE,FORGIVEN,30,80,0
 2020/2021,Poole,OVERDUE,PAYPAL,20,30,30
 2020/2021,Poole,SALENOVAT,CASH,0,0,0
@@ -630,7 +630,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,HOLD,CASH,0,0,0
 2020/2021,South Gloucestershire,HOLD,FORGIVEN,10,0,0
 2020/2021,South Gloucestershire,HOLD,PAYPAL,10,10,10
-2020/2021,South Gloucestershire,LOST,CANCEL,40,220,0
+2020/2021,South Gloucestershire,LOST,CANCEL,40,240,0
 2020/2021,South Gloucestershire,LOST,FORGIVEN,0,20,0
 2020/2021,South Gloucestershire,LOST,PAYPAL,0,20,20
 2020/2021,South Gloucestershire,OVERDUE,CANCEL,0,10,0
