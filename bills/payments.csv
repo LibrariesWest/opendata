@@ -13633,7 +13633,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Dorset,Shaftesbury Library,SALEVAT,CASH,0,0,0
 2019-03,Dorset,Sherborne Library,CHARGE,CANCEL,0,0,0
 2019-03,Dorset,Sherborne Library,CHARGE,CASH,100,220,220
-2019-03,Dorset,Sherborne Library,CHARGE,FORGIVEN,0,10,0
+2019-03,Dorset,Sherborne Library,CHARGE,FORGIVEN,0,0,0
 2019-03,Dorset,Sherborne Library,CHARGEX,FORGIVEN,0,0,0
 2019-03,Dorset,Sherborne Library,HOLD,FORGIVEN,0,0,0
 2019-03,Dorset,Sherborne Library,LOST,CANCEL,10,40,0
@@ -25249,7 +25249,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-10,Poole,Rossmore Library,LOSTCARD,CASH,0,0,0
 2019-10,Poole,Rossmore Library,OVERDUE,CANCEL,10,10,0
 2019-10,Poole,Rossmore Library,OVERDUE,CASH,90,110,110
-2019-10,Poole,Rossmore Library,OVERDUE,FORGIVEN,30,40,0
+2019-10,Poole,Rossmore Library,OVERDUE,FORGIVEN,20,40,0
 2019-10,Poole,Rossmore Library,OVERDUE,PAYPAL,20,20,20
 2019-10,Poole,Rossmore Library,SALENOVAT,CASH,0,0,0
 2019-10,Poole,Rossmore Library,SALEVAT,FORGIVEN,0,0,0
@@ -26753,7 +26753,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-11,North Somerset,Winscombe Library,OVERDUE,CASH,90,50,50
 2019-11,North Somerset,Winscombe Library,OVERDUE,FORGIVEN,0,10,0
 2019-11,North Somerset,Winscombe Library,OVERDUE,PAYPAL,0,0,0
-2019-11,North Somerset,Worle Library,CHARGE,CASH,60,90,90
+2019-11,North Somerset,Worle Library,CHARGE,CASH,60,80,80
 2019-11,North Somerset,Worle Library,CHARGE,FORGIVEN,0,0,0
 2019-11,North Somerset,Worle Library,GROUP,CASH,0,10,10
 2019-11,North Somerset,Worle Library,HOLD,CASH,0,0,0
@@ -29608,7 +29608,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Dorset,Shaftesbury Library,PROCESSFEE,CASH,0,0,0
 2020-01,Dorset,Shaftesbury Library,SALENOVAT,CASH,0,0,0
 2020-01,Dorset,Sherborne Library,CHARGE,CANCEL,10,20,0
-2020-01,Dorset,Sherborne Library,CHARGE,CASH,90,210,210
+2020-01,Dorset,Sherborne Library,CHARGE,CASH,90,200,200
 2020-01,Dorset,Sherborne Library,DAMAGE,CASH,0,10,10
 2020-01,Dorset,Sherborne Library,ILL,CASH,0,10,10
 2020-01,Dorset,Sherborne Library,LOST,CANCEL,30,170,0
