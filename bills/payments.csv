@@ -21901,7 +21901,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Somerset,Bridgwater Library,HOLD,FORGIVEN,10,10,0
 2019-08,Somerset,Bridgwater Library,HOLD,PAYPAL,10,10,10
 2019-08,Somerset,Bridgwater Library,ILL,CASH,0,0,0
-2019-08,Somerset,Bridgwater Library,LOST,CANCEL,50,280,0
+2019-08,Somerset,Bridgwater Library,LOST,CANCEL,50,270,0
 2019-08,Somerset,Bridgwater Library,LOST,CREDITCARD,10,30,30
 2019-08,Somerset,Bridgwater Library,LOSTCARD,CASH,10,30,30
 2019-08,Somerset,Bridgwater Library,LOSTCARD,CREDITCARD,0,10,10
@@ -22165,7 +22165,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Somerset,Nether Stowey Library,HOLD,CANCEL,0,0,0
 2019-08,Somerset,Nether Stowey Library,HOLD,CASH,20,20,20
 2019-08,Somerset,Nether Stowey Library,HOLD,FORGIVEN,0,0,0
-2019-08,Somerset,Nether Stowey Library,LOST,CANCEL,0,10,0
 2019-08,Somerset,Nether Stowey Library,LOSTCARD,CASH,0,10,10
 2019-08,Somerset,Nether Stowey Library,OVERDUE,CASH,30,10,10
 2019-08,Somerset,Nether Stowey Library,OVERDUE,FORGIVEN,0,10,0
