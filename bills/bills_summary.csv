@@ -104,7 +104,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Poole,LOSTCARD,0,0
 2020/2021,Poole,OVERDUE,20,130
 2020/2021,Poole,SALENOVAT,10,20
-2020/2021,Poole,SALEVAT,0,0
+2020/2021,Poole,SALEVAT,10,0
 2020/2021,Somerset,CHARGE,50,80
 2020/2021,Somerset,OVERDUE,40,170
 2020/2021,Somerset,SALEVAT,0,0
@@ -113,4 +113,4 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,South Gloucestershire,LOSTCARD,0,0
 2020/2021,South Gloucestershire,OVERDUE,20,70
 2020/2021,South Gloucestershire,SALENOVAT,10,10
-2020/2021,South Gloucestershire,SALEVAT,110,70
+2020/2021,South Gloucestershire,SALEVAT,120,80
