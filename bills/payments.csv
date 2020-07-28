@@ -5398,7 +5398,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Bristol,Avonmouth Library,LOST,CANCEL,10,20,0
 2018-10,Bristol,Avonmouth Library,OVERDUE,CASH,10,10,10
 2018-10,Bristol,Avonmouth Library,OVERDUE,FORGIVEN,0,0,0
-2018-10,Bristol,Bedminster Library,CHARGE,CASH,210,230,230
+2018-10,Bristol,Bedminster Library,CHARGE,CASH,200,220,220
 2018-10,Bristol,Bedminster Library,CHARGE,CREDITCARD,60,80,80
 2018-10,Bristol,Bedminster Library,CHARGE,FORGIVEN,20,20,0
 2018-10,Bristol,Bedminster Library,CHARGE,VOUCH,10,10,10
@@ -6225,7 +6225,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-10,Poole,Poole Central Library,LOST,FORGIVEN,0,0,0
 2018-10,Poole,Poole Central Library,LOSTCARD,CASH,0,0,0
 2018-10,Poole,Poole Central Library,OVERDUE,CANCEL,0,0,0
-2018-10,Poole,Poole Central Library,OVERDUE,CASH,560,750,750
+2018-10,Poole,Poole Central Library,OVERDUE,CASH,560,740,740
 2018-10,Poole,Poole Central Library,OVERDUE,FORGIVEN,60,340,0
 2018-10,Poole,Poole Central Library,OVERDUEX,CANCEL,10,0,0
 2018-10,Poole,Poole Central Library,OVERDUEX,CASH,0,0,0
@@ -7109,7 +7109,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Bristol,Bishopston Library,REFERRAL,CASH,0,10,10
 2018-11,Bristol,Bishopston Library,REFERRAL,CREDITCARD,0,20,20
 2018-11,Bristol,Bishopsworth Library,CHARGE,CANCEL,0,0,0
-2018-11,Bristol,Bishopsworth Library,CHARGE,CASH,40,40,40
+2018-11,Bristol,Bishopsworth Library,CHARGE,CASH,30,30,30
 2018-11,Bristol,Bishopsworth Library,LOST,CANCEL,70,280,0
 2018-11,Bristol,Bishopsworth Library,OVERDUE,CANCEL,0,10,0
 2018-11,Bristol,Bishopsworth Library,OVERDUE,CASH,70,40,40
@@ -8071,7 +8071,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,10,40,0
 2018-11,Somerset,Minehead Library,CHARGE,CASH,100,220,220
 2018-11,Somerset,Minehead Library,CHARGE,DEBITCARD,10,10,10
-2018-11,Somerset,Minehead Library,CHARGE,FORGIVEN,10,30,0
+2018-11,Somerset,Minehead Library,CHARGE,FORGIVEN,10,20,0
 2018-11,Somerset,Minehead Library,GROUP,CASH,10,30,30
 2018-11,Somerset,Minehead Library,HOLD,CASH,180,170,170
 2018-11,Somerset,Minehead Library,HOLD,DEBITCARD,10,10,10
@@ -8080,7 +8080,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Somerset,Minehead Library,LOST,CANCEL,10,30,0
 2018-11,Somerset,Minehead Library,LOSTCARD,CASH,0,0,0
 2018-11,Somerset,Minehead Library,LOSTX,DEBITCARD,0,10,10
-2018-11,Somerset,Minehead Library,OVERDUE,CASH,240,140,140
+2018-11,Somerset,Minehead Library,OVERDUE,CASH,230,140,140
 2018-11,Somerset,Minehead Library,OVERDUE,CREDITACCT,0,0,0
 2018-11,Somerset,Minehead Library,OVERDUE,CREDITCARD,10,10,10
 2018-11,Somerset,Minehead Library,OVERDUE,DEBITCARD,30,30,30
@@ -8661,7 +8661,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,Bristol,Bishopston Library,SALENOVAT,CASH,0,0,0
 2018-12,Bristol,Bishopston Library,SALEVAT,CASH,0,0,0
 2018-12,Bristol,Bishopsworth Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Bishopsworth Library,CHARGE,CASH,40,50,50
+2018-12,Bristol,Bishopsworth Library,CHARGE,CASH,30,40,40
 2018-12,Bristol,Bishopsworth Library,LOST,CANCEL,40,190,0
 2018-12,Bristol,Bishopsworth Library,OVERDUE,CANCEL,0,10,0
 2018-12,Bristol,Bishopsworth Library,OVERDUE,CASH,90,40,40
@@ -9789,7 +9789,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,0,0,0
 2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,170,120,120
 2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,100,480,0
+2018-12,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,100,460,0
 2018-12,South Gloucestershire,Bradley Stoke Library,LOST,CASH,0,20,20
 2018-12,South Gloucestershire,Bradley Stoke Library,LOST,FORGIVEN,0,20,0
 2018-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,50,90,0
@@ -11115,7 +11115,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Somerset,Minehead Library,LOSTCARD,CASH,10,20,20
 2019-01,Somerset,Minehead Library,OVERDUE,CASH,220,160,160
 2019-01,Somerset,Minehead Library,OVERDUE,DEBITCARD,30,50,50
-2019-01,Somerset,Minehead Library,OVERDUE,FORGIVEN,10,10,0
+2019-01,Somerset,Minehead Library,OVERDUE,FORGIVEN,10,0,0
 2019-01,Somerset,Minehead Library,SALEVAT,DEBITCARD,0,10,10
 2019-01,Somerset,Minehead Library,SALEVAT,FORGIVEN,0,10,0
 2019-01,Somerset,Nether Stowey Library,CHARGE,CASH,0,10,10
@@ -11383,7 +11383,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,South Gloucestershire,Bradley Stoke Library,HOLDX,CANCEL,0,0,0
 2019-01,South Gloucestershire,Bradley Stoke Library,HOLDX,FORGIVEN,0,0,0
 2019-01,South Gloucestershire,Bradley Stoke Library,ILL,CASH,0,40,40
-2019-01,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,190,950,0
+2019-01,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,190,940,0
 2019-01,South Gloucestershire,Bradley Stoke Library,LOST,CASH,0,30,30
 2019-01,South Gloucestershire,Bradley Stoke Library,LOSTX,CANCEL,0,20,0
 2019-01,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,10,10,0
@@ -14198,7 +14198,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Somerset,Minehead Library,LOST,CANCEL,0,30,0
 2019-03,Somerset,Minehead Library,LOSTCARD,CASH,0,0,0
 2019-03,Somerset,Minehead Library,LOSTCARD,FORGIVEN,0,0,0
-2019-03,Somerset,Minehead Library,OVERDUE,CASH,180,150,150
+2019-03,Somerset,Minehead Library,OVERDUE,CASH,170,150,150
 2019-03,Somerset,Minehead Library,OVERDUE,DEBITCARD,70,10,10
 2019-03,Somerset,Minehead Library,OVERDUE,FORGIVEN,20,20,0
 2019-03,Somerset,Minehead Library,OVERDUEX,FORGIVEN,20,20,0
@@ -14455,7 +14455,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Somerset,Yeovil Library,OVERDUE,CANCEL,20,40,0
 2019-03,Somerset,Yeovil Library,OVERDUE,CASH,480,330,330
 2019-03,Somerset,Yeovil Library,OVERDUE,DEBITCARD,120,100,100
-2019-03,Somerset,Yeovil Library,OVERDUE,FORGIVEN,30,70,0
+2019-03,Somerset,Yeovil Library,OVERDUE,FORGIVEN,20,70,0
 2019-03,Somerset,Yeovil Library,OVERDUEX,CANCEL,10,0,0
 2019-03,South Gloucestershire,Bradley Stoke Library,CHARGE,CANCEL,40,70,0
 2019-03,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,200,290,290
@@ -16540,7 +16540,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Dorset,Blandford Library,OVERDUE,CASH,120,120,120
 2019-05,Dorset,Blandford Library,OVERDUE,FORGIVEN,40,50,0
 2019-05,Dorset,Blandford Library,OVERDUEX,CASH,0,0,0
-2019-05,Dorset,Bridport Library,CHARGE,CANCEL,0,10,0
+2019-05,Dorset,Bridport Library,CHARGE,CANCEL,0,0,0
 2019-05,Dorset,Bridport Library,CHARGE,CASH,90,190,190
 2019-05,Dorset,Bridport Library,CHARGE,CREDITCARD,10,10,10
 2019-05,Dorset,Bridport Library,CHARGE,FORGIVEN,10,10,0
@@ -17499,7 +17499,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Somerset,Wiveliscombe Library,OVERDUE,CREDITACCT,0,10,10
 2019-05,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,40,0
 2019-05,Somerset,Yeovil Library,CHARGE,CANCEL,20,30,0
-2019-05,Somerset,Yeovil Library,CHARGE,CASH,230,470,470
+2019-05,Somerset,Yeovil Library,CHARGE,CASH,230,460,460
 2019-05,Somerset,Yeovil Library,CHARGE,CREDITCARD,10,20,20
 2019-05,Somerset,Yeovil Library,CHARGE,DEBITCARD,10,10,10
 2019-05,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,10,0
@@ -17694,7 +17694,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,South Gloucestershire,Winterbourne Library,HOLD,CASH,60,40,40
 2019-05,South Gloucestershire,Winterbourne Library,LOST,CANCEL,10,40,0
 2019-05,South Gloucestershire,Winterbourne Library,OVERDUE,CANCEL,10,0,0
-2019-05,South Gloucestershire,Winterbourne Library,OVERDUE,CASH,50,40,40
+2019-05,South Gloucestershire,Winterbourne Library,OVERDUE,CASH,50,30,30
 2019-05,South Gloucestershire,Winterbourne Library,OVERDUE,FORGIVEN,20,30,0
 2019-05,South Gloucestershire,Winterbourne Library,OVERDUEX,CANCEL,0,0,0
 2019-05,South Gloucestershire,Winterbourne Library,SALENOVAT,CANCEL,0,0,0
@@ -19024,7 +19024,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Somerset,Wiveliscombe Library,OVERDUE,DEBITCARD,10,20,20
 2019-06,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,10,20,0
 2019-06,Somerset,Yeovil Library,CHARGE,CANCEL,10,20,0
-2019-06,Somerset,Yeovil Library,CHARGE,CASH,170,360,360
+2019-06,Somerset,Yeovil Library,CHARGE,CASH,170,350,350
 2019-06,Somerset,Yeovil Library,CHARGE,CREDITCARD,20,30,30
 2019-06,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,20,0
 2019-06,Somerset,Yeovil Library,CHARGEX,CASH,0,0,0
@@ -20419,7 +20419,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Somerset,Minehead Library,LOST,CANCEL,30,150,0
 2019-07,Somerset,Minehead Library,LOST,DEBITCARD,0,20,20
 2019-07,Somerset,Minehead Library,LOSTCARD,CASH,10,10,10
-2019-07,Somerset,Minehead Library,OVERDUE,CASH,240,120,120
+2019-07,Somerset,Minehead Library,OVERDUE,CASH,230,110,110
 2019-07,Somerset,Minehead Library,OVERDUE,CREDITCARD,10,20,20
 2019-07,Somerset,Minehead Library,OVERDUE,DEBITCARD,20,50,50
 2019-07,Somerset,Minehead Library,OVERDUE,FORGIVEN,10,30,0
@@ -20662,7 +20662,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Somerset,Wiveliscombe Library,SALENOVAT,CASH,10,0,0
 2019-07,Somerset,Wiveliscombe Library,SALEVAT,CASH,0,0,0
 2019-07,Somerset,Yeovil Library,CHARGE,CANCEL,10,10,0
-2019-07,Somerset,Yeovil Library,CHARGE,CASH,190,380,380
+2019-07,Somerset,Yeovil Library,CHARGE,CASH,180,370,370
 2019-07,Somerset,Yeovil Library,CHARGE,CREDITCARD,30,50,50
 2019-07,Somerset,Yeovil Library,CHARGE,DEBITCARD,0,10,10
 2019-07,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,10,0
@@ -20943,7 +20943,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Bath and North East Somerset,Bishop Sutton Community Library,CHARGE,PAYPAL,0,0,0
 2019-08,Bath and North East Somerset,Bishop Sutton Community Library,LOST,CANCEL,0,30,0
 2019-08,Bath and North East Somerset,Keynsham Library,CHARGE,CANCEL,0,10,0
-2019-08,Bath and North East Somerset,Keynsham Library,CHARGE,CASH,40,90,90
+2019-08,Bath and North East Somerset,Keynsham Library,CHARGE,CASH,40,80,80
 2019-08,Bath and North East Somerset,Keynsham Library,CHARGE,CREDITCARD,70,160,160
 2019-08,Bath and North East Somerset,Keynsham Library,CHARGE,FORGIVEN,10,10,0
 2019-08,Bath and North East Somerset,Keynsham Library,CHARGE,PAYPAL,0,0,0
@@ -22415,7 +22415,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Somerset,Yeovil Library,CHARGE,CASH,180,380,380
 2019-08,Somerset,Yeovil Library,CHARGE,CREDITCARD,50,90,90
 2019-08,Somerset,Yeovil Library,CHARGE,DEBITCARD,0,10,10
-2019-08,Somerset,Yeovil Library,CHARGE,FORGIVEN,20,30,0
+2019-08,Somerset,Yeovil Library,CHARGE,FORGIVEN,20,20,0
 2019-08,Somerset,Yeovil Library,CHARGE,PAYPAL,0,10,10
 2019-08,Somerset,Yeovil Library,CHARGEX,CASH,0,0,0
 2019-08,Somerset,Yeovil Library,CHARGEX,DEBITCARD,0,0,0
@@ -23240,7 +23240,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-09,Dorset,Swanage Library,CHARGE,PAYPAL,0,0,0
 2019-09,Dorset,Swanage Library,LOST,CANCEL,20,70,0
 2019-09,Dorset,Swanage Library,LOST,CASH,0,10,10
-2019-09,Dorset,Swanage Library,LOST,FORGIVEN,10,60,0
+2019-09,Dorset,Swanage Library,LOST,FORGIVEN,0,60,0
 2019-09,Dorset,Swanage Library,LOSTCARD,CASH,0,0,0
 2019-09,Dorset,Swanage Library,OVERDUE,CANCEL,0,0,0
 2019-09,Dorset,Swanage Library,OVERDUE,CASH,80,80,80
@@ -24116,7 +24116,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-09,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,20,0
 2019-09,Somerset,Wiveliscombe Library,SALENOVAT,CASH,10,10,10
 2019-09,Somerset,Yeovil Library,CHARGE,CANCEL,0,0,0
-2019-09,Somerset,Yeovil Library,CHARGE,CASH,190,400,400
+2019-09,Somerset,Yeovil Library,CHARGE,CASH,180,390,390
 2019-09,Somerset,Yeovil Library,CHARGE,CREDITCARD,20,40,40
 2019-09,Somerset,Yeovil Library,CHARGE,DEBITCARD,10,30,30
 2019-09,Somerset,Yeovil Library,CHARGE,FORGIVEN,0,0,0
@@ -25798,7 +25798,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-10,Somerset,Wiveliscombe Library,SALENOVAT,CASH,0,0,0
 2019-10,Somerset,Yeovil Library,BFR,DEBITCARD,0,10,10
 2019-10,Somerset,Yeovil Library,CHARGE,CANCEL,10,20,0
-2019-10,Somerset,Yeovil Library,CHARGE,CASH,230,480,480
+2019-10,Somerset,Yeovil Library,CHARGE,CASH,220,460,460
 2019-10,Somerset,Yeovil Library,CHARGE,CREDITCARD,40,80,80
 2019-10,Somerset,Yeovil Library,CHARGE,DEBITCARD,0,0,0
 2019-10,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,20,0
@@ -25819,7 +25819,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-10,Somerset,Yeovil Library,LOST,FORGIVEN,0,20,0
 2019-10,Somerset,Yeovil Library,LOSTCARD,CASH,10,20,20
 2019-10,Somerset,Yeovil Library,OVERDUE,CANCEL,20,20,0
-2019-10,Somerset,Yeovil Library,OVERDUE,CASH,360,300,300
+2019-10,Somerset,Yeovil Library,OVERDUE,CASH,360,290,290
 2019-10,Somerset,Yeovil Library,OVERDUE,CREDITACCT,0,0,0
 2019-10,Somerset,Yeovil Library,OVERDUE,CREDITCARD,120,80,80
 2019-10,Somerset,Yeovil Library,OVERDUE,DEBITCARD,70,70,70
@@ -27284,7 +27284,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-11,Somerset,Taunton Library,SALEVAT,CASH,0,0,0
 2019-11,Somerset,Taunton Library,SALEVAT,DEBITCARD,0,0,0
 2019-11,Somerset,Taunton Mobile,CHARGE,FORGIVEN,0,10,0
-2019-11,Somerset,Taunton Mobile,HOLD,FORGIVEN,0,0,0
 2019-11,Somerset,Taunton Mobile,LOST,CANCEL,10,50,0
 2019-11,Somerset,Taunton Mobile,OVERDUE,CASH,0,0,0
 2019-11,Somerset,Taunton Mobile,OVERDUE,FORGIVEN,10,10,0
@@ -27398,7 +27397,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-11,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,10,20,0
 2019-11,Somerset,Yeovil Library,BFR,FORGIVEN,10,70,0
 2019-11,Somerset,Yeovil Library,CHARGE,CANCEL,10,30,0
-2019-11,Somerset,Yeovil Library,CHARGE,CASH,210,460,460
+2019-11,Somerset,Yeovil Library,CHARGE,CASH,200,450,450
 2019-11,Somerset,Yeovil Library,CHARGE,CREDITCARD,30,60,60
 2019-11,Somerset,Yeovil Library,CHARGE,DEBITCARD,0,0,0
 2019-11,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,20,0
@@ -28867,7 +28866,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-12,Somerset,Wiveliscombe Library,OVERDUE,CREDITACCT,10,10,10
 2019-12,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,0,0
 2019-12,Somerset,Yeovil Library,CHARGE,CANCEL,10,10,0
-2019-12,Somerset,Yeovil Library,CHARGE,CASH,180,370,370
+2019-12,Somerset,Yeovil Library,CHARGE,CASH,170,360,360
 2019-12,Somerset,Yeovil Library,CHARGE,CREDITCARD,10,30,30
 2019-12,Somerset,Yeovil Library,CHARGE,DEBITCARD,10,10,10
 2019-12,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,10,0
@@ -29105,7 +29104,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Bath and North East Somerset,Bath Council Connect,LOST,CANCEL,0,10,0
 2020-01,Bath and North East Somerset,Bishop Sutton Community Library,LOST,CANCEL,30,190,0
 2020-01,Bath and North East Somerset,Keynsham Library,CHARGE,CANCEL,0,0,0
-2020-01,Bath and North East Somerset,Keynsham Library,CHARGE,CASH,0,10,10
+2020-01,Bath and North East Somerset,Keynsham Library,CHARGE,CASH,0,0,0
 2020-01,Bath and North East Somerset,Keynsham Library,CHARGE,CREDITCARD,80,170,170
 2020-01,Bath and North East Somerset,Keynsham Library,CHARGE,FORGIVEN,10,10,0
 2020-01,Bath and North East Somerset,Keynsham Library,CHARGEX,CASH,0,10,10
@@ -30449,7 +30448,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,30,10,0
 2020-01,Somerset,Wiveliscombe Library,OVERDUE,PAYPAL,0,0,0
 2020-01,Somerset,Yeovil Library,CHARGE,CANCEL,10,20,0
-2020-01,Somerset,Yeovil Library,CHARGE,CASH,180,390,390
+2020-01,Somerset,Yeovil Library,CHARGE,CASH,180,380,380
 2020-01,Somerset,Yeovil Library,CHARGE,CREDITCARD,30,70,70
 2020-01,Somerset,Yeovil Library,CHARGE,DEBITCARD,0,0,0
 2020-01,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,30,0
@@ -31455,7 +31454,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-02,Poole,Oakdale Library,CHARGE,CASH,20,40,40
 2020-02,Poole,Oakdale Library,HOLD,CASH,30,30,30
 2020-02,Poole,Oakdale Library,HOLD,PAYPAL,0,0,0
-2020-02,Poole,Oakdale Library,OVERDUE,CASH,30,50,50
+2020-02,Poole,Oakdale Library,OVERDUE,CASH,20,50,50
 2020-02,Poole,Parkstone Library,CHARGE,CASH,30,50,50
 2020-02,Poole,Parkstone Library,CHARGE,FORGIVEN,0,0,0
 2020-02,Poole,Parkstone Library,HOLD,CANCEL,10,10,0
@@ -31985,7 +31984,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-02,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,10,0
 2020-02,Somerset,Wiveliscombe Library,OVERDUE,PAYPAL,20,10,10
 2020-02,Somerset,Yeovil Library,CHARGE,CANCEL,10,10,0
-2020-02,Somerset,Yeovil Library,CHARGE,CASH,190,400,400
+2020-02,Somerset,Yeovil Library,CHARGE,CASH,180,380,380
 2020-02,Somerset,Yeovil Library,CHARGE,CREDITCARD,30,60,60
 2020-02,Somerset,Yeovil Library,CHARGE,DEBITCARD,10,10,10
 2020-02,Somerset,Yeovil Library,CHARGE,FORGIVEN,20,30,0
@@ -33124,7 +33123,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-03,Somerset,Minehead Library,LOST,CASH,0,10,10
 2020-03,Somerset,Minehead Library,LOSTCARD,CASH,0,0,0
 2020-03,Somerset,Minehead Library,LOSTCARD,FORGIVEN,0,0,0
-2020-03,Somerset,Minehead Library,OVERDUE,CASH,80,30,30
+2020-03,Somerset,Minehead Library,OVERDUE,CASH,70,30,30
 2020-03,Somerset,Minehead Library,OVERDUE,CREDITCARD,30,20,20
 2020-03,Somerset,Minehead Library,OVERDUE,DEBITCARD,10,10,10
 2020-03,Somerset,Minehead Library,OVERDUE,FORGIVEN,0,20,0
@@ -33331,8 +33330,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-03,Somerset,Wiveliscombe Library,LOST,PAYPAL,0,10,10
 2020-03,Somerset,Wiveliscombe Library,OVERDUE,CASH,30,20,20
 2020-03,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,10,0
-2020-03,Somerset,Yeovil Library,CHARGE,CANCEL,0,10,0
-2020-03,Somerset,Yeovil Library,CHARGE,CASH,100,210,210
+2020-03,Somerset,Yeovil Library,CHARGE,CANCEL,0,0,0
+2020-03,Somerset,Yeovil Library,CHARGE,CASH,90,210,210
 2020-03,Somerset,Yeovil Library,CHARGE,CREDITCARD,10,30,30
 2020-03,Somerset,Yeovil Library,CHARGE,DEBITCARD,0,10,10
 2020-03,Somerset,Yeovil Library,CHARGE,FORGIVEN,0,0,0
