@@ -207,7 +207,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2018-10,Bristol,Bishopston Library,18 DVD Standard,CHARGE,*,*
 2018-10,Bristol,Bishopston Library,Adult Fiction,LOST,26,182
 2018-10,Bristol,Bishopston Library,Adult Fiction,OVERDUE,233,209.10
-2018-10,Bristol,Bishopston Library,Adult Graphic Novel,LOST,6,42
+2018-10,Bristol,Bishopston Library,Adult Graphic Novel,LOST,5,35
 2018-10,Bristol,Bishopston Library,Adult Graphic Novel,OVERDUE,14,19.05
 2018-10,Bristol,Bishopston Library,Adult Non Fiction,LOST,18,180
 2018-10,Bristol,Bishopston Library,Adult Non Fiction,OVERDUE,241,254.85
@@ -232,7 +232,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2018-10,Bristol,Bishopston Library,PG DVD Standard,OVERDUE,*,*
 2018-10,Bristol,Bishopston Library,U DVD Standard,CHARGE,*,*
 2018-10,Bristol,Bishopston Library,U DVD Standard,OVERDUE,*,*
-2018-10,Bristol,Bishopston Library,YA / Teen Fiction,LOST,6,24
+2018-10,Bristol,Bishopston Library,YA / Teen Fiction,LOST,7,31
 2018-10,Bristol,Bishopston Library,YA / Teen Fiction,OVERDUE,17,12.15
 2018-10,Bristol,Bishopsworth Library,12 DVD Standard,CHARGE,11,16
 2018-10,Bristol,Bishopsworth Library,12 DVD Standard,OVERDUE,*,*
@@ -19941,7 +19941,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-04,Dorset,Lyme Regis Library,12 DVD Standard,OVERDUE,*,*
 2019-04,Dorset,Lyme Regis Library,15 DVD Standard,CHARGE,*,*
 2019-04,Dorset,Lyme Regis Library,15 DVD Standard,OVERDUE,*,*
-2019-04,Dorset,Lyme Regis Library,Adult Fiction,OVERDUE,51,21.2
+2019-04,Dorset,Lyme Regis Library,Adult Fiction,OVERDUE,50,21.0
 2019-04,Dorset,Lyme Regis Library,Adult Non Fiction,OVERDUE,8,5.6
 2019-04,Dorset,Lyme Regis Library,Boxed Set 12 DVD,CHARGE,*,*
 2019-04,Dorset,Lyme Regis Library,Boxed Set 15 DVD,CHARGE,*,*
@@ -19952,6 +19952,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-04,Dorset,Lyme Regis Library,Language Course,CHARGE,*,*
 2019-04,Dorset,Lyme Regis Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-04,Dorset,Lyme Regis Library,PG DVD Standard,CHARGE,*,*
+2019-04,Dorset,Lyme Regis Library,Reading Group Set,OVERDUE,*,*
 2019-04,Dorset,Lyme Regis Library,U DVD Standard,CHARGE,*,*
 2019-04,Dorset,Lytchett Matravers Library,12 DVD Standard,CHARGE,*,*
 2019-04,Dorset,Lytchett Matravers Library,15 DVD Standard,CHARGE,6,15.0
@@ -53289,7 +53290,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,North Somerset,Weston-super-Mare Library,15 DVD Standard,LOST,*,*
 2020-03,North Somerset,Weston-super-Mare Library,15 DVD Standard,OVERDUE,*,*
 2020-03,North Somerset,Weston-super-Mare Library,Adult Fiction,LOST,*,*
-2020-03,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,85,78.2
+2020-03,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,86,80.0
 2020-03,North Somerset,Weston-super-Mare Library,Adult Non Fiction,LOST,8,72
 2020-03,North Somerset,Weston-super-Mare Library,Adult Non Fiction,OVERDUE,81,99.0
 2020-03,North Somerset,Weston-super-Mare Library,Adult Spoken Word,CHARGE,54,54
@@ -53300,7 +53301,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,North Somerset,Weston-super-Mare Library,Child Non Fiction,LOST,*,*
 2020-03,North Somerset,Weston-super-Mare Library,Child Non Fiction,OVERDUE,19,25.8
 2020-03,North Somerset,Weston-super-Mare Library,Child Spoken Word,CHARGE,*,*
-2020-03,North Somerset,Weston-super-Mare Library,Fastrack,OVERDUE,*,*
 2020-03,North Somerset,Weston-super-Mare Library,Language Course,CHARGE,*,*
 2020-03,North Somerset,Weston-super-Mare Library,Large Print - Adult Fiction,OVERDUE,9,6.9
 2020-03,North Somerset,Weston-super-Mare Library,Large Print - Adult Non Fiction,OVERDUE,*,*
