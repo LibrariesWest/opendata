@@ -51,7 +51,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2018-10,Bath and North East Somerset,Keynsham Library,12 DVD Standard,OVERDUE,*,*
 2018-10,Bath and North East Somerset,Keynsham Library,15 DVD Standard,CHARGE,22,44
 2018-10,Bath and North East Somerset,Keynsham Library,18 DVD Standard,CHARGE,*,*
-2018-10,Bath and North East Somerset,Keynsham Library,Adult Fiction,OVERDUE,130,131.45
+2018-10,Bath and North East Somerset,Keynsham Library,Adult Fiction,OVERDUE,129,130.85
 2018-10,Bath and North East Somerset,Keynsham Library,Adult Graphic Novel,OVERDUE,*,*
 2018-10,Bath and North East Somerset,Keynsham Library,Adult Non Fiction,OVERDUE,104,76.60
 2018-10,Bath and North East Somerset,Keynsham Library,Adult Spoken Word,CHARGE,25,45.0
@@ -66,6 +66,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2018-10,Bath and North East Somerset,Keynsham Library,Music CD,CHARGE,*,*
 2018-10,Bath and North East Somerset,Keynsham Library,PG DVD Standard,CHARGE,21,42
 2018-10,Bath and North East Somerset,Keynsham Library,PG DVD Standard,OVERDUE,9,25.0
+2018-10,Bath and North East Somerset,Keynsham Library,Reading Group Set,OVERDUE,*,*
 2018-10,Bath and North East Somerset,Keynsham Library,U DVD Standard,CHARGE,15,30
 2018-10,Bath and North East Somerset,Keynsham Library,U DVD Standard,OVERDUE,*,*
 2018-10,Bath and North East Somerset,Keynsham Library,YA / Teen Fiction,OVERDUE,20,17.00
@@ -3052,7 +3053,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2018-10,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,91,95.6
 2018-10,South Gloucestershire,Emersons Green Library,Adult Graphic Novel,HOLD,*,*
 2018-10,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,25,22.0
-2018-10,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,5,50
+2018-10,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,6,57
 2018-10,South Gloucestershire,Emersons Green Library,Adult Non Fiction,OVERDUE,59,71.0
 2018-10,South Gloucestershire,Emersons Green Library,Adult Spoken Word,CHARGE,14,25.5
 2018-10,South Gloucestershire,Emersons Green Library,Adult Spoken Word,HOLD,*,*
@@ -50471,7 +50472,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,North Somerset,Clevedon Library,15 DVD Standard,CHARGE,16,34
 2020-02,North Somerset,Clevedon Library,15 DVD Standard,OVERDUE,*,*
 2020-02,North Somerset,Clevedon Library,18 DVD Standard,CHARGE,*,*
-2020-02,North Somerset,Clevedon Library,Adult Fiction,OVERDUE,73,79.6
+2020-02,North Somerset,Clevedon Library,Adult Fiction,OVERDUE,74,81.2
 2020-02,North Somerset,Clevedon Library,Adult Graphic Novel,OVERDUE,*,*
 2020-02,North Somerset,Clevedon Library,Adult Non Fiction,OVERDUE,99,96.4
 2020-02,North Somerset,Clevedon Library,Adult Spoken Word,CHARGE,36,36
@@ -50484,7 +50485,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,North Somerset,Clevedon Library,Child Spoken Word,CHARGE,*,*
 2020-02,North Somerset,Clevedon Library,Child Spoken Word,LOST,*,*
 2020-02,North Somerset,Clevedon Library,Child Spoken Word,OVERDUE,*,*
-2020-02,North Somerset,Clevedon Library,Fastrack,OVERDUE,*,*
 2020-02,North Somerset,Clevedon Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-02,North Somerset,Clevedon Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2020-02,North Somerset,Clevedon Library,Large Print - Children,OVERDUE,*,*
