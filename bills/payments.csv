@@ -190,7 +190,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Bristol,Bristol Central Lending Library,LOST,DEBITCARD,10,100,100
 2018-11,Bristol,Bristol Central Lending Library,LOST,FORGIVEN,10,50,0
 2018-11,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,20,20,0
-2018-11,Bristol,Bristol Central Lending Library,OVERDUE,CASH,870,530,530
+2018-11,Bristol,Bristol Central Lending Library,OVERDUE,CASH,860,530,530
 2018-11,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,20,30,30
 2018-11,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,670,690,690
 2018-11,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,200,430,430
@@ -3270,7 +3270,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,Bristol,Henleaze Library,BFR,DEBITCARD,0,10,10
 2019-01,Bristol,Henleaze Library,CHARGE,CANCEL,10,10,0
 2019-01,Bristol,Henleaze Library,CHARGE,CASH,250,300,300
-2019-01,Bristol,Henleaze Library,CHARGE,CREDITCARD,90,130,130
+2019-01,Bristol,Henleaze Library,CHARGE,CREDITCARD,80,130,130
 2019-01,Bristol,Henleaze Library,CHARGE,DEBITCARD,30,40,40
 2019-01,Bristol,Henleaze Library,CHARGE,FORGIVEN,0,0,0
 2019-01,Bristol,Henleaze Library,DAMAGE,DEBITCARD,0,10,10
@@ -6320,7 +6320,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-03,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,10,10,0
 2019-03,Bristol,Bristol Central Lending Library,OVERDUE,CASH,900,560,560
 2019-03,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,0,20,20
-2019-03,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,760,650,650
+2019-03,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,750,650,650
 2019-03,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,180,290,290
 2019-03,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,160,220,0
 2019-03,Bristol,Bristol Central Lending Library,OVERDUEX,CASH,0,0,0
@@ -28617,7 +28617,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-10,Dorset,Bridport Library,CHARGE,CREDITCARD,30,70,70
 2020-10,Dorset,Bridport Library,CHARGE,PAYPAL,10,10,10
 2020-10,Dorset,Bridport Library,ILL,CASH,0,20,20
-2020-10,Dorset,Bridport Library,LOST,CANCEL,80,470,0
+2020-10,Dorset,Bridport Library,LOST,CANCEL,80,490,0
 2020-10,Dorset,Bridport Library,LOST,CASH,0,20,20
 2020-10,Dorset,Bridport Library,LOST,CREDITCARD,0,20,20
 2020-10,Dorset,Bridport Library,LOST,PAYPAL,0,10,10
@@ -28643,7 +28643,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-10,Dorset,Corfe Mullen Library,CHARGE,CANCEL,0,0,0
 2020-10,Dorset,Corfe Mullen Library,CHARGE,CASH,10,20,20
 2020-10,Dorset,Corfe Mullen Library,CHARGE,PAYPAL,0,0,0
-2020-10,Dorset,Corfe Mullen Library,LOST,CANCEL,40,230,0
+2020-10,Dorset,Corfe Mullen Library,LOST,CANCEL,50,260,0
 2020-10,Dorset,Corfe Mullen Library,LOST,PAYPAL,0,0,0
 2020-10,Dorset,Corfe Mullen Library,OVERDUE,CANCEL,10,10,0
 2020-10,Dorset,Corfe Mullen Library,OVERDUE,CASH,30,10,10
