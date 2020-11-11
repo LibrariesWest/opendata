@@ -578,7 +578,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Dorset,Sturminster Library,ILL,CASH,0,10,10
 2018-11,Dorset,Sturminster Library,LOST,CANCEL,10,40,0
 2018-11,Dorset,Sturminster Library,OVERDUE,CANCEL,0,0,0
-2018-11,Dorset,Sturminster Library,OVERDUE,CASH,120,70,70
+2018-11,Dorset,Sturminster Library,OVERDUE,CASH,110,70,70
 2018-11,Dorset,Sturminster Library,OVERDUE,FORGIVEN,20,10,0
 2018-11,Dorset,Swanage Library,CHARGE,CASH,30,70,70
 2018-11,Dorset,Swanage Library,CHARGE,FORGIVEN,10,20,0
@@ -623,7 +623,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2018-11,Dorset,Weymouth Library,LOST,CANCEL,110,500,0
 2018-11,Dorset,Weymouth Library,LOST,CASH,0,10,10
 2018-11,Dorset,Weymouth Library,OVERDUE,CANCEL,10,0,0
-2018-11,Dorset,Weymouth Library,OVERDUE,CASH,270,330,330
+2018-11,Dorset,Weymouth Library,OVERDUE,CASH,260,320,320
 2018-11,Dorset,Weymouth Library,OVERDUE,FORGIVEN,50,90,0
 2018-11,Dorset,Weymouth Library,OVERDUEX,CASH,0,0,0
 2018-11,Dorset,Wimborne Library,CHARGE,CASH,110,260,260
@@ -5682,7 +5682,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-02,Somerset,Glastonbury Library,LOST,CASH,0,10,10
 2019-02,Somerset,Glastonbury Library,LOSTCARD,CASH,10,10,10
 2019-02,Somerset,Glastonbury Library,OVERDUE,CANCEL,10,0,0
-2019-02,Somerset,Glastonbury Library,OVERDUE,CASH,180,120,120
+2019-02,Somerset,Glastonbury Library,OVERDUE,CASH,170,110,110
 2019-02,Somerset,Glastonbury Library,OVERDUE,DEBITCARD,80,30,30
 2019-02,Somerset,Glastonbury Library,OVERDUE,FORGIVEN,0,0,0
 2019-02,Somerset,Highbridge Library,OVERDUE,CANCEL,10,30,0
@@ -9730,7 +9730,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Dorset,Sturminster Library,LOST,CANCEL,20,90,0
 2019-05,Dorset,Sturminster Library,LOSTCARD,CASH,0,0,0
 2019-05,Dorset,Sturminster Library,OVERDUE,CANCEL,0,50,0
-2019-05,Dorset,Sturminster Library,OVERDUE,CASH,90,60,60
+2019-05,Dorset,Sturminster Library,OVERDUE,CASH,80,60,60
 2019-05,Dorset,Swanage Library,CHARGE,CANCEL,0,10,0
 2019-05,Dorset,Swanage Library,CHARGE,CASH,30,70,70
 2019-05,Dorset,Swanage Library,CHARGE,FORGIVEN,0,0,0
@@ -12024,7 +12024,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Somerset,Williton Library,CHARGE,FORGIVEN,0,10,0
 2019-06,Somerset,Williton Library,GROUP,CASH,0,10,10
 2019-06,Somerset,Williton Library,HOLD,CANCEL,0,0,0
-2019-06,Somerset,Williton Library,HOLD,CASH,70,60,60
+2019-06,Somerset,Williton Library,HOLD,CASH,60,60,60
 2019-06,Somerset,Williton Library,HOLD,DEBITCARD,10,10,10
 2019-06,Somerset,Williton Library,HOLD,FORGIVEN,10,10,0
 2019-06,Somerset,Williton Library,LOST,CANCEL,30,150,0
@@ -12910,7 +12910,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Dorset,Weymouth Library,LOST,CASH,10,60,60
 2019-07,Dorset,Weymouth Library,LOSTCARD,CASH,0,10,10
 2019-07,Dorset,Weymouth Library,OVERDUE,CANCEL,0,0,0
-2019-07,Dorset,Weymouth Library,OVERDUE,CASH,300,290,290
+2019-07,Dorset,Weymouth Library,OVERDUE,CASH,290,290,290
 2019-07,Dorset,Weymouth Library,OVERDUE,FORGIVEN,60,150,0
 2019-07,Dorset,Weymouth Library,OVERDUEX,FORGIVEN,0,0,0
 2019-07,Dorset,Weymouth Library,PROCESSFEE,CASH,0,20,20
@@ -17156,7 +17156,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-09,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,20,0
 2019-09,Somerset,Wiveliscombe Library,SALENOVAT,CASH,10,10,10
 2019-09,Somerset,Yeovil Library,CHARGE,CANCEL,0,0,0
-2019-09,Somerset,Yeovil Library,CHARGE,CASH,180,390,390
+2019-09,Somerset,Yeovil Library,CHARGE,CASH,180,380,380
 2019-09,Somerset,Yeovil Library,CHARGE,CREDITCARD,20,40,40
 2019-09,Somerset,Yeovil Library,CHARGE,DEBITCARD,10,30,30
 2019-09,Somerset,Yeovil Library,CHARGE,FORGIVEN,0,0,0
@@ -20463,7 +20463,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-11,Somerset,Yeovil Library,LOSTCARD,CASH,10,20,20
 2019-11,Somerset,Yeovil Library,LOSTX,FORGIVEN,0,30,0
 2019-11,Somerset,Yeovil Library,OVERDUE,CANCEL,20,30,0
-2019-11,Somerset,Yeovil Library,OVERDUE,CASH,480,300,300
+2019-11,Somerset,Yeovil Library,OVERDUE,CASH,470,300,300
 2019-11,Somerset,Yeovil Library,OVERDUE,CREDITCARD,50,40,40
 2019-11,Somerset,Yeovil Library,OVERDUE,DEBITCARD,40,50,50
 2019-11,Somerset,Yeovil Library,OVERDUE,FORGIVEN,150,230,0
@@ -23486,7 +23486,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,30,10,0
 2020-01,Somerset,Wiveliscombe Library,OVERDUE,PAYPAL,0,0,0
 2020-01,Somerset,Yeovil Library,CHARGE,CANCEL,10,20,0
-2020-01,Somerset,Yeovil Library,CHARGE,CASH,180,380,380
+2020-01,Somerset,Yeovil Library,CHARGE,CASH,170,370,370
 2020-01,Somerset,Yeovil Library,CHARGE,CREDITCARD,30,70,70
 2020-01,Somerset,Yeovil Library,CHARGE,DEBITCARD,0,0,0
 2020-01,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,30,0
