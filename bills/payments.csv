@@ -25583,7 +25583,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-03,Dorset,Corfe Mullen Library,CHARGE,CASH,10,30,30
 2020-03,Dorset,Corfe Mullen Library,CHARGE,FORGIVEN,0,0,0
 2020-03,Dorset,Corfe Mullen Library,CHARGE,PAYPAL,0,0,0
-2020-03,Dorset,Corfe Mullen Library,LOST,CANCEL,40,200,0
+2020-03,Dorset,Corfe Mullen Library,LOST,CANCEL,40,210,0
 2020-03,Dorset,Corfe Mullen Library,LOST,CASH,0,10,10
 2020-03,Dorset,Corfe Mullen Library,OVERDUE,CANCEL,0,10,0
 2020-03,Dorset,Corfe Mullen Library,OVERDUE,CASH,40,40,40
@@ -29225,7 +29225,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-10,Somerset,Glastonbury Library,HOLD,CREDITCARD,60,60,60
 2020-10,Somerset,Glastonbury Library,HOLD,FORGIVEN,10,10,0
 2020-10,Somerset,Glastonbury Library,HOLD,PAYPAL,10,10,10
-2020-10,Somerset,Glastonbury Library,LOST,CANCEL,20,120,0
+2020-10,Somerset,Glastonbury Library,LOST,CANCEL,30,160,0
 2020-10,Somerset,Glastonbury Library,LOST,CASH,0,0,0
 2020-10,Somerset,Glastonbury Library,LOST,CREDITCARD,0,10,10
 2020-10,Somerset,Glastonbury Library,LOST,FORGIVEN,0,0,0
