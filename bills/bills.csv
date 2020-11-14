@@ -51740,8 +51740,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,Bristol,Bishopston Library,YA / Teen Fiction,LOST,*,*
 2020-09,Bristol,Bishopsworth Library,Adult Fiction,LOST,6,54
 2020-09,Bristol,Bishopsworth Library,Child Fiction,LOST,*,*
-2020-09,Bristol,Bristol Central Lending Library,12 DVD Premium,CHARGE,*,*
-2020-09,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,6,9
+2020-09,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,7,11
 2020-09,Bristol,Bristol Central Lending Library,12 DVD Standard,LOST,*,*
 2020-09,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,29,34
 2020-09,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,*,*
@@ -51764,8 +51763,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,Bristol,Bristol Central Lending Library,Language Course,CHARGE,12,22.8
 2020-09,Bristol,Bristol Central Lending Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2020-09,Bristol,Bristol Central Lending Library,Music Score,OVERDUE,6,6.45
-2020-09,Bristol,Bristol Central Lending Library,PG DVD Premium,CHARGE,*,*
-2020-09,Bristol,Bristol Central Lending Library,PG DVD Standard,CHARGE,*,*
+2020-09,Bristol,Bristol Central Lending Library,PG DVD Standard,CHARGE,5,9
 2020-09,Bristol,Bristol Central Lending Library,U DVD Standard,CHARGE,*,*
 2020-09,Bristol,Bristol Central Lending Library,YA / Teen Fiction,LOST,5,20
 2020-09,Bristol,Bristol Central Lending Library,YA / Teen Fiction,OVERDUE,*,*
@@ -51818,7 +51816,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,Bristol,St George Library,U DVD Standard,CHARGE,*,*
 2020-09,Bristol,Stockwood Library,12 DVD Standard,CHARGE,5,7
 2020-09,Bristol,Stockwood Library,15 DVD Standard,CHARGE,8,9
-2020-09,Bristol,Stockwood Library,18 DVD Premium,CHARGE,*,*
 2020-09,Bristol,Stockwood Library,18 DVD Standard,CHARGE,*,*
 2020-09,Bristol,Stockwood Library,Adult Fiction,OVERDUE,11,12.6
 2020-09,Bristol,Stockwood Library,Adult Non Fiction,LOST,*,*
@@ -52114,8 +52111,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,North Somerset,Campus Library,PG DVD Standard,CHARGE,*,*
 2020-09,North Somerset,Campus Library,PG DVD Standard,OVERDUE,*,*
 2020-09,North Somerset,Campus Library,YA / Teen Fiction,OVERDUE,*,*
-2020-09,North Somerset,Clevedon Library,12 DVD Premium,CHARGE,*,*
-2020-09,North Somerset,Clevedon Library,12 DVD Standard,CHARGE,12,25
+2020-09,North Somerset,Clevedon Library,12 DVD Standard,CHARGE,13,28
 2020-09,North Somerset,Clevedon Library,12 DVD Standard,OVERDUE,*,*
 2020-09,North Somerset,Clevedon Library,15 DVD Standard,CHARGE,8,16
 2020-09,North Somerset,Clevedon Library,Adult Fiction,LOST,*,*
@@ -52553,11 +52549,9 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,Somerset,Dulverton Library,Child Fiction,OVERDUE,5,19.0
 2020-09,Somerset,Dulverton Library,Child Non Fiction,OVERDUE,*,*
 2020-09,Somerset,Dulverton Library,Large Print - Adult Fiction,OVERDUE,*,*
-2020-09,Somerset,Frome Library,12 DVD Premium,CHARGE,*,*
-2020-09,Somerset,Frome Library,12 DVD Standard,CHARGE,*,*
+2020-09,Somerset,Frome Library,12 DVD Standard,CHARGE,5,11.50
 2020-09,Somerset,Frome Library,12 DVD Standard,HOLD,*,*
-2020-09,Somerset,Frome Library,15 DVD Premium,CHARGE,*,*
-2020-09,Somerset,Frome Library,15 DVD Standard,CHARGE,8,16
+2020-09,Somerset,Frome Library,15 DVD Standard,CHARGE,9,18.25
 2020-09,Somerset,Frome Library,15 DVD Standard,HOLD,5,5
 2020-09,Somerset,Frome Library,18 DVD Standard,CHARGE,*,*
 2020-09,Somerset,Frome Library,Adult Fiction,DAMAGE,*,*
@@ -52589,7 +52583,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,Somerset,Frome Library,YA / Teen Fiction,LOST,*,*
 2020-09,Somerset,Frome Library,YA / Teen Fiction,OVERDUE,43,103.90
 2020-09,Somerset,Frome Library,YA / Teen Non Fiction,OVERDUE,*,*
-2020-09,Somerset,Glastonbury Library,12 DVD Premium,CHARGE,*,*
 2020-09,Somerset,Glastonbury Library,12 DVD Standard,CHARGE,*,*
 2020-09,Somerset,Glastonbury Library,12 DVD Standard,HOLD,*,*
 2020-09,Somerset,Glastonbury Library,15 DVD Standard,CHARGE,5,11
@@ -52758,8 +52751,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,Somerset,Street Library,Child Non Fiction,LOST,6,30
 2020-09,Somerset,Taunton Library,12 DVD Standard,CHARGE,9,21
 2020-09,Somerset,Taunton Library,12 DVD Standard,OVERDUE,*,*
-2020-09,Somerset,Taunton Library,15 DVD Premium,CHARGE,*,*
-2020-09,Somerset,Taunton Library,15 DVD Standard,CHARGE,12,26.5
+2020-09,Somerset,Taunton Library,15 DVD Standard,CHARGE,13,28.75
 2020-09,Somerset,Taunton Library,18 DVD Standard,CHARGE,*,*
 2020-09,Somerset,Taunton Library,Adult Fiction,HOLD,92,92
 2020-09,Somerset,Taunton Library,Adult Fiction,LOST,11,99
@@ -52826,7 +52818,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,Somerset,Wellington Library,U DVD Standard,CHARGE,*,*
 2020-09,Somerset,Wellington Library,YA / Teen Fiction,HOLD,*,*
 2020-09,Somerset,Wellington Library,YA / Teen Fiction,OVERDUE,9,4.6
-2020-09,Somerset,Wells Library,12 DVD Premium,CHARGE,*,*
 2020-09,Somerset,Wells Library,12 DVD Standard,CHARGE,*,*
 2020-09,Somerset,Wells Library,15 DVD Standard,CHARGE,7,16
 2020-09,Somerset,Wells Library,Adult Fiction,HOLD,43,42.5
@@ -52960,7 +52951,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,South Gloucestershire,Downend Library,Music CD,CHARGE,*,*
 2020-09,South Gloucestershire,Downend Library,PG DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Downend Library,U DVD Standard,CHARGE,5,7.3
-2020-09,South Gloucestershire,Emersons Green Library,12 DVD Premium,CHARGE,*,*
 2020-09,South Gloucestershire,Emersons Green Library,12 DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Emersons Green Library,15 DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Emersons Green Library,15 DVD Standard,HOLD,*,*
@@ -52973,8 +52963,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,South Gloucestershire,Emersons Green Library,Child Fiction,HOLD,5,5
 2020-09,South Gloucestershire,Emersons Green Library,Child Fiction,LOST,21,105
 2020-09,South Gloucestershire,Emersons Green Library,Child Fiction,OVERDUE,6,44.4
-2020-09,South Gloucestershire,Emersons Green Library,PG DVD Premium,CHARGE,*,*
-2020-09,South Gloucestershire,Emersons Green Library,PG DVD Standard,CHARGE,*,*
+2020-09,South Gloucestershire,Emersons Green Library,PG DVD Standard,CHARGE,5,8.4
 2020-09,South Gloucestershire,Emersons Green Library,U DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Hanham Library,Adult Fiction,HOLD,27,17.0
 2020-09,South Gloucestershire,Hanham Library,Adult Fiction,LOST,12,108
@@ -53048,7 +53037,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,*,*
 2020-09,South Gloucestershire,Thornbury Library,ILL,ILL,*,*
 2020-09,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,OVERDUE,*,*
-2020-09,South Gloucestershire,Thornbury Library,PG DVD Premium,CHARGE,*,*
 2020-09,South Gloucestershire,Thornbury Library,PG DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Thornbury Library,U DVD Standard,CHARGE,6,7.7
 2020-09,South Gloucestershire,Thornbury Library,YA / Teen Fiction,LOST,5,20
@@ -53066,8 +53054,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,South Gloucestershire,Winterbourne Library,PG DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Winterbourne Library,U DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Winterbourne Library,YA / Teen Fiction,HOLD,*,*
-2020-09,South Gloucestershire,Yate Library,12 DVD Premium,CHARGE,*,*
-2020-09,South Gloucestershire,Yate Library,12 DVD Standard,CHARGE,7,12.8
+2020-09,South Gloucestershire,Yate Library,12 DVD Standard,CHARGE,8,15.1
 2020-09,South Gloucestershire,Yate Library,15 DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Yate Library,15 DVD Standard,HOLD,*,*
 2020-09,South Gloucestershire,Yate Library,Adult Fiction,HOLD,74,90.4
@@ -53226,8 +53213,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Bristol,Bishopsworth Library,YA / Teen Fiction,LOST,5,20
 2020-10,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,20,22
 2020-10,Bristol,Bristol Central Lending Library,12 DVD Standard,OVERDUE,*,*
-2020-10,Bristol,Bristol Central Lending Library,15 DVD Premium,CHARGE,*,*
-2020-10,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,45,45
+2020-10,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,47,49
 2020-10,Bristol,Bristol Central Lending Library,15 DVD Standard,LOST,*,*
 2020-10,Bristol,Bristol Central Lending Library,15 DVD Standard,OVERDUE,5,10.80
 2020-10,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,8,8
@@ -53268,8 +53254,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Bristol,Bristol Central Lending Library,Music CD,LOST,9,76.5
 2020-10,Bristol,Bristol Central Lending Library,Music Score,LOST,*,*
 2020-10,Bristol,Bristol Central Lending Library,Music Score,OVERDUE,49,73.05
-2020-10,Bristol,Bristol Central Lending Library,PG DVD Premium,CHARGE,*,*
-2020-10,Bristol,Bristol Central Lending Library,PG DVD Standard,CHARGE,15,15
+2020-10,Bristol,Bristol Central Lending Library,PG DVD Standard,CHARGE,16,17
 2020-10,Bristol,Bristol Central Lending Library,PG DVD Standard,OVERDUE,*,*
 2020-10,Bristol,Bristol Central Lending Library,U DVD Standard,CHARGE,17,17
 2020-10,Bristol,Bristol Central Lending Library,U DVD Standard,OVERDUE,11,24.30
@@ -53290,8 +53275,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Bristol,Clifton Library,PG DVD Standard,CHARGE,*,*
 2020-10,Bristol,Clifton Library,PG DVD Standard,OVERDUE,*,*
 2020-10,Bristol,Fishponds Library,12 DVD Standard,CHARGE,17,18
-2020-10,Bristol,Fishponds Library,15 DVD Premium,CHARGE,*,*
-2020-10,Bristol,Fishponds Library,15 DVD Standard,CHARGE,20,23
+2020-10,Bristol,Fishponds Library,15 DVD Standard,CHARGE,23,29
 2020-10,Bristol,Fishponds Library,18 DVD Standard,CHARGE,5,5
 2020-10,Bristol,Fishponds Library,Adult Fiction,LOST,15,135
 2020-10,Bristol,Fishponds Library,Adult Fiction,OVERDUE,159,179.40
@@ -53478,11 +53462,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Bristol,St George Library,Adult Non Fiction,OVERDUE,*,*
 2020-10,Bristol,St George Library,YA / Teen Non Fiction,OVERDUE,*,*
 2020-10,Bristol,St Pauls Library,Adult Fiction,OVERDUE,*,*
-2020-10,Bristol,Stockwood Library,12 DVD Premium,CHARGE,*,*
-2020-10,Bristol,Stockwood Library,12 DVD Standard,CHARGE,10,10
-2020-10,Bristol,Stockwood Library,15 DVD Premium,CHARGE,*,*
-2020-10,Bristol,Stockwood Library,15 DVD Standard,CHARGE,5,5
-2020-10,Bristol,Stockwood Library,18 DVD Premium,CHARGE,*,*
+2020-10,Bristol,Stockwood Library,12 DVD Standard,CHARGE,11,12
+2020-10,Bristol,Stockwood Library,15 DVD Standard,CHARGE,7,9
 2020-10,Bristol,Stockwood Library,18 DVD Standard,CHARGE,*,*
 2020-10,Bristol,Stockwood Library,Adult Fiction,OVERDUE,110,96.75
 2020-10,Bristol,Stockwood Library,Adult Non Fiction,OVERDUE,41,29.55
@@ -53977,8 +53958,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,North Somerset,Campus Library,U DVD Standard,OVERDUE,5,8.2
 2020-10,North Somerset,Campus Library,YA / Teen Fiction,LOST,*,*
 2020-10,North Somerset,Campus Library,YA / Teen Non Fiction,LOST,*,*
-2020-10,North Somerset,Clevedon Library,12 DVD Premium,CHARGE,*,*
-2020-10,North Somerset,Clevedon Library,12 DVD Standard,CHARGE,7,14
+2020-10,North Somerset,Clevedon Library,12 DVD Standard,CHARGE,8,17
 2020-10,North Somerset,Clevedon Library,12 DVD Standard,OVERDUE,6,6.0
 2020-10,North Somerset,Clevedon Library,15 DVD Standard,CHARGE,*,*
 2020-10,North Somerset,Clevedon Library,15 DVD Standard,OVERDUE,*,*
@@ -54035,8 +54015,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,North Somerset,N Som Healthy Living Centre,U DVD Standard,LOST,*,*
 2020-10,North Somerset,N Som Healthy Living Centre,U DVD Standard,OVERDUE,*,*
 2020-10,North Somerset,N Som Healthy Living Centre,YA / Teen Fiction,OVERDUE,*,*
-2020-10,North Somerset,Nailsea Library,12 DVD Premium,CHARGE,*,*
-2020-10,North Somerset,Nailsea Library,12 DVD Standard,CHARGE,12,24
+2020-10,North Somerset,Nailsea Library,12 DVD Standard,CHARGE,13,27
 2020-10,North Somerset,Nailsea Library,12 DVD Standard,OVERDUE,*,*
 2020-10,North Somerset,Nailsea Library,15 DVD Standard,CHARGE,7,14
 2020-10,North Somerset,Nailsea Library,15 DVD Standard,LOST,*,*
@@ -54595,7 +54574,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Somerset,Dulverton Library,U DVD Standard,CHARGE,*,*
 2020-10,Somerset,Frome Library,12 DVD Standard,CHARGE,15,32
 2020-10,Somerset,Frome Library,12 DVD Standard,OVERDUE,*,*
-2020-10,Somerset,Frome Library,15 DVD Premium,OVERDUE,*,*
 2020-10,Somerset,Frome Library,15 DVD Standard,CHARGE,18,35.5
 2020-10,Somerset,Frome Library,15 DVD Standard,HOLD,*,*
 2020-10,Somerset,Frome Library,15 DVD Standard,OVERDUE,*,*
@@ -54650,8 +54628,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Somerset,Frome Library,YA / Teen Fiction,LOST,5,20
 2020-10,Somerset,Frome Library,YA / Teen Fiction,OVERDUE,58,52.95
 2020-10,Somerset,Frome Library,YA / Teen Non Fiction,HOLD,*,*
-2020-10,Somerset,Glastonbury Library,12 DVD Premium,CHARGE,*,*
-2020-10,Somerset,Glastonbury Library,12 DVD Standard,CHARGE,13,26
+2020-10,Somerset,Glastonbury Library,12 DVD Standard,CHARGE,14,29
 2020-10,Somerset,Glastonbury Library,12 DVD Standard,HOLD,*,*
 2020-10,Somerset,Glastonbury Library,12 DVD Standard,OVERDUE,*,*
 2020-10,Somerset,Glastonbury Library,15 DVD Standard,CHARGE,14,28
@@ -54711,8 +54688,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Somerset,Ilminster Library,PG DVD Standard,HOLD,*,*
 2020-10,Somerset,Ilminster Library,YA / Teen Fiction,LOST,*,*
 2020-10,Somerset,Ilminster Library,YA / Teen Fiction,OVERDUE,*,*
-2020-10,Somerset,Langport Library,12 DVD Premium,CHARGE,*,*
-2020-10,Somerset,Langport Library,12 DVD Standard,CHARGE,9,22
+2020-10,Somerset,Langport Library,12 DVD Standard,CHARGE,12,31
 2020-10,Somerset,Langport Library,12 DVD Standard,OVERDUE,*,*
 2020-10,Somerset,Langport Library,15 DVD Standard,CHARGE,13,25.5
 2020-10,Somerset,Langport Library,15 DVD Standard,HOLD,6,6
@@ -54943,11 +54919,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Somerset,Street Library,Child Fiction,LOST,22,110
 2020-10,Somerset,Street Library,Child Non Fiction,LOST,*,*
 2020-10,Somerset,Street Library,U DVD Standard,LOST,*,*
-2020-10,Somerset,Taunton Library,12 DVD Premium,CHARGE,*,*
-2020-10,Somerset,Taunton Library,12 DVD Standard,CHARGE,24,48.5
+2020-10,Somerset,Taunton Library,12 DVD Standard,CHARGE,25,51.5
 2020-10,Somerset,Taunton Library,12 DVD Standard,LOST,*,*
-2020-10,Somerset,Taunton Library,15 DVD Premium,CHARGE,7,21
-2020-10,Somerset,Taunton Library,15 DVD Standard,CHARGE,34,67.0
+2020-10,Somerset,Taunton Library,15 DVD Premium,CHARGE,*,*
+2020-10,Somerset,Taunton Library,15 DVD Standard,CHARGE,40,85.0
 2020-10,Somerset,Taunton Library,15 DVD Standard,HOLD,*,*
 2020-10,Somerset,Taunton Library,15 DVD Standard,LOST,*,*
 2020-10,Somerset,Taunton Library,15 DVD Standard,OVERDUE,*,*
@@ -55021,8 +54996,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Somerset,Watchet Library,Child Non Fiction,OVERDUE,*,*
 2020-10,Somerset,Watchet Library,Large Print - Adult Fiction,HOLD,*,*
 2020-10,Somerset,Watchet Library,Large Print - Adult Fiction,OVERDUE,*,*
-2020-10,Somerset,Wellington Library,12 DVD Premium,CHARGE,*,*
-2020-10,Somerset,Wellington Library,12 DVD Standard,CHARGE,8,16
+2020-10,Somerset,Wellington Library,12 DVD Standard,CHARGE,9,19
 2020-10,Somerset,Wellington Library,15 DVD Standard,CHARGE,12,23.5
 2020-10,Somerset,Wellington Library,15 DVD Standard,OVERDUE,5,11.6
 2020-10,Somerset,Wellington Library,Adult Fiction,HOLD,59,59
@@ -55055,8 +55029,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Somerset,Wellington Library,YA / Teen Fiction,HOLD,*,*
 2020-10,Somerset,Wellington Library,YA / Teen Fiction,LOST,*,*
 2020-10,Somerset,Wellington Library,YA / Teen Fiction,OVERDUE,*,*
-2020-10,Somerset,Wells Library,12 DVD Premium,CHARGE,*,*
-2020-10,Somerset,Wells Library,12 DVD Standard,CHARGE,8,17
+2020-10,Somerset,Wells Library,12 DVD Standard,CHARGE,9,20
 2020-10,Somerset,Wells Library,12 DVD Standard,OVERDUE,*,*
 2020-10,Somerset,Wells Library,15 DVD Standard,CHARGE,19,37.5
 2020-10,Somerset,Wells Library,15 DVD Standard,HOLD,*,*
@@ -55244,8 +55217,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Bradley Stoke Library,Large Print - Adult Fiction,OVERDUE,7,4.4
 2020-10,South Gloucestershire,Bradley Stoke Library,Large Print - Children,OVERDUE,*,*
 2020-10,South Gloucestershire,Bradley Stoke Library,Music Score,OVERDUE,*,*
-2020-10,South Gloucestershire,Bradley Stoke Library,PG DVD Premium,CHARGE,*,*
-2020-10,South Gloucestershire,Bradley Stoke Library,PG DVD Standard,CHARGE,10,13.0
+2020-10,South Gloucestershire,Bradley Stoke Library,PG DVD Standard,CHARGE,11,15.3
 2020-10,South Gloucestershire,Bradley Stoke Library,PG DVD Standard,HOLD,*,*
 2020-10,South Gloucestershire,Bradley Stoke Library,U DVD Standard,CHARGE,18,23.4
 2020-10,South Gloucestershire,Bradley Stoke Library,U DVD Standard,OVERDUE,*,*
@@ -55267,8 +55239,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Cadbury Heath Library,Child Fiction,LOST,11,55
 2020-10,South Gloucestershire,Cadbury Heath Library,Child Fiction,OVERDUE,47,43.4
 2020-10,South Gloucestershire,Cadbury Heath Library,Large Print - Adult Fiction,OVERDUE,6,12.8
-2020-10,South Gloucestershire,Cadbury Heath Library,PG DVD Premium,CHARGE,*,*
-2020-10,South Gloucestershire,Cadbury Heath Library,PG DVD Standard,CHARGE,*,*
+2020-10,South Gloucestershire,Cadbury Heath Library,PG DVD Standard,CHARGE,5,7.5
 2020-10,South Gloucestershire,Cadbury Heath Library,PG DVD Standard,OVERDUE,*,*
 2020-10,South Gloucestershire,Cadbury Heath Library,U DVD Standard,CHARGE,*,*
 2020-10,South Gloucestershire,Cadbury Heath Library,YA / Teen Fiction,OVERDUE,*,*
@@ -55484,7 +55455,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Yate Library,12 DVD Standard,CHARGE,15,20.5
 2020-10,South Gloucestershire,Yate Library,12 DVD Standard,OVERDUE,6,2.1
 2020-10,South Gloucestershire,Yate Library,15 DVD Premium,CHARGE,*,*
-2020-10,South Gloucestershire,Yate Library,15 DVD Standard,CHARGE,8,10.4
+2020-10,South Gloucestershire,Yate Library,15 DVD Standard,CHARGE,9,12.7
 2020-10,South Gloucestershire,Yate Library,15 DVD Standard,OVERDUE,*,*
 2020-10,South Gloucestershire,Yate Library,18 DVD Standard,CHARGE,5,7.5
 2020-10,South Gloucestershire,Yate Library,18 DVD Standard,HOLD,*,*
@@ -55517,8 +55488,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Yate Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2020-10,South Gloucestershire,Yate Library,Music CD,CHARGE,11,6.7
 2020-10,South Gloucestershire,Yate Library,Music Score,OVERDUE,*,*
-2020-10,South Gloucestershire,Yate Library,PG DVD Premium,CHARGE,*,*
-2020-10,South Gloucestershire,Yate Library,PG DVD Standard,CHARGE,10,13.0
+2020-10,South Gloucestershire,Yate Library,PG DVD Standard,CHARGE,11,15.3
 2020-10,South Gloucestershire,Yate Library,PG DVD Standard,LOST,*,*
 2020-10,South Gloucestershire,Yate Library,PG DVD Standard,OVERDUE,*,*
 2020-10,South Gloucestershire,Yate Library,U DVD Standard,CHARGE,14,18.2
