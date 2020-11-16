@@ -84,7 +84,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Bath and North East Somerset,CHARGE,170,370
 2020/2021,Bath and North East Somerset,DAMAGE,0,30
 2020/2021,Bath and North East Somerset,HOLD,0,10
-2020/2021,Bath and North East Somerset,LOST,3290,20750
+2020/2021,Bath and North East Somerset,LOST,3330,21040
 2020/2021,Bath and North East Somerset,LOSTCARD,10,10
 2020/2021,Bath and North East Somerset,OVERDUE,30,160
 2020/2021,Bath and North East Somerset,PROCESSFEE,0,10
@@ -94,7 +94,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Bristol,GROUP,0,20
 2020/2021,Bristol,HOLD,0,10
 2020/2021,Bristol,LOST,1670,12490
-2020/2021,Bristol,OVERDUE,7260,9220
+2020/2021,Bristol,OVERDUE,7280,9240
 2020/2021,Bristol,PRIVILEGE,0,0
 2020/2021,Bristol,SALENOVAT,40,290
 2020/2021,Bristol,SALEVAT,0,10
@@ -106,7 +106,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Dorset,ILL,0,10
 2020/2021,Dorset,LOST,2790,15880
 2020/2021,Dorset,LOSTCARD,40,80
-2020/2021,Dorset,OVERDUE,4340,8080
+2020/2021,Dorset,OVERDUE,4340,8100
 2020/2021,Dorset,PRIVILEGE,10,10
 2020/2021,Dorset,PROCESSFEE,0,10
 2020/2021,Dorset,SALENOVAT,30,50
@@ -114,7 +114,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,North Somerset,CHARGE,710,970
 2020/2021,North Somerset,DAMAGE,0,10
 2020/2021,North Somerset,GROUP,40,220
-2020/2021,North Somerset,LOST,1650,10600
+2020/2021,North Somerset,LOST,1660,10630
 2020/2021,North Somerset,LOSTCARD,0,0
 2020/2021,North Somerset,OVERDUE,2960,4620
 2020/2021,North Somerset,SALENOVAT,30,80
@@ -134,9 +134,9 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Somerset,GROUP,100,530
 2020/2021,Somerset,HOLD,6330,6380
 2020/2021,Somerset,ILL,0,0
-2020/2021,Somerset,LOST,3950,26210
+2020/2021,Somerset,LOST,4120,27250
 2020/2021,Somerset,LOSTCARD,100,200
-2020/2021,Somerset,OVERDUE,11410,14360
+2020/2021,Somerset,OVERDUE,11450,14400
 2020/2021,Somerset,PROCESSFEE,0,0
 2020/2021,Somerset,SALENOVAT,60,130
 2020/2021,Somerset,SALEVAT,170,430
