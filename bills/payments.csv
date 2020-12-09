@@ -2222,7 +2222,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-01,North Somerset,Weston-super-Mare Library,LOSTCARD,CANCEL,0,0,0
 2019-01,North Somerset,Weston-super-Mare Library,LOSTCARD,CASH,0,0,0
 2019-01,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,40,60,0
-2019-01,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,540,330,330
+2019-01,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,530,330,330
 2019-01,North Somerset,Weston-super-Mare Library,OVERDUE,FORGIVEN,20,20,0
 2019-01,North Somerset,Weston-super-Mare Library,OVERDUEX,CANCEL,0,0,0
 2019-01,North Somerset,Weston-super-Mare Library,PRIVILEGE,CASH,0,0,0
@@ -6833,7 +6833,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,North Somerset,Weston-super-Mare Library,LOSTCARD,CASH,0,0,0
 2019-04,North Somerset,Weston-super-Mare Library,LOSTX,FORGIVEN,0,20,0
 2019-04,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,30,20,0
-2019-04,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,430,280,280
+2019-04,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,420,280,280
 2019-04,North Somerset,Weston-super-Mare Library,OVERDUE,FORGIVEN,10,10,0
 2019-04,North Somerset,Weston-super-Mare Library,OVERDUEX,CASH,0,10,10
 2019-04,North Somerset,Weston-super-Mare Library,OVERDUEX,FORGIVEN,0,0,0
@@ -9163,7 +9163,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,South Gloucestershire,Yate Library,GROUP,CANCEL,0,0,0
 2019-05,South Gloucestershire,Yate Library,GROUP,CASH,10,40,40
 2019-05,South Gloucestershire,Yate Library,HOLD,CANCEL,0,0,0
-2019-05,South Gloucestershire,Yate Library,HOLD,CASH,210,160,160
+2019-05,South Gloucestershire,Yate Library,HOLD,CASH,200,150,150
 2019-05,South Gloucestershire,Yate Library,HOLD,FORGIVEN,0,0,0
 2019-05,South Gloucestershire,Yate Library,HOLDX,CANCEL,0,0,0
 2019-05,South Gloucestershire,Yate Library,LOST,CANCEL,80,450,0
@@ -13032,7 +13032,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Dorset,Wareham Library,LOST,CASH,0,10,10
 2019-08,Dorset,Wareham Library,LOSTCARD,CASH,0,0,0
 2019-08,Dorset,Wareham Library,OVERDUE,CANCEL,10,20,0
-2019-08,Dorset,Wareham Library,OVERDUE,CASH,140,120,120
+2019-08,Dorset,Wareham Library,OVERDUE,CASH,130,120,120
 2019-08,Dorset,Wareham Library,OVERDUE,FORGIVEN,0,10,0
 2019-08,Dorset,West Moors Library,CHARGE,CASH,10,20,20
 2019-08,Dorset,West Moors Library,LOST,CANCEL,20,100,0
@@ -14894,7 +14894,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-09,North Somerset,Weston-super-Mare Library,LOSTCARD,CANCEL,0,0,0
 2019-09,North Somerset,Weston-super-Mare Library,LOSTCARD,CASH,10,10,10
 2019-09,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,70,90,0
-2019-09,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,300,290,290
+2019-09,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,300,280,280
 2019-09,North Somerset,Weston-super-Mare Library,OVERDUE,FORGIVEN,20,20,0
 2019-09,North Somerset,Weston-super-Mare Library,OVERDUE,PAYPAL,20,40,40
 2019-09,North Somerset,Weston-super-Mare Library,OVERDUEX,FORGIVEN,0,0,0
@@ -24849,7 +24849,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-03,South Gloucestershire,Downend Library,HOLD,CASH,40,20,20
 2020-03,South Gloucestershire,Downend Library,HOLD,NONE,0,0,0
 2020-03,South Gloucestershire,Downend Library,HOLD,PAYPAL,10,10,10
-2020-03,South Gloucestershire,Downend Library,LOST,CANCEL,30,160,0
+2020-03,South Gloucestershire,Downend Library,LOST,CANCEL,30,150,0
 2020-03,South Gloucestershire,Downend Library,OVERDUE,CANCEL,30,20,0
 2020-03,South Gloucestershire,Downend Library,OVERDUE,CASH,60,50,50
 2020-03,South Gloucestershire,Downend Library,OVERDUE,FORGIVEN,20,70,0
@@ -27192,7 +27192,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-10,Dorset,Verwood Library,OVERDUE,CANCEL,30,60,0
 2020-10,Dorset,Verwood Library,OVERDUE,CASH,20,20,20
 2020-10,Dorset,Verwood Library,OVERDUE,PAYPAL,10,0,0
-2020-10,Dorset,Verwood Library,OVERDUEX,CASH,0,0,0
 2020-10,Dorset,Wareham Library,CHARGE,CASH,10,20,20
 2020-10,Dorset,Wareham Library,CHARGE,FORGIVEN,0,0,0
 2020-10,Dorset,Wareham Library,CHARGE,PAYPAL,10,10,10
@@ -27517,7 +27516,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-10,Somerset,Burnham Library,HOLD,CREDITCARD,40,40,40
 2020-10,Somerset,Burnham Library,HOLD,FORGIVEN,10,10,0
 2020-10,Somerset,Burnham Library,HOLD,PAYPAL,30,30,30
-2020-10,Somerset,Burnham Library,LOST,CANCEL,10,50,0
+2020-10,Somerset,Burnham Library,LOST,CANCEL,10,70,0
 2020-10,Somerset,Burnham Library,LOSTCARD,CASH,0,0,0
 2020-10,Somerset,Burnham Library,OVERDUE,CANCEL,30,50,0
 2020-10,Somerset,Burnham Library,OVERDUE,CASH,80,20,20
@@ -28543,7 +28542,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-11,North Somerset,Weston-super-Mare Library,CHARGE,FORGIVEN,0,0,0
 2020-11,North Somerset,Weston-super-Mare Library,GROUP,CASH,0,10,10
 2020-11,North Somerset,Weston-super-Mare Library,GROUP,CREDITCARD,0,0,0
-2020-11,North Somerset,Weston-super-Mare Library,LOST,CANCEL,80,550,0
+2020-11,North Somerset,Weston-super-Mare Library,LOST,CANCEL,80,520,0
 2020-11,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,60,220,0
 2020-11,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,10,20,20
 2020-11,North Somerset,Weston-super-Mare Library,OVERDUE,CREDITCARD,0,10,10
