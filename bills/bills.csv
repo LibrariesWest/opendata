@@ -50291,7 +50291,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Dorset,Bridport Library,12 DVD Standard,CHARGE,7,18.5
 2020-10,Dorset,Bridport Library,15 DVD Standard,CHARGE,8,20.5
 2020-10,Dorset,Bridport Library,15 DVD Standard,OVERDUE,*,*
-2020-10,Dorset,Bridport Library,18 DVD Premium,CHARGE,*,*
+2020-10,Dorset,Bridport Library,18 DVD Standard,CHARGE,*,*
 2020-10,Dorset,Bridport Library,18 DVD Standard,OVERDUE,*,*
 2020-10,Dorset,Bridport Library,Adult Fiction,LOST,10,93.99
 2020-10,Dorset,Bridport Library,Adult Fiction,OVERDUE,66,60.6
@@ -50309,7 +50309,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Dorset,Bridport Library,Large Print - Adult Fiction,OVERDUE,5,1.0
 2020-10,Dorset,Bridport Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2020-10,Dorset,Bridport Library,Music CD,CHARGE,*,*
-2020-10,Dorset,Bridport Library,PG DVD Premium,CHARGE,*,*
+2020-10,Dorset,Bridport Library,PG DVD Standard,CHARGE,*,*
 2020-10,Dorset,Bridport Library,PG DVD Standard,OVERDUE,*,*
 2020-10,Dorset,Bridport Library,U DVD Standard,CHARGE,*,*
 2020-10,Dorset,Bridport Library,YA / Teen Fiction,LOST,*,*
@@ -50360,8 +50360,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Dorset,Crossways Library,Child Non Fiction,LOST,*,*
 2020-10,Dorset,Dorchester Library,12 DVD Standard,CHARGE,72,180.0
 2020-10,Dorset,Dorchester Library,12 DVD Standard,OVERDUE,*,*
-2020-10,Dorset,Dorchester Library,15 DVD Premium,CHARGE,*,*
-2020-10,Dorset,Dorchester Library,15 DVD Standard,CHARGE,109,272.5
+2020-10,Dorset,Dorchester Library,15 DVD Standard,CHARGE,110,275.5
 2020-10,Dorset,Dorchester Library,15 DVD Standard,OVERDUE,*,*
 2020-10,Dorset,Dorchester Library,18 DVD Standard,CHARGE,10,25.0
 2020-10,Dorset,Dorchester Library,Adult Fiction,LOST,14,126
@@ -50495,8 +50494,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Dorset,Shaftesbury Library,YA / Teen Non Fiction,OVERDUE,*,*
 2020-10,Dorset,Sherborne Library,12 DVD Standard,CHARGE,8,20.0
 2020-10,Dorset,Sherborne Library,12 DVD Standard,OVERDUE,*,*
-2020-10,Dorset,Sherborne Library,15 DVD Premium,CHARGE,*,*
-2020-10,Dorset,Sherborne Library,15 DVD Standard,CHARGE,9,22.5
+2020-10,Dorset,Sherborne Library,15 DVD Standard,CHARGE,10,25.5
 2020-10,Dorset,Sherborne Library,18 DVD Standard,CHARGE,*,*
 2020-10,Dorset,Sherborne Library,Adult Fiction,LOST,*,*
 2020-10,Dorset,Sherborne Library,Adult Fiction,OVERDUE,98,89.6
@@ -50651,7 +50649,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Dorset,Weymouth Library,YA / Teen Fiction,OVERDUE,*,*
 2020-10,Dorset,Wimborne Library,12 DVD Standard,CHARGE,6,15.0
 2020-10,Dorset,Wimborne Library,15 DVD Standard,CHARGE,7,17.5
-2020-10,Dorset,Wimborne Library,18 DVD Premium,CHARGE,*,*
 2020-10,Dorset,Wimborne Library,18 DVD Standard,CHARGE,*,*
 2020-10,Dorset,Wimborne Library,Adult Fiction,LOST,12,108
 2020-10,Dorset,Wimborne Library,Adult Fiction,OVERDUE,72,78.4
@@ -50847,8 +50844,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,North Somerset,Weston-super-Mare Library,12 DVD Standard,OVERDUE,*,*
 2020-10,North Somerset,Weston-super-Mare Library,15 DVD Standard,CHARGE,*,*
 2020-10,North Somerset,Weston-super-Mare Library,18 DVD Standard,CHARGE,*,*
-2020-10,North Somerset,Weston-super-Mare Library,Adult Fiction,LOST,23,205
-2020-10,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,118,194.6
+2020-10,North Somerset,Weston-super-Mare Library,Adult Fiction,LOST,24,212
+2020-10,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,119,202.0
 2020-10,North Somerset,Weston-super-Mare Library,Adult Graphic Novel,OVERDUE,*,*
 2020-10,North Somerset,Weston-super-Mare Library,Adult Non Fiction,LOST,27,243
 2020-10,North Somerset,Weston-super-Mare Library,Adult Non Fiction,OVERDUE,117,235.2
@@ -50865,8 +50862,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,North Somerset,Weston-super-Mare Library,Child Spoken Word,CHARGE,*,*
 2020-10,North Somerset,Weston-super-Mare Library,Child Spoken Word,LOST,8,64
 2020-10,North Somerset,Weston-super-Mare Library,Child Spoken Word,OVERDUE,*,*
-2020-10,North Somerset,Weston-super-Mare Library,Fastrack,LOST,*,*
-2020-10,North Somerset,Weston-super-Mare Library,Fastrack,OVERDUE,*,*
 2020-10,North Somerset,Weston-super-Mare Library,Large Print - Adult Fiction,OVERDUE,27,35.3
 2020-10,North Somerset,Weston-super-Mare Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2020-10,North Somerset,Weston-super-Mare Library,Large Print - Children,LOST,*,*
@@ -52634,7 +52629,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Dorset,Ferndown Library,Classification Exempt,LOST,*,*
 2020-11,Dorset,Ferndown Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-11,Dorset,Ferndown Library,Large Print - Children,LOST,*,*
-2020-11,Dorset,Ferndown Library,PG DVD Premium,CHARGE,*,*
+2020-11,Dorset,Ferndown Library,PG DVD Standard,CHARGE,*,*
 2020-11,Dorset,Ferndown Library,PG DVD Standard,LOST,*,*
 2020-11,Dorset,Ferndown Library,U DVD Standard,CHARGE,*,*
 2020-11,Dorset,Ferndown Library,YA / Teen Fiction,LOST,7,28
@@ -52737,7 +52732,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Dorset,Sherborne Library,Classification Exempt,CHARGE,*,*
 2020-11,Dorset,Sherborne Library,Large Print - Adult Fiction,LOST,*,*
 2020-11,Dorset,Sherborne Library,Large Print - Adult Fiction,OVERDUE,*,*
-2020-11,Dorset,Sherborne Library,PG DVD Premium,CHARGE,*,*
 2020-11,Dorset,Sherborne Library,PG DVD Standard,CHARGE,*,*
 2020-11,Dorset,Sherborne Library,U DVD Standard,CHARGE,*,*
 2020-11,Dorset,Sherborne Library,YA / Teen Fiction,OVERDUE,*,*
@@ -54287,8 +54281,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,South Gloucestershire,Winterbourne Library,YA / Teen Fiction,OVERDUE,*,*
 2020-11,South Gloucestershire,Yate Library,12 DVD Premium,CHARGE,*,*
 2020-11,South Gloucestershire,Yate Library,12 DVD Standard,CHARGE,7,9.1
-2020-11,South Gloucestershire,Yate Library,15 DVD Premium,CHARGE,*,*
-2020-11,South Gloucestershire,Yate Library,15 DVD Standard,CHARGE,5,6.5
+2020-11,South Gloucestershire,Yate Library,15 DVD Standard,CHARGE,7,11.1
 2020-11,South Gloucestershire,Yate Library,18 DVD Standard,CHARGE,*,*
 2020-11,South Gloucestershire,Yate Library,Adult Fiction,HOLD,110,80.0
 2020-11,South Gloucestershire,Yate Library,Adult Fiction,LOST,16,144
