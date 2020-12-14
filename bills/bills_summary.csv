@@ -106,7 +106,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Dorset,ILL,0,10
 2020/2021,Dorset,LOST,5610,32220
 2020/2021,Dorset,LOSTCARD,40,80
-2020/2021,Dorset,OVERDUE,4930,10590
+2020/2021,Dorset,OVERDUE,4940,10600
 2020/2021,Dorset,PRIVILEGE,10,10
 2020/2021,Dorset,PROCESSFEE,0,10
 2020/2021,Dorset,SALENOVAT,40,60
@@ -134,9 +134,9 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Somerset,GROUP,120,670
 2020/2021,Somerset,HOLD,9000,9060
 2020/2021,Somerset,ILL,0,0
-2020/2021,Somerset,LOST,6810,45040
+2020/2021,Somerset,LOST,6890,45590
 2020/2021,Somerset,LOSTCARD,120,240
-2020/2021,Somerset,OVERDUE,13350,19660
+2020/2021,Somerset,OVERDUE,13370,19670
 2020/2021,Somerset,PROCESSFEE,0,0
 2020/2021,Somerset,SALENOVAT,80,160
 2020/2021,Somerset,SALEVAT,230,560
@@ -145,7 +145,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,South Gloucestershire,GROUP,70,360
 2020/2021,South Gloucestershire,HOLD,2800,2530
 2020/2021,South Gloucestershire,ILL,0,90
-2020/2021,South Gloucestershire,LOST,4500,27860
+2020/2021,South Gloucestershire,LOST,4510,27930
 2020/2021,South Gloucestershire,LOSTCARD,0,0
 2020/2021,South Gloucestershire,OVERDUE,4200,8040
 2020/2021,South Gloucestershire,SALENOVAT,90,110
