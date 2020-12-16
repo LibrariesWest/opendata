@@ -32365,7 +32365,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,Somerset,Crewkerne Library,Adult Non Fiction,HOLD,35,35
 2019-10,Somerset,Crewkerne Library,Adult Non Fiction,LOST,*,*
 2019-10,Somerset,Crewkerne Library,Adult Non Fiction,OVERDUE,34,51.0
-2019-10,Somerset,Crewkerne Library,Adult Spoken Word,CHARGE,10,20
+2019-10,Somerset,Crewkerne Library,Adult Spoken Word,CHARGE,11,21.5
 2019-10,Somerset,Crewkerne Library,Adult Spoken Word,OVERDUE,*,*
 2019-10,Somerset,Crewkerne Library,Boxed Set 15 DVD,CHARGE,*,*
 2019-10,Somerset,Crewkerne Library,Child Fiction,HOLD,*,*
@@ -32374,7 +32374,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,Somerset,Crewkerne Library,Child Non Fiction,HOLD,*,*
 2019-10,Somerset,Crewkerne Library,Child Non Fiction,LOST,*,*
 2019-10,Somerset,Crewkerne Library,Child Non Fiction,OVERDUE,21,9.75
-2019-10,Somerset,Crewkerne Library,Child Spoken Word,CHARGE,*,*
 2019-10,Somerset,Crewkerne Library,Child Spoken Word,LOST,*,*
 2019-10,Somerset,Crewkerne Library,Child Spoken Word,OVERDUE,*,*
 2019-10,Somerset,Crewkerne Library,Large Print - Adult Fiction,HOLD,*,*
@@ -35507,7 +35506,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,Somerset,Crewkerne Library,Adult Graphic Novel,OVERDUE,*,*
 2019-11,Somerset,Crewkerne Library,Adult Non Fiction,HOLD,36,36
 2019-11,Somerset,Crewkerne Library,Adult Non Fiction,OVERDUE,53,42.4
-2019-11,Somerset,Crewkerne Library,Adult Spoken Word,CHARGE,7,14
+2019-11,Somerset,Crewkerne Library,Adult Spoken Word,CHARGE,8,15.5
 2019-11,Somerset,Crewkerne Library,Adult Spoken Word,OVERDUE,*,*
 2019-11,Somerset,Crewkerne Library,Child Fiction,DAMAGE,*,*
 2019-11,Somerset,Crewkerne Library,Child Fiction,HOLD,*,*
@@ -35515,7 +35514,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,Somerset,Crewkerne Library,Child Fiction,OVERDUE,126,78.55
 2019-11,Somerset,Crewkerne Library,Child Non Fiction,HOLD,*,*
 2019-11,Somerset,Crewkerne Library,Child Non Fiction,OVERDUE,32,12.55
-2019-11,Somerset,Crewkerne Library,Child Spoken Word,CHARGE,*,*
 2019-11,Somerset,Crewkerne Library,Child Spoken Word,OVERDUE,*,*
 2019-11,Somerset,Crewkerne Library,Language Course,CHARGE,*,*
 2019-11,Somerset,Crewkerne Library,Language Course,HOLD,*,*
@@ -38524,7 +38522,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,Somerset,Crewkerne Library,Adult Non Fiction,HOLD,50,48.5
 2019-12,Somerset,Crewkerne Library,Adult Non Fiction,LOST,*,*
 2019-12,Somerset,Crewkerne Library,Adult Non Fiction,OVERDUE,33,42.6
-2019-12,Somerset,Crewkerne Library,Adult Spoken Word,CHARGE,8,16
+2019-12,Somerset,Crewkerne Library,Adult Spoken Word,CHARGE,9,17.5
 2019-12,Somerset,Crewkerne Library,Adult Spoken Word,HOLD,*,*
 2019-12,Somerset,Crewkerne Library,Adult Spoken Word,OVERDUE,*,*
 2019-12,Somerset,Crewkerne Library,Child Fiction,HOLD,*,*
@@ -38532,8 +38530,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,Somerset,Crewkerne Library,Child Fiction,OVERDUE,132,78.55
 2019-12,Somerset,Crewkerne Library,Child Non Fiction,LOST,*,*
 2019-12,Somerset,Crewkerne Library,Child Non Fiction,OVERDUE,17,8.60
-2019-12,Somerset,Crewkerne Library,Child Spoken Word,CHARGE,*,*
-2019-12,Somerset,Crewkerne Library,Child Spoken Word,OVERDUE,*,*
 2019-12,Somerset,Crewkerne Library,Drama single copy,OVERDUE,5,7.0
 2019-12,Somerset,Crewkerne Library,Language Course,CHARGE,*,*
 2019-12,Somerset,Crewkerne Library,Large Print - Adult Fiction,HOLD,*,*
@@ -53093,8 +53089,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Poole,Canford Cliffs Library,U DVD Standard,CHARGE,*,*
 2020-11,Poole,Canford Cliffs Library,U DVD Standard,HOLD,*,*
 2020-11,Poole,Canford Cliffs Library,YA / Teen Fiction,HOLD,*,*
-2020-11,Poole,Canford Heath Library,12 DVD Premium,CHARGE,*,*
-2020-11,Poole,Canford Heath Library,12 DVD Premium,HOLD,*,*
+2020-11,Poole,Canford Heath Library,12 DVD Standard,CHARGE,*,*
+2020-11,Poole,Canford Heath Library,12 DVD Standard,HOLD,*,*
 2020-11,Poole,Canford Heath Library,Adult Fiction,HOLD,10,10
 2020-11,Poole,Canford Heath Library,Adult Fiction,OVERDUE,20,21.2
 2020-11,Poole,Canford Heath Library,Adult Non Fiction,HOLD,5,5
