@@ -7386,9 +7386,9 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-04,Somerset,Wiveliscombe Library,HOLD,CASH,50,50,50
 2019-04,Somerset,Wiveliscombe Library,LOST,CANCEL,10,70,0
 2019-04,Somerset,Wiveliscombe Library,OVERDUE,CANCEL,0,0,0
-2019-04,Somerset,Wiveliscombe Library,OVERDUE,CASH,100,70,70
+2019-04,Somerset,Wiveliscombe Library,OVERDUE,CASH,90,70,70
 2019-04,Somerset,Wiveliscombe Library,OVERDUE,CREDITACCT,0,0,0
-2019-04,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,30,30,0
+2019-04,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,30,0
 2019-04,Somerset,Yeovil Library,CHARGE,CANCEL,10,20,0
 2019-04,Somerset,Yeovil Library,CHARGE,CASH,220,470,470
 2019-04,Somerset,Yeovil Library,CHARGE,CREDITCARD,10,20,20
@@ -10343,7 +10343,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-06,Somerset,Taunton Library,CHARGEX,CANCEL,0,0,0
 2019-06,Somerset,Taunton Library,CHARGEX,CASH,0,0,0
 2019-06,Somerset,Taunton Library,CREDIT,CASH,0,0,0
-2019-06,Somerset,Taunton Library,DAMAGE,FORGIVEN,0,10,0
 2019-06,Somerset,Taunton Library,GROUP,CASH,20,80,80
 2019-06,Somerset,Taunton Library,GROUP,CHEQUE,0,0,0
 2019-06,Somerset,Taunton Library,GROUP,DEBITCARD,0,0,0
@@ -17791,7 +17790,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-11,Bristol,St George Library,CHARGE,CASH,90,100,100
 2019-11,Bristol,St George Library,CHARGE,FORGIVEN,10,10,0
 2019-11,Bristol,St George Library,CREDIT,CASH,0,0,0
-2019-11,Bristol,St George Library,HOLDX,CASH,0,0,0
 2019-11,Bristol,St George Library,LOST,CANCEL,110,620,0
 2019-11,Bristol,St George Library,LOST,CASH,0,20,20
 2019-11,Bristol,St George Library,LOST,PAYPAL,0,10,10
