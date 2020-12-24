@@ -21043,7 +21043,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-06,South Gloucestershire,Downend Library,Boxed Set 15 DVD,HOLD,*,*
 2019-06,South Gloucestershire,Downend Library,Boxed Set 18 DVD,CHARGE,*,*
 2019-06,South Gloucestershire,Downend Library,Boxed Set 18 DVD,HOLD,*,*
-2019-06,South Gloucestershire,Downend Library,Child Fiction,LOST,61,305
+2019-06,South Gloucestershire,Downend Library,Child Fiction,LOST,62,312
 2019-06,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,*,*
 2019-06,South Gloucestershire,Downend Library,Child Non Fiction,LOST,11,55
 2019-06,South Gloucestershire,Downend Library,Child Spoken Word,LOST,6,48
@@ -23983,11 +23983,12 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-07,South Gloucestershire,Downend Library,Boxed Set 18 DVD,CHARGE,*,*
 2019-07,South Gloucestershire,Downend Library,Boxed Set 18 DVD,HOLD,*,*
 2019-07,South Gloucestershire,Downend Library,Child Fiction,LOST,22,114
+2019-07,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,*,*
 2019-07,South Gloucestershire,Downend Library,Child Non Fiction,LOST,12,60
 2019-07,South Gloucestershire,Downend Library,Child Non Fiction,OVERDUE,*,*
 2019-07,South Gloucestershire,Downend Library,Child Spoken Word,LOST,*,*
 2019-07,South Gloucestershire,Downend Library,Fastrack,LOST,*,*
-2019-07,South Gloucestershire,Downend Library,Fastrack,OVERDUE,7,19.2
+2019-07,South Gloucestershire,Downend Library,Fastrack,OVERDUE,6,12.8
 2019-07,South Gloucestershire,Downend Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-07,South Gloucestershire,Downend Library,Music CD,CHARGE,*,*
 2019-07,South Gloucestershire,Downend Library,PG DVD Standard,CHARGE,16,22.2
@@ -30047,8 +30048,9 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,South Gloucestershire,Downend Library,Boxed Set 15 DVD,HOLD,*,*
 2019-09,South Gloucestershire,Downend Library,Boxed Set U DVD,CHARGE,*,*
 2019-09,South Gloucestershire,Downend Library,Child Fiction,LOST,20,100
+2019-09,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,*,*
 2019-09,South Gloucestershire,Downend Library,Fastrack,LOST,*,*
-2019-09,South Gloucestershire,Downend Library,Fastrack,OVERDUE,5,9.0
+2019-09,South Gloucestershire,Downend Library,Fastrack,OVERDUE,*,*
 2019-09,South Gloucestershire,Downend Library,ILL,HOLD,*,*
 2019-09,South Gloucestershire,Downend Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-09,South Gloucestershire,Downend Library,Large Print - Children,OVERDUE,*,*
@@ -30182,9 +30184,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,8,8
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,*,*
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,24,30.2
-2019-09,South Gloucestershire,Patchway Library,Child Fiction,LOST,28,140
+2019-09,South Gloucestershire,Patchway Library,Child Fiction,LOST,29,147
 2019-09,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,5,25
-2019-09,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
 2019-09,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2019-09,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,LOST,*,*
 2019-09,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
@@ -42516,7 +42517,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
 2020-01,South Gloucestershire,Patchway Library,Boxed Set U DVD,OVERDUE,*,*
 2020-01,South Gloucestershire,Patchway Library,Child Fiction,LOST,65,325
-2020-01,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,53,97.8
+2020-01,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,54,107.8
 2020-01,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,8,40
 2020-01,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,9,29.6
 2020-01,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
@@ -51987,7 +51988,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Downend Library,Boxed Set 15 DVD,CHARGE,*,*
 2020-10,South Gloucestershire,Downend Library,Boxed Set 15 DVD,HOLD,*,*
 2020-10,South Gloucestershire,Downend Library,Child Fiction,HOLD,8,8
-2020-10,South Gloucestershire,Downend Library,Child Fiction,LOST,13,65
+2020-10,South Gloucestershire,Downend Library,Child Fiction,LOST,14,72
 2020-10,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,67,116.0
 2020-10,South Gloucestershire,Downend Library,Child Non Fiction,HOLD,*,*
 2020-10,South Gloucestershire,Downend Library,Child Non Fiction,OVERDUE,6,33.0
@@ -54148,7 +54149,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,South Gloucestershire,Patchway Library,Adult Spoken Word,HOLD,6,4.5
 2020-11,South Gloucestershire,Patchway Library,Adult Spoken Word,LOST,*,*
 2020-11,South Gloucestershire,Patchway Library,Child Fiction,HOLD,12,12
-2020-11,South Gloucestershire,Patchway Library,Child Fiction,LOST,94,470
+2020-11,South Gloucestershire,Patchway Library,Child Fiction,LOST,95,477
 2020-11,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,9,62.2
 2020-11,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,7,35
 2020-11,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,*,*
