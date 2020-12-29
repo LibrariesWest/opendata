@@ -613,7 +613,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bristol,OVERDUE,FORGIVEN,2290,3410,0
 2020/2021,Bristol,OVERDUE,INVOICE,10,0,0
 2020/2021,Bristol,OVERDUE,NONE,10,0,0
-2020/2021,Bristol,OVERDUE,PAYPAL,1060,1190,1190
+2020/2021,Bristol,OVERDUE,PAYPAL,1090,1190,1190
 2020/2021,Bristol,OVERDUE,VOUCH,0,10,10
 2020/2021,Bristol,REFERRAL,FORGIVEN,0,20,0
 2020/2021,Bristol,REFERRAL,PAYPAL,0,10,10
@@ -633,7 +633,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,CHARGE,DEBITCARD,0,10,10
 2020/2021,Dorset,CHARGE,FORGIVEN,320,760,0
 2020/2021,Dorset,CHARGE,NONE,0,10,10
-2020/2021,Dorset,CHARGE,PAYPAL,150,350,350
+2020/2021,Dorset,CHARGE,PAYPAL,160,350,350
 2020/2021,Dorset,CHARGEX,CANCEL,0,0,0
 2020/2021,Dorset,DAMAGE,CASH,0,40,40
 2020/2021,Dorset,DAMAGE,DEBITCARD,0,20,20
@@ -664,7 +664,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,OVERDUE,FORGIVEN,1580,3700,0
 2020/2021,Dorset,OVERDUE,INVOICE,0,0,0
 2020/2021,Dorset,OVERDUE,NONE,0,20,20
-2020/2021,Dorset,OVERDUE,PAYPAL,590,830,830
+2020/2021,Dorset,OVERDUE,PAYPAL,600,840,840
 2020/2021,Dorset,OVERDUEX,CASH,0,0,0
 2020/2021,Dorset,PRIVILEGE,CASH,0,0,0
 2020/2021,Dorset,PRIVILEGE,CREDITCARD,0,0,0
@@ -779,7 +779,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,HOLD,CREDITCARD,1290,1290,1290
 2020/2021,Somerset,HOLD,DEBITCARD,220,220,220
 2020/2021,Somerset,HOLD,FORGIVEN,290,300,0
-2020/2021,Somerset,HOLD,PAYPAL,1460,1470,1470
+2020/2021,Somerset,HOLD,PAYPAL,1470,1480,1480
 2020/2021,Somerset,HOLDX,CANCEL,10,10,0
 2020/2021,Somerset,HOLDX,CASH,0,0,0
 2020/2021,Somerset,HOLDX,FORGIVEN,0,0,0
@@ -804,7 +804,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,OVERDUE,CREDITCARD,1300,1470,1470
 2020/2021,Somerset,OVERDUE,DEBITCARD,770,1200,1200
 2020/2021,Somerset,OVERDUE,FORGIVEN,2710,4770,0
-2020/2021,Somerset,OVERDUE,PAYPAL,2940,2530,2530
+2020/2021,Somerset,OVERDUE,PAYPAL,2960,2550,2550
 2020/2021,Somerset,OVERDUEX,CANCEL,0,20,0
 2020/2021,Somerset,OVERDUEX,CASH,10,0,0
 2020/2021,Somerset,OVERDUEX,DEBITCARD,0,0,0
@@ -840,7 +840,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,HOLD,CASH,1930,1370,1370
 2020/2021,South Gloucestershire,HOLD,DEBITCARD,10,10,10
 2020/2021,South Gloucestershire,HOLD,FORGIVEN,200,210,0
-2020/2021,South Gloucestershire,HOLD,PAYPAL,340,280,280
+2020/2021,South Gloucestershire,HOLD,PAYPAL,340,290,290
 2020/2021,South Gloucestershire,HOLDX,FORGIVEN,0,10,0
 2020/2021,South Gloucestershire,ILL,CASH,0,10,10
 2020/2021,South Gloucestershire,ILL,CHEQUE,0,40,40
@@ -856,7 +856,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,OVERDUE,DEBITCARD,20,10,10
 2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,1420,2810,0
 2020/2021,South Gloucestershire,OVERDUE,NONE,10,10,10
-2020/2021,South Gloucestershire,OVERDUE,PAYPAL,520,710,710
+2020/2021,South Gloucestershire,OVERDUE,PAYPAL,530,710,710
 2020/2021,South Gloucestershire,OVERDUEX,CANCEL,0,0,0
 2020/2021,South Gloucestershire,OVERDUEX,FORGIVEN,0,0,0
 2020/2021,South Gloucestershire,SALENOVAT,CANCEL,20,20,0
