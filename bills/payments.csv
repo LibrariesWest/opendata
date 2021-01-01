@@ -1,1421 +1,4 @@
 month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_payments,system_paid,real_amount_paid
-2018-12,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,CASH,0,0,0
-2018-12,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,FORGIVEN,0,0,0
-2018-12,Bath and North East Somerset,B&NES Mobile Libraries,OVERDUE,CANCEL,0,0,0
-2018-12,Bath and North East Somerset,B&NES Mobile Libraries,OVERDUE,FORGIVEN,10,10,0
-2018-12,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,10,20,0
-2018-12,Bath and North East Somerset,Bath Central Library,CHARGE,CASH,230,420,420
-2018-12,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,210,380,380
-2018-12,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Bath and North East Somerset,Bath Central Library,CHARGEX,CANCEL,0,10,0
-2018-12,Bath and North East Somerset,Bath Central Library,DAMAGE,CANCEL,0,0,0
-2018-12,Bath and North East Somerset,Bath Central Library,HOLD,CANCEL,0,50,0
-2018-12,Bath and North East Somerset,Bath Central Library,HOLD,CREDITCARD,10,30,30
-2018-12,Bath and North East Somerset,Bath Central Library,HOLDX,CANCEL,0,0,0
-2018-12,Bath and North East Somerset,Bath Central Library,HOLDX,FORGIVEN,0,0,0
-2018-12,Bath and North East Somerset,Bath Central Library,ILL,CANCEL,0,20,0
-2018-12,Bath and North East Somerset,Bath Central Library,LOST,CANCEL,0,10,0
-2018-12,Bath and North East Somerset,Bath Central Library,LOST,CASH,0,20,20
-2018-12,Bath and North East Somerset,Bath Central Library,LOST,CREDITCARD,10,40,40
-2018-12,Bath and North East Somerset,Bath Central Library,LOSTCARD,CANCEL,0,0,0
-2018-12,Bath and North East Somerset,Bath Central Library,LOSTCARD,CASH,10,10,10
-2018-12,Bath and North East Somerset,Bath Central Library,LOSTX,CANCEL,10,50,0
-2018-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,180,180,0
-2018-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,810,430,430
-2018-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,670,670,670
-2018-12,Bath and North East Somerset,Bath Central Library,OVERDUE,FORGIVEN,30,40,0
-2018-12,Bath and North East Somerset,Bath Central Library,OVERDUEX,CANCEL,10,30,0
-2018-12,Bath and North East Somerset,Bath Central Library,OVERDUEX,CREDITCARD,0,0,0
-2018-12,Bath and North East Somerset,Bath Central Library,PROCESSFEE,CASH,0,0,0
-2018-12,Bath and North East Somerset,Bath Central Library,PROCESSFEE,CREDITCARD,0,10,10
-2018-12,Bath and North East Somerset,Bath Central Library,SALENOVAT,CANCEL,10,0,0
-2018-12,Bath and North East Somerset,Bath Central Library,SALENOVAT,CASH,0,0,0
-2018-12,Bath and North East Somerset,Bath Central Library,SALEVAT,CANCEL,0,200,0
-2018-12,Bath and North East Somerset,Bath Central Library,SALEVAT,CREDITCARD,0,100,100
-2018-12,Bath and North East Somerset,Bath Council Connect,OVERDUE,FORGIVEN,0,0,0
-2018-12,Bath and North East Somerset,Keynsham Library,CHARGE,CANCEL,0,10,0
-2018-12,Bath and North East Somerset,Keynsham Library,CHARGE,CASH,40,80,80
-2018-12,Bath and North East Somerset,Keynsham Library,CHARGE,CREDITCARD,50,90,90
-2018-12,Bath and North East Somerset,Keynsham Library,CHARGE,FORGIVEN,10,20,0
-2018-12,Bath and North East Somerset,Keynsham Library,CREDIT,CASH,0,0,0
-2018-12,Bath and North East Somerset,Keynsham Library,HOLD,CANCEL,0,0,0
-2018-12,Bath and North East Somerset,Keynsham Library,HOLD,CASH,0,0,0
-2018-12,Bath and North East Somerset,Keynsham Library,LOST,CANCEL,10,50,0
-2018-12,Bath and North East Somerset,Keynsham Library,LOST,CREDITCARD,0,0,0
-2018-12,Bath and North East Somerset,Keynsham Library,LOSTCARD,CASH,0,10,10
-2018-12,Bath and North East Somerset,Keynsham Library,LOSTCARD,FORGIVEN,0,0,0
-2018-12,Bath and North East Somerset,Keynsham Library,OVERDUE,CANCEL,20,20,0
-2018-12,Bath and North East Somerset,Keynsham Library,OVERDUE,CASH,230,130,130
-2018-12,Bath and North East Somerset,Keynsham Library,OVERDUE,CREDITCARD,250,170,170
-2018-12,Bath and North East Somerset,Keynsham Library,OVERDUE,DEBITCARD,0,0,0
-2018-12,Bath and North East Somerset,Keynsham Library,OVERDUE,FORGIVEN,70,70,0
-2018-12,Bath and North East Somerset,Keynsham Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,CHARGE,CANCEL,0,0,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,CHARGE,CASH,50,90,90
-2018-12,Bath and North East Somerset,Midsomer Norton Library,CHARGE,CREDITCARD,20,50,50
-2018-12,Bath and North East Somerset,Midsomer Norton Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,HOLD,CANCEL,0,30,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,HOLD,CASH,0,0,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,HOLD,CREDITCARD,0,0,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,LOST,CANCEL,10,40,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,LOSTCARD,CASH,0,0,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,CANCEL,10,10,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,CASH,180,60,60
-2018-12,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,CREDITCARD,200,100,100
-2018-12,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,NONE,10,0,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,CASH,0,0,0
-2018-12,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,CREDITCARD,0,0,0
-2018-12,Bath and North East Somerset,Moorland Road Library,CHARGE,CASH,10,20,20
-2018-12,Bath and North East Somerset,Moorland Road Library,CHARGE,CREDITCARD,0,0,0
-2018-12,Bath and North East Somerset,Moorland Road Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bath and North East Somerset,Moorland Road Library,HOLD,CANCEL,0,80,0
-2018-12,Bath and North East Somerset,Moorland Road Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bath and North East Somerset,Moorland Road Library,OVERDUE,CASH,50,20,20
-2018-12,Bath and North East Somerset,Moorland Road Library,OVERDUE,CREDITCARD,100,60,60
-2018-12,Bath and North East Somerset,Moorland Road Library,OVERDUE,FORGIVEN,30,20,0
-2018-12,Bath and North East Somerset,Paulton Library,CHARGE,CASH,10,10,10
-2018-12,Bath and North East Somerset,Paulton Library,CHARGE,CREDITCARD,0,0,0
-2018-12,Bath and North East Somerset,Paulton Library,LOSTCARD,NONE,0,0,0
-2018-12,Bath and North East Somerset,Paulton Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bath and North East Somerset,Paulton Library,OVERDUE,CASH,20,10,10
-2018-12,Bath and North East Somerset,Paulton Library,OVERDUE,CREDITCARD,30,30,30
-2018-12,Bath and North East Somerset,Paulton Library,SALENOVAT,CASH,0,20,20
-2018-12,Bath and North East Somerset,Radstock Library,CHARGE,CASH,20,30,30
-2018-12,Bath and North East Somerset,Radstock Library,LOST,NONE,0,0,0
-2018-12,Bath and North East Somerset,Radstock Library,OVERDUE,CASH,40,20,20
-2018-12,Bath and North East Somerset,Radstock Library,OVERDUE,CREDITCARD,50,20,20
-2018-12,Bath and North East Somerset,Radstock Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Bath and North East Somerset,Radstock Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Bath and North East Somerset,Saltford Library,OVERDUE,CANCEL,10,10,0
-2018-12,Bath and North East Somerset,Saltford Library,SALEVAT,CANCEL,0,0,0
-2018-12,Bristol,Avonmouth Library,LOST,CANCEL,0,20,0
-2018-12,Bristol,Avonmouth Library,OVERDUE,FORGIVEN,10,0,0
-2018-12,Bristol,Bedminster Library,CHARGE,CASH,150,180,180
-2018-12,Bristol,Bedminster Library,CHARGE,CREDITCARD,50,50,50
-2018-12,Bristol,Bedminster Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Bristol,Bedminster Library,CREDIT,CASH,0,0,0
-2018-12,Bristol,Bedminster Library,LOST,CANCEL,80,400,0
-2018-12,Bristol,Bedminster Library,LOST,CASH,10,50,50
-2018-12,Bristol,Bedminster Library,LOST,CREDITCARD,10,50,50
-2018-12,Bristol,Bedminster Library,LOST,FORGIVEN,0,0,0
-2018-12,Bristol,Bedminster Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,Bedminster Library,OVERDUE,CASH,370,240,240
-2018-12,Bristol,Bedminster Library,OVERDUE,CREDITACCT,0,0,0
-2018-12,Bristol,Bedminster Library,OVERDUE,CREDITCARD,150,200,200
-2018-12,Bristol,Bedminster Library,OVERDUE,FORGIVEN,20,30,0
-2018-12,Bristol,Bedminster Library,OVERDUEX,FORGIVEN,0,0,0
-2018-12,Bristol,Bedminster Library,PROCESSFEE,CASH,0,0,0
-2018-12,Bristol,Bedminster Library,REFERRAL,CASH,0,10,10
-2018-12,Bristol,Bedminster Library,SALENOVAT,CASH,0,0,0
-2018-12,Bristol,Bishopston Library,BFR,CANCEL,0,10,0
-2018-12,Bristol,Bishopston Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Bishopston Library,CHARGE,CASH,30,40,40
-2018-12,Bristol,Bishopston Library,CHARGE,CREDITCARD,10,10,10
-2018-12,Bristol,Bishopston Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Bishopston Library,HOLD,CREDITCARD,0,10,10
-2018-12,Bristol,Bishopston Library,LOST,CANCEL,220,1050,0
-2018-12,Bristol,Bishopston Library,LOST,CASH,10,40,40
-2018-12,Bristol,Bishopston Library,LOST,CREDITCARD,0,10,10
-2018-12,Bristol,Bishopston Library,OVERDUE,CANCEL,20,40,0
-2018-12,Bristol,Bishopston Library,OVERDUE,CASH,330,230,230
-2018-12,Bristol,Bishopston Library,OVERDUE,CREDITCARD,140,170,170
-2018-12,Bristol,Bishopston Library,OVERDUE,FORGIVEN,40,80,0
-2018-12,Bristol,Bishopston Library,OVERDUEX,CASH,0,0,0
-2018-12,Bristol,Bishopston Library,REFERRAL,CASH,0,20,20
-2018-12,Bristol,Bishopston Library,REFERRAL,CREDITCARD,0,10,10
-2018-12,Bristol,Bishopston Library,REFERRAL,FORGIVEN,0,10,0
-2018-12,Bristol,Bishopston Library,SALENOVAT,CASH,0,0,0
-2018-12,Bristol,Bishopston Library,SALEVAT,CASH,0,0,0
-2018-12,Bristol,Bishopsworth Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Bishopsworth Library,CHARGE,CASH,30,40,40
-2018-12,Bristol,Bishopsworth Library,LOST,CANCEL,40,190,0
-2018-12,Bristol,Bishopsworth Library,OVERDUE,CANCEL,0,10,0
-2018-12,Bristol,Bishopsworth Library,OVERDUE,CASH,90,40,40
-2018-12,Bristol,Bishopsworth Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,CHARGE,CANCEL,30,40,0
-2018-12,Bristol,Bristol Central Lending Library,CHARGE,CASH,630,630,630
-2018-12,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,160,190,190
-2018-12,Bristol,Bristol Central Lending Library,CHARGE,DEBITCARD,30,50,50
-2018-12,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,40,50,0
-2018-12,Bristol,Bristol Central Lending Library,CHARGEX,FORGIVEN,10,10,0
-2018-12,Bristol,Bristol Central Lending Library,CREDIT,CASH,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,DAMAGE,CASH,0,30,30
-2018-12,Bristol,Bristol Central Lending Library,HOLD,CASH,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,HOLD,CREDITCARD,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,HOLDX,CASH,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,HOLDX,FORGIVEN,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,LOST,CANCEL,170,1030,0
-2018-12,Bristol,Bristol Central Lending Library,LOST,CASH,0,20,20
-2018-12,Bristol,Bristol Central Lending Library,LOST,CREDITCARD,0,20,20
-2018-12,Bristol,Bristol Central Lending Library,LOST,DEBITCARD,10,30,30
-2018-12,Bristol,Bristol Central Lending Library,LOST,FORGIVEN,10,60,0
-2018-12,Bristol,Bristol Central Lending Library,LOSTX,DEBITCARD,0,10,10
-2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,10,20,0
-2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CASH,850,500,500
-2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,10,20,20
-2018-12,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,640,540,540
-2018-12,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,160,260,260
-2018-12,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,180,270,0
-2018-12,Bristol,Bristol Central Lending Library,OVERDUEX,DEBITCARD,10,30,30
-2018-12,Bristol,Bristol Central Lending Library,OVERDUEX,FORGIVEN,10,0,0
-2018-12,Bristol,Bristol Central Lending Library,PROCESSFEE,DEBITCARD,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,REFERRAL,CASH,0,10,10
-2018-12,Bristol,Bristol Central Lending Library,REFERRAL,CHEQUE,0,10,10
-2018-12,Bristol,Bristol Central Lending Library,REFERRAL,DEBITCARD,0,20,20
-2018-12,Bristol,Bristol Central Lending Library,REFERRAL,FORGIVEN,0,10,0
-2018-12,Bristol,Bristol Central Lending Library,SALENOVAT,CASH,0,10,10
-2018-12,Bristol,Bristol Central Lending Library,SALENOVAT,CREDITCARD,0,0,0
-2018-12,Bristol,Bristol Central Lending Library,SALENOVAT,DEBITCARD,0,10,10
-2018-12,Bristol,Bristol Central Lending Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Bristol,Clifton Library,CHARGE,CASH,60,60,60
-2018-12,Bristol,Clifton Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Clifton Library,HOLDX,CASH,0,0,0
-2018-12,Bristol,Clifton Library,LOST,CANCEL,20,90,0
-2018-12,Bristol,Clifton Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,Clifton Library,OVERDUE,CASH,110,100,100
-2018-12,Bristol,Clifton Library,OVERDUE,CREDITACCT,0,0,0
-2018-12,Bristol,Clifton Library,OVERDUE,FORGIVEN,30,30,0
-2018-12,Bristol,Clifton Library,REFERRAL,CASH,0,10,10
-2018-12,Bristol,Filwood Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Filwood Library,CHARGE,CASH,10,20,20
-2018-12,Bristol,Filwood Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Bristol,Filwood Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,Bristol,Filwood Library,LOST,CANCEL,20,70,0
-2018-12,Bristol,Filwood Library,LOST,FORGIVEN,0,10,0
-2018-12,Bristol,Filwood Library,OVERDUE,CANCEL,0,10,0
-2018-12,Bristol,Filwood Library,OVERDUE,CASH,20,10,10
-2018-12,Bristol,Filwood Library,OVERDUE,FORGIVEN,10,30,0
-2018-12,Bristol,Fishponds Library,CHARGE,CANCEL,10,10,0
-2018-12,Bristol,Fishponds Library,CHARGE,CASH,100,110,110
-2018-12,Bristol,Fishponds Library,CHARGE,FORGIVEN,20,30,0
-2018-12,Bristol,Fishponds Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,Bristol,Fishponds Library,HOLD,CASH,0,0,0
-2018-12,Bristol,Fishponds Library,LOST,CANCEL,80,330,0
-2018-12,Bristol,Fishponds Library,LOST,CASH,10,40,40
-2018-12,Bristol,Fishponds Library,LOST,CHEQUE,0,40,40
-2018-12,Bristol,Fishponds Library,LOST,FORGIVEN,0,10,0
-2018-12,Bristol,Fishponds Library,OVERDUE,CANCEL,20,30,0
-2018-12,Bristol,Fishponds Library,OVERDUE,CASH,240,170,170
-2018-12,Bristol,Fishponds Library,OVERDUE,FORGIVEN,40,70,0
-2018-12,Bristol,Hartcliffe Library,CHARGE,CASH,10,10,10
-2018-12,Bristol,Hartcliffe Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Hartcliffe Library,LOST,CANCEL,10,40,0
-2018-12,Bristol,Hartcliffe Library,OVERDUE,CANCEL,0,10,0
-2018-12,Bristol,Hartcliffe Library,OVERDUE,CASH,20,30,30
-2018-12,Bristol,Hartcliffe Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,Bristol,Henbury Library,CHARGE,CASH,30,50,50
-2018-12,Bristol,Henbury Library,CHARGE,FORGIVEN,0,10,0
-2018-12,Bristol,Henbury Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,Bristol,Henbury Library,LOST,CANCEL,30,220,0
-2018-12,Bristol,Henbury Library,LOST,CASH,0,0,0
-2018-12,Bristol,Henbury Library,OVERDUE,CASH,30,10,10
-2018-12,Bristol,Henbury Library,OVERDUE,FORGIVEN,30,30,0
-2018-12,Bristol,Henleaze Library,CHARGE,CANCEL,10,10,0
-2018-12,Bristol,Henleaze Library,CHARGE,CASH,240,300,300
-2018-12,Bristol,Henleaze Library,CHARGE,CREDITCARD,90,120,120
-2018-12,Bristol,Henleaze Library,CHARGE,DEBITCARD,30,40,40
-2018-12,Bristol,Henleaze Library,CHARGE,FORGIVEN,10,20,0
-2018-12,Bristol,Henleaze Library,CHARGEX,DEBITCARD,0,0,0
-2018-12,Bristol,Henleaze Library,CREDIT,CASH,0,0,0
-2018-12,Bristol,Henleaze Library,CREDIT,CREDITCARD,0,0,0
-2018-12,Bristol,Henleaze Library,DAMAGE,CASH,0,10,10
-2018-12,Bristol,Henleaze Library,DAMAGE,FORGIVEN,0,0,0
-2018-12,Bristol,Henleaze Library,HOLD,CASH,0,10,10
-2018-12,Bristol,Henleaze Library,LOST,CANCEL,110,510,0
-2018-12,Bristol,Henleaze Library,LOST,CASH,0,20,20
-2018-12,Bristol,Henleaze Library,LOST,CREDITCARD,0,10,10
-2018-12,Bristol,Henleaze Library,LOST,DEBITCARD,0,10,10
-2018-12,Bristol,Henleaze Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,Henleaze Library,OVERDUE,CASH,400,240,240
-2018-12,Bristol,Henleaze Library,OVERDUE,CREDITACCT,0,0,0
-2018-12,Bristol,Henleaze Library,OVERDUE,CREDITCARD,140,160,160
-2018-12,Bristol,Henleaze Library,OVERDUE,DEBITCARD,60,70,70
-2018-12,Bristol,Henleaze Library,OVERDUE,FORGIVEN,30,70,0
-2018-12,Bristol,Henleaze Library,REFERRAL,FORGIVEN,0,10,0
-2018-12,Bristol,Hillfields Library,CHARGE,CASH,0,0,0
-2018-12,Bristol,Hillfields Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Hillfields Library,LOST,CANCEL,10,60,0
-2018-12,Bristol,Hillfields Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,Hillfields Library,OVERDUE,CASH,10,10,10
-2018-12,Bristol,Hillfields Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Bristol,Hillfields Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Bristol,Horfield Library,BFR,CASH,0,0,0
-2018-12,Bristol,Horfield Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Horfield Library,CHARGE,CASH,40,50,50
-2018-12,Bristol,Horfield Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Bristol,Horfield Library,LOST,CANCEL,30,220,0
-2018-12,Bristol,Horfield Library,LOST,FORGIVEN,0,20,0
-2018-12,Bristol,Horfield Library,OVERDUE,CANCEL,20,20,0
-2018-12,Bristol,Horfield Library,OVERDUE,CASH,70,40,40
-2018-12,Bristol,Horfield Library,OVERDUE,CREDITACCT,0,0,0
-2018-12,Bristol,Horfield Library,OVERDUE,FORGIVEN,50,70,0
-2018-12,Bristol,Horfield Library,REFERRAL,CASH,0,10,10
-2018-12,Bristol,Junction 3 Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Junction 3 Library,CHARGE,CASH,50,60,60
-2018-12,Bristol,Junction 3 Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Bristol,Junction 3 Library,CHARGEX,CANCEL,10,0,0
-2018-12,Bristol,Junction 3 Library,LOST,CANCEL,150,710,0
-2018-12,Bristol,Junction 3 Library,LOST,CASH,10,30,30
-2018-12,Bristol,Junction 3 Library,OVERDUE,CASH,240,220,220
-2018-12,Bristol,Junction 3 Library,OVERDUE,FORGIVEN,40,40,0
-2018-12,Bristol,Junction 3 Library,OVERDUEX,CANCEL,0,10,0
-2018-12,Bristol,Junction 3 Library,OVERDUEX,CASH,0,0,0
-2018-12,Bristol,Junction 3 Library,REFERRAL,CASH,0,20,20
-2018-12,Bristol,Junction 3 Library,SALENOVAT,CANCEL,0,20,0
-2018-12,Bristol,Junction 3 Library,SALENOVAT,CASH,0,0,0
-2018-12,Bristol,Knowle Library,BFR,FORGIVEN,0,10,0
-2018-12,Bristol,Knowle Library,CHARGE,CASH,140,170,170
-2018-12,Bristol,Knowle Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Knowle Library,CHARGE,VOUCH,0,0,0
-2018-12,Bristol,Knowle Library,LOST,CANCEL,30,150,0
-2018-12,Bristol,Knowle Library,LOST,CASH,0,10,10
-2018-12,Bristol,Knowle Library,LOSTX,FORGIVEN,0,10,0
-2018-12,Bristol,Knowle Library,OVERDUE,CASH,180,110,110
-2018-12,Bristol,Knowle Library,OVERDUE,FORGIVEN,70,100,0
-2018-12,Bristol,Knowle Library,OVERDUEX,FORGIVEN,0,0,0
-2018-12,Bristol,Knowle Library,SALENOVAT,CASH,0,0,0
-2018-12,Bristol,Knowle Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Bristol,Lockleaze Library,LOST,CANCEL,10,30,0
-2018-12,Bristol,Lockleaze Library,OVERDUE,CASH,0,10,10
-2018-12,Bristol,Lockleaze Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Bristol,Marksbury Road Library,CHARGE,CASH,10,10,10
-2018-12,Bristol,Marksbury Road Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Marksbury Road Library,LOST,CANCEL,0,30,0
-2018-12,Bristol,Marksbury Road Library,OVERDUE,CASH,40,30,30
-2018-12,Bristol,Marksbury Road Library,OVERDUE,FORGIVEN,20,10,0
-2018-12,Bristol,Redland Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Redland Library,CHARGE,CASH,150,160,160
-2018-12,Bristol,Redland Library,CHARGE,CREDITCARD,50,40,40
-2018-12,Bristol,Redland Library,CHARGE,FORGIVEN,10,0,0
-2018-12,Bristol,Redland Library,CHARGE,NONE,0,0,0
-2018-12,Bristol,Redland Library,HOLD,CASH,0,0,0
-2018-12,Bristol,Redland Library,HOLD,CREDITCARD,0,20,20
-2018-12,Bristol,Redland Library,HOLDX,CASH,0,0,0
-2018-12,Bristol,Redland Library,HOLDX,CREDITCARD,0,0,0
-2018-12,Bristol,Redland Library,LOST,CANCEL,40,210,0
-2018-12,Bristol,Redland Library,LOST,CASH,0,20,20
-2018-12,Bristol,Redland Library,LOST,CREDITCARD,0,20,20
-2018-12,Bristol,Redland Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,Redland Library,OVERDUE,CASH,200,150,150
-2018-12,Bristol,Redland Library,OVERDUE,CREDITCARD,70,50,50
-2018-12,Bristol,Redland Library,OVERDUE,FORGIVEN,50,50,0
-2018-12,Bristol,Sea Mills Library,CHARGE,CASH,10,10,10
-2018-12,Bristol,Sea Mills Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Sea Mills Library,DAMAGE,CASH,0,10,10
-2018-12,Bristol,Sea Mills Library,LOST,CANCEL,20,90,0
-2018-12,Bristol,Sea Mills Library,OVERDUE,CANCEL,20,0,0
-2018-12,Bristol,Sea Mills Library,OVERDUE,CASH,90,60,60
-2018-12,Bristol,Sea Mills Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Bristol,Shirehampton Library,CHARGE,CASH,0,0,0
-2018-12,Bristol,Shirehampton Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Shirehampton Library,LOST,CANCEL,50,240,0
-2018-12,Bristol,Shirehampton Library,LOST,CASH,0,0,0
-2018-12,Bristol,Shirehampton Library,LOST,FORGIVEN,0,0,0
-2018-12,Bristol,Shirehampton Library,OVERDUE,CANCEL,10,20,0
-2018-12,Bristol,Shirehampton Library,OVERDUE,CASH,30,30,30
-2018-12,Bristol,Southmead Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Southmead Library,CHARGE,CASH,0,0,0
-2018-12,Bristol,Southmead Library,LOST,CANCEL,30,150,0
-2018-12,Bristol,Southmead Library,LOST,CASH,0,0,0
-2018-12,Bristol,Southmead Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,Southmead Library,OVERDUE,CASH,30,30,30
-2018-12,Bristol,Southmead Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Bristol,St George Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,St George Library,CHARGE,CASH,70,80,80
-2018-12,Bristol,St George Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Bristol,St George Library,CHARGEX,CASH,0,0,0
-2018-12,Bristol,St George Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,Bristol,St George Library,CREDIT,CASH,0,0,0
-2018-12,Bristol,St George Library,DAMAGE,CASH,0,0,0
-2018-12,Bristol,St George Library,HOLDX,CASH,0,0,0
-2018-12,Bristol,St George Library,HOLDX,FORGIVEN,0,0,0
-2018-12,Bristol,St George Library,LOST,CANCEL,70,310,0
-2018-12,Bristol,St George Library,LOST,FORGIVEN,10,20,0
-2018-12,Bristol,St George Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,St George Library,OVERDUE,CASH,240,170,170
-2018-12,Bristol,St George Library,OVERDUE,FORGIVEN,30,30,0
-2018-12,Bristol,St George Library,OVERDUEX,CASH,0,0,0
-2018-12,Bristol,St George Library,OVERDUEX,FORGIVEN,0,10,0
-2018-12,Bristol,St George Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Bristol,St Pauls Library,CHARGE,CASH,10,10,10
-2018-12,Bristol,St Pauls Library,CHARGEX,CASH,0,0,0
-2018-12,Bristol,St Pauls Library,LOST,CANCEL,40,150,0
-2018-12,Bristol,St Pauls Library,OVERDUE,CANCEL,10,40,0
-2018-12,Bristol,St Pauls Library,OVERDUE,CASH,30,30,30
-2018-12,Bristol,St Pauls Library,OVERDUE,FORGIVEN,10,30,0
-2018-12,Bristol,St Pauls Library,REFERRAL,CANCEL,0,10,0
-2018-12,Bristol,St Pauls Library,SALENOVAT,CASH,0,10,10
-2018-12,Bristol,Stockwood Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Stockwood Library,CHARGE,CASH,50,50,50
-2018-12,Bristol,Stockwood Library,LOST,CANCEL,0,10,0
-2018-12,Bristol,Stockwood Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,Stockwood Library,OVERDUE,CASH,60,30,30
-2018-12,Bristol,Stockwood Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Bristol,Westbury-on-Trym Library,BFR,FORGIVEN,0,20,0
-2018-12,Bristol,Westbury-on-Trym Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Westbury-on-Trym Library,CHARGE,CASH,70,80,80
-2018-12,Bristol,Westbury-on-Trym Library,CHARGE,FORGIVEN,10,20,0
-2018-12,Bristol,Westbury-on-Trym Library,CHARGE,NONE,0,0,0
-2018-12,Bristol,Westbury-on-Trym Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,Bristol,Westbury-on-Trym Library,DAMAGE,CASH,0,0,0
-2018-12,Bristol,Westbury-on-Trym Library,HOLDX,CANCEL,0,0,0
-2018-12,Bristol,Westbury-on-Trym Library,LOST,CANCEL,90,400,0
-2018-12,Bristol,Westbury-on-Trym Library,LOST,CASH,0,10,10
-2018-12,Bristol,Westbury-on-Trym Library,LOST,FORGIVEN,0,10,0
-2018-12,Bristol,Westbury-on-Trym Library,OVERDUE,CANCEL,0,0,0
-2018-12,Bristol,Westbury-on-Trym Library,OVERDUE,CASH,200,160,160
-2018-12,Bristol,Westbury-on-Trym Library,OVERDUE,FORGIVEN,10,40,0
-2018-12,Bristol,Westbury-on-Trym Library,REFERRAL,CASH,0,10,10
-2018-12,Bristol,Westbury-on-Trym Library,SALENOVAT,CASH,0,0,0
-2018-12,Bristol,Westbury-on-Trym Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Bristol,Whitchurch Library,CHARGE,CANCEL,0,0,0
-2018-12,Bristol,Whitchurch Library,CHARGE,CASH,20,30,30
-2018-12,Bristol,Whitchurch Library,DAMAGE,CANCEL,0,20,0
-2018-12,Bristol,Whitchurch Library,HOLDX,CANCEL,0,0,0
-2018-12,Bristol,Whitchurch Library,LOST,CANCEL,30,120,0
-2018-12,Bristol,Whitchurch Library,LOSTX,FORGIVEN,0,10,0
-2018-12,Bristol,Whitchurch Library,OVERDUE,CANCEL,10,10,0
-2018-12,Bristol,Whitchurch Library,OVERDUE,CASH,70,30,30
-2018-12,Bristol,Whitchurch Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Bristol,Whitchurch Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Bristol,Wick Road Library,CHARGE,CASH,50,60,60
-2018-12,Bristol,Wick Road Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Bristol,Wick Road Library,HOLDX,CASH,0,0,0
-2018-12,Bristol,Wick Road Library,LOST,CANCEL,50,200,0
-2018-12,Bristol,Wick Road Library,LOST,CASH,0,0,0
-2018-12,Bristol,Wick Road Library,OVERDUE,CASH,180,120,120
-2018-12,Bristol,Wick Road Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Bristol,Wick Road Library,OVERDUEX,CASH,0,0,0
-2018-12,Dorset,Beaminster Library,BFR,CASH,0,10,10
-2018-12,Dorset,Beaminster Library,LOST,CANCEL,10,20,0
-2018-12,Dorset,Beaminster Library,LOST,CASH,0,10,10
-2018-12,Dorset,Beaminster Library,OVERDUE,CASH,10,40,40
-2018-12,Dorset,Blandford Library,CHARGE,CANCEL,0,0,0
-2018-12,Dorset,Blandford Library,CHARGE,CASH,40,90,90
-2018-12,Dorset,Blandford Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Dorset,Blandford Library,ILL,CASH,0,10,10
-2018-12,Dorset,Blandford Library,LOST,CANCEL,40,190,0
-2018-12,Dorset,Blandford Library,OVERDUE,CASH,90,110,110
-2018-12,Dorset,Blandford Library,OVERDUE,FORGIVEN,160,130,0
-2018-12,Dorset,Blandford Library,OVERDUEX,CANCEL,0,0,0
-2018-12,Dorset,Blandford Library,OVERDUEX,CASH,0,0,0
-2018-12,Dorset,Blandford Library,SALENOVAT,CASH,0,10,10
-2018-12,Dorset,Bridport Library,CHARGE,CANCEL,0,10,0
-2018-12,Dorset,Bridport Library,CHARGE,CASH,110,280,280
-2018-12,Dorset,Bridport Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Dorset,Bridport Library,HOLD,CASH,0,0,0
-2018-12,Dorset,Bridport Library,LOST,CANCEL,30,150,0
-2018-12,Dorset,Bridport Library,LOST,CASH,0,10,10
-2018-12,Dorset,Bridport Library,OVERDUE,CANCEL,10,70,0
-2018-12,Dorset,Bridport Library,OVERDUE,CASH,160,130,130
-2018-12,Dorset,Bridport Library,OVERDUE,FORGIVEN,0,10,0
-2018-12,Dorset,Burton Bradstock Library,OVERDUE,CASH,10,10,10
-2018-12,Dorset,Charmouth Library,CHARGE,CASH,0,10,10
-2018-12,Dorset,Charmouth Library,LOST,CANCEL,0,20,0
-2018-12,Dorset,Charmouth Library,OVERDUE,CANCEL,0,10,0
-2018-12,Dorset,Charmouth Library,OVERDUE,CASH,10,10,10
-2018-12,Dorset,Chickerell Library,LOST,CANCEL,0,10,0
-2018-12,Dorset,Chickerell Library,OVERDUE,CASH,10,20,20
-2018-12,Dorset,Colehill Library,CHARGE,CASH,0,10,10
-2018-12,Dorset,Colehill Library,LOST,CANCEL,10,30,0
-2018-12,Dorset,Colehill Library,OVERDUE,CASH,40,20,20
-2018-12,Dorset,Colehill Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,Dorset,Corfe Castle Library,OVERDUE,CASH,10,0,0
-2018-12,Dorset,Corfe Mullen Library,CHARGE,CANCEL,0,0,0
-2018-12,Dorset,Corfe Mullen Library,CHARGE,CASH,20,30,30
-2018-12,Dorset,Corfe Mullen Library,HOLD,CASH,0,0,0
-2018-12,Dorset,Corfe Mullen Library,LOST,CANCEL,30,150,0
-2018-12,Dorset,Corfe Mullen Library,LOST,CASH,0,0,0
-2018-12,Dorset,Corfe Mullen Library,OVERDUE,CANCEL,0,0,0
-2018-12,Dorset,Corfe Mullen Library,OVERDUE,CASH,60,30,30
-2018-12,Dorset,Corfe Mullen Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,Dorset,Crossways Library,CHARGE,CASH,0,0,0
-2018-12,Dorset,Crossways Library,GROUP,CASH,0,50,50
-2018-12,Dorset,Crossways Library,HOLD,FORGIVEN,0,0,0
-2018-12,Dorset,Crossways Library,LOST,CANCEL,0,0,0
-2018-12,Dorset,Crossways Library,OVERDUE,CASH,10,10,10
-2018-12,Dorset,Crossways Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Dorset,Dorchester Library,CHARGE,CANCEL,10,10,0
-2018-12,Dorset,Dorchester Library,CHARGE,CASH,220,470,470
-2018-12,Dorset,Dorchester Library,CHARGE,FORGIVEN,10,20,0
-2018-12,Dorset,Dorchester Library,DAMAGE,CASH,0,0,0
-2018-12,Dorset,Dorchester Library,HOLD,CASH,0,0,0
-2018-12,Dorset,Dorchester Library,ILL,CASH,0,10,10
-2018-12,Dorset,Dorchester Library,LOST,CANCEL,90,410,0
-2018-12,Dorset,Dorchester Library,LOST,CASH,0,10,10
-2018-12,Dorset,Dorchester Library,LOSTCARD,CASH,0,10,10
-2018-12,Dorset,Dorchester Library,OVERDUE,CANCEL,30,40,0
-2018-12,Dorset,Dorchester Library,OVERDUE,CASH,280,290,290
-2018-12,Dorset,Dorchester Library,OVERDUE,FORGIVEN,50,60,0
-2018-12,Dorset,Dorchester Library,PRIVILEGE,CASH,10,10,10
-2018-12,Dorset,Ferndown Library,CHARGE,CANCEL,0,10,0
-2018-12,Dorset,Ferndown Library,CHARGE,CASH,50,100,100
-2018-12,Dorset,Ferndown Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Dorset,Ferndown Library,LOST,CANCEL,30,110,0
-2018-12,Dorset,Ferndown Library,LOST,CASH,0,20,20
-2018-12,Dorset,Ferndown Library,LOSTCARD,CASH,0,10,10
-2018-12,Dorset,Ferndown Library,OVERDUE,CANCEL,0,0,0
-2018-12,Dorset,Ferndown Library,OVERDUE,CASH,130,120,120
-2018-12,Dorset,Ferndown Library,OVERDUE,FORGIVEN,10,40,0
-2018-12,Dorset,Gillingham Library,CHARGE,CASH,70,150,150
-2018-12,Dorset,Gillingham Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Dorset,Gillingham Library,ILL,CASH,0,10,10
-2018-12,Dorset,Gillingham Library,LOST,CANCEL,20,90,0
-2018-12,Dorset,Gillingham Library,LOST,CASH,0,0,0
-2018-12,Dorset,Gillingham Library,OVERDUE,CANCEL,20,20,0
-2018-12,Dorset,Gillingham Library,OVERDUE,CASH,100,90,90
-2018-12,Dorset,Gillingham Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Dorset,Littlemoor Library,CHARGE,CASH,10,20,20
-2018-12,Dorset,Littlemoor Library,CHARGE,FORGIVEN,0,10,0
-2018-12,Dorset,Littlemoor Library,LOST,CANCEL,30,120,0
-2018-12,Dorset,Littlemoor Library,LOST,CASH,0,0,0
-2018-12,Dorset,Littlemoor Library,OVERDUE,CASH,10,10,10
-2018-12,Dorset,Littlemoor Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Dorset,Lyme Regis Library,CHARGE,CANCEL,0,0,0
-2018-12,Dorset,Lyme Regis Library,CHARGE,CASH,10,10,10
-2018-12,Dorset,Lyme Regis Library,ILL,CASH,0,10,10
-2018-12,Dorset,Lyme Regis Library,LOST,CANCEL,0,20,0
-2018-12,Dorset,Lyme Regis Library,OVERDUE,CASH,30,30,30
-2018-12,Dorset,Lytchett Matravers Library,CHARGE,CANCEL,0,10,0
-2018-12,Dorset,Lytchett Matravers Library,CHARGE,CASH,20,50,50
-2018-12,Dorset,Lytchett Matravers Library,LOST,CANCEL,50,200,0
-2018-12,Dorset,Lytchett Matravers Library,LOST,CASH,0,0,0
-2018-12,Dorset,Lytchett Matravers Library,OVERDUE,CANCEL,10,10,0
-2018-12,Dorset,Lytchett Matravers Library,OVERDUE,CASH,30,30,30
-2018-12,Dorset,Lytchett Matravers Library,OVERDUE,FORGIVEN,0,10,0
-2018-12,Dorset,Lytchett Matravers Library,OVERDUEX,FORGIVEN,0,0,0
-2018-12,Dorset,Portland Tophill Library,BFR,CASH,0,10,10
-2018-12,Dorset,Portland Tophill Library,CHARGE,CASH,10,20,20
-2018-12,Dorset,Portland Tophill Library,LOST,CANCEL,0,10,0
-2018-12,Dorset,Portland Tophill Library,LOST,CASH,0,20,20
-2018-12,Dorset,Portland Tophill Library,OVERDUE,CANCEL,0,0,0
-2018-12,Dorset,Portland Tophill Library,OVERDUE,CASH,30,30,30
-2018-12,Dorset,Portland Tophill Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Dorset,Puddletown Library,LOST,CANCEL,0,20,0
-2018-12,Dorset,Puddletown Library,OVERDUE,CASH,0,0,0
-2018-12,Dorset,Shaftesbury Library,CHARGE,CANCEL,0,0,0
-2018-12,Dorset,Shaftesbury Library,CHARGE,CASH,40,90,90
-2018-12,Dorset,Shaftesbury Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Dorset,Shaftesbury Library,LOST,CANCEL,40,160,0
-2018-12,Dorset,Shaftesbury Library,OVERDUE,CASH,50,70,70
-2018-12,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,20,50,0
-2018-12,Dorset,Shaftesbury Library,PRIVILEGE,CASH,0,0,0
-2018-12,Dorset,Shaftesbury Library,SALENOVAT,CASH,0,0,0
-2018-12,Dorset,Shaftesbury Library,SALEVAT,CASH,0,0,0
-2018-12,Dorset,Sherborne Library,CHARGE,CASH,90,200,200
-2018-12,Dorset,Sherborne Library,CHARGE,FORGIVEN,10,20,0
-2018-12,Dorset,Sherborne Library,HOLD,CASH,0,0,0
-2018-12,Dorset,Sherborne Library,LOST,CANCEL,40,160,0
-2018-12,Dorset,Sherborne Library,LOST,CASH,0,10,10
-2018-12,Dorset,Sherborne Library,OVERDUE,CANCEL,0,0,0
-2018-12,Dorset,Sherborne Library,OVERDUE,CASH,170,120,120
-2018-12,Dorset,Sherborne Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Dorset,Stalbridge Library,CHARGE,CASH,10,10,10
-2018-12,Dorset,Stalbridge Library,LOST,CANCEL,0,0,0
-2018-12,Dorset,Stalbridge Library,OVERDUE,CASH,20,20,20
-2018-12,Dorset,Stalbridge Library,OVERDUE,FORGIVEN,0,10,0
-2018-12,Dorset,Sturminster Library,CHARGE,CASH,40,90,90
-2018-12,Dorset,Sturminster Library,HOLD,CASH,0,0,0
-2018-12,Dorset,Sturminster Library,LOST,CANCEL,20,80,0
-2018-12,Dorset,Sturminster Library,LOSTCARD,CASH,0,0,0
-2018-12,Dorset,Sturminster Library,OVERDUE,CANCEL,0,0,0
-2018-12,Dorset,Sturminster Library,OVERDUE,CASH,70,70,70
-2018-12,Dorset,Swanage Library,CHARGE,CANCEL,0,0,0
-2018-12,Dorset,Swanage Library,CHARGE,CASH,30,60,60
-2018-12,Dorset,Swanage Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Dorset,Swanage Library,LOST,CANCEL,10,60,0
-2018-12,Dorset,Swanage Library,LOST,CASH,0,10,10
-2018-12,Dorset,Swanage Library,LOST,FORGIVEN,0,10,0
-2018-12,Dorset,Swanage Library,OVERDUE,CASH,90,70,70
-2018-12,Dorset,Swanage Library,OVERDUE,FORGIVEN,20,10,0
-2018-12,Dorset,Swanage Library,PROCESSFEE,CASH,0,0,0
-2018-12,Dorset,Upton Library,CHARGE,CASH,10,10,10
-2018-12,Dorset,Upton Library,CHARGEX,CASH,0,0,0
-2018-12,Dorset,Upton Library,ILL,CASH,0,10,10
-2018-12,Dorset,Upton Library,LOST,CANCEL,0,20,0
-2018-12,Dorset,Upton Library,LOST,CASH,0,0,0
-2018-12,Dorset,Upton Library,OVERDUE,CANCEL,0,0,0
-2018-12,Dorset,Upton Library,OVERDUE,CASH,20,10,10
-2018-12,Dorset,Upton Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Dorset,Verwood Library,BFR,CANCEL,0,10,0
-2018-12,Dorset,Verwood Library,CHARGE,CANCEL,10,10,0
-2018-12,Dorset,Verwood Library,CHARGE,CASH,40,90,90
-2018-12,Dorset,Verwood Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Dorset,Verwood Library,LOST,CANCEL,50,210,0
-2018-12,Dorset,Verwood Library,LOST,FORGIVEN,0,10,0
-2018-12,Dorset,Verwood Library,LOSTCARD,CASH,0,0,0
-2018-12,Dorset,Verwood Library,OVERDUE,CANCEL,20,30,0
-2018-12,Dorset,Verwood Library,OVERDUE,CASH,60,50,50
-2018-12,Dorset,Verwood Library,OVERDUE,FORGIVEN,120,130,0
-2018-12,Dorset,Wareham Library,CHARGE,CANCEL,0,0,0
-2018-12,Dorset,Wareham Library,CHARGE,CASH,20,50,50
-2018-12,Dorset,Wareham Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Dorset,Wareham Library,HOLD,CASH,0,0,0
-2018-12,Dorset,Wareham Library,ILL,CASH,0,20,20
-2018-12,Dorset,Wareham Library,LOST,CANCEL,30,140,0
-2018-12,Dorset,Wareham Library,LOSTCARD,CASH,0,0,0
-2018-12,Dorset,Wareham Library,OVERDUE,CASH,70,60,60
-2018-12,Dorset,Wareham Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Dorset,Wareham Library,OVERDUEX,CASH,0,0,0
-2018-12,Dorset,West Moors Library,CHARGE,CASH,10,20,20
-2018-12,Dorset,West Moors Library,LOST,CANCEL,20,90,0
-2018-12,Dorset,West Moors Library,LOST,CHEQUE,0,10,10
-2018-12,Dorset,West Moors Library,OVERDUE,CASH,40,30,30
-2018-12,Dorset,West Moors Library,OVERDUE,FORGIVEN,10,50,0
-2018-12,Dorset,Weymouth Library,BFR,FORGIVEN,0,20,0
-2018-12,Dorset,Weymouth Library,CHARGE,CANCEL,0,0,0
-2018-12,Dorset,Weymouth Library,CHARGE,CASH,70,150,150
-2018-12,Dorset,Weymouth Library,CHARGE,FORGIVEN,10,20,0
-2018-12,Dorset,Weymouth Library,HOLD,CASH,0,0,0
-2018-12,Dorset,Weymouth Library,LOST,CANCEL,40,230,0
-2018-12,Dorset,Weymouth Library,LOST,CASH,0,20,20
-2018-12,Dorset,Weymouth Library,LOSTCARD,CASH,0,0,0
-2018-12,Dorset,Weymouth Library,OVERDUE,CASH,240,220,220
-2018-12,Dorset,Weymouth Library,OVERDUE,FORGIVEN,40,70,0
-2018-12,Dorset,Weymouth Library,OVERDUEX,CASH,0,10,10
-2018-12,Dorset,Wimborne Library,CHARGE,CANCEL,0,0,0
-2018-12,Dorset,Wimborne Library,CHARGE,CASH,80,180,180
-2018-12,Dorset,Wimborne Library,CHARGE,FORGIVEN,0,10,0
-2018-12,Dorset,Wimborne Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,Dorset,Wimborne Library,HOLD,CASH,0,0,0
-2018-12,Dorset,Wimborne Library,LOST,CANCEL,80,370,0
-2018-12,Dorset,Wimborne Library,LOST,CASH,0,0,0
-2018-12,Dorset,Wimborne Library,LOST,FORGIVEN,0,0,0
-2018-12,Dorset,Wimborne Library,LOSTCARD,CASH,0,0,0
-2018-12,Dorset,Wimborne Library,OVERDUE,CANCEL,0,0,0
-2018-12,Dorset,Wimborne Library,OVERDUE,CASH,200,220,220
-2018-12,Dorset,Wimborne Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Dorset,Wool Library,LOST,CANCEL,10,40,0
-2018-12,Dorset,Wool Library,OVERDUE,CASH,10,0,0
-2018-12,Dorset,Wyke Regis Library,CHARGE,CASH,0,10,10
-2018-12,Dorset,Wyke Regis Library,LOST,CANCEL,30,130,0
-2018-12,Dorset,Wyke Regis Library,OVERDUE,CASH,40,30,30
-2018-12,Dorset,Wyke Regis Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,North Somerset,Campus Library,CHARGE,CANCEL,0,0,0
-2018-12,North Somerset,Campus Library,CHARGE,CASH,70,100,100
-2018-12,North Somerset,Campus Library,CHARGE,DEBITCARD,10,10,10
-2018-12,North Somerset,Campus Library,CHARGE,FORGIVEN,20,20,0
-2018-12,North Somerset,Campus Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,North Somerset,Campus Library,LOST,CANCEL,10,60,0
-2018-12,North Somerset,Campus Library,LOST,CASH,0,10,10
-2018-12,North Somerset,Campus Library,LOST,DEBITCARD,0,10,10
-2018-12,North Somerset,Campus Library,LOST,FORGIVEN,0,0,0
-2018-12,North Somerset,Campus Library,OVERDUE,CANCEL,0,0,0
-2018-12,North Somerset,Campus Library,OVERDUE,CASH,230,120,120
-2018-12,North Somerset,Campus Library,OVERDUE,DEBITCARD,40,40,40
-2018-12,North Somerset,Campus Library,OVERDUE,FORGIVEN,70,110,0
-2018-12,North Somerset,Clevedon Library,CHARGE,CANCEL,10,20,0
-2018-12,North Somerset,Clevedon Library,CHARGE,CASH,150,210,210
-2018-12,North Somerset,Clevedon Library,CHARGE,FORGIVEN,0,0,0
-2018-12,North Somerset,Clevedon Library,CHARGEX,FORGIVEN,0,10,0
-2018-12,North Somerset,Clevedon Library,GROUP,CASH,0,20,20
-2018-12,North Somerset,Clevedon Library,HOLD,CANCEL,0,10,0
-2018-12,North Somerset,Clevedon Library,ILL,CASH,0,10,10
-2018-12,North Somerset,Clevedon Library,LOST,CANCEL,10,70,0
-2018-12,North Somerset,Clevedon Library,LOST,CASH,10,30,30
-2018-12,North Somerset,Clevedon Library,LOSTCARD,CASH,0,0,0
-2018-12,North Somerset,Clevedon Library,OVERDUE,CANCEL,50,20,0
-2018-12,North Somerset,Clevedon Library,OVERDUE,CASH,260,150,150
-2018-12,North Somerset,Clevedon Library,OVERDUE,CREDITACCT,0,0,0
-2018-12,North Somerset,Clevedon Library,OVERDUE,FORGIVEN,70,40,0
-2018-12,North Somerset,Clevedon Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,North Somerset,Congresbury Library,CHARGE,CANCEL,0,0,0
-2018-12,North Somerset,Congresbury Library,CHARGE,CASH,0,0,0
-2018-12,North Somerset,Congresbury Library,GROUP,CASH,0,10,10
-2018-12,North Somerset,Congresbury Library,OVERDUE,CANCEL,20,10,0
-2018-12,North Somerset,Congresbury Library,OVERDUE,CASH,30,10,10
-2018-12,North Somerset,Long Ashton Library,CHARGE,CANCEL,0,0,0
-2018-12,North Somerset,Long Ashton Library,CHARGE,CASH,40,70,70
-2018-12,North Somerset,Long Ashton Library,GROUP,CASH,0,10,10
-2018-12,North Somerset,Long Ashton Library,LOST,CANCEL,10,60,0
-2018-12,North Somerset,Long Ashton Library,OVERDUE,CANCEL,20,20,0
-2018-12,North Somerset,Long Ashton Library,OVERDUE,CASH,120,50,50
-2018-12,North Somerset,Long Ashton Library,OVERDUE,FORGIVEN,30,10,0
-2018-12,North Somerset,N Som Healthy Living Centre,BFR,FORGIVEN,0,0,0
-2018-12,North Somerset,N Som Healthy Living Centre,CHARGE,CASH,20,40,40
-2018-12,North Somerset,N Som Healthy Living Centre,CHARGEX,CASH,0,0,0
-2018-12,North Somerset,N Som Healthy Living Centre,CREDIT,CASH,0,0,0
-2018-12,North Somerset,N Som Healthy Living Centre,GROUP,CASH,0,10,10
-2018-12,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,40,0
-2018-12,North Somerset,N Som Healthy Living Centre,LOST,CASH,0,10,10
-2018-12,North Somerset,N Som Healthy Living Centre,LOST,FORGIVEN,10,30,0
-2018-12,North Somerset,N Som Healthy Living Centre,LOSTCARD,CANCEL,0,0,0
-2018-12,North Somerset,N Som Healthy Living Centre,LOSTCARD,CASH,0,0,0
-2018-12,North Somerset,N Som Healthy Living Centre,OVERDUE,CANCEL,0,10,0
-2018-12,North Somerset,N Som Healthy Living Centre,OVERDUE,CASH,50,40,40
-2018-12,North Somerset,N Som Healthy Living Centre,OVERDUE,DEBITCARD,0,0,0
-2018-12,North Somerset,N Som Healthy Living Centre,OVERDUE,FORGIVEN,10,10,0
-2018-12,North Somerset,N Som Healthy Living Centre,OVERDUEX,CASH,0,0,0
-2018-12,North Somerset,Nailsea Library,BFR,CASH,0,10,10
-2018-12,North Somerset,Nailsea Library,CHARGE,CANCEL,0,10,0
-2018-12,North Somerset,Nailsea Library,CHARGE,CASH,140,220,220
-2018-12,North Somerset,Nailsea Library,CHARGE,FORGIVEN,0,10,0
-2018-12,North Somerset,Nailsea Library,CHARGEX,CASH,0,0,0
-2018-12,North Somerset,Nailsea Library,DAMAGE,CASH,0,10,10
-2018-12,North Somerset,Nailsea Library,GROUP,CASH,10,30,30
-2018-12,North Somerset,Nailsea Library,HOLD,CANCEL,0,0,0
-2018-12,North Somerset,Nailsea Library,LOST,CANCEL,20,130,0
-2018-12,North Somerset,Nailsea Library,LOST,CASH,0,10,10
-2018-12,North Somerset,Nailsea Library,OVERDUE,CANCEL,10,10,0
-2018-12,North Somerset,Nailsea Library,OVERDUE,CASH,540,250,250
-2018-12,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,20,60,0
-2018-12,North Somerset,Nailsea Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,North Somerset,North Somerset Mobile,CHARGE,CANCEL,30,70,0
-2018-12,North Somerset,Pill Library,CHARGE,CASH,10,0,0
-2018-12,North Somerset,Pill Library,GROUP,CASH,0,10,10
-2018-12,North Somerset,Pill Library,LOST,AUTOREFUND,0,10,10
-2018-12,North Somerset,Pill Library,LOST,CANCEL,0,10,0
-2018-12,North Somerset,Pill Library,OVERDUE,CANCEL,10,0,0
-2018-12,North Somerset,Pill Library,OVERDUE,CASH,50,20,20
-2018-12,North Somerset,Portishead Library,CHARGE,CANCEL,0,10,0
-2018-12,North Somerset,Portishead Library,CHARGE,CASH,150,230,230
-2018-12,North Somerset,Portishead Library,CHARGE,FORGIVEN,0,0,0
-2018-12,North Somerset,Portishead Library,GROUP,CASH,10,70,70
-2018-12,North Somerset,Portishead Library,LOST,CANCEL,10,30,0
-2018-12,North Somerset,Portishead Library,LOST,CASH,0,20,20
-2018-12,North Somerset,Portishead Library,LOST,FORGIVEN,0,30,0
-2018-12,North Somerset,Portishead Library,OVERDUE,CANCEL,50,70,0
-2018-12,North Somerset,Portishead Library,OVERDUE,CASH,300,230,230
-2018-12,North Somerset,Portishead Library,OVERDUE,FORGIVEN,20,10,0
-2018-12,North Somerset,Portishead Library,SALENOVAT,CANCEL,0,0,0
-2018-12,North Somerset,Weston-super-Mare Library,BFR,CANCEL,0,10,0
-2018-12,North Somerset,Weston-super-Mare Library,CHARGE,CANCEL,10,30,0
-2018-12,North Somerset,Weston-super-Mare Library,CHARGE,CASH,190,270,270
-2018-12,North Somerset,Weston-super-Mare Library,CREDIT,CASH,0,0,0
-2018-12,North Somerset,Weston-super-Mare Library,GROUP,CANCEL,0,10,0
-2018-12,North Somerset,Weston-super-Mare Library,GROUP,CASH,0,10,10
-2018-12,North Somerset,Weston-super-Mare Library,HOLD,CASH,0,0,0
-2018-12,North Somerset,Weston-super-Mare Library,HOLDX,CASH,0,0,0
-2018-12,North Somerset,Weston-super-Mare Library,ILL,CASH,0,10,10
-2018-12,North Somerset,Weston-super-Mare Library,LOST,AUTOREFUND,0,10,10
-2018-12,North Somerset,Weston-super-Mare Library,LOST,CANCEL,20,120,0
-2018-12,North Somerset,Weston-super-Mare Library,LOST,CASH,0,10,10
-2018-12,North Somerset,Weston-super-Mare Library,LOSTCARD,CASH,0,0,0
-2018-12,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,60,100,0
-2018-12,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,360,310,310
-2018-12,North Somerset,Weston-super-Mare Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,North Somerset,Weston-super-Mare Library,SALENOVAT,CANCEL,0,0,0
-2018-12,North Somerset,Winscombe Library,CHARGE,CANCEL,0,0,0
-2018-12,North Somerset,Winscombe Library,CHARGE,CASH,30,40,40
-2018-12,North Somerset,Winscombe Library,GROUP,CASH,0,20,20
-2018-12,North Somerset,Winscombe Library,HOLD,CASH,0,0,0
-2018-12,North Somerset,Winscombe Library,LOST,CANCEL,10,50,0
-2018-12,North Somerset,Winscombe Library,LOST,CASH,0,10,10
-2018-12,North Somerset,Winscombe Library,OVERDUE,CANCEL,0,10,0
-2018-12,North Somerset,Winscombe Library,OVERDUE,CASH,90,50,50
-2018-12,North Somerset,Winscombe Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,North Somerset,Winscombe Library,OVERDUEX,FORGIVEN,0,10,0
-2018-12,North Somerset,Worle Library,CHARGE,CASH,40,60,60
-2018-12,North Somerset,Worle Library,CHARGE,FORGIVEN,0,0,0
-2018-12,North Somerset,Worle Library,CREDIT,CASH,0,0,0
-2018-12,North Somerset,Worle Library,LOST,AUTOREFUND,0,10,10
-2018-12,North Somerset,Worle Library,LOST,CANCEL,10,60,0
-2018-12,North Somerset,Worle Library,OVERDUE,CANCEL,10,0,0
-2018-12,North Somerset,Worle Library,OVERDUE,CASH,120,70,70
-2018-12,North Somerset,Worle Library,OVERDUE,FORGIVEN,0,10,0
-2018-12,North Somerset,Yatton Library,CHARGE,CANCEL,0,0,0
-2018-12,North Somerset,Yatton Library,CHARGE,CASH,50,60,60
-2018-12,North Somerset,Yatton Library,GROUP,CASH,10,30,30
-2018-12,North Somerset,Yatton Library,HOLD,CASH,0,10,10
-2018-12,North Somerset,Yatton Library,LOST,CANCEL,10,50,0
-2018-12,North Somerset,Yatton Library,LOST,CASH,0,0,0
-2018-12,North Somerset,Yatton Library,OVERDUE,CANCEL,0,20,0
-2018-12,North Somerset,Yatton Library,OVERDUE,CASH,200,140,140
-2018-12,North Somerset,Yatton Library,OVERDUE,FORGIVEN,10,30,0
-2018-12,Poole,Branksome Library,CHARGE,CANCEL,0,0,0
-2018-12,Poole,Branksome Library,CHARGE,CASH,10,20,20
-2018-12,Poole,Branksome Library,HOLD,CASH,40,40,40
-2018-12,Poole,Branksome Library,OVERDUE,CANCEL,0,10,0
-2018-12,Poole,Branksome Library,OVERDUE,CASH,60,40,40
-2018-12,Poole,Branksome Library,OVERDUE,FORGIVEN,20,20,0
-2018-12,Poole,Broadstone Library,CHARGE,CANCEL,0,0,0
-2018-12,Poole,Broadstone Library,CHARGE,CASH,130,220,220
-2018-12,Poole,Broadstone Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Poole,Broadstone Library,CHARGE,VOUCH,0,0,0
-2018-12,Poole,Broadstone Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,Poole,Broadstone Library,HOLD,CANCEL,0,0,0
-2018-12,Poole,Broadstone Library,HOLD,CASH,120,110,110
-2018-12,Poole,Broadstone Library,HOLD,FORGIVEN,0,0,0
-2018-12,Poole,Broadstone Library,HOLD,VOUCH,0,0,0
-2018-12,Poole,Broadstone Library,HOLDX,CANCEL,0,0,0
-2018-12,Poole,Broadstone Library,OVERDUE,CASH,240,170,170
-2018-12,Poole,Broadstone Library,OVERDUE,FORGIVEN,30,50,0
-2018-12,Poole,Broadstone Library,OVERDUEX,CANCEL,0,0,0
-2018-12,Poole,Broadstone Library,OVERDUEX,FORGIVEN,0,0,0
-2018-12,Poole,Canford Cliffs Library,CHARGE,CANCEL,0,0,0
-2018-12,Poole,Canford Cliffs Library,CHARGE,CASH,20,40,40
-2018-12,Poole,Canford Cliffs Library,HOLD,CASH,120,120,120
-2018-12,Poole,Canford Cliffs Library,OVERDUE,CANCEL,0,0,0
-2018-12,Poole,Canford Cliffs Library,OVERDUE,CASH,80,50,50
-2018-12,Poole,Canford Heath Library,CHARGE,CASH,20,30,30
-2018-12,Poole,Canford Heath Library,HOLD,CASH,30,30,30
-2018-12,Poole,Canford Heath Library,OVERDUE,CANCEL,20,40,0
-2018-12,Poole,Canford Heath Library,OVERDUE,CASH,80,120,120
-2018-12,Poole,Creekmoor Library,CHARGE,CANCEL,0,0,0
-2018-12,Poole,Creekmoor Library,CHARGE,CASH,10,20,20
-2018-12,Poole,Creekmoor Library,HOLD,CASH,10,10,10
-2018-12,Poole,Creekmoor Library,LOST,CANCEL,0,10,0
-2018-12,Poole,Creekmoor Library,LOSTCARD,CASH,0,0,0
-2018-12,Poole,Creekmoor Library,OVERDUE,CANCEL,20,20,0
-2018-12,Poole,Creekmoor Library,OVERDUE,CASH,30,40,40
-2018-12,Poole,Creekmoor Library,OVERDUE,FORGIVEN,30,30,0
-2018-12,Poole,Creekmoor Library,OVERDUEX,CANCEL,0,0,0
-2018-12,Poole,Hamworthy Library,CHARGE,CASH,20,20,20
-2018-12,Poole,Hamworthy Library,HOLD,CASH,20,20,20
-2018-12,Poole,Hamworthy Library,LOST,CASH,0,0,0
-2018-12,Poole,Hamworthy Library,MISC,CASH,0,10,10
-2018-12,Poole,Hamworthy Library,OVERDUE,CASH,40,40,40
-2018-12,Poole,Hamworthy Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Poole,Hamworthy Library,OVERDUEX,CASH,10,10,10
-2018-12,Poole,Oakdale Library,CHARGE,CASH,10,20,20
-2018-12,Poole,Oakdale Library,HOLD,CASH,40,40,40
-2018-12,Poole,Oakdale Library,HOLD,FORGIVEN,0,0,0
-2018-12,Poole,Oakdale Library,OVERDUE,CASH,80,80,80
-2018-12,Poole,Oakdale Library,OVERDUE,FORGIVEN,0,10,0
-2018-12,Poole,Parkstone Library,CHARGE,CASH,20,30,30
-2018-12,Poole,Parkstone Library,CHARGE,FORGIVEN,0,10,0
-2018-12,Poole,Parkstone Library,HOLD,CANCEL,10,10,0
-2018-12,Poole,Parkstone Library,HOLD,CASH,70,70,70
-2018-12,Poole,Parkstone Library,HOLD,FORGIVEN,10,10,0
-2018-12,Poole,Parkstone Library,HOLDX,CASH,0,0,0
-2018-12,Poole,Parkstone Library,LOST,CANCEL,0,40,0
-2018-12,Poole,Parkstone Library,OVERDUE,CASH,60,30,30
-2018-12,Poole,Parkstone Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Poole,Poole Central Library,CHARGE,CASH,130,210,210
-2018-12,Poole,Poole Central Library,CHARGE,FORGIVEN,10,20,0
-2018-12,Poole,Poole Central Library,CHARGEX,CASH,0,0,0
-2018-12,Poole,Poole Central Library,HOLD,CASH,180,170,170
-2018-12,Poole,Poole Central Library,HOLD,FORGIVEN,10,10,0
-2018-12,Poole,Poole Central Library,LOST,CANCEL,0,10,0
-2018-12,Poole,Poole Central Library,LOST,CASH,0,10,10
-2018-12,Poole,Poole Central Library,LOSTCARD,CASH,0,10,10
-2018-12,Poole,Poole Central Library,OVERDUE,CANCEL,10,0,0
-2018-12,Poole,Poole Central Library,OVERDUE,CASH,400,520,520
-2018-12,Poole,Poole Central Library,OVERDUE,FORGIVEN,20,30,0
-2018-12,Poole,Poole Central Library,OVERDUEX,CASH,20,40,40
-2018-12,Poole,Poole Central Library,OVERDUEX,FORGIVEN,0,10,0
-2018-12,Poole,Poole Central Library,SALENOVAT,CASH,0,0,0
-2018-12,Poole,Poole Central Library,SALEVAT,CASH,0,0,0
-2018-12,Poole,Rossmore Library,CHARGE,CASH,20,30,30
-2018-12,Poole,Rossmore Library,HOLD,CANCEL,0,0,0
-2018-12,Poole,Rossmore Library,HOLD,CASH,20,20,20
-2018-12,Poole,Rossmore Library,OVERDUE,CASH,80,100,100
-2018-12,Poole,Rossmore Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Somerset,Bishops Lydeard Library,CHARGE,CASH,10,10,10
-2018-12,Somerset,Bishops Lydeard Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Bishops Lydeard Library,HOLD,CASH,20,20,20
-2018-12,Somerset,Bishops Lydeard Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Bishops Lydeard Library,LOST,CANCEL,10,20,0
-2018-12,Somerset,Bishops Lydeard Library,OVERDUE,CASH,20,20,20
-2018-12,Somerset,Bridgwater Library,CHARGE,CANCEL,10,20,0
-2018-12,Somerset,Bridgwater Library,CHARGE,CASH,90,170,170
-2018-12,Somerset,Bridgwater Library,CHARGE,DEBITCARD,0,10,10
-2018-12,Somerset,Bridgwater Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Somerset,Bridgwater Library,CREDIT,CASH,0,0,0
-2018-12,Somerset,Bridgwater Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Bridgwater Library,HOLD,CANCEL,10,10,0
-2018-12,Somerset,Bridgwater Library,HOLD,CASH,100,100,100
-2018-12,Somerset,Bridgwater Library,HOLD,DEBITCARD,10,10,10
-2018-12,Somerset,Bridgwater Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Bridgwater Library,HOLDX,CANCEL,10,10,0
-2018-12,Somerset,Bridgwater Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Bridgwater Library,LOST,CANCEL,40,210,0
-2018-12,Somerset,Bridgwater Library,LOST,CASH,0,0,0
-2018-12,Somerset,Bridgwater Library,LOST,DEBITCARD,0,20,20
-2018-12,Somerset,Bridgwater Library,LOSTCARD,CASH,10,10,10
-2018-12,Somerset,Bridgwater Library,LOSTX,CANCEL,0,10,0
-2018-12,Somerset,Bridgwater Library,OVERDUE,CANCEL,10,10,0
-2018-12,Somerset,Bridgwater Library,OVERDUE,CASH,240,280,280
-2018-12,Somerset,Bridgwater Library,OVERDUE,DEBITCARD,60,100,100
-2018-12,Somerset,Bridgwater Library,OVERDUE,FORGIVEN,20,50,0
-2018-12,Somerset,Bridgwater Library,OVERDUEX,CANCEL,0,0,0
-2018-12,Somerset,Bruton Library,CHARGE,CASH,10,10,10
-2018-12,Somerset,Bruton Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Somerset,Bruton Library,HOLD,CASH,30,30,30
-2018-12,Somerset,Bruton Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Bruton Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Bruton Library,LOST,CASH,0,10,10
-2018-12,Somerset,Bruton Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Bruton Library,OVERDUE,CASH,50,10,10
-2018-12,Somerset,Bruton Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Somerset,Burnham Library,CHARGE,CANCEL,10,10,0
-2018-12,Somerset,Burnham Library,CHARGE,CASH,90,190,190
-2018-12,Somerset,Burnham Library,CHARGE,DEBITCARD,10,10,10
-2018-12,Somerset,Burnham Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Burnham Library,HOLD,CASH,140,130,130
-2018-12,Somerset,Burnham Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Burnham Library,LOST,CANCEL,40,190,0
-2018-12,Somerset,Burnham Library,LOST,CASH,0,30,30
-2018-12,Somerset,Burnham Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Burnham Library,OVERDUE,CANCEL,0,10,0
-2018-12,Somerset,Burnham Library,OVERDUE,CASH,140,80,80
-2018-12,Somerset,Burnham Library,OVERDUE,DEBITCARD,10,40,40
-2018-12,Somerset,Burnham Library,OVERDUE,FORGIVEN,20,30,0
-2018-12,Somerset,Burnham Library,SALEVAT,FORGIVEN,0,0,0
-2018-12,Somerset,Castle Cary Library,CHARGE,CASH,20,30,30
-2018-12,Somerset,Castle Cary Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Somerset,Castle Cary Library,GROUP,CASH,0,20,20
-2018-12,Somerset,Castle Cary Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Castle Cary Library,HOLD,CASH,60,60,60
-2018-12,Somerset,Castle Cary Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Castle Cary Library,LOST,CANCEL,0,0,0
-2018-12,Somerset,Castle Cary Library,OVERDUE,CASH,50,30,30
-2018-12,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Somerset,Chard Library,CHARGE,CANCEL,0,10,0
-2018-12,Somerset,Chard Library,CHARGE,CASH,40,70,70
-2018-12,Somerset,Chard Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Somerset,Chard Library,GROUP,CANCEL,0,10,0
-2018-12,Somerset,Chard Library,GROUP,CASH,10,40,40
-2018-12,Somerset,Chard Library,HOLD,CANCEL,10,10,0
-2018-12,Somerset,Chard Library,HOLD,CASH,90,100,100
-2018-12,Somerset,Chard Library,LOST,CANCEL,10,60,0
-2018-12,Somerset,Chard Library,LOST,CASH,0,0,0
-2018-12,Somerset,Chard Library,OVERDUE,CANCEL,30,30,0
-2018-12,Somerset,Chard Library,OVERDUE,CASH,110,60,60
-2018-12,Somerset,Chard Library,OVERDUE,DEBITCARD,20,30,30
-2018-12,Somerset,Chard Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,Somerset,Chard Library,OVERDUEX,CANCEL,10,20,0
-2018-12,Somerset,Cheddar Library,CHARGE,CASH,40,90,90
-2018-12,Somerset,Cheddar Library,CHARGE,CREDITCARD,10,20,20
-2018-12,Somerset,Cheddar Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Somerset,Cheddar Library,GROUP,CASH,0,20,20
-2018-12,Somerset,Cheddar Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Cheddar Library,HOLD,CASH,90,90,90
-2018-12,Somerset,Cheddar Library,HOLD,CREDITCARD,0,0,0
-2018-12,Somerset,Cheddar Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Cheddar Library,LOST,CANCEL,10,40,0
-2018-12,Somerset,Cheddar Library,LOST,CASH,0,10,10
-2018-12,Somerset,Cheddar Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Cheddar Library,OVERDUE,CASH,110,50,50
-2018-12,Somerset,Cheddar Library,OVERDUE,CREDITCARD,10,10,10
-2018-12,Somerset,Cheddar Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Somerset,Crewkerne Library,CHARGE,CANCEL,0,10,0
-2018-12,Somerset,Crewkerne Library,CHARGE,CASH,60,120,120
-2018-12,Somerset,Crewkerne Library,CHARGE,FORGIVEN,0,10,0
-2018-12,Somerset,Crewkerne Library,GROUP,CASH,0,20,20
-2018-12,Somerset,Crewkerne Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Crewkerne Library,HOLD,CASH,110,110,110
-2018-12,Somerset,Crewkerne Library,ILL,CASH,0,0,0
-2018-12,Somerset,Crewkerne Library,LOST,CANCEL,10,60,0
-2018-12,Somerset,Crewkerne Library,LOST,CASH,0,10,10
-2018-12,Somerset,Crewkerne Library,LOSTCARD,CASH,0,10,10
-2018-12,Somerset,Crewkerne Library,OVERDUE,CANCEL,10,10,0
-2018-12,Somerset,Crewkerne Library,OVERDUE,CASH,240,120,120
-2018-12,Somerset,Crewkerne Library,OVERDUE,DEBITCARD,10,10,10
-2018-12,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,Somerset,Dulverton Library,CHARGE,CASH,10,20,20
-2018-12,Somerset,Dulverton Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,Somerset,Dulverton Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Dulverton Library,HOLD,CASH,50,50,50
-2018-12,Somerset,Dulverton Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Dulverton Library,LOST,CANCEL,0,10,0
-2018-12,Somerset,Dulverton Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Dulverton Library,OVERDUE,CANCEL,0,10,0
-2018-12,Somerset,Dulverton Library,OVERDUE,CASH,60,40,40
-2018-12,Somerset,Frome Library,CHARGE,CANCEL,20,50,0
-2018-12,Somerset,Frome Library,CHARGE,CASH,280,540,540
-2018-12,Somerset,Frome Library,CHARGE,DEBITCARD,30,70,70
-2018-12,Somerset,Frome Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Somerset,Frome Library,CHARGEX,CASH,0,10,10
-2018-12,Somerset,Frome Library,CHARGEX,DEBITCARD,0,0,0
-2018-12,Somerset,Frome Library,CREDIT,CASH,0,0,0
-2018-12,Somerset,Frome Library,GROUP,CANCEL,0,10,0
-2018-12,Somerset,Frome Library,GROUP,CASH,10,70,70
-2018-12,Somerset,Frome Library,GROUP,CREDITCARD,0,10,10
-2018-12,Somerset,Frome Library,GROUP,DEBITCARD,0,10,10
-2018-12,Somerset,Frome Library,HOLD,CASH,270,270,270
-2018-12,Somerset,Frome Library,HOLD,DEBITCARD,40,40,40
-2018-12,Somerset,Frome Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Frome Library,HOLDX,DEBITCARD,0,0,0
-2018-12,Somerset,Frome Library,HOLDX,FORGIVEN,0,0,0
-2018-12,Somerset,Frome Library,LOST,CANCEL,80,410,0
-2018-12,Somerset,Frome Library,LOST,CASH,10,30,30
-2018-12,Somerset,Frome Library,LOST,DEBITCARD,0,0,0
-2018-12,Somerset,Frome Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Frome Library,LOSTCARD,DEBITCARD,0,0,0
-2018-12,Somerset,Frome Library,OVERDUE,CANCEL,20,40,0
-2018-12,Somerset,Frome Library,OVERDUE,CASH,580,470,470
-2018-12,Somerset,Frome Library,OVERDUE,CREDITCARD,10,30,30
-2018-12,Somerset,Frome Library,OVERDUE,DEBITCARD,130,160,160
-2018-12,Somerset,Frome Library,OVERDUE,FORGIVEN,20,10,0
-2018-12,Somerset,Frome Library,OVERDUEX,CASH,0,0,0
-2018-12,Somerset,Frome Library,SALENOVAT,CASH,0,0,0
-2018-12,Somerset,Glastonbury Library,CHARGE,CANCEL,0,0,0
-2018-12,Somerset,Glastonbury Library,CHARGE,CASH,150,310,310
-2018-12,Somerset,Glastonbury Library,CHARGE,CREDITCARD,0,0,0
-2018-12,Somerset,Glastonbury Library,CHARGE,DEBITCARD,10,40,40
-2018-12,Somerset,Glastonbury Library,HOLD,CASH,130,140,140
-2018-12,Somerset,Glastonbury Library,HOLD,CREDITCARD,0,0,0
-2018-12,Somerset,Glastonbury Library,HOLD,DEBITCARD,10,0,0
-2018-12,Somerset,Glastonbury Library,LOST,CANCEL,10,140,0
-2018-12,Somerset,Glastonbury Library,LOST,CASH,0,10,10
-2018-12,Somerset,Glastonbury Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Glastonbury Library,OVERDUE,CASH,170,160,160
-2018-12,Somerset,Glastonbury Library,OVERDUE,CREDITCARD,0,0,0
-2018-12,Somerset,Glastonbury Library,OVERDUE,DEBITCARD,30,10,10
-2018-12,Somerset,Glastonbury Library,OVERDUE,FORGIVEN,0,10,0
-2018-12,Somerset,Glastonbury Library,OVERDUEX,CASH,0,0,0
-2018-12,Somerset,Glastonbury Library,SALENOVAT,CASH,0,0,0
-2018-12,Somerset,Highbridge Library,HOLD,CASH,10,10,10
-2018-12,Somerset,Highbridge Library,LOST,CASH,0,10,10
-2018-12,Somerset,Highbridge Library,OVERDUE,CANCEL,0,0,0
-2018-12,Somerset,Highbridge Library,OVERDUE,CASH,10,0,0
-2018-12,Somerset,Highbridge Library,OVERDUE,FORGIVEN,10,0,0
-2018-12,Somerset,Ilminster Library,CHARGE,CASH,10,20,20
-2018-12,Somerset,Ilminster Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Ilminster Library,HOLD,CASH,80,90,90
-2018-12,Somerset,Ilminster Library,LOST,CANCEL,10,20,0
-2018-12,Somerset,Ilminster Library,OVERDUE,CANCEL,10,10,0
-2018-12,Somerset,Ilminster Library,OVERDUE,CASH,80,40,40
-2018-12,Somerset,Ilminster Library,OVERDUE,FORGIVEN,0,10,0
-2018-12,Somerset,Langport Library,CHARGE,CANCEL,0,0,0
-2018-12,Somerset,Langport Library,CHARGE,CASH,100,200,200
-2018-12,Somerset,Langport Library,GROUP,CASH,0,20,20
-2018-12,Somerset,Langport Library,HOLD,CASH,120,120,120
-2018-12,Somerset,Langport Library,HOLD,CREDITACCT,0,0,0
-2018-12,Somerset,Langport Library,LOST,CANCEL,30,140,0
-2018-12,Somerset,Langport Library,LOST,CASH,0,0,0
-2018-12,Somerset,Langport Library,OVERDUE,CANCEL,0,0,0
-2018-12,Somerset,Langport Library,OVERDUE,CASH,150,120,120
-2018-12,Somerset,Langport Library,OVERDUE,FORGIVEN,20,20,0
-2018-12,Somerset,Langport Library,SALENOVAT,CASH,0,0,0
-2018-12,Somerset,Martock Library,CHARGE,CANCEL,0,0,0
-2018-12,Somerset,Martock Library,CHARGE,CASH,60,130,130
-2018-12,Somerset,Martock Library,GROUP,CANCEL,0,10,0
-2018-12,Somerset,Martock Library,GROUP,CASH,0,20,20
-2018-12,Somerset,Martock Library,HOLD,CASH,80,90,90
-2018-12,Somerset,Martock Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Martock Library,LOST,CANCEL,10,40,0
-2018-12,Somerset,Martock Library,LOST,CASH,0,10,10
-2018-12,Somerset,Martock Library,LOST,DEBITCARD,0,0,0
-2018-12,Somerset,Martock Library,OVERDUE,CANCEL,10,10,0
-2018-12,Somerset,Martock Library,OVERDUE,CASH,130,80,80
-2018-12,Somerset,Martock Library,OVERDUE,DEBITCARD,20,10,10
-2018-12,Somerset,Milborne Port Library,CHARGE,CASH,0,10,10
-2018-12,Somerset,Milborne Port Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Milborne Port Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Milborne Port Library,HOLD,CASH,0,0,0
-2018-12,Somerset,Milborne Port Library,LOST,CANCEL,0,0,0
-2018-12,Somerset,Milborne Port Library,OVERDUE,CANCEL,0,0,0
-2018-12,Somerset,Milborne Port Library,OVERDUE,CASH,20,10,10
-2018-12,Somerset,Milborne Port Library,OVERDUE,FORGIVEN,10,0,0
-2018-12,Somerset,Minehead Library,CHARGE,CASH,80,160,160
-2018-12,Somerset,Minehead Library,CHARGE,DEBITCARD,0,0,0
-2018-12,Somerset,Minehead Library,GROUP,CASH,10,30,30
-2018-12,Somerset,Minehead Library,HOLD,CASH,180,180,180
-2018-12,Somerset,Minehead Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Minehead Library,LOST,CANCEL,0,20,0
-2018-12,Somerset,Minehead Library,LOST,CASH,0,20,20
-2018-12,Somerset,Minehead Library,LOSTCARD,CASH,0,10,10
-2018-12,Somerset,Minehead Library,OVERDUE,CASH,210,140,140
-2018-12,Somerset,Minehead Library,OVERDUE,DEBITCARD,10,20,20
-2018-12,Somerset,Minehead Library,OVERDUE,FORGIVEN,10,0,0
-2018-12,Somerset,Nether Stowey Library,CHARGE,CASH,10,10,10
-2018-12,Somerset,Nether Stowey Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Nether Stowey Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Nether Stowey Library,HOLD,CASH,30,30,30
-2018-12,Somerset,Nether Stowey Library,LOST,CANCEL,30,110,0
-2018-12,Somerset,Nether Stowey Library,OVERDUE,CANCEL,10,10,0
-2018-12,Somerset,Nether Stowey Library,OVERDUE,CASH,40,30,30
-2018-12,Somerset,North Petherton Library,CHARGE,CANCEL,0,0,0
-2018-12,Somerset,North Petherton Library,CHARGE,CASH,0,0,0
-2018-12,Somerset,North Petherton Library,HOLD,CASH,20,20,20
-2018-12,Somerset,North Petherton Library,LOST,CANCEL,0,20,0
-2018-12,Somerset,North Petherton Library,LOST,CASH,0,0,0
-2018-12,Somerset,North Petherton Library,LOST,FORGIVEN,0,30,0
-2018-12,Somerset,North Petherton Library,OVERDUE,CASH,30,10,10
-2018-12,Somerset,Performing Arts Library Yeovil,LOST,CANCEL,0,110,0
-2018-12,Somerset,Performing Arts Library Yeovil,OVERDUE,CASH,10,10,10
-2018-12,Somerset,Porlock Library,CHARGE,CASH,10,20,20
-2018-12,Somerset,Porlock Library,GROUP,CASH,0,20,20
-2018-12,Somerset,Porlock Library,HOLD,CASH,20,20,20
-2018-12,Somerset,Porlock Library,OVERDUE,CASH,10,20,20
-2018-12,Somerset,Porlock Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Somerset,Priorswood Library,CHARGE,CASH,10,10,10
-2018-12,Somerset,Priorswood Library,GROUP,CANCEL,0,10,0
-2018-12,Somerset,Priorswood Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Priorswood Library,HOLD,CASH,10,10,10
-2018-12,Somerset,Priorswood Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Priorswood Library,LOST,CASH,0,0,0
-2018-12,Somerset,Priorswood Library,OVERDUE,CASH,100,40,40
-2018-12,Somerset,Priorswood Library,OVERDUE,DEBITCARD,10,20,20
-2018-12,Somerset,Priorswood Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Somerset,Shepton Mallet Library,CHARGE,CANCEL,10,10,0
-2018-12,Somerset,Shepton Mallet Library,CHARGE,CASH,60,130,130
-2018-12,Somerset,Shepton Mallet Library,CHARGE,DEBITCARD,0,10,10
-2018-12,Somerset,Shepton Mallet Library,GROUP,CANCEL,0,10,0
-2018-12,Somerset,Shepton Mallet Library,GROUP,CASH,10,30,30
-2018-12,Somerset,Shepton Mallet Library,HOLD,CANCEL,0,10,0
-2018-12,Somerset,Shepton Mallet Library,HOLD,CASH,110,120,120
-2018-12,Somerset,Shepton Mallet Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Shepton Mallet Library,LOST,CANCEL,30,150,0
-2018-12,Somerset,Shepton Mallet Library,LOST,CASH,0,0,0
-2018-12,Somerset,Shepton Mallet Library,LOSTCARD,CASH,0,10,10
-2018-12,Somerset,Shepton Mallet Library,OVERDUE,CANCEL,10,50,0
-2018-12,Somerset,Shepton Mallet Library,OVERDUE,CASH,110,100,100
-2018-12,Somerset,Shepton Mallet Library,OVERDUE,DEBITCARD,20,20,20
-2018-12,Somerset,Somerton Library,CHARGE,CANCEL,0,10,0
-2018-12,Somerset,Somerton Library,CHARGE,CASH,30,60,60
-2018-12,Somerset,Somerton Library,GROUP,CANCEL,0,10,0
-2018-12,Somerset,Somerton Library,GROUP,CASH,10,30,30
-2018-12,Somerset,Somerton Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Somerton Library,HOLD,CASH,90,80,80
-2018-12,Somerset,Somerton Library,LOST,CANCEL,30,120,0
-2018-12,Somerset,Somerton Library,LOST,CASH,10,10,10
-2018-12,Somerset,Somerton Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Somerton Library,OVERDUE,CANCEL,20,10,0
-2018-12,Somerset,Somerton Library,OVERDUE,CASH,180,140,140
-2018-12,Somerset,Somerton Library,OVERDUE,CREDITACCT,0,0,0
-2018-12,Somerset,Somerton Library,SALENOVAT,CANCEL,0,0,0
-2018-12,Somerset,South Petherton Library,CHARGE,CANCEL,0,0,0
-2018-12,Somerset,South Petherton Library,CHARGE,CASH,10,20,20
-2018-12,Somerset,South Petherton Library,GROUP,CASH,0,20,20
-2018-12,Somerset,South Petherton Library,HOLD,CASH,50,50,50
-2018-12,Somerset,South Petherton Library,LOST,CANCEL,0,0,0
-2018-12,Somerset,South Petherton Library,LOSTCARD,CASH,0,10,10
-2018-12,Somerset,South Petherton Library,OVERDUE,CANCEL,0,0,0
-2018-12,Somerset,South Petherton Library,OVERDUE,CASH,80,40,40
-2018-12,Somerset,South Petherton Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Somerset,Street Library,CHARGE,CANCEL,20,30,0
-2018-12,Somerset,Street Library,CHARGE,CASH,70,150,150
-2018-12,Somerset,Street Library,CHARGE,CREDITCARD,0,0,0
-2018-12,Somerset,Street Library,CHARGE,DEBITCARD,10,20,20
-2018-12,Somerset,Street Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Somerset,Street Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Street Library,HOLD,CASH,90,90,90
-2018-12,Somerset,Street Library,HOLD,DEBITCARD,40,30,30
-2018-12,Somerset,Street Library,LOST,CANCEL,20,70,0
-2018-12,Somerset,Street Library,LOST,CREDITCARD,0,10,10
-2018-12,Somerset,Street Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Street Library,OVERDUE,CANCEL,0,10,0
-2018-12,Somerset,Street Library,OVERDUE,CASH,220,130,130
-2018-12,Somerset,Street Library,OVERDUE,CREDITCARD,0,0,0
-2018-12,Somerset,Street Library,OVERDUE,DEBITCARD,20,20,20
-2018-12,Somerset,Street Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Somerset,Street Library,PRIVILEGE,CASH,0,0,0
-2018-12,Somerset,Street Library,SALENOVAT,CANCEL,0,0,0
-2018-12,Somerset,Street Library,SALENOVAT,CASH,0,0,0
-2018-12,Somerset,Street Library,SALENOVAT,DEBITCARD,0,0,0
-2018-12,Somerset,Sunningdale Library,CHARGE,CASH,0,0,0
-2018-12,Somerset,Sunningdale Library,HOLD,CASH,0,0,0
-2018-12,Somerset,Sunningdale Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Sunningdale Library,OVERDUE,CANCEL,10,10,0
-2018-12,Somerset,Sunningdale Library,OVERDUE,CASH,20,10,10
-2018-12,Somerset,Taunton Library,CHARGE,CANCEL,10,30,0
-2018-12,Somerset,Taunton Library,CHARGE,CASH,420,850,850
-2018-12,Somerset,Taunton Library,CHARGE,CREDITCARD,10,30,30
-2018-12,Somerset,Taunton Library,CHARGE,DEBITCARD,40,100,100
-2018-12,Somerset,Taunton Library,CHARGE,FORGIVEN,10,20,0
-2018-12,Somerset,Taunton Library,CHARGEX,CANCEL,10,10,0
-2018-12,Somerset,Taunton Library,CHARGEX,CASH,0,10,10
-2018-12,Somerset,Taunton Library,CREDIT,CASH,0,0,0
-2018-12,Somerset,Taunton Library,DAMAGE,CASH,0,20,20
-2018-12,Somerset,Taunton Library,DAMAGE,DEBITCARD,0,0,0
-2018-12,Somerset,Taunton Library,GROUP,CASH,20,90,90
-2018-12,Somerset,Taunton Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Taunton Library,HOLD,CASH,370,370,370
-2018-12,Somerset,Taunton Library,HOLD,CREDITACCT,0,0,0
-2018-12,Somerset,Taunton Library,HOLD,CREDITCARD,20,20,20
-2018-12,Somerset,Taunton Library,HOLD,DEBITCARD,70,70,70
-2018-12,Somerset,Taunton Library,HOLD,FORGIVEN,10,10,0
-2018-12,Somerset,Taunton Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Taunton Library,LOST,CANCEL,100,500,0
-2018-12,Somerset,Taunton Library,LOST,CASH,10,80,80
-2018-12,Somerset,Taunton Library,LOST,CREDITCARD,0,10,10
-2018-12,Somerset,Taunton Library,LOST,DEBITCARD,0,0,0
-2018-12,Somerset,Taunton Library,LOST,FORGIVEN,0,0,0
-2018-12,Somerset,Taunton Library,LOSTCARD,CASH,10,20,20
-2018-12,Somerset,Taunton Library,LOSTCARD,DEBITCARD,0,0,0
-2018-12,Somerset,Taunton Library,OVERDUE,CANCEL,70,40,0
-2018-12,Somerset,Taunton Library,OVERDUE,CASH,800,630,630
-2018-12,Somerset,Taunton Library,OVERDUE,CREDITCARD,30,40,40
-2018-12,Somerset,Taunton Library,OVERDUE,DEBITCARD,290,280,280
-2018-12,Somerset,Taunton Library,OVERDUE,FORGIVEN,50,50,0
-2018-12,Somerset,Taunton Library,OVERDUEX,CASH,0,0,0
-2018-12,Somerset,Taunton Library,OVERDUEX,DEBITCARD,0,0,0
-2018-12,Somerset,Taunton Library,OVERDUEX,FORGIVEN,10,20,0
-2018-12,Somerset,Taunton Library,SALENOVAT,CASH,0,0,0
-2018-12,Somerset,Taunton Library,SALENOVAT,DEBITCARD,0,0,0
-2018-12,Somerset,Taunton Library,SALEVAT,CASH,10,0,0
-2018-12,Somerset,Taunton Library,SALEVAT,DEBITCARD,0,30,30
-2018-12,Somerset,Taunton Mobile,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Taunton Mobile,LOST,CANCEL,0,10,0
-2018-12,Somerset,Taunton Mobile,OVERDUE,FORGIVEN,0,0,0
-2018-12,Somerset,Watchet Library,CHARGE,CASH,10,20,20
-2018-12,Somerset,Watchet Library,CHARGE,FORGIVEN,0,0,0
-2018-12,Somerset,Watchet Library,HOLD,CASH,30,20,20
-2018-12,Somerset,Watchet Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Watchet Library,LOST,CANCEL,0,10,0
-2018-12,Somerset,Watchet Library,OVERDUE,CANCEL,0,0,0
-2018-12,Somerset,Watchet Library,OVERDUE,CASH,30,20,20
-2018-12,Somerset,Wellington Library,CHARGE,CANCEL,0,10,0
-2018-12,Somerset,Wellington Library,CHARGE,CASH,100,200,200
-2018-12,Somerset,Wellington Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Somerset,Wellington Library,DAMAGE,CASH,0,10,10
-2018-12,Somerset,Wellington Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Wellington Library,HOLD,CASH,120,130,130
-2018-12,Somerset,Wellington Library,HOLD,DEBITCARD,10,10,10
-2018-12,Somerset,Wellington Library,HOLDX,CANCEL,0,0,0
-2018-12,Somerset,Wellington Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Wellington Library,LOST,CANCEL,20,100,0
-2018-12,Somerset,Wellington Library,LOST,CASH,0,20,20
-2018-12,Somerset,Wellington Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Wellington Library,OVERDUE,CANCEL,0,0,0
-2018-12,Somerset,Wellington Library,OVERDUE,CASH,220,200,200
-2018-12,Somerset,Wellington Library,OVERDUE,CREDITCARD,10,20,20
-2018-12,Somerset,Wellington Library,OVERDUE,DEBITCARD,30,50,50
-2018-12,Somerset,Wellington Library,OVERDUE,FORGIVEN,30,90,0
-2018-12,Somerset,Wells Library,CHARGE,CANCEL,10,20,0
-2018-12,Somerset,Wells Library,CHARGE,CASH,160,340,340
-2018-12,Somerset,Wells Library,CHARGE,CREDITCARD,10,10,10
-2018-12,Somerset,Wells Library,CHARGE,DEBITCARD,10,30,30
-2018-12,Somerset,Wells Library,CHARGE,FORGIVEN,0,10,0
-2018-12,Somerset,Wells Library,DAMAGE,CASH,0,10,10
-2018-12,Somerset,Wells Library,GROUP,CASH,10,40,40
-2018-12,Somerset,Wells Library,GROUP,CREDITCARD,0,10,10
-2018-12,Somerset,Wells Library,HOLD,CASH,180,180,180
-2018-12,Somerset,Wells Library,HOLD,DEBITCARD,20,20,20
-2018-12,Somerset,Wells Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Wells Library,LOST,CANCEL,20,110,0
-2018-12,Somerset,Wells Library,LOST,CASH,0,30,30
-2018-12,Somerset,Wells Library,LOST,DEBITCARD,0,0,0
-2018-12,Somerset,Wells Library,LOSTCARD,CANCEL,0,0,0
-2018-12,Somerset,Wells Library,LOSTCARD,CASH,0,0,0
-2018-12,Somerset,Wells Library,OVERDUE,CANCEL,0,10,0
-2018-12,Somerset,Wells Library,OVERDUE,CASH,280,200,200
-2018-12,Somerset,Wells Library,OVERDUE,CREDITCARD,10,10,10
-2018-12,Somerset,Wells Library,OVERDUE,DEBITCARD,90,110,110
-2018-12,Somerset,Wells Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,Somerset,Wells Library,SALENOVAT,CASH,0,0,0
-2018-12,Somerset,Wells Library,SALEVAT,CASH,0,0,0
-2018-12,Somerset,Williton Library,CHARGE,CANCEL,0,0,0
-2018-12,Somerset,Williton Library,CHARGE,CASH,30,70,70
-2018-12,Somerset,Williton Library,GROUP,CASH,0,10,10
-2018-12,Somerset,Williton Library,HOLD,CASH,80,90,90
-2018-12,Somerset,Williton Library,LOST,CANCEL,30,100,0
-2018-12,Somerset,Williton Library,LOST,CASH,0,0,0
-2018-12,Somerset,Williton Library,LOSTCARD,CASH,0,10,10
-2018-12,Somerset,Williton Library,OVERDUE,CANCEL,0,10,0
-2018-12,Somerset,Williton Library,OVERDUE,CASH,90,60,60
-2018-12,Somerset,Williton Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,Somerset,Wincanton Library,CHARGE,CANCEL,0,0,0
-2018-12,Somerset,Wincanton Library,CHARGE,CASH,30,60,60
-2018-12,Somerset,Wincanton Library,GROUP,CASH,10,50,50
-2018-12,Somerset,Wincanton Library,HOLD,CASH,110,110,110
-2018-12,Somerset,Wincanton Library,LOST,CANCEL,10,80,0
-2018-12,Somerset,Wincanton Library,OVERDUE,CANCEL,0,0,0
-2018-12,Somerset,Wincanton Library,OVERDUE,CASH,180,90,90
-2018-12,Somerset,Wincanton Library,OVERDUE,DEBITCARD,0,10,10
-2018-12,Somerset,Wincanton Library,OVERDUE,FORGIVEN,0,0,0
-2018-12,Somerset,Wiveliscombe Library,CHARGE,CANCEL,0,0,0
-2018-12,Somerset,Wiveliscombe Library,CHARGE,CASH,10,20,20
-2018-12,Somerset,Wiveliscombe Library,CHARGE,FORGIVEN,0,10,0
-2018-12,Somerset,Wiveliscombe Library,GROUP,CASH,0,20,20
-2018-12,Somerset,Wiveliscombe Library,HOLD,CASH,50,50,50
-2018-12,Somerset,Wiveliscombe Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Wiveliscombe Library,HOLDX,CANCEL,0,0,0
-2018-12,Somerset,Wiveliscombe Library,HOLDX,CASH,0,0,0
-2018-12,Somerset,Wiveliscombe Library,LOST,CANCEL,0,20,0
-2018-12,Somerset,Wiveliscombe Library,OVERDUE,CANCEL,0,10,0
-2018-12,Somerset,Wiveliscombe Library,OVERDUE,CASH,70,60,60
-2018-12,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,30,20,0
-2018-12,Somerset,Wiveliscombe Library,SALENOVAT,CASH,0,0,0
-2018-12,Somerset,Wiveliscombe Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,Somerset,Wiveliscombe Library,SALEVAT,FORGIVEN,0,0,0
-2018-12,Somerset,Yeovil Library,BFR,CASH,0,10,10
-2018-12,Somerset,Yeovil Library,CHARGE,CANCEL,10,20,0
-2018-12,Somerset,Yeovil Library,CHARGE,CASH,180,380,380
-2018-12,Somerset,Yeovil Library,CHARGE,DEBITCARD,10,20,20
-2018-12,Somerset,Yeovil Library,CHARGE,FORGIVEN,10,10,0
-2018-12,Somerset,Yeovil Library,CHARGEX,CASH,0,0,0
-2018-12,Somerset,Yeovil Library,DAMAGE,CASH,0,0,0
-2018-12,Somerset,Yeovil Library,DAMAGE,DEBITCARD,0,10,10
-2018-12,Somerset,Yeovil Library,GROUP,CASH,0,20,20
-2018-12,Somerset,Yeovil Library,GROUP,DEBITCARD,0,10,10
-2018-12,Somerset,Yeovil Library,HOLD,CANCEL,0,0,0
-2018-12,Somerset,Yeovil Library,HOLD,CASH,170,170,170
-2018-12,Somerset,Yeovil Library,HOLD,DEBITCARD,10,10,10
-2018-12,Somerset,Yeovil Library,HOLD,FORGIVEN,0,0,0
-2018-12,Somerset,Yeovil Library,HOLDX,CANCEL,0,0,0
-2018-12,Somerset,Yeovil Library,LOST,CANCEL,70,370,0
-2018-12,Somerset,Yeovil Library,LOSTCARD,CASH,10,20,20
-2018-12,Somerset,Yeovil Library,OVERDUE,CANCEL,20,10,0
-2018-12,Somerset,Yeovil Library,OVERDUE,CASH,420,330,330
-2018-12,Somerset,Yeovil Library,OVERDUE,CREDITCARD,0,10,10
-2018-12,Somerset,Yeovil Library,OVERDUE,DEBITCARD,40,100,100
-2018-12,Somerset,Yeovil Library,OVERDUE,FORGIVEN,50,60,0
-2018-12,Somerset,Yeovil Library,OVERDUEX,CANCEL,0,0,0
-2018-12,Somerset,Yeovil Library,OVERDUEX,CASH,10,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,CHARGE,CANCEL,10,10,0
-2018-12,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,190,250,250
-2018-12,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,CREDIT,CANCEL,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,CREDIT,CASH,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,10,20,20
-2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,170,120,120
-2018-12,South Gloucestershire,Bradley Stoke Library,HOLD,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,100,460,0
-2018-12,South Gloucestershire,Bradley Stoke Library,LOST,CASH,0,20,20
-2018-12,South Gloucestershire,Bradley Stoke Library,LOST,FORGIVEN,0,20,0
-2018-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,50,90,0
-2018-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,170,140,140
-2018-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,20,30,0
-2018-12,South Gloucestershire,Bradley Stoke Library,PROCESSFEE,CASH,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,SALENOVAT,CASH,0,0,0
-2018-12,South Gloucestershire,Bradley Stoke Library,SALEVAT,CASH,0,0,0
-2018-12,South Gloucestershire,Cadbury Heath Library,CHARGE,CANCEL,0,10,0
-2018-12,South Gloucestershire,Cadbury Heath Library,CHARGE,CASH,40,40,40
-2018-12,South Gloucestershire,Cadbury Heath Library,GROUP,CASH,0,0,0
-2018-12,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,30,20,20
-2018-12,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,10,60,0
-2018-12,South Gloucestershire,Cadbury Heath Library,LOST,CASH,0,10,10
-2018-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,CANCEL,0,0,0
-2018-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,CASH,60,30,30
-2018-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,South Gloucestershire,Chipping Sodbury Library,CHARGE,CASH,10,10,10
-2018-12,South Gloucestershire,Chipping Sodbury Library,HOLD,CASH,10,10,10
-2018-12,South Gloucestershire,Chipping Sodbury Library,OVERDUE,CASH,20,20,20
-2018-12,South Gloucestershire,Downend Library,CHARGE,CANCEL,10,10,0
-2018-12,South Gloucestershire,Downend Library,CHARGE,CASH,80,110,110
-2018-12,South Gloucestershire,Downend Library,CHARGE,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Downend Library,CHARGE,NONE,10,10,10
-2018-12,South Gloucestershire,Downend Library,CREDIT,CASH,0,0,0
-2018-12,South Gloucestershire,Downend Library,GROUP,CASH,10,30,30
-2018-12,South Gloucestershire,Downend Library,HOLD,CANCEL,0,0,0
-2018-12,South Gloucestershire,Downend Library,HOLD,CASH,50,40,40
-2018-12,South Gloucestershire,Downend Library,HOLDX,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Downend Library,LOST,CANCEL,40,210,0
-2018-12,South Gloucestershire,Downend Library,OVERDUE,CANCEL,20,30,0
-2018-12,South Gloucestershire,Downend Library,OVERDUE,CASH,100,50,50
-2018-12,South Gloucestershire,Downend Library,OVERDUE,CHEQUE,0,10,10
-2018-12,South Gloucestershire,Downend Library,OVERDUE,FORGIVEN,20,40,0
-2018-12,South Gloucestershire,Downend Library,OVERDUE,NONE,0,0,0
-2018-12,South Gloucestershire,Downend Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Emersons Green Library,CHARGE,CANCEL,20,20,0
-2018-12,South Gloucestershire,Emersons Green Library,CHARGE,CASH,90,110,110
-2018-12,South Gloucestershire,Emersons Green Library,CHARGE,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Emersons Green Library,GROUP,CASH,0,0,0
-2018-12,South Gloucestershire,Emersons Green Library,HOLD,CANCEL,0,10,0
-2018-12,South Gloucestershire,Emersons Green Library,HOLD,CASH,70,60,60
-2018-12,South Gloucestershire,Emersons Green Library,LOST,CANCEL,70,330,0
-2018-12,South Gloucestershire,Emersons Green Library,LOST,CASH,0,0,0
-2018-12,South Gloucestershire,Emersons Green Library,OVERDUE,CANCEL,30,50,0
-2018-12,South Gloucestershire,Emersons Green Library,OVERDUE,CASH,130,120,120
-2018-12,South Gloucestershire,Emersons Green Library,OVERDUE,FORGIVEN,10,40,0
-2018-12,South Gloucestershire,Emersons Green Library,SALENOVAT,CASH,0,0,0
-2018-12,South Gloucestershire,Emersons Green Library,SALEVAT,CASH,0,0,0
-2018-12,South Gloucestershire,Filton Library,CHARGE,CANCEL,0,0,0
-2018-12,South Gloucestershire,Filton Library,CHARGE,CASH,40,50,50
-2018-12,South Gloucestershire,Filton Library,GROUP,CASH,0,10,10
-2018-12,South Gloucestershire,Filton Library,HOLD,CANCEL,0,0,0
-2018-12,South Gloucestershire,Filton Library,HOLD,CASH,40,30,30
-2018-12,South Gloucestershire,Filton Library,LOST,CANCEL,40,190,0
-2018-12,South Gloucestershire,Filton Library,LOST,FORGIVEN,0,10,0
-2018-12,South Gloucestershire,Filton Library,OVERDUE,CANCEL,0,0,0
-2018-12,South Gloucestershire,Filton Library,OVERDUE,CASH,80,50,50
-2018-12,South Gloucestershire,Filton Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,South Gloucestershire,Filton Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Hanham Library,CHARGE,CANCEL,0,0,0
-2018-12,South Gloucestershire,Hanham Library,CHARGE,CASH,60,90,90
-2018-12,South Gloucestershire,Hanham Library,CHARGE,FORGIVEN,0,10,0
-2018-12,South Gloucestershire,Hanham Library,CHARGEX,CANCEL,0,0,0
-2018-12,South Gloucestershire,Hanham Library,GROUP,CANCEL,0,0,0
-2018-12,South Gloucestershire,Hanham Library,GROUP,CASH,0,10,10
-2018-12,South Gloucestershire,Hanham Library,HOLD,CANCEL,0,0,0
-2018-12,South Gloucestershire,Hanham Library,HOLD,CASH,80,60,60
-2018-12,South Gloucestershire,Hanham Library,HOLD,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Hanham Library,LOST,CANCEL,70,330,0
-2018-12,South Gloucestershire,Hanham Library,LOST,FORGIVEN,10,30,0
-2018-12,South Gloucestershire,Hanham Library,OVERDUE,CANCEL,30,30,0
-2018-12,South Gloucestershire,Hanham Library,OVERDUE,CASH,120,80,80
-2018-12,South Gloucestershire,Hanham Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,South Gloucestershire,Hanham Library,SALENOVAT,CASH,0,0,0
-2018-12,South Gloucestershire,Hanham Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Hanham Library,SALEVAT,CASH,0,0,0
-2018-12,South Gloucestershire,Hawkesbury Upton Community Library,LOST,CANCEL,0,40,0
-2018-12,South Gloucestershire,Kingswood Library,CHARGE,CANCEL,10,10,0
-2018-12,South Gloucestershire,Kingswood Library,CHARGE,CASH,60,70,70
-2018-12,South Gloucestershire,Kingswood Library,CHARGE,FORGIVEN,20,40,0
-2018-12,South Gloucestershire,Kingswood Library,HOLD,CANCEL,0,0,0
-2018-12,South Gloucestershire,Kingswood Library,HOLD,CASH,50,30,30
-2018-12,South Gloucestershire,Kingswood Library,HOLDX,CANCEL,0,0,0
-2018-12,South Gloucestershire,Kingswood Library,LOST,CANCEL,20,90,0
-2018-12,South Gloucestershire,Kingswood Library,LOST,CASH,0,10,10
-2018-12,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,10,50,0
-2018-12,South Gloucestershire,Kingswood Library,OVERDUE,CASH,100,80,80
-2018-12,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,10,20,0
-2018-12,South Gloucestershire,Kingswood Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Patchway Library,CHARGE,CANCEL,0,0,0
-2018-12,South Gloucestershire,Patchway Library,CHARGE,CASH,10,10,10
-2018-12,South Gloucestershire,Patchway Library,CHARGE,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Patchway Library,GROUP,CASH,0,0,0
-2018-12,South Gloucestershire,Patchway Library,HOLD,CANCEL,0,0,0
-2018-12,South Gloucestershire,Patchway Library,HOLD,CASH,30,20,20
-2018-12,South Gloucestershire,Patchway Library,HOLD,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Patchway Library,LOST,CANCEL,20,90,0
-2018-12,South Gloucestershire,Patchway Library,OVERDUE,CANCEL,0,10,0
-2018-12,South Gloucestershire,Patchway Library,OVERDUE,CASH,50,60,60
-2018-12,South Gloucestershire,Patchway Library,OVERDUE,FORGIVEN,10,10,0
-2018-12,South Gloucestershire,Staple Hill Library,CHARGE,CANCEL,10,10,0
-2018-12,South Gloucestershire,Staple Hill Library,CHARGE,CASH,70,100,100
-2018-12,South Gloucestershire,Staple Hill Library,CHARGE,FORGIVEN,0,10,0
-2018-12,South Gloucestershire,Staple Hill Library,CHARGEX,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Staple Hill Library,GROUP,CASH,0,0,0
-2018-12,South Gloucestershire,Staple Hill Library,HOLD,CANCEL,0,0,0
-2018-12,South Gloucestershire,Staple Hill Library,HOLD,CASH,60,40,40
-2018-12,South Gloucestershire,Staple Hill Library,LOST,CANCEL,20,100,0
-2018-12,South Gloucestershire,Staple Hill Library,LOST,CASH,0,10,10
-2018-12,South Gloucestershire,Staple Hill Library,OVERDUE,CANCEL,0,0,0
-2018-12,South Gloucestershire,Staple Hill Library,OVERDUE,CASH,100,60,60
-2018-12,South Gloucestershire,Staple Hill Library,OVERDUE,FORGIVEN,10,0,0
-2018-12,South Gloucestershire,Staple Hill Library,SALENOVAT,CASH,0,0,0
-2018-12,South Gloucestershire,Thornbury Library,CHARGE,CANCEL,20,20,0
-2018-12,South Gloucestershire,Thornbury Library,CHARGE,CASH,130,180,180
-2018-12,South Gloucestershire,Thornbury Library,CHARGE,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Thornbury Library,GROUP,CANCEL,0,10,0
-2018-12,South Gloucestershire,Thornbury Library,GROUP,CASH,10,30,30
-2018-12,South Gloucestershire,Thornbury Library,HOLD,CANCEL,0,0,0
-2018-12,South Gloucestershire,Thornbury Library,HOLD,CASH,180,140,140
-2018-12,South Gloucestershire,Thornbury Library,ILL,CASH,0,90,90
-2018-12,South Gloucestershire,Thornbury Library,ILL,CHEQUE,0,100,100
-2018-12,South Gloucestershire,Thornbury Library,LOST,CANCEL,40,220,0
-2018-12,South Gloucestershire,Thornbury Library,LOST,CASH,0,0,0
-2018-12,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,10,20,0
-2018-12,South Gloucestershire,Thornbury Library,OVERDUE,CASH,160,120,120
-2018-12,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,20,60,0
-2018-12,South Gloucestershire,Thornbury Library,OVERDUEX,CANCEL,0,10,0
-2018-12,South Gloucestershire,Thornbury Library,SALENOVAT,CANCEL,0,0,0
-2018-12,South Gloucestershire,Thornbury Library,SALENOVAT,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Winterbourne Library,CHARGE,CANCEL,0,10,0
-2018-12,South Gloucestershire,Winterbourne Library,CHARGE,CASH,10,10,10
-2018-12,South Gloucestershire,Winterbourne Library,CHARGE,FORGIVEN,0,0,0
-2018-12,South Gloucestershire,Winterbourne Library,GROUP,CASH,10,20,20
-2018-12,South Gloucestershire,Winterbourne Library,HOLD,CANCEL,10,0,0
-2018-12,South Gloucestershire,Winterbourne Library,HOLD,CASH,70,50,50
-2018-12,South Gloucestershire,Winterbourne Library,LOST,CANCEL,10,60,0
-2018-12,South Gloucestershire,Winterbourne Library,OVERDUE,CANCEL,10,0,0
-2018-12,South Gloucestershire,Winterbourne Library,OVERDUE,CASH,40,40,40
-2018-12,South Gloucestershire,Winterbourne Library,OVERDUE,FORGIVEN,10,30,0
-2018-12,South Gloucestershire,Yate Library,CHARGE,CANCEL,10,20,0
-2018-12,South Gloucestershire,Yate Library,CHARGE,CASH,140,210,210
-2018-12,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,20,30,0
-2018-12,South Gloucestershire,Yate Library,CREDIT,CASH,0,0,0
-2018-12,South Gloucestershire,Yate Library,GROUP,CASH,10,60,60
-2018-12,South Gloucestershire,Yate Library,HOLD,CANCEL,10,0,0
-2018-12,South Gloucestershire,Yate Library,HOLD,CASH,190,130,130
-2018-12,South Gloucestershire,Yate Library,HOLD,FORGIVEN,10,10,0
-2018-12,South Gloucestershire,Yate Library,HOLDX,CANCEL,0,0,0
-2018-12,South Gloucestershire,Yate Library,LOST,CANCEL,90,540,0
-2018-12,South Gloucestershire,Yate Library,LOST,CASH,10,30,30
-2018-12,South Gloucestershire,Yate Library,LOST,FORGIVEN,0,30,0
-2018-12,South Gloucestershire,Yate Library,LOSTX,CANCEL,0,70,0
-2018-12,South Gloucestershire,Yate Library,OVERDUE,CANCEL,10,10,0
-2018-12,South Gloucestershire,Yate Library,OVERDUE,CASH,250,220,220
-2018-12,South Gloucestershire,Yate Library,OVERDUE,FORGIVEN,70,180,0
-2018-12,South Gloucestershire,Yate Library,SALENOVAT,CANCEL,0,10,0
-2018-12,South Gloucestershire,Yate Library,SALEVAT,CASH,0,20,20
 2019-01,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,CANCEL,0,0,0
 2019-01,Bath and North East Somerset,B&NES Mobile Libraries,CHARGE,CASH,20,30,30
 2019-01,Bath and North East Somerset,B&NES Mobile Libraries,LOSTCARD,CASH,0,0,0
@@ -29183,3 +27766,1168 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-11,South Gloucestershire,Yate Library,SALENOVAT,CANCEL,0,0,0
 2020-11,South Gloucestershire,Yate Library,SALEVAT,CANCEL,0,20,0
 2020-11,South Gloucestershire,Yate Library,SALEVAT,PAYPAL,0,0,0
+2020-12,Bath and North East Somerset,Bath Central Library,CHARGE,CANCEL,10,10,0
+2020-12,Bath and North East Somerset,Bath Central Library,CHARGE,CREDITCARD,40,80,80
+2020-12,Bath and North East Somerset,Bath Central Library,CHARGE,FORGIVEN,10,20,0
+2020-12,Bath and North East Somerset,Bath Central Library,CHARGE,PAYPAL,0,10,10
+2020-12,Bath and North East Somerset,Bath Central Library,HOLD,CREDITCARD,0,0,0
+2020-12,Bath and North East Somerset,Bath Central Library,LOST,CANCEL,290,1950,0
+2020-12,Bath and North East Somerset,Bath Central Library,LOST,CASH,0,20,20
+2020-12,Bath and North East Somerset,Bath Central Library,LOST,CREDITCARD,0,10,10
+2020-12,Bath and North East Somerset,Bath Central Library,LOST,PAYPAL,0,20,20
+2020-12,Bath and North East Somerset,Bath Central Library,LOSTCARD,CASH,0,0,0
+2020-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CANCEL,30,20,0
+2020-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CASH,0,0,0
+2020-12,Bath and North East Somerset,Bath Central Library,OVERDUE,CREDITCARD,10,0,0
+2020-12,Bath and North East Somerset,Bath Central Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,Bath and North East Somerset,Bath Central Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Bath and North East Somerset,Bath Central Library,SALEVAT,FORGIVEN,0,0,0
+2020-12,Bath and North East Somerset,Bath Council Connect,LOST,CANCEL,0,10,0
+2020-12,Bath and North East Somerset,Bishop Sutton Community Library,LOST,CANCEL,20,120,0
+2020-12,Bath and North East Somerset,Bishop Sutton Community Library,LOST,FORGIVEN,0,20,0
+2020-12,Bath and North East Somerset,Bishop Sutton Community Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Bath and North East Somerset,Keynsham Library,CHARGE,CREDITCARD,10,10,10
+2020-12,Bath and North East Somerset,Keynsham Library,DAMAGE,CANCEL,0,20,0
+2020-12,Bath and North East Somerset,Keynsham Library,HOLD,FORGIVEN,0,0,0
+2020-12,Bath and North East Somerset,Keynsham Library,LOST,CANCEL,100,650,0
+2020-12,Bath and North East Somerset,Keynsham Library,LOST,FORGIVEN,0,40,0
+2020-12,Bath and North East Somerset,Keynsham Library,OVERDUE,CREDITCARD,0,0,0
+2020-12,Bath and North East Somerset,Midsomer Norton Library,CHARGE,CREDITCARD,20,30,30
+2020-12,Bath and North East Somerset,Midsomer Norton Library,CHARGE,PAYPAL,0,0,0
+2020-12,Bath and North East Somerset,Midsomer Norton Library,HOLD,CREDITCARD,0,0,0
+2020-12,Bath and North East Somerset,Midsomer Norton Library,LOST,CANCEL,130,740,0
+2020-12,Bath and North East Somerset,Midsomer Norton Library,LOST,CREDITCARD,0,20,20
+2020-12,Bath and North East Somerset,Midsomer Norton Library,LOST,PAYPAL,0,10,10
+2020-12,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,CREDITCARD,0,0,0
+2020-12,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,FORGIVEN,10,0,0
+2020-12,Bath and North East Somerset,Midsomer Norton Library,OVERDUE,PAYPAL,20,30,30
+2020-12,Bath and North East Somerset,Midsomer Norton Library,SALENOVAT,CREDITCARD,0,0,0
+2020-12,Bath and North East Somerset,Moorland Road Library,CHARGE,PAYPAL,0,0,0
+2020-12,Bath and North East Somerset,Moorland Road Library,LOST,CANCEL,40,240,0
+2020-12,Bath and North East Somerset,Moorland Road Library,LOST,FORGIVEN,0,20,0
+2020-12,Bath and North East Somerset,Moorland Road Library,LOST,PAYPAL,10,20,20
+2020-12,Bath and North East Somerset,Moorland Road Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Bath and North East Somerset,Paulton Library,LOST,CANCEL,10,30,0
+2020-12,Bath and North East Somerset,Radstock Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Bath and North East Somerset,Radstock Library,CHARGE,PAYPAL,0,0,0
+2020-12,Bath and North East Somerset,Radstock Library,LOST,CANCEL,0,20,0
+2020-12,Bath and North East Somerset,Saltford Library,LOST,CANCEL,0,30,0
+2020-12,Bath and North East Somerset,Weston (Bath) Library,LOST,CANCEL,0,10,0
+2020-12,Bristol,Bedminster Library,OVERDUE,CANCEL,10,10,0
+2020-12,Bristol,Bishopston Library,CHARGE,PAYPAL,0,0,0
+2020-12,Bristol,Bishopston Library,LOST,CANCEL,90,500,0
+2020-12,Bristol,Bishopston Library,LOST,CREDITCARD,0,10,10
+2020-12,Bristol,Bishopston Library,LOST,PAYPAL,0,10,10
+2020-12,Bristol,Bishopston Library,OVERDUE,CANCEL,530,380,0
+2020-12,Bristol,Bishopston Library,OVERDUE,CREDITCARD,10,0,0
+2020-12,Bristol,Bishopston Library,OVERDUE,FORGIVEN,10,30,0
+2020-12,Bristol,Bishopston Library,OVERDUE,PAYPAL,10,0,0
+2020-12,Bristol,Bishopsworth Library,OVERDUE,CANCEL,70,30,0
+2020-12,Bristol,Bristol Central Lending Library,CHARGE,CANCEL,0,0,0
+2020-12,Bristol,Bristol Central Lending Library,CHARGE,CASH,20,40,40
+2020-12,Bristol,Bristol Central Lending Library,CHARGE,CREDITCARD,20,20,20
+2020-12,Bristol,Bristol Central Lending Library,CHARGE,FORGIVEN,30,40,0
+2020-12,Bristol,Bristol Central Lending Library,CHARGE,PAYPAL,0,0,0
+2020-12,Bristol,Bristol Central Lending Library,LOST,CANCEL,70,560,0
+2020-12,Bristol,Bristol Central Lending Library,LOST,FORGIVEN,0,10,0
+2020-12,Bristol,Bristol Central Lending Library,LOST,PAYPAL,0,10,10
+2020-12,Bristol,Bristol Central Lending Library,OVERDUE,CANCEL,1800,2610,0
+2020-12,Bristol,Bristol Central Lending Library,OVERDUE,CASH,20,10,10
+2020-12,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,40,50,50
+2020-12,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,60,220,0
+2020-12,Bristol,Bristol Central Lending Library,OVERDUE,PAYPAL,50,30,30
+2020-12,Bristol,Bristol Central Lending Library,SALENOVAT,DEBITCARD,0,0,0
+2020-12,Bristol,Clifton Library,OVERDUE,CANCEL,70,50,0
+2020-12,Bristol,Filwood Library,OVERDUE,CANCEL,0,10,0
+2020-12,Bristol,Fishponds Library,CHARGE,CASH,10,10,10
+2020-12,Bristol,Fishponds Library,CHARGE,CREDITCARD,10,10,10
+2020-12,Bristol,Fishponds Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Bristol,Fishponds Library,CHARGE,PAYPAL,0,0,0
+2020-12,Bristol,Fishponds Library,LOST,CANCEL,40,260,0
+2020-12,Bristol,Fishponds Library,OVERDUE,CANCEL,200,260,0
+2020-12,Bristol,Fishponds Library,OVERDUE,FORGIVEN,10,30,0
+2020-12,Bristol,Henbury Library,CHARGE,CASH,0,10,10
+2020-12,Bristol,Henbury Library,CHARGE,FORGIVEN,10,10,0
+2020-12,Bristol,Henbury Library,CREDIT,FORGIVEN,0,0,0
+2020-12,Bristol,Henbury Library,LOST,CANCEL,0,0,0
+2020-12,Bristol,Henbury Library,OVERDUE,CANCEL,120,90,0
+2020-12,Bristol,Henbury Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Bristol,Henleaze Library,CHARGE,CASH,0,0,0
+2020-12,Bristol,Henleaze Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Bristol,Henleaze Library,CHARGE,PAYPAL,10,20,20
+2020-12,Bristol,Henleaze Library,LOST,CANCEL,50,310,0
+2020-12,Bristol,Henleaze Library,OVERDUE,CANCEL,310,270,0
+2020-12,Bristol,Henleaze Library,OVERDUE,FORGIVEN,20,30,0
+2020-12,Bristol,Henleaze Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Bristol,Hillfields Library,OVERDUE,CANCEL,0,10,0
+2020-12,Bristol,Horfield Library,OVERDUE,CANCEL,60,30,0
+2020-12,Bristol,Junction 3 Library,OVERDUE,CANCEL,160,200,0
+2020-12,Bristol,Knowle Library,OVERDUE,CANCEL,130,100,0
+2020-12,Bristol,Marksbury Road Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Bristol,Marksbury Road Library,LOST,CASH,0,10,10
+2020-12,Bristol,Marksbury Road Library,OVERDUE,CANCEL,30,10,0
+2020-12,Bristol,Marksbury Road Library,OVERDUE,CASH,20,10,10
+2020-12,Bristol,Marksbury Road Library,OVERDUE,FORGIVEN,10,0,0
+2020-12,Bristol,Redland Library,CHARGE,PAYPAL,0,0,0
+2020-12,Bristol,Redland Library,OVERDUE,CANCEL,220,180,0
+2020-12,Bristol,Redland Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Bristol,Sea Mills Library,OVERDUE,CANCEL,90,60,0
+2020-12,Bristol,Shirehampton Library,OVERDUE,CANCEL,50,40,0
+2020-12,Bristol,Southmead Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Bristol,St George Library,OVERDUE,CANCEL,10,40,0
+2020-12,Bristol,Stockwood Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Bristol,Stockwood Library,LOST,CANCEL,0,10,0
+2020-12,Bristol,Stockwood Library,OVERDUE,CANCEL,100,80,0
+2020-12,Bristol,Stockwood Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Bristol,Westbury-on-Trym Library,OVERDUE,CANCEL,0,0,0
+2020-12,Bristol,Whitchurch Library,OVERDUE,CANCEL,120,100,0
+2020-12,Bristol,Wick Road Library,OVERDUE,CANCEL,100,50,0
+2020-12,Dorset,Beaminster Library,LOST,CANCEL,0,10,0
+2020-12,Dorset,Beaminster Library,OVERDUE,CANCEL,0,10,0
+2020-12,Dorset,Beaminster Library,OVERDUE,CASH,0,0,0
+2020-12,Dorset,Beaminster Library,OVERDUE,FORGIVEN,0,10,0
+2020-12,Dorset,Blandford Library,CHARGE,CASH,10,20,20
+2020-12,Dorset,Blandford Library,CHARGE,PAYPAL,0,10,10
+2020-12,Dorset,Blandford Library,LOST,CANCEL,60,330,0
+2020-12,Dorset,Blandford Library,LOST,CASH,0,10,10
+2020-12,Dorset,Blandford Library,OVERDUE,CANCEL,0,0,0
+2020-12,Dorset,Blandford Library,OVERDUE,CASH,30,20,20
+2020-12,Dorset,Blandford Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Dorset,Blandford Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Dorset,Blandford Library,SALENOVAT,CASH,0,10,10
+2020-12,Dorset,Bridport Library,CHARGE,CANCEL,0,10,0
+2020-12,Dorset,Bridport Library,CHARGE,CASH,20,50,50
+2020-12,Dorset,Bridport Library,CHARGE,CREDITCARD,10,20,20
+2020-12,Dorset,Bridport Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Dorset,Bridport Library,CHARGE,PAYPAL,0,10,10
+2020-12,Dorset,Bridport Library,HOLD,CASH,10,10,10
+2020-12,Dorset,Bridport Library,LOST,CANCEL,100,640,0
+2020-12,Dorset,Bridport Library,LOST,CASH,0,40,40
+2020-12,Dorset,Bridport Library,LOST,FORGIVEN,0,20,0
+2020-12,Dorset,Bridport Library,OVERDUE,CANCEL,30,140,0
+2020-12,Dorset,Bridport Library,OVERDUE,CASH,40,40,40
+2020-12,Dorset,Bridport Library,OVERDUE,CREDITCARD,30,60,60
+2020-12,Dorset,Bridport Library,OVERDUE,FORGIVEN,10,50,0
+2020-12,Dorset,Bridport Library,OVERDUE,PAYPAL,0,10,10
+2020-12,Dorset,Bridport Library,SALENOVAT,CASH,0,0,0
+2020-12,Dorset,Bridport Library,SALEVAT,CREDITCARD,0,0,0
+2020-12,Dorset,Burton Bradstock Library,LOST,CANCEL,0,20,0
+2020-12,Dorset,Burton Bradstock Library,OVERDUE,CANCEL,10,30,0
+2020-12,Dorset,Burton Bradstock Library,OVERDUE,CASH,0,0,0
+2020-12,Dorset,Charmouth Library,OVERDUE,CASH,0,0,0
+2020-12,Dorset,Chickerell Library,LOST,CANCEL,0,10,0
+2020-12,Dorset,Chickerell Library,OVERDUE,CANCEL,0,20,0
+2020-12,Dorset,Chickerell Library,OVERDUE,CASH,0,0,0
+2020-12,Dorset,Colehill Library,CHARGE,CASH,0,0,0
+2020-12,Dorset,Colehill Library,LOST,CANCEL,30,150,0
+2020-12,Dorset,Colehill Library,OVERDUE,CASH,10,10,10
+2020-12,Dorset,Colehill Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Dorset,Corfe Castle Library,LOST,CANCEL,10,80,0
+2020-12,Dorset,Corfe Mullen Library,CHARGE,CASH,0,0,0
+2020-12,Dorset,Corfe Mullen Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Dorset,Corfe Mullen Library,HOLD,CASH,0,0,0
+2020-12,Dorset,Corfe Mullen Library,ILL,CASH,0,10,10
+2020-12,Dorset,Corfe Mullen Library,LOST,CANCEL,20,110,0
+2020-12,Dorset,Corfe Mullen Library,LOST,PAYPAL,0,10,10
+2020-12,Dorset,Corfe Mullen Library,OVERDUE,CANCEL,10,0,0
+2020-12,Dorset,Corfe Mullen Library,OVERDUE,CASH,10,0,0
+2020-12,Dorset,Corfe Mullen Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,Dorset,Corfe Mullen Library,OVERDUE,PAYPAL,0,10,10
+2020-12,Dorset,Corfe Mullen Library,SALEVAT,CANCEL,0,0,0
+2020-12,Dorset,Crossways Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Dorset,Crossways Library,LOST,CANCEL,10,90,0
+2020-12,Dorset,Crossways Library,LOST,FORGIVEN,0,10,0
+2020-12,Dorset,Crossways Library,OVERDUE,FORGIVEN,20,90,0
+2020-12,Dorset,Dorchester Library,CHARGE,CANCEL,0,0,0
+2020-12,Dorset,Dorchester Library,CHARGE,CASH,20,50,50
+2020-12,Dorset,Dorchester Library,CHARGE,CREDITCARD,30,70,70
+2020-12,Dorset,Dorchester Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Dorset,Dorchester Library,CHARGE,PAYPAL,20,40,40
+2020-12,Dorset,Dorchester Library,ILL,CASH,0,20,20
+2020-12,Dorset,Dorchester Library,LOST,CANCEL,230,1320,0
+2020-12,Dorset,Dorchester Library,LOST,CASH,0,10,10
+2020-12,Dorset,Dorchester Library,LOST,CREDITCARD,0,10,10
+2020-12,Dorset,Dorchester Library,LOST,FORGIVEN,0,30,0
+2020-12,Dorset,Dorchester Library,LOSTCARD,CASH,0,0,0
+2020-12,Dorset,Dorchester Library,LOSTCARD,FORGIVEN,0,0,0
+2020-12,Dorset,Dorchester Library,OVERDUE,CASH,50,30,30
+2020-12,Dorset,Dorchester Library,OVERDUE,CREDITCARD,30,50,50
+2020-12,Dorset,Dorchester Library,OVERDUE,FORGIVEN,60,300,0
+2020-12,Dorset,Dorchester Library,OVERDUE,PAYPAL,20,40,40
+2020-12,Dorset,Ferndown Library,CHARGE,CANCEL,0,0,0
+2020-12,Dorset,Ferndown Library,CHARGE,CASH,10,20,20
+2020-12,Dorset,Ferndown Library,CHARGE,CREDITCARD,10,30,30
+2020-12,Dorset,Ferndown Library,CHARGE,FORGIVEN,10,10,0
+2020-12,Dorset,Ferndown Library,CHARGE,PAYPAL,0,0,0
+2020-12,Dorset,Ferndown Library,ILL,CASH,0,0,0
+2020-12,Dorset,Ferndown Library,LOST,CANCEL,40,220,0
+2020-12,Dorset,Ferndown Library,LOST,CASH,0,10,10
+2020-12,Dorset,Ferndown Library,LOST,CREDITCARD,0,10,10
+2020-12,Dorset,Ferndown Library,LOST,PAYPAL,0,10,10
+2020-12,Dorset,Ferndown Library,OVERDUE,CANCEL,10,140,0
+2020-12,Dorset,Ferndown Library,OVERDUE,CASH,40,40,40
+2020-12,Dorset,Ferndown Library,OVERDUE,CREDITCARD,0,10,10
+2020-12,Dorset,Ferndown Library,OVERDUE,FORGIVEN,10,20,0
+2020-12,Dorset,Ferndown Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Dorset,Ferndown Library,PRIVILEGE,PAYPAL,0,0,0
+2020-12,Dorset,Ferndown Library,SALENOVAT,CREDITCARD,0,0,0
+2020-12,Dorset,Gillingham Library,CHARGE,CASH,20,40,40
+2020-12,Dorset,Gillingham Library,CHARGE,FORGIVEN,10,10,0
+2020-12,Dorset,Gillingham Library,CHARGE,PAYPAL,0,10,10
+2020-12,Dorset,Gillingham Library,LOST,CANCEL,10,60,0
+2020-12,Dorset,Gillingham Library,MISC,FORGIVEN,0,10,0
+2020-12,Dorset,Gillingham Library,OVERDUE,CANCEL,10,0,0
+2020-12,Dorset,Gillingham Library,OVERDUE,CASH,30,30,30
+2020-12,Dorset,Gillingham Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,Dorset,Gillingham Library,OVERDUE,PAYPAL,30,20,20
+2020-12,Dorset,Littlemoor Library,CHARGE,CASH,0,0,0
+2020-12,Dorset,Littlemoor Library,CHARGE,FORGIVEN,0,10,0
+2020-12,Dorset,Littlemoor Library,LOST,CANCEL,30,160,0
+2020-12,Dorset,Littlemoor Library,LOST,CASH,0,10,10
+2020-12,Dorset,Littlemoor Library,OVERDUE,CASH,10,10,10
+2020-12,Dorset,Littlemoor Library,OVERDUE,FORGIVEN,30,50,0
+2020-12,Dorset,Littlemoor Library,OVERDUE,PAYPAL,20,30,30
+2020-12,Dorset,Lyme Regis Library,LOST,CANCEL,0,20,0
+2020-12,Dorset,Lyme Regis Library,OVERDUE,CANCEL,10,20,0
+2020-12,Dorset,Lyme Regis Library,OVERDUE,CASH,0,0,0
+2020-12,Dorset,Lyme Regis Library,OVERDUE,FORGIVEN,0,10,0
+2020-12,Dorset,Lytchett Matravers Library,CHARGE,CANCEL,0,0,0
+2020-12,Dorset,Lytchett Matravers Library,CHARGE,CASH,0,0,0
+2020-12,Dorset,Lytchett Matravers Library,LOST,CANCEL,20,140,0
+2020-12,Dorset,Lytchett Matravers Library,LOST,CASH,0,10,10
+2020-12,Dorset,Lytchett Matravers Library,OVERDUE,CASH,10,0,0
+2020-12,Dorset,Lytchett Matravers Library,OVERDUE,FORGIVEN,0,10,0
+2020-12,Dorset,Portland Tophill Library,CHARGE,CASH,0,10,10
+2020-12,Dorset,Portland Tophill Library,LOST,CANCEL,20,130,0
+2020-12,Dorset,Portland Tophill Library,LOST,CASH,0,30,30
+2020-12,Dorset,Portland Tophill Library,OVERDUE,CASH,10,0,0
+2020-12,Dorset,Portland Tophill Library,OVERDUE,FORGIVEN,10,0,0
+2020-12,Dorset,Portland Tophill Library,OVERDUE,PAYPAL,10,0,0
+2020-12,Dorset,Shaftesbury Library,CHARGE,CASH,10,20,20
+2020-12,Dorset,Shaftesbury Library,CHARGE,FORGIVEN,0,10,0
+2020-12,Dorset,Shaftesbury Library,CHARGE,PAYPAL,0,0,0
+2020-12,Dorset,Shaftesbury Library,LOST,CANCEL,70,380,0
+2020-12,Dorset,Shaftesbury Library,LOST,CASH,0,10,10
+2020-12,Dorset,Shaftesbury Library,OVERDUE,CANCEL,0,10,0
+2020-12,Dorset,Shaftesbury Library,OVERDUE,CASH,20,40,40
+2020-12,Dorset,Shaftesbury Library,OVERDUE,FORGIVEN,10,40,0
+2020-12,Dorset,Shaftesbury Library,OVERDUE,PAYPAL,0,10,10
+2020-12,Dorset,Sherborne Library,CHARGE,CANCEL,10,20,0
+2020-12,Dorset,Sherborne Library,CHARGE,CASH,20,50,50
+2020-12,Dorset,Sherborne Library,HOLD,CASH,0,0,0
+2020-12,Dorset,Sherborne Library,LOST,CANCEL,60,320,0
+2020-12,Dorset,Sherborne Library,LOST,CASH,0,10,10
+2020-12,Dorset,Sherborne Library,OVERDUE,CANCEL,0,0,0
+2020-12,Dorset,Sherborne Library,OVERDUE,CASH,30,20,20
+2020-12,Dorset,Sherborne Library,OVERDUE,FORGIVEN,20,20,0
+2020-12,Dorset,Sherborne Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Dorset,Stalbridge Library,OVERDUE,CASH,0,0,0
+2020-12,Dorset,Sturminster Library,CHARGE,PAYPAL,10,10,10
+2020-12,Dorset,Sturminster Library,LOST,CANCEL,20,140,0
+2020-12,Dorset,Sturminster Library,OVERDUE,CANCEL,10,10,0
+2020-12,Dorset,Sturminster Library,OVERDUE,CASH,0,0,0
+2020-12,Dorset,Swanage Library,CHARGE,CASH,10,30,30
+2020-12,Dorset,Swanage Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Dorset,Swanage Library,LOST,CANCEL,10,50,0
+2020-12,Dorset,Swanage Library,LOST,CASH,0,10,10
+2020-12,Dorset,Swanage Library,LOST,FORGIVEN,10,30,0
+2020-12,Dorset,Swanage Library,LOSTCARD,CASH,0,0,0
+2020-12,Dorset,Swanage Library,OVERDUE,CASH,10,10,10
+2020-12,Dorset,Swanage Library,OVERDUE,FORGIVEN,0,10,0
+2020-12,Dorset,Swanage Library,OVERDUE,PAYPAL,10,0,0
+2020-12,Dorset,Swanage Library,SALENOVAT,CASH,0,0,0
+2020-12,Dorset,Upton Library,LOST,CANCEL,30,140,0
+2020-12,Dorset,Upton Library,LOST,CASH,0,10,10
+2020-12,Dorset,Upton Library,OVERDUE,CANCEL,0,0,0
+2020-12,Dorset,Upton Library,OVERDUE,CASH,10,0,0
+2020-12,Dorset,Upton Library,OVERDUE,FORGIVEN,10,50,0
+2020-12,Dorset,Upton Library,OVERDUE,PAYPAL,0,10,10
+2020-12,Dorset,Verwood Library,CHARGE,CANCEL,10,30,0
+2020-12,Dorset,Verwood Library,CHARGE,CASH,0,0,0
+2020-12,Dorset,Verwood Library,LOST,CANCEL,60,340,0
+2020-12,Dorset,Verwood Library,OVERDUE,CANCEL,50,60,0
+2020-12,Dorset,Verwood Library,OVERDUE,CASH,10,0,0
+2020-12,Dorset,Verwood Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Dorset,Wareham Library,CHARGE,CASH,0,0,0
+2020-12,Dorset,Wareham Library,CHARGE,PAYPAL,0,0,0
+2020-12,Dorset,Wareham Library,LOST,CANCEL,90,440,0
+2020-12,Dorset,Wareham Library,LOST,CASH,0,10,10
+2020-12,Dorset,Wareham Library,LOST,PAYPAL,0,20,20
+2020-12,Dorset,Wareham Library,OVERDUE,CANCEL,10,20,0
+2020-12,Dorset,Wareham Library,OVERDUE,CASH,20,10,10
+2020-12,Dorset,Wareham Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Dorset,Wareham Library,SALEVAT,CASH,0,10,10
+2020-12,Dorset,West Moors Library,CHARGE,CASH,0,10,10
+2020-12,Dorset,West Moors Library,LOST,CANCEL,10,70,0
+2020-12,Dorset,West Moors Library,LOST,FORGIVEN,0,20,0
+2020-12,Dorset,West Moors Library,OVERDUE,CASH,10,10,10
+2020-12,Dorset,West Moors Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Dorset,West Moors Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Dorset,Weymouth Library,CHARGE,CASH,10,10,10
+2020-12,Dorset,Weymouth Library,CHARGE,DEBITCARD,0,0,0
+2020-12,Dorset,Weymouth Library,CHARGE,FORGIVEN,0,10,0
+2020-12,Dorset,Weymouth Library,CHARGE,PAYPAL,0,0,0
+2020-12,Dorset,Weymouth Library,HOLD,FORGIVEN,0,0,0
+2020-12,Dorset,Weymouth Library,LOST,CANCEL,130,750,0
+2020-12,Dorset,Weymouth Library,LOST,FORGIVEN,10,60,0
+2020-12,Dorset,Weymouth Library,LOST,PAYPAL,0,10,10
+2020-12,Dorset,Weymouth Library,OVERDUE,CANCEL,0,0,0
+2020-12,Dorset,Weymouth Library,OVERDUE,CASH,40,40,40
+2020-12,Dorset,Weymouth Library,OVERDUE,FORGIVEN,90,260,0
+2020-12,Dorset,Weymouth Library,OVERDUE,PAYPAL,10,0,0
+2020-12,Dorset,Weymouth Library,SALENOVAT,CASH,0,10,10
+2020-12,Dorset,Weymouth Library,SALENOVAT,FORGIVEN,0,0,0
+2020-12,Dorset,Wimborne Library,CHARGE,CASH,10,10,10
+2020-12,Dorset,Wimborne Library,CHARGE,CREDITCARD,20,50,50
+2020-12,Dorset,Wimborne Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Dorset,Wimborne Library,ILL,CASH,0,20,20
+2020-12,Dorset,Wimborne Library,LOST,CANCEL,90,470,0
+2020-12,Dorset,Wimborne Library,LOST,CASH,10,90,90
+2020-12,Dorset,Wimborne Library,LOST,CREDITCARD,10,50,50
+2020-12,Dorset,Wimborne Library,LOSTCARD,CASH,0,0,0
+2020-12,Dorset,Wimborne Library,LOSTCARD,CREDITCARD,0,0,0
+2020-12,Dorset,Wimborne Library,OVERDUE,CANCEL,0,20,0
+2020-12,Dorset,Wimborne Library,OVERDUE,CASH,20,20,20
+2020-12,Dorset,Wimborne Library,OVERDUE,CREDITCARD,20,20,20
+2020-12,Dorset,Wimborne Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,Dorset,Wimborne Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Dorset,Wool Library,LOST,CANCEL,10,30,0
+2020-12,Dorset,Wyke Regis Library,LOST,CANCEL,20,130,0
+2020-12,Dorset,Wyke Regis Library,OVERDUE,CANCEL,30,20,0
+2020-12,Dorset,Wyke Regis Library,OVERDUE,CASH,0,0,0
+2020-12,Dorset,Wyke Regis Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,North Somerset,Campus Library,CHARGE,FORGIVEN,10,10,0
+2020-12,North Somerset,Campus Library,LOST,CANCEL,40,240,0
+2020-12,North Somerset,Campus Library,LOST,FORGIVEN,0,20,0
+2020-12,North Somerset,Campus Library,LOST,PAYPAL,0,10,10
+2020-12,North Somerset,Campus Library,OVERDUE,CREDITCARD,10,0,0
+2020-12,North Somerset,Campus Library,OVERDUE,FORGIVEN,10,40,0
+2020-12,North Somerset,Campus Library,OVERDUE,PAYPAL,0,0,0
+2020-12,North Somerset,Campus Library,SALEVAT,CREDITCARD,0,0,0
+2020-12,North Somerset,Clevedon Library,CHARGE,CANCEL,10,10,0
+2020-12,North Somerset,Clevedon Library,CHARGE,CASH,10,10,10
+2020-12,North Somerset,Clevedon Library,CHARGE,CREDITCARD,20,40,40
+2020-12,North Somerset,Clevedon Library,CHARGE,FORGIVEN,10,10,0
+2020-12,North Somerset,Clevedon Library,CHARGE,PAYPAL,0,0,0
+2020-12,North Somerset,Clevedon Library,GROUP,CREDITCARD,0,20,20
+2020-12,North Somerset,Clevedon Library,LOST,CANCEL,40,230,0
+2020-12,North Somerset,Clevedon Library,LOST,CASH,0,10,10
+2020-12,North Somerset,Clevedon Library,LOST,CREDITCARD,0,10,10
+2020-12,North Somerset,Clevedon Library,LOST,FORGIVEN,0,30,0
+2020-12,North Somerset,Clevedon Library,LOST,PAYPAL,0,10,10
+2020-12,North Somerset,Clevedon Library,OVERDUE,CANCEL,0,10,0
+2020-12,North Somerset,Clevedon Library,OVERDUE,CASH,20,10,10
+2020-12,North Somerset,Clevedon Library,OVERDUE,CREDITCARD,20,20,20
+2020-12,North Somerset,Clevedon Library,OVERDUE,FORGIVEN,20,40,0
+2020-12,North Somerset,Clevedon Library,OVERDUE,PAYPAL,30,20,20
+2020-12,North Somerset,Congresbury Library,LOST,CANCEL,10,300,0
+2020-12,North Somerset,N Som Healthy Living Centre,CHARGE,CASH,0,0,0
+2020-12,North Somerset,N Som Healthy Living Centre,LOST,CANCEL,10,80,0
+2020-12,North Somerset,N Som Healthy Living Centre,OVERDUE,CANCEL,0,0,0
+2020-12,North Somerset,N Som Healthy Living Centre,OVERDUE,CASH,0,0,0
+2020-12,North Somerset,N Som Healthy Living Centre,OVERDUE,FORGIVEN,0,0,0
+2020-12,North Somerset,Nailsea Library,CHARGE,CANCEL,0,0,0
+2020-12,North Somerset,Nailsea Library,CHARGE,CASH,10,20,20
+2020-12,North Somerset,Nailsea Library,CHARGE,CREDITCARD,30,60,60
+2020-12,North Somerset,Nailsea Library,CHARGE,FORGIVEN,0,0,0
+2020-12,North Somerset,Nailsea Library,CHARGE,PAYPAL,20,20,20
+2020-12,North Somerset,Nailsea Library,CREDIT,CREDITCARD,0,0,0
+2020-12,North Somerset,Nailsea Library,LOST,CANCEL,90,530,0
+2020-12,North Somerset,Nailsea Library,LOST,CREDITCARD,0,10,10
+2020-12,North Somerset,Nailsea Library,OVERDUE,CANCEL,20,20,0
+2020-12,North Somerset,Nailsea Library,OVERDUE,CASH,10,10,10
+2020-12,North Somerset,Nailsea Library,OVERDUE,CREDITCARD,50,30,30
+2020-12,North Somerset,Nailsea Library,OVERDUE,FORGIVEN,30,40,0
+2020-12,North Somerset,Nailsea Library,OVERDUE,PAYPAL,10,10,10
+2020-12,North Somerset,Nailsea Library,SALENOVAT,CANCEL,0,0,0
+2020-12,North Somerset,Nailsea Library,SALEVAT,CREDITCARD,0,0,0
+2020-12,North Somerset,North Somerset Mobile,CHARGE,FORGIVEN,0,0,0
+2020-12,North Somerset,North Somerset Mobile,LOST,CANCEL,20,110,0
+2020-12,North Somerset,North Somerset Mobile,LOST,FORGIVEN,0,30,0
+2020-12,North Somerset,North Somerset Mobile,OVERDUE,CANCEL,0,0,0
+2020-12,North Somerset,North Somerset Mobile,OVERDUE,FORGIVEN,10,10,0
+2020-12,North Somerset,Pill Library,CHARGE,CANCEL,0,0,0
+2020-12,North Somerset,Pill Library,CHARGE,CASH,0,0,0
+2020-12,North Somerset,Pill Library,CHARGE,FORGIVEN,0,0,0
+2020-12,North Somerset,Pill Library,CHARGE,PAYPAL,0,10,10
+2020-12,North Somerset,Pill Library,LOST,CANCEL,0,10,0
+2020-12,North Somerset,Pill Library,LOST,PAYPAL,0,10,10
+2020-12,North Somerset,Pill Library,OVERDUE,CANCEL,0,0,0
+2020-12,North Somerset,Pill Library,OVERDUE,CASH,0,0,0
+2020-12,North Somerset,Pill Library,OVERDUE,FORGIVEN,20,40,0
+2020-12,North Somerset,Pill Library,OVERDUE,PAYPAL,10,10,10
+2020-12,North Somerset,Pill Library,SALEVAT,CASH,0,0,0
+2020-12,North Somerset,Portishead Library,CHARGE,CANCEL,0,0,0
+2020-12,North Somerset,Portishead Library,CHARGE,CASH,10,10,10
+2020-12,North Somerset,Portishead Library,CHARGE,CREDITCARD,10,10,10
+2020-12,North Somerset,Portishead Library,CHARGE,FORGIVEN,0,10,0
+2020-12,North Somerset,Portishead Library,GROUP,CASH,0,20,20
+2020-12,North Somerset,Portishead Library,GROUP,CREDITCARD,0,10,10
+2020-12,North Somerset,Portishead Library,GROUP,FORGIVEN,0,10,0
+2020-12,North Somerset,Portishead Library,GROUP,PAYPAL,0,10,10
+2020-12,North Somerset,Portishead Library,LOST,CANCEL,50,290,0
+2020-12,North Somerset,Portishead Library,LOST,CREDITCARD,0,0,0
+2020-12,North Somerset,Portishead Library,LOST,FORGIVEN,0,10,0
+2020-12,North Somerset,Portishead Library,OVERDUE,CASH,10,10,10
+2020-12,North Somerset,Portishead Library,OVERDUE,CREDITCARD,20,30,30
+2020-12,North Somerset,Portishead Library,OVERDUE,FORGIVEN,50,150,0
+2020-12,North Somerset,Portishead Library,OVERDUE,PAYPAL,10,10,10
+2020-12,North Somerset,Portishead Library,SALENOVAT,CREDITCARD,0,0,0
+2020-12,North Somerset,Portishead Library,SALEVAT,CREDITCARD,0,0,0
+2020-12,North Somerset,Weston-super-Mare Library,CHARGE,CANCEL,0,10,0
+2020-12,North Somerset,Weston-super-Mare Library,CHARGE,CASH,50,50,50
+2020-12,North Somerset,Weston-super-Mare Library,CHARGE,CREDITCARD,20,20,20
+2020-12,North Somerset,Weston-super-Mare Library,CREDIT,CREDITCARD,0,0,0
+2020-12,North Somerset,Weston-super-Mare Library,GROUP,CASH,0,10,10
+2020-12,North Somerset,Weston-super-Mare Library,GROUP,CREDITCARD,0,20,20
+2020-12,North Somerset,Weston-super-Mare Library,LOST,CANCEL,70,430,0
+2020-12,North Somerset,Weston-super-Mare Library,LOST,CASH,0,10,10
+2020-12,North Somerset,Weston-super-Mare Library,LOST,PAYPAL,0,10,10
+2020-12,North Somerset,Weston-super-Mare Library,OVERDUE,CANCEL,10,30,0
+2020-12,North Somerset,Weston-super-Mare Library,OVERDUE,CASH,20,10,10
+2020-12,North Somerset,Weston-super-Mare Library,OVERDUE,CREDITCARD,10,10,10
+2020-12,North Somerset,Weston-super-Mare Library,OVERDUE,FORGIVEN,30,70,0
+2020-12,North Somerset,Weston-super-Mare Library,OVERDUE,PAYPAL,10,30,30
+2020-12,North Somerset,Weston-super-Mare Library,SALENOVAT,CASH,0,0,0
+2020-12,North Somerset,Weston-super-Mare Library,SALENOVAT,CREDITCARD,0,0,0
+2020-12,North Somerset,Weston-super-Mare Library,SALEVAT,CASH,0,0,0
+2020-12,North Somerset,Weston-super-Mare Library,SALEVAT,CREDITCARD,0,0,0
+2020-12,North Somerset,Weston-super-Mare Library,SALEVAT,FORGIVEN,0,0,0
+2020-12,North Somerset,Winscombe Library,CHARGE,CANCEL,0,0,0
+2020-12,North Somerset,Winscombe Library,CHARGE,CASH,0,0,0
+2020-12,North Somerset,Winscombe Library,CHARGE,PAYPAL,0,10,10
+2020-12,North Somerset,Winscombe Library,HOLD,CANCEL,0,0,0
+2020-12,North Somerset,Winscombe Library,LOST,CANCEL,0,20,0
+2020-12,North Somerset,Winscombe Library,OVERDUE,CANCEL,20,10,0
+2020-12,North Somerset,Winscombe Library,OVERDUE,CASH,10,10,10
+2020-12,North Somerset,Winscombe Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,North Somerset,Winscombe Library,OVERDUE,PAYPAL,0,0,0
+2020-12,North Somerset,Worle Library,CHARGE,CANCEL,0,0,0
+2020-12,North Somerset,Worle Library,CHARGE,CASH,30,30,30
+2020-12,North Somerset,Worle Library,LOST,CANCEL,10,70,0
+2020-12,North Somerset,Worle Library,LOST,CASH,0,10,10
+2020-12,North Somerset,Worle Library,OVERDUE,CANCEL,0,10,0
+2020-12,North Somerset,Worle Library,OVERDUE,CASH,10,0,0
+2020-12,North Somerset,Worle Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,North Somerset,Worle Library,OVERDUE,PAYPAL,0,0,0
+2020-12,North Somerset,Yatton Library,CHARGE,CASH,0,0,0
+2020-12,North Somerset,Yatton Library,CHARGE,PAYPAL,10,10,10
+2020-12,North Somerset,Yatton Library,GROUP,CASH,10,30,30
+2020-12,North Somerset,Yatton Library,LOST,CANCEL,30,170,0
+2020-12,North Somerset,Yatton Library,LOST,CASH,0,10,10
+2020-12,North Somerset,Yatton Library,LOST,PAYPAL,0,20,20
+2020-12,North Somerset,Yatton Library,OVERDUE,CANCEL,0,0,0
+2020-12,North Somerset,Yatton Library,OVERDUE,CASH,20,10,10
+2020-12,North Somerset,Yatton Library,OVERDUE,FORGIVEN,20,30,0
+2020-12,North Somerset,Yatton Library,SALEVAT,CANCEL,0,0,0
+2020-12,Poole,Branksome Library,CHARGE,CANCEL,0,0,0
+2020-12,Poole,Branksome Library,CHARGE,CASH,10,20,20
+2020-12,Poole,Branksome Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Poole,Branksome Library,HOLD,CANCEL,0,0,0
+2020-12,Poole,Branksome Library,HOLD,CASH,60,60,60
+2020-12,Poole,Branksome Library,HOLD,FORGIVEN,0,0,0
+2020-12,Poole,Branksome Library,OVERDUE,CASH,30,30,30
+2020-12,Poole,Branksome Library,OVERDUE,FORGIVEN,30,120,0
+2020-12,Poole,Branksome Library,SALENOVAT,CASH,0,0,0
+2020-12,Poole,Broadstone Library,CHARGE,CASH,60,100,100
+2020-12,Poole,Broadstone Library,DAMAGE,CASH,0,10,10
+2020-12,Poole,Broadstone Library,HOLD,CASH,140,140,140
+2020-12,Poole,Broadstone Library,HOLD,PAYPAL,0,0,0
+2020-12,Poole,Broadstone Library,LOST,CANCEL,10,30,0
+2020-12,Poole,Broadstone Library,LOST,PAYPAL,0,10,10
+2020-12,Poole,Broadstone Library,OVERDUE,CASH,100,140,140
+2020-12,Poole,Broadstone Library,OVERDUE,FORGIVEN,10,30,0
+2020-12,Poole,Broadstone Library,OVERDUE,PAYPAL,0,10,10
+2020-12,Poole,Canford Cliffs Library,CHARGE,CASH,10,20,20
+2020-12,Poole,Canford Cliffs Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Poole,Canford Cliffs Library,HOLD,CASH,90,90,90
+2020-12,Poole,Canford Cliffs Library,HOLD,FORGIVEN,10,10,0
+2020-12,Poole,Canford Cliffs Library,HOLD,PAYPAL,0,0,0
+2020-12,Poole,Canford Cliffs Library,LOST,CANCEL,0,0,0
+2020-12,Poole,Canford Cliffs Library,OVERDUE,CASH,10,10,10
+2020-12,Poole,Canford Cliffs Library,OVERDUE,FORGIVEN,10,20,0
+2020-12,Poole,Canford Heath Library,CHARGE,CASH,0,10,10
+2020-12,Poole,Canford Heath Library,HOLD,CASH,10,10,10
+2020-12,Poole,Canford Heath Library,HOLD,FORGIVEN,10,10,0
+2020-12,Poole,Canford Heath Library,OVERDUE,CASH,30,30,30
+2020-12,Poole,Canford Heath Library,OVERDUE,FORGIVEN,20,20,0
+2020-12,Poole,Creekmoor Library,CHARGE,CASH,0,10,10
+2020-12,Poole,Creekmoor Library,HOLD,CANCEL,0,0,0
+2020-12,Poole,Creekmoor Library,HOLD,CASH,20,20,20
+2020-12,Poole,Creekmoor Library,HOLD,FORGIVEN,0,0,0
+2020-12,Poole,Creekmoor Library,LOST,CANCEL,10,40,0
+2020-12,Poole,Creekmoor Library,OVERDUE,CANCEL,10,10,0
+2020-12,Poole,Creekmoor Library,OVERDUE,CASH,10,0,0
+2020-12,Poole,Creekmoor Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Poole,Hamworthy Library,CHARGE,CANCEL,0,0,0
+2020-12,Poole,Hamworthy Library,CHARGE,CASH,0,0,0
+2020-12,Poole,Hamworthy Library,HOLD,CANCEL,0,0,0
+2020-12,Poole,Hamworthy Library,HOLD,CASH,20,20,20
+2020-12,Poole,Hamworthy Library,HOLD,PAYPAL,0,0,0
+2020-12,Poole,Hamworthy Library,OVERDUE,CANCEL,20,50,0
+2020-12,Poole,Hamworthy Library,OVERDUE,CASH,30,50,50
+2020-12,Poole,Hamworthy Library,OVERDUE,FORGIVEN,0,10,0
+2020-12,Poole,Hamworthy Library,OVERDUE,PAYPAL,0,10,10
+2020-12,Poole,Oakdale Library,HOLD,CASH,20,20,20
+2020-12,Poole,Oakdale Library,HOLD,PAYPAL,10,10,10
+2020-12,Poole,Oakdale Library,OVERDUE,CANCEL,0,10,0
+2020-12,Poole,Oakdale Library,OVERDUE,CASH,40,40,40
+2020-12,Poole,Oakdale Library,OVERDUE,FORGIVEN,0,10,0
+2020-12,Poole,Parkstone Library,CHARGE,CASH,0,0,0
+2020-12,Poole,Parkstone Library,HOLD,CANCEL,0,0,0
+2020-12,Poole,Parkstone Library,HOLD,CASH,90,90,90
+2020-12,Poole,Parkstone Library,HOLD,FORGIVEN,0,0,0
+2020-12,Poole,Parkstone Library,HOLD,PAYPAL,10,10,10
+2020-12,Poole,Parkstone Library,OVERDUE,CANCEL,10,0,0
+2020-12,Poole,Parkstone Library,OVERDUE,CASH,0,0,0
+2020-12,Poole,Parkstone Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Poole,Parkstone Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Poole,Poole Central Library,CHARGE,CASH,30,50,50
+2020-12,Poole,Poole Central Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Poole,Poole Central Library,HOLD,CANCEL,0,0,0
+2020-12,Poole,Poole Central Library,HOLD,CASH,70,70,70
+2020-12,Poole,Poole Central Library,HOLD,FORGIVEN,0,0,0
+2020-12,Poole,Poole Central Library,LOST,CANCEL,0,10,0
+2020-12,Poole,Poole Central Library,LOSTCARD,CASH,0,0,0
+2020-12,Poole,Poole Central Library,OVERDUE,CANCEL,50,60,0
+2020-12,Poole,Poole Central Library,OVERDUE,CASH,130,320,320
+2020-12,Poole,Poole Central Library,OVERDUE,FORGIVEN,20,80,0
+2020-12,Poole,Poole Central Library,OVERDUE,PAYPAL,10,20,20
+2020-12,Poole,Poole Central Library,SALENOVAT,CASH,0,0,0
+2020-12,Poole,Rossmore Library,CHARGE,CASH,10,10,10
+2020-12,Poole,Rossmore Library,HOLD,CASH,20,20,20
+2020-12,Poole,Rossmore Library,HOLD,PAYPAL,0,0,0
+2020-12,Poole,Rossmore Library,OVERDUE,CASH,10,20,20
+2020-12,Poole,Rossmore Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Somerset,Bishops Lydeard Library,CHARGE,CANCEL,0,0,0
+2020-12,Somerset,Bishops Lydeard Library,CHARGE,CASH,0,10,10
+2020-12,Somerset,Bishops Lydeard Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Somerset,Bishops Lydeard Library,HOLD,CASH,10,10,10
+2020-12,Somerset,Bishops Lydeard Library,OVERDUE,CANCEL,0,0,0
+2020-12,Somerset,Bishops Lydeard Library,OVERDUE,CASH,10,0,0
+2020-12,Somerset,Bridgwater Library,BFR,CASH,0,0,0
+2020-12,Somerset,Bridgwater Library,CHARGE,CASH,10,10,10
+2020-12,Somerset,Bridgwater Library,CHARGE,CREDITCARD,10,20,20
+2020-12,Somerset,Bridgwater Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Somerset,Bridgwater Library,CHARGE,PAYPAL,0,0,0
+2020-12,Somerset,Bridgwater Library,HOLD,CASH,60,60,60
+2020-12,Somerset,Bridgwater Library,HOLD,CREDITCARD,70,70,70
+2020-12,Somerset,Bridgwater Library,HOLD,PAYPAL,10,10,10
+2020-12,Somerset,Bridgwater Library,LOST,CANCEL,50,330,0
+2020-12,Somerset,Bridgwater Library,LOST,CREDITCARD,0,10,10
+2020-12,Somerset,Bridgwater Library,LOST,PAYPAL,0,20,20
+2020-12,Somerset,Bridgwater Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Bridgwater Library,OVERDUE,CASH,60,50,50
+2020-12,Somerset,Bridgwater Library,OVERDUE,CREDITCARD,40,70,70
+2020-12,Somerset,Bridgwater Library,OVERDUE,FORGIVEN,50,100,0
+2020-12,Somerset,Bridgwater Library,OVERDUE,PAYPAL,50,30,30
+2020-12,Somerset,Bridgwater Library,SALENOVAT,CASH,0,0,0
+2020-12,Somerset,Bridgwater Library,SALENOVAT,CREDITCARD,0,0,0
+2020-12,Somerset,Bridgwater Library,SALEVAT,CASH,20,20,20
+2020-12,Somerset,Bridgwater Library,SALEVAT,CREDITCARD,30,70,70
+2020-12,Somerset,Bruton Library,CHARGE,CASH,0,0,0
+2020-12,Somerset,Bruton Library,HOLD,CASH,20,20,20
+2020-12,Somerset,Bruton Library,HOLD,FORGIVEN,10,10,0
+2020-12,Somerset,Bruton Library,HOLD,PAYPAL,0,0,0
+2020-12,Somerset,Bruton Library,LOST,CANCEL,20,130,0
+2020-12,Somerset,Bruton Library,OVERDUE,CASH,20,10,10
+2020-12,Somerset,Bruton Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Somerset,Burnham Library,CHARGE,CASH,10,30,30
+2020-12,Somerset,Burnham Library,CHARGE,CREDITCARD,10,10,10
+2020-12,Somerset,Burnham Library,CHARGE,PAYPAL,10,20,20
+2020-12,Somerset,Burnham Library,GROUP,CASH,0,10,10
+2020-12,Somerset,Burnham Library,HOLD,CASH,90,90,90
+2020-12,Somerset,Burnham Library,HOLD,CREDITCARD,40,40,40
+2020-12,Somerset,Burnham Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Burnham Library,HOLD,PAYPAL,30,30,30
+2020-12,Somerset,Burnham Library,LOST,CANCEL,20,110,0
+2020-12,Somerset,Burnham Library,LOST,CREDITCARD,0,20,20
+2020-12,Somerset,Burnham Library,LOST,PAYPAL,0,10,10
+2020-12,Somerset,Burnham Library,LOSTCARD,CASH,0,10,10
+2020-12,Somerset,Burnham Library,OVERDUE,CASH,20,10,10
+2020-12,Somerset,Burnham Library,OVERDUE,CREDITCARD,60,30,30
+2020-12,Somerset,Burnham Library,OVERDUE,FORGIVEN,20,20,0
+2020-12,Somerset,Burnham Library,OVERDUE,PAYPAL,20,40,40
+2020-12,Somerset,Burnham Library,SALEVAT,CASH,0,0,0
+2020-12,Somerset,Burnham Library,SALEVAT,CREDITCARD,0,20,20
+2020-12,Somerset,Castle Cary Library,CHARGE,CASH,0,10,10
+2020-12,Somerset,Castle Cary Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Somerset,Castle Cary Library,HOLD,CASH,50,50,50
+2020-12,Somerset,Castle Cary Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Castle Cary Library,LOST,CANCEL,10,40,0
+2020-12,Somerset,Castle Cary Library,LOST,FORGIVEN,0,10,0
+2020-12,Somerset,Castle Cary Library,OVERDUE,CASH,10,0,0
+2020-12,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Somerset,Castle Cary Library,OVERDUE,PAYPAL,10,0,0
+2020-12,Somerset,Castle Cary Library,SALENOVAT,CASH,0,0,0
+2020-12,Somerset,Chard Library,CHARGE,CREDITCARD,0,0,0
+2020-12,Somerset,Chard Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Somerset,Chard Library,CHARGE,PAYPAL,0,10,10
+2020-12,Somerset,Chard Library,GROUP,CASH,0,10,10
+2020-12,Somerset,Chard Library,HOLD,CANCEL,10,10,0
+2020-12,Somerset,Chard Library,HOLD,CASH,30,30,30
+2020-12,Somerset,Chard Library,HOLD,CREDITCARD,50,50,50
+2020-12,Somerset,Chard Library,HOLD,PAYPAL,20,20,20
+2020-12,Somerset,Chard Library,LOST,CANCEL,30,220,0
+2020-12,Somerset,Chard Library,LOST,CASH,0,10,10
+2020-12,Somerset,Chard Library,LOST,FORGIVEN,0,10,0
+2020-12,Somerset,Chard Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Chard Library,OVERDUE,CANCEL,0,0,0
+2020-12,Somerset,Chard Library,OVERDUE,CASH,20,10,10
+2020-12,Somerset,Chard Library,OVERDUE,CREDITCARD,10,0,0
+2020-12,Somerset,Chard Library,OVERDUE,FORGIVEN,60,110,0
+2020-12,Somerset,Chard Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Somerset,Cheddar Library,CHARGE,CREDITCARD,0,10,10
+2020-12,Somerset,Cheddar Library,CHARGE,DEBITCARD,0,10,10
+2020-12,Somerset,Cheddar Library,CHARGE,PAYPAL,0,0,0
+2020-12,Somerset,Cheddar Library,GROUP,DEBITCARD,0,10,10
+2020-12,Somerset,Cheddar Library,HOLD,CASH,60,50,50
+2020-12,Somerset,Cheddar Library,HOLD,CREDITCARD,20,20,20
+2020-12,Somerset,Cheddar Library,HOLD,DEBITCARD,0,0,0
+2020-12,Somerset,Cheddar Library,HOLD,PAYPAL,10,10,10
+2020-12,Somerset,Cheddar Library,LOST,CANCEL,10,50,0
+2020-12,Somerset,Cheddar Library,LOST,DEBITCARD,0,10,10
+2020-12,Somerset,Cheddar Library,OVERDUE,CASH,10,10,10
+2020-12,Somerset,Cheddar Library,OVERDUE,CREDITCARD,0,0,0
+2020-12,Somerset,Cheddar Library,OVERDUE,DEBITCARD,0,0,0
+2020-12,Somerset,Cheddar Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Somerset,Cheddar Library,OVERDUE,PAYPAL,20,10,10
+2020-12,Somerset,Crewkerne Library,CHARGE,CANCEL,0,0,0
+2020-12,Somerset,Crewkerne Library,CHARGE,CASH,10,20,20
+2020-12,Somerset,Crewkerne Library,CHARGE,DEBITCARD,10,20,20
+2020-12,Somerset,Crewkerne Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Somerset,Crewkerne Library,CHARGE,PAYPAL,0,0,0
+2020-12,Somerset,Crewkerne Library,GROUP,CASH,0,10,10
+2020-12,Somerset,Crewkerne Library,HOLD,CANCEL,10,10,0
+2020-12,Somerset,Crewkerne Library,HOLD,CASH,80,80,80
+2020-12,Somerset,Crewkerne Library,HOLD,DEBITCARD,10,10,10
+2020-12,Somerset,Crewkerne Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Crewkerne Library,HOLD,PAYPAL,10,10,10
+2020-12,Somerset,Crewkerne Library,LOST,CANCEL,50,260,0
+2020-12,Somerset,Crewkerne Library,LOST,CHEQUE,0,30,30
+2020-12,Somerset,Crewkerne Library,OVERDUE,CANCEL,0,0,0
+2020-12,Somerset,Crewkerne Library,OVERDUE,CASH,10,10,10
+2020-12,Somerset,Crewkerne Library,OVERDUE,DEBITCARD,10,10,10
+2020-12,Somerset,Crewkerne Library,OVERDUE,FORGIVEN,10,20,0
+2020-12,Somerset,Crewkerne Library,OVERDUE,PAYPAL,10,30,30
+2020-12,Somerset,Dulverton Library,CHARGE,CASH,10,20,20
+2020-12,Somerset,Dulverton Library,HOLD,CASH,30,30,30
+2020-12,Somerset,Dulverton Library,LOST,CANCEL,10,80,0
+2020-12,Somerset,Dulverton Library,OVERDUE,CANCEL,20,10,0
+2020-12,Somerset,Dulverton Library,OVERDUE,CASH,20,10,10
+2020-12,Somerset,Dulverton Library,OVERDUE,DEBITCARD,0,0,0
+2020-12,Somerset,Dulverton Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,Somerset,Frome Library,CHARGE,CANCEL,10,10,0
+2020-12,Somerset,Frome Library,CHARGE,CASH,50,90,90
+2020-12,Somerset,Frome Library,CHARGE,CREDITCARD,0,10,10
+2020-12,Somerset,Frome Library,CHARGE,DEBITCARD,20,40,40
+2020-12,Somerset,Frome Library,CHARGE,FORGIVEN,10,10,0
+2020-12,Somerset,Frome Library,CHARGE,PAYPAL,10,30,30
+2020-12,Somerset,Frome Library,GROUP,CASH,0,20,20
+2020-12,Somerset,Frome Library,GROUP,CREDITCARD,0,10,10
+2020-12,Somerset,Frome Library,HOLD,CANCEL,10,10,0
+2020-12,Somerset,Frome Library,HOLD,CASH,150,140,140
+2020-12,Somerset,Frome Library,HOLD,DEBITCARD,20,20,20
+2020-12,Somerset,Frome Library,HOLD,FORGIVEN,20,20,0
+2020-12,Somerset,Frome Library,HOLD,PAYPAL,80,80,80
+2020-12,Somerset,Frome Library,LOST,CANCEL,120,780,0
+2020-12,Somerset,Frome Library,LOST,CREDITCARD,0,10,10
+2020-12,Somerset,Frome Library,LOST,DEBITCARD,0,20,20
+2020-12,Somerset,Frome Library,LOST,PAYPAL,0,10,10
+2020-12,Somerset,Frome Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Frome Library,LOSTCARD,DEBITCARD,0,0,0
+2020-12,Somerset,Frome Library,OVERDUE,CANCEL,10,20,0
+2020-12,Somerset,Frome Library,OVERDUE,CASH,80,90,90
+2020-12,Somerset,Frome Library,OVERDUE,CREDITCARD,0,0,0
+2020-12,Somerset,Frome Library,OVERDUE,DEBITCARD,80,130,130
+2020-12,Somerset,Frome Library,OVERDUE,FORGIVEN,70,130,0
+2020-12,Somerset,Frome Library,OVERDUE,PAYPAL,190,80,80
+2020-12,Somerset,Glastonbury Library,CHARGE,CASH,20,40,40
+2020-12,Somerset,Glastonbury Library,CHARGE,CREDITCARD,40,80,80
+2020-12,Somerset,Glastonbury Library,CHARGE,FORGIVEN,0,10,0
+2020-12,Somerset,Glastonbury Library,CHARGE,PAYPAL,0,10,10
+2020-12,Somerset,Glastonbury Library,GROUP,CREDITCARD,0,10,10
+2020-12,Somerset,Glastonbury Library,HOLD,CASH,80,80,80
+2020-12,Somerset,Glastonbury Library,HOLD,CREDITCARD,40,40,40
+2020-12,Somerset,Glastonbury Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Glastonbury Library,HOLD,PAYPAL,20,20,20
+2020-12,Somerset,Glastonbury Library,LOST,CANCEL,40,250,0
+2020-12,Somerset,Glastonbury Library,LOST,CASH,0,10,10
+2020-12,Somerset,Glastonbury Library,LOST,CREDITCARD,0,10,10
+2020-12,Somerset,Glastonbury Library,LOST,FORGIVEN,0,30,0
+2020-12,Somerset,Glastonbury Library,LOSTCARD,CASH,0,10,10
+2020-12,Somerset,Glastonbury Library,LOSTCARD,CREDITCARD,0,0,0
+2020-12,Somerset,Glastonbury Library,OVERDUE,CASH,30,10,10
+2020-12,Somerset,Glastonbury Library,OVERDUE,CREDITCARD,10,10,10
+2020-12,Somerset,Glastonbury Library,OVERDUE,FORGIVEN,10,0,0
+2020-12,Somerset,Glastonbury Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Somerset,Glastonbury Library,SALENOVAT,CASH,0,0,0
+2020-12,Somerset,Glastonbury Library,SALENOVAT,CREDITCARD,0,0,0
+2020-12,Somerset,Glastonbury Library,SALEVAT,CASH,0,0,0
+2020-12,Somerset,Glastonbury Library,SALEVAT,CREDITCARD,10,20,20
+2020-12,Somerset,Ilminster Library,HOLD,CANCEL,0,0,0
+2020-12,Somerset,Ilminster Library,HOLD,CASH,60,60,60
+2020-12,Somerset,Ilminster Library,HOLD,CREDITCARD,10,10,10
+2020-12,Somerset,Ilminster Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Ilminster Library,HOLD,PAYPAL,0,0,0
+2020-12,Somerset,Ilminster Library,LOST,CANCEL,20,140,0
+2020-12,Somerset,Ilminster Library,LOST,PAYPAL,0,10,10
+2020-12,Somerset,Ilminster Library,OVERDUE,CANCEL,0,10,0
+2020-12,Somerset,Ilminster Library,OVERDUE,CASH,10,10,10
+2020-12,Somerset,Ilminster Library,OVERDUE,CREDITCARD,10,0,0
+2020-12,Somerset,Ilminster Library,OVERDUE,FORGIVEN,10,20,0
+2020-12,Somerset,Ilminster Library,OVERDUE,PAYPAL,60,30,30
+2020-12,Somerset,Langport Library,CHARGE,CASH,60,100,100
+2020-12,Somerset,Langport Library,CHARGE,CREDITCARD,20,30,30
+2020-12,Somerset,Langport Library,CHARGE,PAYPAL,0,10,10
+2020-12,Somerset,Langport Library,GROUP,CASH,0,10,10
+2020-12,Somerset,Langport Library,HOLD,CANCEL,0,0,0
+2020-12,Somerset,Langport Library,HOLD,CASH,80,80,80
+2020-12,Somerset,Langport Library,HOLD,CREDITCARD,10,10,10
+2020-12,Somerset,Langport Library,HOLD,FORGIVEN,10,0,0
+2020-12,Somerset,Langport Library,HOLD,PAYPAL,10,10,10
+2020-12,Somerset,Langport Library,LOST,CANCEL,40,230,0
+2020-12,Somerset,Langport Library,LOST,CHEQUE,0,10,10
+2020-12,Somerset,Langport Library,LOST,FORGIVEN,0,10,0
+2020-12,Somerset,Langport Library,LOST,PAYPAL,0,10,10
+2020-12,Somerset,Langport Library,OVERDUE,CANCEL,0,10,0
+2020-12,Somerset,Langport Library,OVERDUE,CASH,60,40,40
+2020-12,Somerset,Langport Library,OVERDUE,CREDITCARD,0,10,10
+2020-12,Somerset,Langport Library,OVERDUE,FORGIVEN,10,20,0
+2020-12,Somerset,Langport Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Somerset,Martock Library,CHARGE,CANCEL,0,0,0
+2020-12,Somerset,Martock Library,CHARGE,CASH,10,20,20
+2020-12,Somerset,Martock Library,CHARGE,CREDITCARD,0,0,0
+2020-12,Somerset,Martock Library,HOLD,CANCEL,0,0,0
+2020-12,Somerset,Martock Library,HOLD,CASH,60,60,60
+2020-12,Somerset,Martock Library,HOLD,CREDITCARD,10,10,10
+2020-12,Somerset,Martock Library,LOST,CANCEL,10,60,0
+2020-12,Somerset,Martock Library,LOST,CASH,0,10,10
+2020-12,Somerset,Martock Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Martock Library,OVERDUE,CASH,30,30,30
+2020-12,Somerset,Martock Library,OVERDUE,CREDITCARD,10,10,10
+2020-12,Somerset,Martock Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Somerset,Milborne Port Library,CHARGE,CASH,0,0,0
+2020-12,Somerset,Milborne Port Library,HOLD,CASH,10,10,10
+2020-12,Somerset,Milborne Port Library,OVERDUE,CASH,0,0,0
+2020-12,Somerset,Minehead Library,CHARGE,CASH,20,40,40
+2020-12,Somerset,Minehead Library,CHARGE,CREDITCARD,10,20,20
+2020-12,Somerset,Minehead Library,CHARGE,DEBITCARD,10,10,10
+2020-12,Somerset,Minehead Library,CHARGE,FORGIVEN,10,10,0
+2020-12,Somerset,Minehead Library,CHARGE,PAYPAL,0,0,0
+2020-12,Somerset,Minehead Library,DAMAGE,CASH,0,10,10
+2020-12,Somerset,Minehead Library,HOLD,CASH,120,120,120
+2020-12,Somerset,Minehead Library,HOLD,CREDITCARD,60,60,60
+2020-12,Somerset,Minehead Library,HOLD,DEBITCARD,10,10,10
+2020-12,Somerset,Minehead Library,HOLD,FORGIVEN,10,10,0
+2020-12,Somerset,Minehead Library,HOLD,PAYPAL,30,20,20
+2020-12,Somerset,Minehead Library,LOST,CANCEL,70,430,0
+2020-12,Somerset,Minehead Library,LOST,CREDITCARD,0,10,10
+2020-12,Somerset,Minehead Library,LOST,PAYPAL,0,10,10
+2020-12,Somerset,Minehead Library,LOSTCARD,CREDITCARD,0,0,0
+2020-12,Somerset,Minehead Library,LOSTCARD,DEBITCARD,0,0,0
+2020-12,Somerset,Minehead Library,LOSTCARD,PAYPAL,0,0,0
+2020-12,Somerset,Minehead Library,OVERDUE,CASH,40,10,10
+2020-12,Somerset,Minehead Library,OVERDUE,CREDITCARD,30,80,80
+2020-12,Somerset,Minehead Library,OVERDUE,DEBITCARD,20,30,30
+2020-12,Somerset,Minehead Library,OVERDUE,FORGIVEN,20,160,0
+2020-12,Somerset,Minehead Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Somerset,Minehead Library,SALEVAT,CREDITCARD,0,10,10
+2020-12,Somerset,Minehead Library,SALEVAT,DEBITCARD,0,0,0
+2020-12,Somerset,Minehead Library,SALEVAT,FORGIVEN,0,0,0
+2020-12,Somerset,Nether Stowey Library,CHARGE,CASH,0,0,0
+2020-12,Somerset,Nether Stowey Library,HOLD,CANCEL,0,0,0
+2020-12,Somerset,Nether Stowey Library,HOLD,CASH,10,10,10
+2020-12,Somerset,Nether Stowey Library,LOST,CANCEL,10,50,0
+2020-12,Somerset,Nether Stowey Library,LOST,CASH,0,10,10
+2020-12,Somerset,Nether Stowey Library,OVERDUE,CASH,20,20,20
+2020-12,Somerset,Nether Stowey Library,OVERDUE,FORGIVEN,30,30,0
+2020-12,Somerset,North Petherton Library,HOLD,CASH,20,20,20
+2020-12,Somerset,North Petherton Library,HOLD,PAYPAL,10,10,10
+2020-12,Somerset,North Petherton Library,LOST,CANCEL,0,20,0
+2020-12,Somerset,North Petherton Library,OVERDUE,CASH,10,10,10
+2020-12,Somerset,North Petherton Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Somerset,Performing Arts Library Yeovil,LOST,CANCEL,20,480,0
+2020-12,Somerset,Porlock Library,HOLD,CASH,10,10,10
+2020-12,Somerset,Porlock Library,LOST,CANCEL,0,10,0
+2020-12,Somerset,Porlock Library,OVERDUE,CASH,10,10,10
+2020-12,Somerset,Porlock Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Somerset,Priorswood Library,CHARGE,CASH,0,0,0
+2020-12,Somerset,Priorswood Library,HOLD,CASH,20,20,20
+2020-12,Somerset,Priorswood Library,HOLD,DEBITCARD,10,10,10
+2020-12,Somerset,Priorswood Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Priorswood Library,HOLD,PAYPAL,10,10,10
+2020-12,Somerset,Priorswood Library,LOST,CANCEL,20,100,0
+2020-12,Somerset,Priorswood Library,LOST,PAYPAL,0,10,10
+2020-12,Somerset,Priorswood Library,OVERDUE,CASH,0,0,0
+2020-12,Somerset,Priorswood Library,OVERDUE,FORGIVEN,30,40,0
+2020-12,Somerset,Shepton Mallet Library,CHARGE,CANCEL,0,0,0
+2020-12,Somerset,Shepton Mallet Library,CHARGE,CASH,20,40,40
+2020-12,Somerset,Shepton Mallet Library,CHARGE,CREDITCARD,0,0,0
+2020-12,Somerset,Shepton Mallet Library,CHARGE,DEBITCARD,10,10,10
+2020-12,Somerset,Shepton Mallet Library,CHARGE,PAYPAL,0,10,10
+2020-12,Somerset,Shepton Mallet Library,GROUP,CASH,0,20,20
+2020-12,Somerset,Shepton Mallet Library,GROUP,DEBITCARD,0,10,10
+2020-12,Somerset,Shepton Mallet Library,HOLD,CASH,110,110,110
+2020-12,Somerset,Shepton Mallet Library,HOLD,CREDITCARD,0,0,0
+2020-12,Somerset,Shepton Mallet Library,HOLD,DEBITCARD,10,10,10
+2020-12,Somerset,Shepton Mallet Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Shepton Mallet Library,HOLD,PAYPAL,10,10,10
+2020-12,Somerset,Shepton Mallet Library,LOST,CANCEL,30,170,0
+2020-12,Somerset,Shepton Mallet Library,LOST,CASH,0,10,10
+2020-12,Somerset,Shepton Mallet Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Shepton Mallet Library,OVERDUE,CASH,30,20,20
+2020-12,Somerset,Shepton Mallet Library,OVERDUE,DEBITCARD,10,10,10
+2020-12,Somerset,Shepton Mallet Library,OVERDUE,FORGIVEN,40,30,0
+2020-12,Somerset,Shepton Mallet Library,OVERDUE,PAYPAL,20,10,10
+2020-12,Somerset,Shepton Mallet Library,SALEVAT,CASH,0,0,0
+2020-12,Somerset,Somerton Library,CHARGE,CANCEL,0,0,0
+2020-12,Somerset,Somerton Library,CHARGE,CASH,0,0,0
+2020-12,Somerset,Somerton Library,GROUP,CASH,0,10,10
+2020-12,Somerset,Somerton Library,GROUP,PAYPAL,0,10,10
+2020-12,Somerset,Somerton Library,HOLD,CANCEL,0,0,0
+2020-12,Somerset,Somerton Library,HOLD,CASH,40,40,40
+2020-12,Somerset,Somerton Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Somerton Library,HOLD,PAYPAL,30,30,30
+2020-12,Somerset,Somerton Library,LOST,CANCEL,30,170,0
+2020-12,Somerset,Somerton Library,LOST,PAYPAL,0,20,20
+2020-12,Somerset,Somerton Library,OVERDUE,CANCEL,0,0,0
+2020-12,Somerset,Somerton Library,OVERDUE,CASH,10,0,0
+2020-12,Somerset,Somerton Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Somerset,South Petherton Library,CHARGE,CASH,20,30,30
+2020-12,Somerset,South Petherton Library,GROUP,CASH,0,10,10
+2020-12,Somerset,South Petherton Library,HOLD,CANCEL,0,0,0
+2020-12,Somerset,South Petherton Library,HOLD,CASH,40,40,40
+2020-12,Somerset,South Petherton Library,HOLD,PAYPAL,0,0,0
+2020-12,Somerset,South Petherton Library,LOST,CANCEL,10,50,0
+2020-12,Somerset,South Petherton Library,LOST,CASH,0,10,10
+2020-12,Somerset,South Petherton Library,OVERDUE,CANCEL,0,20,0
+2020-12,Somerset,South Petherton Library,OVERDUE,CASH,10,10,10
+2020-12,Somerset,Street Library,CHARGE,CASH,10,10,10
+2020-12,Somerset,Street Library,GROUP,PAYPAL,0,10,10
+2020-12,Somerset,Street Library,HOLD,CASH,0,0,0
+2020-12,Somerset,Street Library,HOLD,PAYPAL,0,0,0
+2020-12,Somerset,Street Library,LOST,CANCEL,20,120,0
+2020-12,Somerset,Street Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Street Library,OVERDUE,CASH,0,0,0
+2020-12,Somerset,Street Library,OVERDUE,FORGIVEN,20,10,0
+2020-12,Somerset,Street Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Somerset,Taunton Library,CHARGE,CANCEL,0,10,0
+2020-12,Somerset,Taunton Library,CHARGE,CASH,50,100,100
+2020-12,Somerset,Taunton Library,CHARGE,CREDITCARD,30,70,70
+2020-12,Somerset,Taunton Library,CHARGE,DEBITCARD,20,40,40
+2020-12,Somerset,Taunton Library,CHARGE,FORGIVEN,10,10,0
+2020-12,Somerset,Taunton Library,CHARGE,PAYPAL,10,20,20
+2020-12,Somerset,Taunton Library,CHARGEX,CASH,0,0,0
+2020-12,Somerset,Taunton Library,GROUP,CASH,0,20,20
+2020-12,Somerset,Taunton Library,GROUP,PAYPAL,0,10,10
+2020-12,Somerset,Taunton Library,HOLD,CANCEL,10,10,0
+2020-12,Somerset,Taunton Library,HOLD,CASH,230,220,220
+2020-12,Somerset,Taunton Library,HOLD,CREDITCARD,140,130,130
+2020-12,Somerset,Taunton Library,HOLD,DEBITCARD,20,20,20
+2020-12,Somerset,Taunton Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Taunton Library,HOLD,PAYPAL,40,40,40
+2020-12,Somerset,Taunton Library,LOST,CANCEL,200,1270,0
+2020-12,Somerset,Taunton Library,LOST,CASH,0,0,0
+2020-12,Somerset,Taunton Library,LOST,CREDITCARD,0,10,10
+2020-12,Somerset,Taunton Library,LOST,DEBITCARD,0,10,10
+2020-12,Somerset,Taunton Library,LOST,PAYPAL,10,60,60
+2020-12,Somerset,Taunton Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Taunton Library,LOSTCARD,DEBITCARD,0,0,0
+2020-12,Somerset,Taunton Library,OVERDUE,CANCEL,60,90,0
+2020-12,Somerset,Taunton Library,OVERDUE,CASH,100,110,110
+2020-12,Somerset,Taunton Library,OVERDUE,CREDITCARD,90,80,80
+2020-12,Somerset,Taunton Library,OVERDUE,DEBITCARD,70,110,110
+2020-12,Somerset,Taunton Library,OVERDUE,FORGIVEN,70,220,0
+2020-12,Somerset,Taunton Library,OVERDUE,PAYPAL,60,60,60
+2020-12,Somerset,Taunton Library,SALENOVAT,CASH,0,0,0
+2020-12,Somerset,Taunton Library,SALENOVAT,DEBITCARD,10,10,10
+2020-12,Somerset,Taunton Library,SALENOVAT,PAYPAL,0,10,10
+2020-12,Somerset,Taunton Library,SALEVAT,CANCEL,0,10,0
+2020-12,Somerset,Taunton Library,SALEVAT,CASH,10,0,0
+2020-12,Somerset,Taunton Library,SALEVAT,DEBITCARD,10,10,10
+2020-12,Somerset,Taunton Mobile,CHARGE,FORGIVEN,10,20,0
+2020-12,Somerset,Taunton Mobile,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Taunton Mobile,LOST,CANCEL,10,70,0
+2020-12,Somerset,Taunton Mobile,OVERDUE,FORGIVEN,10,20,0
+2020-12,Somerset,Watchet Library,CHARGE,CASH,0,0,0
+2020-12,Somerset,Watchet Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Somerset,Watchet Library,HOLD,CASH,20,20,20
+2020-12,Somerset,Watchet Library,HOLD,PAYPAL,0,0,0
+2020-12,Somerset,Watchet Library,LOST,CANCEL,0,10,0
+2020-12,Somerset,Watchet Library,OVERDUE,CASH,10,20,20
+2020-12,Somerset,Watchet Library,OVERDUE,FORGIVEN,0,0,0
+2020-12,Somerset,Watchet Library,OVERDUE,PAYPAL,30,10,10
+2020-12,Somerset,Wellington Library,CHARGE,CANCEL,0,0,0
+2020-12,Somerset,Wellington Library,CHARGE,CASH,30,60,60
+2020-12,Somerset,Wellington Library,CHARGE,CREDITCARD,20,40,40
+2020-12,Somerset,Wellington Library,CHARGE,PAYPAL,0,10,10
+2020-12,Somerset,Wellington Library,HOLD,CANCEL,0,0,0
+2020-12,Somerset,Wellington Library,HOLD,CASH,50,50,50
+2020-12,Somerset,Wellington Library,HOLD,CREDITCARD,50,40,40
+2020-12,Somerset,Wellington Library,HOLD,PAYPAL,20,20,20
+2020-12,Somerset,Wellington Library,LOST,CANCEL,40,230,0
+2020-12,Somerset,Wellington Library,LOST,CASH,0,10,10
+2020-12,Somerset,Wellington Library,LOST,CREDITCARD,0,10,10
+2020-12,Somerset,Wellington Library,LOST,PAYPAL,0,20,20
+2020-12,Somerset,Wellington Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Wellington Library,OVERDUE,CANCEL,10,10,0
+2020-12,Somerset,Wellington Library,OVERDUE,CASH,50,40,40
+2020-12,Somerset,Wellington Library,OVERDUE,CREDITCARD,60,50,50
+2020-12,Somerset,Wellington Library,OVERDUE,DEBITCARD,30,10,10
+2020-12,Somerset,Wellington Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,Somerset,Wellington Library,OVERDUE,PAYPAL,40,20,20
+2020-12,Somerset,Wellington Library,OVERDUEX,CASH,0,0,0
+2020-12,Somerset,Wellington Library,SALENOVAT,CASH,0,0,0
+2020-12,Somerset,Wellington Library,SALENOVAT,CREDITCARD,0,0,0
+2020-12,Somerset,Wellington Library,SALEVAT,CASH,10,0,0
+2020-12,Somerset,Wells Library,CHARGE,CANCEL,10,20,0
+2020-12,Somerset,Wells Library,CHARGE,CASH,30,60,60
+2020-12,Somerset,Wells Library,CHARGE,CREDITCARD,20,40,40
+2020-12,Somerset,Wells Library,CHARGE,DEBITCARD,0,10,10
+2020-12,Somerset,Wells Library,CHARGE,FORGIVEN,0,0,0
+2020-12,Somerset,Wells Library,CHARGE,PAYPAL,0,10,10
+2020-12,Somerset,Wells Library,GROUP,CASH,0,10,10
+2020-12,Somerset,Wells Library,GROUP,FORGIVEN,0,10,0
+2020-12,Somerset,Wells Library,HOLD,CANCEL,0,0,0
+2020-12,Somerset,Wells Library,HOLD,CASH,150,140,140
+2020-12,Somerset,Wells Library,HOLD,CREDITCARD,40,40,40
+2020-12,Somerset,Wells Library,HOLD,PAYPAL,40,40,40
+2020-12,Somerset,Wells Library,LOST,CANCEL,60,340,0
+2020-12,Somerset,Wells Library,LOST,CASH,10,30,30
+2020-12,Somerset,Wells Library,LOST,CREDITCARD,0,20,20
+2020-12,Somerset,Wells Library,LOST,FORGIVEN,0,0,0
+2020-12,Somerset,Wells Library,LOST,PAYPAL,10,50,50
+2020-12,Somerset,Wells Library,LOSTCARD,CASH,0,10,10
+2020-12,Somerset,Wells Library,OVERDUE,CANCEL,10,10,0
+2020-12,Somerset,Wells Library,OVERDUE,CASH,80,60,60
+2020-12,Somerset,Wells Library,OVERDUE,CREDITCARD,40,30,30
+2020-12,Somerset,Wells Library,OVERDUE,DEBITCARD,0,10,10
+2020-12,Somerset,Wells Library,OVERDUE,FORGIVEN,10,20,0
+2020-12,Somerset,Wells Library,OVERDUE,PAYPAL,70,90,90
+2020-12,Somerset,Wells Library,SALEVAT,CREDITCARD,0,0,0
+2020-12,Somerset,Williton Library,CHARGE,CASH,10,20,20
+2020-12,Somerset,Williton Library,CHARGE,CREDITCARD,0,0,0
+2020-12,Somerset,Williton Library,HOLD,CASH,50,50,50
+2020-12,Somerset,Williton Library,HOLD,CREDITCARD,20,20,20
+2020-12,Somerset,Williton Library,HOLD,DEBITCARD,10,10,10
+2020-12,Somerset,Williton Library,HOLD,PAYPAL,20,20,20
+2020-12,Somerset,Williton Library,LOST,CANCEL,10,30,0
+2020-12,Somerset,Williton Library,LOSTCARD,CASH,0,0,0
+2020-12,Somerset,Williton Library,OVERDUE,CASH,10,0,0
+2020-12,Somerset,Williton Library,OVERDUE,CREDITCARD,0,0,0
+2020-12,Somerset,Williton Library,OVERDUE,FORGIVEN,0,10,0
+2020-12,Somerset,Wincanton Library,CHARGE,CASH,10,20,20
+2020-12,Somerset,Wincanton Library,CHARGE,PAYPAL,0,0,0
+2020-12,Somerset,Wincanton Library,GROUP,CASH,0,10,10
+2020-12,Somerset,Wincanton Library,GROUP,DEBITCARD,0,10,10
+2020-12,Somerset,Wincanton Library,HOLD,CASH,70,70,70
+2020-12,Somerset,Wincanton Library,HOLD,FORGIVEN,0,0,0
+2020-12,Somerset,Wincanton Library,HOLD,PAYPAL,0,0,0
+2020-12,Somerset,Wincanton Library,LOST,CANCEL,50,290,0
+2020-12,Somerset,Wincanton Library,LOST,DEBITCARD,0,10,10
+2020-12,Somerset,Wincanton Library,OVERDUE,CANCEL,0,0,0
+2020-12,Somerset,Wincanton Library,OVERDUE,CASH,10,0,0
+2020-12,Somerset,Wincanton Library,OVERDUE,DEBITCARD,10,0,0
+2020-12,Somerset,Wincanton Library,OVERDUE,FORGIVEN,10,20,0
+2020-12,Somerset,Wincanton Library,OVERDUE,PAYPAL,0,0,0
+2020-12,Somerset,Wiveliscombe Library,CHARGE,CASH,10,20,20
+2020-12,Somerset,Wiveliscombe Library,CHARGE,FORGIVEN,20,30,0
+2020-12,Somerset,Wiveliscombe Library,CHARGE,PAYPAL,10,0,0
+2020-12,Somerset,Wiveliscombe Library,HOLD,CASH,50,40,40
+2020-12,Somerset,Wiveliscombe Library,HOLD,FORGIVEN,10,10,0
+2020-12,Somerset,Wiveliscombe Library,HOLD,PAYPAL,10,10,10
+2020-12,Somerset,Wiveliscombe Library,LOST,CANCEL,0,20,0
+2020-12,Somerset,Wiveliscombe Library,OVERDUE,CANCEL,0,0,0
+2020-12,Somerset,Wiveliscombe Library,OVERDUE,CASH,20,20,20
+2020-12,Somerset,Wiveliscombe Library,OVERDUE,FORGIVEN,20,30,0
+2020-12,Somerset,Wiveliscombe Library,OVERDUE,PAYPAL,10,10,10
+2020-12,Somerset,Wiveliscombe Library,SALENOVAT,CASH,0,0,0
+2020-12,Somerset,Wiveliscombe Library,SALENOVAT,FORGIVEN,0,0,0
+2020-12,Somerset,Yeovil Library,CHARGE,CANCEL,10,10,0
+2020-12,Somerset,Yeovil Library,CHARGE,CASH,20,30,30
+2020-12,Somerset,Yeovil Library,CHARGE,CREDITCARD,20,50,50
+2020-12,Somerset,Yeovil Library,CHARGE,DEBITCARD,10,10,10
+2020-12,Somerset,Yeovil Library,CHARGE,PAYPAL,0,0,0
+2020-12,Somerset,Yeovil Library,DAMAGE,PAYPAL,0,20,20
+2020-12,Somerset,Yeovil Library,GROUP,CASH,0,10,10
+2020-12,Somerset,Yeovil Library,GROUP,FORGIVEN,0,10,0
+2020-12,Somerset,Yeovil Library,HOLD,CANCEL,10,0,0
+2020-12,Somerset,Yeovil Library,HOLD,CASH,90,90,90
+2020-12,Somerset,Yeovil Library,HOLD,CREDITCARD,50,50,50
+2020-12,Somerset,Yeovil Library,HOLD,DEBITCARD,0,0,0
+2020-12,Somerset,Yeovil Library,HOLD,FORGIVEN,10,10,0
+2020-12,Somerset,Yeovil Library,HOLD,PAYPAL,20,20,20
+2020-12,Somerset,Yeovil Library,LOST,CANCEL,80,620,0
+2020-12,Somerset,Yeovil Library,LOST,CREDITCARD,10,70,70
+2020-12,Somerset,Yeovil Library,LOST,DEBITCARD,0,10,10
+2020-12,Somerset,Yeovil Library,LOST,FORGIVEN,0,0,0
+2020-12,Somerset,Yeovil Library,LOST,PAYPAL,0,10,10
+2020-12,Somerset,Yeovil Library,LOSTCARD,FORGIVEN,0,0,0
+2020-12,Somerset,Yeovil Library,OVERDUE,CANCEL,50,80,0
+2020-12,Somerset,Yeovil Library,OVERDUE,CASH,10,10,10
+2020-12,Somerset,Yeovil Library,OVERDUE,CREDITCARD,70,80,80
+2020-12,Somerset,Yeovil Library,OVERDUE,DEBITCARD,10,0,0
+2020-12,Somerset,Yeovil Library,OVERDUE,FORGIVEN,90,180,0
+2020-12,Somerset,Yeovil Library,OVERDUE,PAYPAL,60,40,40
+2020-12,Somerset,Yeovil Library,SALEVAT,CASH,0,10,10
+2020-12,South Gloucestershire,Bradley Stoke Library,CHARGE,CASH,20,20,20
+2020-12,South Gloucestershire,Bradley Stoke Library,CHARGE,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Bradley Stoke Library,CHARGE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Bradley Stoke Library,GROUP,CANCEL,0,0,0
+2020-12,South Gloucestershire,Bradley Stoke Library,GROUP,CASH,0,0,0
+2020-12,South Gloucestershire,Bradley Stoke Library,HOLD,CANCEL,0,0,0
+2020-12,South Gloucestershire,Bradley Stoke Library,HOLD,CASH,50,30,30
+2020-12,South Gloucestershire,Bradley Stoke Library,HOLD,PAYPAL,10,10,10
+2020-12,South Gloucestershire,Bradley Stoke Library,LOST,CANCEL,130,690,0
+2020-12,South Gloucestershire,Bradley Stoke Library,LOST,FORGIVEN,0,10,0
+2020-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,CANCEL,20,30,0
+2020-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,CASH,30,10,10
+2020-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,FORGIVEN,10,10,0
+2020-12,South Gloucestershire,Bradley Stoke Library,OVERDUE,PAYPAL,20,10,10
+2020-12,South Gloucestershire,Bradley Stoke Library,SALENOVAT,CASH,0,10,10
+2020-12,South Gloucestershire,Bradley Stoke Library,SALEVAT,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,CHARGE,CANCEL,0,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,CHARGE,CASH,0,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,GROUP,CASH,0,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,HOLD,CANCEL,0,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,HOLD,CASH,30,20,20
+2020-12,South Gloucestershire,Cadbury Heath Library,HOLD,PAYPAL,10,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,LOST,CANCEL,40,290,0
+2020-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,CANCEL,10,50,0
+2020-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,CASH,0,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,FORGIVEN,10,20,0
+2020-12,South Gloucestershire,Cadbury Heath Library,OVERDUE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,SALEVAT,CASH,0,0,0
+2020-12,South Gloucestershire,Cadbury Heath Library,SALEVAT,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Downend Library,CHARGE,CASH,10,10,10
+2020-12,South Gloucestershire,Downend Library,CHARGE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Downend Library,GROUP,CASH,0,10,10
+2020-12,South Gloucestershire,Downend Library,HOLD,CANCEL,0,0,0
+2020-12,South Gloucestershire,Downend Library,HOLD,CASH,40,20,20
+2020-12,South Gloucestershire,Downend Library,HOLD,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Downend Library,HOLD,PAYPAL,20,10,10
+2020-12,South Gloucestershire,Downend Library,LOST,CANCEL,60,370,0
+2020-12,South Gloucestershire,Downend Library,OVERDUE,CANCEL,10,0,0
+2020-12,South Gloucestershire,Downend Library,OVERDUE,CASH,20,10,10
+2020-12,South Gloucestershire,Downend Library,OVERDUE,FORGIVEN,30,70,0
+2020-12,South Gloucestershire,Downend Library,OVERDUE,PAYPAL,20,20,20
+2020-12,South Gloucestershire,Emersons Green Library,CHARGE,CANCEL,0,0,0
+2020-12,South Gloucestershire,Emersons Green Library,CHARGE,CASH,30,30,30
+2020-12,South Gloucestershire,Emersons Green Library,CHARGE,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Emersons Green Library,CHARGE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Emersons Green Library,HOLD,CANCEL,10,10,0
+2020-12,South Gloucestershire,Emersons Green Library,HOLD,CASH,50,40,40
+2020-12,South Gloucestershire,Emersons Green Library,HOLD,FORGIVEN,10,10,0
+2020-12,South Gloucestershire,Emersons Green Library,HOLD,PAYPAL,10,10,10
+2020-12,South Gloucestershire,Emersons Green Library,LOST,CANCEL,110,600,0
+2020-12,South Gloucestershire,Emersons Green Library,LOST,CASH,0,10,10
+2020-12,South Gloucestershire,Emersons Green Library,LOST,FORGIVEN,0,10,0
+2020-12,South Gloucestershire,Emersons Green Library,LOST,PAYPAL,10,30,30
+2020-12,South Gloucestershire,Emersons Green Library,OVERDUE,CANCEL,40,160,0
+2020-12,South Gloucestershire,Emersons Green Library,OVERDUE,CASH,10,30,30
+2020-12,South Gloucestershire,Emersons Green Library,OVERDUE,FORGIVEN,30,100,0
+2020-12,South Gloucestershire,Emersons Green Library,OVERDUE,PAYPAL,0,10,10
+2020-12,South Gloucestershire,Emersons Green Library,SALEVAT,CASH,0,0,0
+2020-12,South Gloucestershire,Emersons Green Library,SALEVAT,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Filton Library,LOST,CANCEL,0,30,0
+2020-12,South Gloucestershire,Filton Library,OVERDUE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Hanham Library,CHARGE,CASH,0,10,10
+2020-12,South Gloucestershire,Hanham Library,GROUP,CANCEL,0,10,0
+2020-12,South Gloucestershire,Hanham Library,HOLD,CANCEL,0,0,0
+2020-12,South Gloucestershire,Hanham Library,HOLD,CASH,40,20,20
+2020-12,South Gloucestershire,Hanham Library,HOLD,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Hanham Library,HOLD,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Hanham Library,LOST,CANCEL,60,420,0
+2020-12,South Gloucestershire,Hanham Library,LOST,FORGIVEN,0,10,0
+2020-12,South Gloucestershire,Hanham Library,LOST,PAYPAL,0,50,50
+2020-12,South Gloucestershire,Hanham Library,OVERDUE,CANCEL,10,30,0
+2020-12,South Gloucestershire,Hanham Library,OVERDUE,CASH,40,30,30
+2020-12,South Gloucestershire,Hanham Library,OVERDUE,FORGIVEN,40,130,0
+2020-12,South Gloucestershire,Hanham Library,SALEVAT,CASH,0,0,0
+2020-12,South Gloucestershire,Kingswood Library,CHARGE,CANCEL,0,0,0
+2020-12,South Gloucestershire,Kingswood Library,CHARGE,CASH,0,10,10
+2020-12,South Gloucestershire,Kingswood Library,HOLD,CANCEL,0,0,0
+2020-12,South Gloucestershire,Kingswood Library,HOLD,CASH,40,30,30
+2020-12,South Gloucestershire,Kingswood Library,LOST,CANCEL,90,590,0
+2020-12,South Gloucestershire,Kingswood Library,LOST,CASH,0,10,10
+2020-12,South Gloucestershire,Kingswood Library,LOST,PAYPAL,0,10,10
+2020-12,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,30,130,0
+2020-12,South Gloucestershire,Kingswood Library,OVERDUE,CASH,20,10,10
+2020-12,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,0,10,0
+2020-12,South Gloucestershire,Kingswood Library,OVERDUE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Patchway Library,CHARGE,CANCEL,0,0,0
+2020-12,South Gloucestershire,Patchway Library,CHARGE,CASH,0,0,0
+2020-12,South Gloucestershire,Patchway Library,HOLD,CANCEL,0,0,0
+2020-12,South Gloucestershire,Patchway Library,HOLD,CASH,40,30,30
+2020-12,South Gloucestershire,Patchway Library,HOLD,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Patchway Library,HOLD,PAYPAL,10,10,10
+2020-12,South Gloucestershire,Patchway Library,LOST,CANCEL,80,440,0
+2020-12,South Gloucestershire,Patchway Library,LOST,CASH,0,10,10
+2020-12,South Gloucestershire,Patchway Library,LOST,FORGIVEN,0,20,0
+2020-12,South Gloucestershire,Patchway Library,OVERDUE,CANCEL,30,210,0
+2020-12,South Gloucestershire,Patchway Library,OVERDUE,CASH,10,10,10
+2020-12,South Gloucestershire,Patchway Library,OVERDUE,FORGIVEN,20,30,0
+2020-12,South Gloucestershire,Patchway Library,SALENOVAT,CANCEL,0,10,0
+2020-12,South Gloucestershire,Patchway Library,SALEVAT,CANCEL,0,0,0
+2020-12,South Gloucestershire,Patchway Library,SALEVAT,CASH,0,0,0
+2020-12,South Gloucestershire,Staple Hill Library,CHARGE,CANCEL,10,10,0
+2020-12,South Gloucestershire,Staple Hill Library,CHARGE,CASH,20,20,20
+2020-12,South Gloucestershire,Staple Hill Library,CHARGE,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Staple Hill Library,CHARGE,PAYPAL,10,10,10
+2020-12,South Gloucestershire,Staple Hill Library,CHARGEX,CANCEL,0,0,0
+2020-12,South Gloucestershire,Staple Hill Library,GROUP,CASH,0,10,10
+2020-12,South Gloucestershire,Staple Hill Library,HOLD,CASH,30,20,20
+2020-12,South Gloucestershire,Staple Hill Library,HOLD,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Staple Hill Library,HOLD,PAYPAL,20,10,10
+2020-12,South Gloucestershire,Staple Hill Library,LOST,CANCEL,50,300,0
+2020-12,South Gloucestershire,Staple Hill Library,OVERDUE,CANCEL,20,90,0
+2020-12,South Gloucestershire,Staple Hill Library,OVERDUE,CASH,10,20,20
+2020-12,South Gloucestershire,Staple Hill Library,OVERDUE,FORGIVEN,30,20,0
+2020-12,South Gloucestershire,Staple Hill Library,OVERDUE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Staple Hill Library,SALEVAT,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Thornbury Library,CHARGE,CASH,10,10,10
+2020-12,South Gloucestershire,Thornbury Library,CHARGE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Thornbury Library,GROUP,CANCEL,0,30,0
+2020-12,South Gloucestershire,Thornbury Library,GROUP,CASH,10,30,30
+2020-12,South Gloucestershire,Thornbury Library,HOLD,CANCEL,10,20,0
+2020-12,South Gloucestershire,Thornbury Library,HOLD,CASH,110,70,70
+2020-12,South Gloucestershire,Thornbury Library,HOLD,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Thornbury Library,HOLD,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Thornbury Library,LOST,CANCEL,160,1160,0
+2020-12,South Gloucestershire,Thornbury Library,LOST,CASH,10,40,40
+2020-12,South Gloucestershire,Thornbury Library,LOST,FORGIVEN,0,10,0
+2020-12,South Gloucestershire,Thornbury Library,LOST,PAYPAL,0,20,20
+2020-12,South Gloucestershire,Thornbury Library,OVERDUE,CANCEL,30,130,0
+2020-12,South Gloucestershire,Thornbury Library,OVERDUE,CASH,20,20,20
+2020-12,South Gloucestershire,Thornbury Library,OVERDUE,FORGIVEN,20,60,0
+2020-12,South Gloucestershire,Thornbury Library,OVERDUE,PAYPAL,20,50,50
+2020-12,South Gloucestershire,Thornbury Library,SALEVAT,CASH,0,0,0
+2020-12,South Gloucestershire,Winterbourne Library,CHARGE,CASH,10,10,10
+2020-12,South Gloucestershire,Winterbourne Library,CHARGE,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Winterbourne Library,GROUP,CASH,0,10,10
+2020-12,South Gloucestershire,Winterbourne Library,HOLD,CASH,60,40,40
+2020-12,South Gloucestershire,Winterbourne Library,HOLD,FORGIVEN,0,0,0
+2020-12,South Gloucestershire,Winterbourne Library,HOLD,PAYPAL,0,0,0
+2020-12,South Gloucestershire,Winterbourne Library,LOST,CANCEL,50,280,0
+2020-12,South Gloucestershire,Winterbourne Library,LOST,CASH,0,20,20
+2020-12,South Gloucestershire,Winterbourne Library,LOST,FORGIVEN,0,10,0
+2020-12,South Gloucestershire,Winterbourne Library,LOST,PAYPAL,0,20,20
+2020-12,South Gloucestershire,Winterbourne Library,OVERDUE,CASH,10,0,0
+2020-12,South Gloucestershire,Winterbourne Library,OVERDUE,FORGIVEN,20,70,0
+2020-12,South Gloucestershire,Yate Library,CHARGE,CANCEL,10,10,0
+2020-12,South Gloucestershire,Yate Library,CHARGE,CASH,20,20,20
+2020-12,South Gloucestershire,Yate Library,CHARGE,FORGIVEN,10,20,0
+2020-12,South Gloucestershire,Yate Library,GROUP,CANCEL,0,10,0
+2020-12,South Gloucestershire,Yate Library,GROUP,CASH,0,10,10
+2020-12,South Gloucestershire,Yate Library,HOLD,CANCEL,10,10,0
+2020-12,South Gloucestershire,Yate Library,HOLD,CASH,130,100,100
+2020-12,South Gloucestershire,Yate Library,HOLD,FORGIVEN,20,10,0
+2020-12,South Gloucestershire,Yate Library,HOLD,PAYPAL,20,10,10
+2020-12,South Gloucestershire,Yate Library,LOST,CANCEL,150,1010,0
+2020-12,South Gloucestershire,Yate Library,LOST,CASH,0,20,20
+2020-12,South Gloucestershire,Yate Library,LOST,PAYPAL,0,10,10
+2020-12,South Gloucestershire,Yate Library,OVERDUE,CANCEL,40,40,0
+2020-12,South Gloucestershire,Yate Library,OVERDUE,CASH,10,10,10
+2020-12,South Gloucestershire,Yate Library,OVERDUE,FORGIVEN,70,110,0
+2020-12,South Gloucestershire,Yate Library,SALEVAT,CASH,0,0,0
