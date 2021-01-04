@@ -94,7 +94,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Bristol,GROUP,0,20
 2020/2021,Bristol,HOLD,0,10
 2020/2021,Bristol,LOST,1710,12730
-2020/2021,Bristol,OVERDUE,7720,9940
+2020/2021,Bristol,OVERDUE,7730,9940
 2020/2021,Bristol,PRIVILEGE,0,0
 2020/2021,Bristol,SALENOVAT,40,290
 2020/2021,Bristol,SALEVAT,0,10
@@ -106,18 +106,18 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Dorset,ILL,0,10
 2020/2021,Dorset,LOST,6110,34990
 2020/2021,Dorset,LOSTCARD,50,90
-2020/2021,Dorset,OVERDUE,5770,11820
+2020/2021,Dorset,OVERDUE,5800,11840
 2020/2021,Dorset,PRIVILEGE,10,10
 2020/2021,Dorset,PROCESSFEE,0,10
 2020/2021,Dorset,SALENOVAT,60,80
 2020/2021,Dorset,SALEVAT,20,30
-2020/2021,North Somerset,CHARGE,1000,1350
+2020/2021,North Somerset,CHARGE,1000,1360
 2020/2021,North Somerset,DAMAGE,0,10
 2020/2021,North Somerset,GROUP,60,360
 2020/2021,North Somerset,HOLD,0,10
 2020/2021,North Somerset,LOST,2720,17250
 2020/2021,North Somerset,LOSTCARD,0,0
-2020/2021,North Somerset,OVERDUE,3600,6480
+2020/2021,North Somerset,OVERDUE,3610,6490
 2020/2021,North Somerset,SALENOVAT,30,90
 2020/2021,North Somerset,SALEVAT,130,300
 2020/2021,Poole,CHARGE,550,870
@@ -126,7 +126,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Poole,HOLD,2000,2000
 2020/2021,Poole,LOST,10,70
 2020/2021,Poole,LOSTCARD,10,10
-2020/2021,Poole,OVERDUE,3630,6770
+2020/2021,Poole,OVERDUE,3640,6770
 2020/2021,Poole,PROCESSFEE,0,0
 2020/2021,Poole,SALENOVAT,120,210
 2020/2021,Poole,SALEVAT,30,40
@@ -138,7 +138,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Somerset,ILL,0,0
 2020/2021,Somerset,LOST,6950,46010
 2020/2021,Somerset,LOSTCARD,130,270
-2020/2021,Somerset,OVERDUE,15550,22060
+2020/2021,Somerset,OVERDUE,15590,22070
 2020/2021,Somerset,PROCESSFEE,0,0
 2020/2021,Somerset,SALENOVAT,90,170
 2020/2021,Somerset,SALEVAT,290,650
@@ -149,6 +149,6 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,South Gloucestershire,ILL,10,140
 2020/2021,South Gloucestershire,LOST,5000,30700
 2020/2021,South Gloucestershire,LOSTCARD,0,0
-2020/2021,South Gloucestershire,OVERDUE,4680,9050
+2020/2021,South Gloucestershire,OVERDUE,4690,9050
 2020/2021,South Gloucestershire,SALENOVAT,100,130
 2020/2021,South Gloucestershire,SALEVAT,470,450
