@@ -22519,7 +22519,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,North Somerset,Nailsea Library,18 DVD Standard,CHARGE,*,*
 2019-08,North Somerset,Nailsea Library,Adult Fiction,DAMAGE,*,*
 2019-08,North Somerset,Nailsea Library,Adult Fiction,LOST,*,*
-2019-08,North Somerset,Nailsea Library,Adult Fiction,OVERDUE,132,109.0
+2019-08,North Somerset,Nailsea Library,Adult Fiction,OVERDUE,131,108.8
+2019-08,North Somerset,Nailsea Library,Adult Graphic Novel,OVERDUE,*,*
 2019-08,North Somerset,Nailsea Library,Adult Non Fiction,LOST,*,*
 2019-08,North Somerset,Nailsea Library,Adult Non Fiction,OVERDUE,132,98.0
 2019-08,North Somerset,Nailsea Library,Adult Spoken Word,CHARGE,50,50
@@ -28668,7 +28669,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,North Somerset,Nailsea Library,18 DVD Standard,CHARGE,*,*
 2019-10,North Somerset,Nailsea Library,18 DVD Standard,OVERDUE,*,*
 2019-10,North Somerset,Nailsea Library,Adult Fiction,LOST,7,63
-2019-10,North Somerset,Nailsea Library,Adult Fiction,OVERDUE,146,120.0
+2019-10,North Somerset,Nailsea Library,Adult Fiction,OVERDUE,145,119.6
 2019-10,North Somerset,Nailsea Library,Adult Graphic Novel,OVERDUE,*,*
 2019-10,North Somerset,Nailsea Library,Adult Non Fiction,LOST,5,45
 2019-10,North Somerset,Nailsea Library,Adult Non Fiction,OVERDUE,107,119.0
@@ -49099,7 +49100,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Yate Library,Adult Fiction,DAMAGE,*,*
 2020-10,South Gloucestershire,Yate Library,Adult Fiction,HOLD,138,124.3
 2020-10,South Gloucestershire,Yate Library,Adult Fiction,LOST,8,72
-2020-10,South Gloucestershire,Yate Library,Adult Fiction,OVERDUE,306,332.4
+2020-10,South Gloucestershire,Yate Library,Adult Fiction,OVERDUE,308,337.2
 2020-10,South Gloucestershire,Yate Library,Adult Graphic Novel,HOLD,*,*
 2020-10,South Gloucestershire,Yate Library,Adult Graphic Novel,OVERDUE,*,*
 2020-10,South Gloucestershire,Yate Library,Adult Non Fiction,HOLD,64,54.2
@@ -49116,7 +49117,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Yate Library,Child Non Fiction,LOST,*,*
 2020-10,South Gloucestershire,Yate Library,Child Non Fiction,OVERDUE,21,39.8
 2020-10,South Gloucestershire,Yate Library,Fastrack,LOST,*,*
-2020-10,South Gloucestershire,Yate Library,Fastrack,OVERDUE,50,65.8
+2020-10,South Gloucestershire,Yate Library,Fastrack,OVERDUE,48,61.0
 2020-10,South Gloucestershire,Yate Library,Large Print - Adult Fiction,HOLD,*,*
 2020-10,South Gloucestershire,Yate Library,Large Print - Adult Fiction,LOST,*,*
 2020-10,South Gloucestershire,Yate Library,Large Print - Adult Fiction,OVERDUE,35,44.6
@@ -51382,7 +51383,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Dorset,Bridport Library,Adult Fiction,OVERDUE,17,22.2
 2020-12,Dorset,Bridport Library,Adult Graphic Novel,LOST,*,*
 2020-12,Dorset,Bridport Library,Adult Non Fiction,LOST,20,180
-2020-12,Dorset,Bridport Library,Adult Non Fiction,OVERDUE,18,31.2
+2020-12,Dorset,Bridport Library,Adult Non Fiction,OVERDUE,19,32.6
 2020-12,Dorset,Bridport Library,Adult Spoken Word,CHARGE,13,28.6
 2020-12,Dorset,Bridport Library,Adult Spoken Word,OVERDUE,*,*
 2020-12,Dorset,Bridport Library,Child Fiction,LOST,70,350
@@ -51564,7 +51565,9 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Dorset,Sherborne Library,PG DVD Standard,CHARGE,*,*
 2020-12,Dorset,Sherborne Library,PG DVD Standard,OVERDUE,*,*
 2020-12,Dorset,Sherborne Library,Reading Group Set,LOST,*,*
+2020-12,Dorset,Sherborne Library,Reading Group Set,OVERDUE,*,*
 2020-12,Dorset,Sherborne Library,YA / Teen Fiction,LOST,*,*
+2020-12,Dorset,Sherborne Library,YA / Teen Fiction,OVERDUE,*,*
 2020-12,Dorset,Stalbridge Library,Adult Spoken Word,CHARGE,*,*
 2020-12,Dorset,Stalbridge Library,Child Fiction,LOST,17,85
 2020-12,Dorset,Sturminster Library,Adult Fiction,LOST,*,*
