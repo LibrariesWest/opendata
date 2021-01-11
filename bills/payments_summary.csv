@@ -587,7 +587,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bristol,CHARGE,CREDITCARD,230,280,280
 2020/2021,Bristol,CHARGE,DEBITCARD,20,30,30
 2020/2021,Bristol,CHARGE,FORGIVEN,330,420,0
-2020/2021,Bristol,CHARGE,PAYPAL,100,110,110
+2020/2021,Bristol,CHARGE,PAYPAL,100,120,120
 2020/2021,Bristol,CHARGEX,FORGIVEN,0,0,0
 2020/2021,Bristol,CREDIT,CASH,0,0,0
 2020/2021,Bristol,CREDIT,FORGIVEN,0,0,0
@@ -614,7 +614,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bristol,OVERDUE,FORGIVEN,2350,3500,0
 2020/2021,Bristol,OVERDUE,INVOICE,10,0,0
 2020/2021,Bristol,OVERDUE,NONE,10,0,0
-2020/2021,Bristol,OVERDUE,PAYPAL,1100,1210,1210
+2020/2021,Bristol,OVERDUE,PAYPAL,1110,1210,1210
 2020/2021,Bristol,OVERDUE,VOUCH,0,10,10
 2020/2021,Bristol,REFERRAL,FORGIVEN,0,20,0
 2020/2021,Bristol,REFERRAL,PAYPAL,0,10,10
@@ -785,7 +785,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,HOLD,CREDITCARD,1290,1290,1290
 2020/2021,Somerset,HOLD,DEBITCARD,230,220,220
 2020/2021,Somerset,HOLD,FORGIVEN,300,310,0
-2020/2021,Somerset,HOLD,PAYPAL,1680,1680,1680
+2020/2021,Somerset,HOLD,PAYPAL,1690,1700,1700
 2020/2021,Somerset,HOLDX,CANCEL,10,10,0
 2020/2021,Somerset,HOLDX,CASH,0,0,0
 2020/2021,Somerset,HOLDX,FORGIVEN,0,0,0
@@ -846,7 +846,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,HOLD,CASH,2000,1410,1410
 2020/2021,South Gloucestershire,HOLD,DEBITCARD,10,10,10
 2020/2021,South Gloucestershire,HOLD,FORGIVEN,220,220,0
-2020/2021,South Gloucestershire,HOLD,PAYPAL,370,300,300
+2020/2021,South Gloucestershire,HOLD,PAYPAL,380,310,310
 2020/2021,South Gloucestershire,HOLDX,FORGIVEN,0,10,0
 2020/2021,South Gloucestershire,ILL,CASH,0,10,10
 2020/2021,South Gloucestershire,ILL,CHEQUE,0,40,40
@@ -862,7 +862,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,OVERDUE,DEBITCARD,20,10,10
 2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,1520,2940,0
 2020/2021,South Gloucestershire,OVERDUE,NONE,10,10,10
-2020/2021,South Gloucestershire,OVERDUE,PAYPAL,590,740,740
+2020/2021,South Gloucestershire,OVERDUE,PAYPAL,600,750,750
 2020/2021,South Gloucestershire,OVERDUEX,CANCEL,0,0,0
 2020/2021,South Gloucestershire,OVERDUEX,FORGIVEN,0,0,0
 2020/2021,South Gloucestershire,SALENOVAT,CANCEL,20,20,0
