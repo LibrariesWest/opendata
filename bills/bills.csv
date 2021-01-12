@@ -33322,10 +33322,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,South Gloucestershire,Filton Library,B.O.P.,OVERDUE,*,*
 2019-11,South Gloucestershire,Filton Library,Boxed Set U DVD,OVERDUE,*,*
 2019-11,South Gloucestershire,Filton Library,Child Fiction,HOLD,10,10
-2019-11,South Gloucestershire,Filton Library,Child Fiction,LOST,48,240
+2019-11,South Gloucestershire,Filton Library,Child Fiction,LOST,47,235
 2019-11,South Gloucestershire,Filton Library,Child Fiction,OVERDUE,58,61.4
 2019-11,South Gloucestershire,Filton Library,Child Non Fiction,HOLD,5,5
-2019-11,South Gloucestershire,Filton Library,Child Non Fiction,LOST,*,*
+2019-11,South Gloucestershire,Filton Library,Child Non Fiction,LOST,5,25
 2019-11,South Gloucestershire,Filton Library,Child Non Fiction,OVERDUE,11,7.8
 2019-11,South Gloucestershire,Filton Library,Child Spoken Word,LOST,*,*
 2019-11,South Gloucestershire,Filton Library,Fastrack,LOST,*,*
@@ -51932,10 +51932,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Poole,Creekmoor Library,Boxed Set PG DVD,CHARGE,*,*
 2020-12,Poole,Creekmoor Library,Child Fiction,OVERDUE,*,*
 2020-12,Poole,Creekmoor Library,Large Print - Adult Fiction,HOLD,*,*
-2020-12,Poole,Hamworthy Library,12 DVD Premium,CHARGE,*,*
-2020-12,Poole,Hamworthy Library,12 DVD Standard,CHARGE,*,*
+2020-12,Poole,Hamworthy Library,12 DVD Standard,CHARGE,5,8.5
 2020-12,Poole,Hamworthy Library,12 DVD Standard,HOLD,*,*
-2020-12,Poole,Hamworthy Library,15 DVD Premium,CHARGE,*,*
 2020-12,Poole,Hamworthy Library,15 DVD Standard,CHARGE,*,*
 2020-12,Poole,Hamworthy Library,18 DVD Standard,CHARGE,*,*
 2020-12,Poole,Hamworthy Library,Adult Fiction,HOLD,8,8
