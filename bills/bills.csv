@@ -17040,7 +17040,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-06,Somerset,Burnham Library,15 DVD Standard,HOLD,*,*
 2019-06,Somerset,Burnham Library,15 DVD Standard,OVERDUE,*,*
 2019-06,Somerset,Burnham Library,18 DVD Standard,CHARGE,*,*
-2019-06,Somerset,Burnham Library,Adult Fiction,HOLD,124,123.0
+2019-06,Somerset,Burnham Library,Adult Fiction,HOLD,123,122.0
 2019-06,Somerset,Burnham Library,Adult Fiction,LOST,*,*
 2019-06,Somerset,Burnham Library,Adult Fiction,OVERDUE,67,74.0
 2019-06,Somerset,Burnham Library,Adult Graphic Novel,HOLD,*,*
@@ -36206,7 +36206,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,South Gloucestershire,Downend Library,Boxed Set U DVD,CHARGE,*,*
 2019-12,South Gloucestershire,Downend Library,Child Fiction,HOLD,6,6
 2019-12,South Gloucestershire,Downend Library,Child Fiction,LOST,30,149.99
-2019-12,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,31,62.2
+2019-12,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,32,63.2
 2019-12,South Gloucestershire,Downend Library,Child Non Fiction,LOST,5,25
 2019-12,South Gloucestershire,Downend Library,Child Non Fiction,OVERDUE,27,64.0
 2019-12,South Gloucestershire,Downend Library,Child Spoken Word,LOST,*,*
@@ -39296,7 +39296,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Emersons Green Library,18 DVD Standard,CHARGE,6,11.2
 2020-01,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,40,27.0
 2020-01,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,*,*
-2020-01,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,80,80.2
+2020-01,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,81,80.6
 2020-01,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,53,47.0
 2020-01,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,15,135
 2020-01,South Gloucestershire,Emersons Green Library,Adult Non Fiction,OVERDUE,36,59.2
@@ -39314,7 +39314,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Emersons Green Library,Child Non Fiction,OVERDUE,*,*
 2020-01,South Gloucestershire,Emersons Green Library,Drama single copy,HOLD,*,*
 2020-01,South Gloucestershire,Emersons Green Library,Fastrack,LOST,*,*
-2020-01,South Gloucestershire,Emersons Green Library,Fastrack,OVERDUE,5,9.4
+2020-01,South Gloucestershire,Emersons Green Library,Fastrack,OVERDUE,*,*
 2020-01,South Gloucestershire,Emersons Green Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-01,South Gloucestershire,Emersons Green Library,Music CD,CHARGE,*,*
 2020-01,South Gloucestershire,Emersons Green Library,PG DVD Standard,CHARGE,25,32.0
@@ -42176,12 +42176,11 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,South Gloucestershire,Downend Library,Boxed Set 15 DVD,CHARGE,*,*
 2020-02,South Gloucestershire,Downend Library,Boxed Set 15 DVD,HOLD,*,*
 2020-02,South Gloucestershire,Downend Library,Child Fiction,HOLD,9,9
-2020-02,South Gloucestershire,Downend Library,Child Fiction,LOST,45,225
+2020-02,South Gloucestershire,Downend Library,Child Fiction,LOST,46,232
 2020-02,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,22,61.4
 2020-02,South Gloucestershire,Downend Library,Child Non Fiction,LOST,*,*
 2020-02,South Gloucestershire,Downend Library,Child Spoken Word,LOST,*,*
 2020-02,South Gloucestershire,Downend Library,Drama single copy,HOLD,*,*
-2020-02,South Gloucestershire,Downend Library,Fastrack,LOST,*,*
 2020-02,South Gloucestershire,Downend Library,Fastrack,OVERDUE,5,8.6
 2020-02,South Gloucestershire,Downend Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-02,South Gloucestershire,Downend Library,Music CD,CHARGE,*,*
@@ -44744,7 +44743,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,South Gloucestershire,Emersons Green Library,18 DVD Standard,CHARGE,*,*
 2020-03,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,57,39.5
 2020-03,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,*,*
-2020-03,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,24,31.8
+2020-03,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,26,32.6
 2020-03,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,29,23.0
 2020-03,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,*,*
 2020-03,South Gloucestershire,Emersons Green Library,Adult Non Fiction,OVERDUE,41,32.8
@@ -48892,7 +48891,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Downend Library,18 DVD Standard,CHARGE,*,*
 2020-10,South Gloucestershire,Downend Library,Adult Fiction,HOLD,45,60.8
 2020-10,South Gloucestershire,Downend Library,Adult Fiction,LOST,*,*
-2020-10,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,83,84.4
+2020-10,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,84,85.4
 2020-10,South Gloucestershire,Downend Library,Adult Graphic Novel,OVERDUE,*,*
 2020-10,South Gloucestershire,Downend Library,Adult Non Fiction,HOLD,15,11.5
 2020-10,South Gloucestershire,Downend Library,Adult Non Fiction,LOST,*,*
@@ -48927,7 +48926,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Emersons Green Library,18 DVD Standard,OVERDUE,*,*
 2020-10,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,45,59.2
 2020-10,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,5,45
-2020-10,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,82,86.2
+2020-10,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,83,87.2
 2020-10,South Gloucestershire,Emersons Green Library,Adult Graphic Novel,OVERDUE,*,*
 2020-10,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,38,30.0
 2020-10,South Gloucestershire,Emersons Green Library,Adult Non Fiction,OVERDUE,54,55.6
@@ -48942,7 +48941,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Emersons Green Library,Child Non Fiction,LOST,8,40
 2020-10,South Gloucestershire,Emersons Green Library,Child Non Fiction,OVERDUE,8,13.2
 2020-10,South Gloucestershire,Emersons Green Library,Fastrack,LOST,*,*
-2020-10,South Gloucestershire,Emersons Green Library,Fastrack,OVERDUE,10,12.4
+2020-10,South Gloucestershire,Emersons Green Library,Fastrack,OVERDUE,9,11.4
 2020-10,South Gloucestershire,Emersons Green Library,Language Course,OVERDUE,*,*
 2020-10,South Gloucestershire,Emersons Green Library,Large Print - Children,OVERDUE,*,*
 2020-10,South Gloucestershire,Emersons Green Library,Music Score,HOLD,*,*
@@ -50957,7 +50956,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,South Gloucestershire,Emersons Green Library,18 DVD Standard,CHARGE,*,*
 2020-11,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,51,36.5
 2020-11,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,19,171
-2020-11,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,38,119.4
+2020-11,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,39,123.4
 2020-11,South Gloucestershire,Emersons Green Library,Adult Graphic Novel,LOST,*,*
 2020-11,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,24,18.0
 2020-11,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,21,189
