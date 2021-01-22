@@ -413,7 +413,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2019/2020,Somerset,ILL,CREDITCARD,0,10,10
 2019/2020,Somerset,ILL,FORGIVEN,0,0,0
 2019/2020,Somerset,ILL,PAYPAL,0,0,0
-2019/2020,Somerset,LOST,CANCEL,8470,49400,0
+2019/2020,Somerset,LOST,CANCEL,8470,49390,0
 2019/2020,Somerset,LOST,CASH,530,2980,2980
 2019/2020,Somerset,LOST,CHEQUE,10,30,30
 2019/2020,Somerset,LOST,CREDITCARD,190,1060,1060
@@ -546,7 +546,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bath and North East Somerset,CHARGE,CANCEL,40,80,0
 2020/2021,Bath and North East Somerset,CHARGE,CASH,10,20,20
 2020/2021,Bath and North East Somerset,CHARGE,CREDITCARD,230,460,460
-2020/2021,Bath and North East Somerset,CHARGE,FORGIVEN,40,70,0
+2020/2021,Bath and North East Somerset,CHARGE,FORGIVEN,50,70,0
 2020/2021,Bath and North East Somerset,CHARGE,NONE,10,20,20
 2020/2021,Bath and North East Somerset,CHARGE,PAYPAL,60,110,110
 2020/2021,Bath and North East Somerset,CHARGEX,CREDITCARD,0,0,0
@@ -560,7 +560,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bath and North East Somerset,HOLD,FORGIVEN,0,0,0
 2020/2021,Bath and North East Somerset,HOLD,PAYPAL,0,10,10
 2020/2021,Bath and North East Somerset,HOLDX,FORGIVEN,0,0,0
-2020/2021,Bath and North East Somerset,LOST,CANCEL,2390,15130,0
+2020/2021,Bath and North East Somerset,LOST,CANCEL,2400,15190,0
 2020/2021,Bath and North East Somerset,LOST,CASH,10,80,80
 2020/2021,Bath and North East Somerset,LOST,CREDITCARD,20,150,150
 2020/2021,Bath and North East Somerset,LOST,FORGIVEN,60,450,0
@@ -573,7 +573,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Bath and North East Somerset,OVERDUE,CANCEL,170,140,0
 2020/2021,Bath and North East Somerset,OVERDUE,CASH,0,0,0
 2020/2021,Bath and North East Somerset,OVERDUE,CREDITCARD,80,90,90
-2020/2021,Bath and North East Somerset,OVERDUE,FORGIVEN,110,160,0
+2020/2021,Bath and North East Somerset,OVERDUE,FORGIVEN,120,160,0
 2020/2021,Bath and North East Somerset,OVERDUE,PAYPAL,100,100,100
 2020/2021,Bath and North East Somerset,PROCESSFEE,CREDITCARD,0,0,0
 2020/2021,Bath and North East Somerset,PROCESSFEE,FORGIVEN,0,0,0
@@ -632,9 +632,9 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,CHARGE,CASH,480,1060,1060
 2020/2021,Dorset,CHARGE,CREDITCARD,260,610,610
 2020/2021,Dorset,CHARGE,DEBITCARD,0,10,10
-2020/2021,Dorset,CHARGE,FORGIVEN,320,770,0
+2020/2021,Dorset,CHARGE,FORGIVEN,320,780,0
 2020/2021,Dorset,CHARGE,NONE,0,10,10
-2020/2021,Dorset,CHARGE,PAYPAL,180,410,410
+2020/2021,Dorset,CHARGE,PAYPAL,190,420,420
 2020/2021,Dorset,CHARGEX,CANCEL,0,0,0
 2020/2021,Dorset,DAMAGE,CASH,0,40,40
 2020/2021,Dorset,DAMAGE,DEBITCARD,0,20,20
@@ -648,7 +648,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Dorset,HOLDX,CASH,0,0,0
 2020/2021,Dorset,ILL,CASH,20,190,190
 2020/2021,Dorset,ILL,PAYPAL,0,10,10
-2020/2021,Dorset,LOST,CANCEL,3350,18910,0
+2020/2021,Dorset,LOST,CANCEL,3350,18930,0
 2020/2021,Dorset,LOST,CASH,60,480,480
 2020/2021,Dorset,LOST,CREDITCARD,50,260,260
 2020/2021,Dorset,LOST,FORGIVEN,50,350,0
@@ -710,7 +710,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,North Somerset,OVERDUE,CANCEL,670,1160,0
 2020/2021,North Somerset,OVERDUE,CASH,420,300,300
 2020/2021,North Somerset,OVERDUE,CREDITCARD,500,510,510
-2020/2021,North Somerset,OVERDUE,FORGIVEN,1380,2350,0
+2020/2021,North Somerset,OVERDUE,FORGIVEN,1390,2360,0
 2020/2021,North Somerset,OVERDUE,PAYPAL,520,630,630
 2020/2021,North Somerset,SALENOVAT,CANCEL,0,10,0
 2020/2021,North Somerset,SALENOVAT,CASH,10,10,10
@@ -784,15 +784,15 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,GROUP,PAYPAL,10,70,70
 2020/2021,Somerset,HOLD,CANCEL,160,160,0
 2020/2021,Somerset,HOLD,CASH,5290,5290,5290
-2020/2021,Somerset,HOLD,CREDITCARD,1290,1290,1290
+2020/2021,Somerset,HOLD,CREDITCARD,1300,1300,1300
 2020/2021,Somerset,HOLD,DEBITCARD,230,220,220
 2020/2021,Somerset,HOLD,FORGIVEN,330,330,0
-2020/2021,Somerset,HOLD,PAYPAL,1750,1760,1760
+2020/2021,Somerset,HOLD,PAYPAL,1760,1770,1770
 2020/2021,Somerset,HOLDX,CANCEL,10,10,0
 2020/2021,Somerset,HOLDX,CASH,0,0,0
 2020/2021,Somerset,HOLDX,FORGIVEN,0,0,0
 2020/2021,Somerset,ILL,PAYPAL,0,0,0
-2020/2021,Somerset,LOST,CANCEL,3610,24340,0
+2020/2021,Somerset,LOST,CANCEL,3620,24370,0
 2020/2021,Somerset,LOST,CASH,60,330,330
 2020/2021,Somerset,LOST,CHEQUE,10,90,90
 2020/2021,Somerset,LOST,CREDITCARD,40,230,230
@@ -809,10 +809,10 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,Somerset,OVERDUE,CANCEL,910,1500,0
 2020/2021,Somerset,OVERDUE,CASH,2810,2200,2200
 2020/2021,Somerset,OVERDUE,CHEQUE,0,10,10
-2020/2021,Somerset,OVERDUE,CREDITCARD,1310,1480,1480
+2020/2021,Somerset,OVERDUE,CREDITCARD,1320,1490,1490
 2020/2021,Somerset,OVERDUE,DEBITCARD,800,1230,1230
-2020/2021,Somerset,OVERDUE,FORGIVEN,2870,5070,0
-2020/2021,Somerset,OVERDUE,PAYPAL,3340,2890,2890
+2020/2021,Somerset,OVERDUE,FORGIVEN,2870,5080,0
+2020/2021,Somerset,OVERDUE,PAYPAL,3350,2900,2900
 2020/2021,Somerset,OVERDUEX,CANCEL,0,20,0
 2020/2021,Somerset,OVERDUEX,CASH,10,0,0
 2020/2021,Somerset,OVERDUEX,DEBITCARD,0,0,0
@@ -847,13 +847,13 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,HOLD,CANCEL,200,530,0
 2020/2021,South Gloucestershire,HOLD,CASH,2030,1450,1450
 2020/2021,South Gloucestershire,HOLD,DEBITCARD,10,10,10
-2020/2021,South Gloucestershire,HOLD,FORGIVEN,230,220,0
-2020/2021,South Gloucestershire,HOLD,PAYPAL,420,340,340
+2020/2021,South Gloucestershire,HOLD,FORGIVEN,230,230,0
+2020/2021,South Gloucestershire,HOLD,PAYPAL,420,350,350
 2020/2021,South Gloucestershire,HOLDX,FORGIVEN,0,10,0
 2020/2021,South Gloucestershire,ILL,CASH,0,10,10
 2020/2021,South Gloucestershire,ILL,CHEQUE,0,130,130
 2020/2021,South Gloucestershire,ILL,FORGIVEN,0,10,0
-2020/2021,South Gloucestershire,LOST,CANCEL,2540,15610,0
+2020/2021,South Gloucestershire,LOST,CANCEL,2570,15770,0
 2020/2021,South Gloucestershire,LOST,CASH,30,160,160
 2020/2021,South Gloucestershire,LOST,FORGIVEN,60,330,0
 2020/2021,South Gloucestershire,LOST,NONE,0,30,30
@@ -862,7 +862,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2020/2021,South Gloucestershire,OVERDUE,CANCEL,1270,2920,0
 2020/2021,South Gloucestershire,OVERDUE,CASH,1110,910,910
 2020/2021,South Gloucestershire,OVERDUE,DEBITCARD,20,10,10
-2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,1590,3070,0
+2020/2021,South Gloucestershire,OVERDUE,FORGIVEN,1600,3070,0
 2020/2021,South Gloucestershire,OVERDUE,NONE,10,10,10
 2020/2021,South Gloucestershire,OVERDUE,PAYPAL,630,790,790
 2020/2021,South Gloucestershire,OVERDUEX,CANCEL,0,0,0
