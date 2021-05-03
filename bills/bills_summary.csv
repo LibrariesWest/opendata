@@ -74,7 +74,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,Bath and North East Somerset,LOST,160,1340
 2021/2022,Bath and North East Somerset,LOSTCARD,0,0
 2021/2022,Bath and North East Somerset,OVERDUE,20,80
-2021/2022,Bristol,CHARGE,280,340
+2021/2022,Bristol,CHARGE,290,350
 2021/2022,Bristol,HOLD,0,10
 2021/2022,Bristol,LOST,10,80
 2021/2022,Bristol,OVERDUE,50,160
@@ -84,7 +84,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,Dorset,DAMAGE,0,20
 2021/2022,Dorset,LOST,130,760
 2021/2022,Dorset,LOSTCARD,10,20
-2021/2022,Dorset,OVERDUE,890,1090
+2021/2022,Dorset,OVERDUE,890,1100
 2021/2022,Dorset,PRIVILEGE,0,10
 2021/2022,Dorset,SALENOVAT,30,70
 2021/2022,Dorset,SALEVAT,10,10
@@ -100,9 +100,9 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,Poole,HOLD,620,620
 2021/2022,Poole,LOST,0,10
 2021/2022,Poole,LOSTCARD,0,0
-2021/2022,Poole,OVERDUE,1180,1790
+2021/2022,Poole,OVERDUE,1190,1800
 2021/2022,Poole,SALENOVAT,0,0
-2021/2022,Somerset,CHARGE,480,950
+2021/2022,Somerset,CHARGE,480,960
 2021/2022,Somerset,DAMAGE,0,20
 2021/2022,Somerset,GROUP,40,210
 2021/2022,Somerset,HOLD,3410,3390
