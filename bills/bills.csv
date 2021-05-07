@@ -30097,7 +30097,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,South Gloucestershire,Thornbury Library,18 DVD Standard,CHARGE,*,*
 2020-02,South Gloucestershire,Thornbury Library,Adult Fiction,HOLD,111,72.5
 2020-02,South Gloucestershire,Thornbury Library,Adult Fiction,LOST,*,*
-2020-02,South Gloucestershire,Thornbury Library,Adult Fiction,OVERDUE,60,86.0
+2020-02,South Gloucestershire,Thornbury Library,Adult Fiction,OVERDUE,61,86.2
 2020-02,South Gloucestershire,Thornbury Library,Adult Non Fiction,HOLD,99,81.5
 2020-02,South Gloucestershire,Thornbury Library,Adult Non Fiction,OVERDUE,57,59.4
 2020-02,South Gloucestershire,Thornbury Library,Adult Spoken Word,HOLD,8,7.0
@@ -39873,7 +39873,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Somerset,Frome Library,18 DVD Standard,CHARGE,*,*
 2020-12,Somerset,Frome Library,Adult Fiction,HOLD,130,129.5
 2020-12,Somerset,Frome Library,Adult Fiction,LOST,5,45
-2020-12,Somerset,Frome Library,Adult Fiction,OVERDUE,85,164.6
+2020-12,Somerset,Frome Library,Adult Fiction,OVERDUE,86,165.8
 2020-12,Somerset,Frome Library,Adult Non Fiction,HOLD,85,83.0
 2020-12,Somerset,Frome Library,Adult Non Fiction,LOST,13,117
 2020-12,Somerset,Frome Library,Adult Non Fiction,OVERDUE,81,236.6
@@ -42352,8 +42352,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-03,Bristol,Bishopston Library,18 DVD Standard,CHARGE,*,*
 2021-03,Bristol,Bishopston Library,PG DVD Standard,CHARGE,*,*
 2021-03,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,6,6
-2021-03,Bristol,Bristol Central Lending Library,15 DVD Premium,CHARGE,*,*
-2021-03,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,8,8
+2021-03,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,9,10
 2021-03,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,*,*
 2021-03,Bristol,Bristol Central Lending Library,Adult Fiction,DAMAGE,*,*
 2021-03,Bristol,Bristol Central Lending Library,Adult Fiction,LOST,*,*
@@ -42362,7 +42361,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-03,Bristol,Bristol Central Lending Library,Boxed Set U DVD,CHARGE,*,*
 2021-03,Bristol,Bristol Central Lending Library,Child Fiction,OVERDUE,*,*
 2021-03,Bristol,Bristol Central Lending Library,ILL,HOLD,*,*
-2021-03,Bristol,Bristol Central Lending Library,PG DVD Premium,CHARGE,*,*
 2021-03,Bristol,Bristol Central Lending Library,PG DVD Standard,CHARGE,*,*
 2021-03,Bristol,Bristol Central Lending Library,U DVD Standard,CHARGE,*,*
 2021-03,Bristol,Fishponds Library,15 DVD Standard,CHARGE,*,*
@@ -42890,8 +42888,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-03,Somerset,Street Library,Large Print - Adult Fiction,HOLD,5,5
 2021-03,Somerset,Taunton Library,12 DVD Standard,CHARGE,*,*
 2021-03,Somerset,Taunton Library,12 DVD Standard,HOLD,*,*
-2021-03,Somerset,Taunton Library,15 DVD Premium,CHARGE,*,*
-2021-03,Somerset,Taunton Library,15 DVD Standard,CHARGE,*,*
+2021-03,Somerset,Taunton Library,15 DVD Standard,CHARGE,5,10.50
 2021-03,Somerset,Taunton Library,15 DVD Standard,HOLD,*,*
 2021-03,Somerset,Taunton Library,18 DVD Standard,CHARGE,5,9.25
 2021-03,Somerset,Taunton Library,18 DVD Standard,HOLD,*,*
@@ -43080,7 +43077,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-03,South Gloucestershire,Staple Hill Library,Child Fiction,HOLD,9,9
 2021-03,South Gloucestershire,Staple Hill Library,Child Non Fiction,HOLD,*,*
 2021-03,South Gloucestershire,Staple Hill Library,Fastrack,LOST,*,*
-2021-03,South Gloucestershire,Staple Hill Library,PG DVD Premium,CHARGE,*,*
 2021-03,South Gloucestershire,Staple Hill Library,PG DVD Standard,CHARGE,*,*
 2021-03,South Gloucestershire,Staple Hill Library,PG DVD Standard,HOLD,*,*
 2021-03,South Gloucestershire,Staple Hill Library,YA / Teen Fiction,HOLD,*,*
@@ -43222,8 +43218,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Bristol,Henbury Library,15 DVD Standard,CHARGE,*,*
 2021-04,Bristol,Henbury Library,Child Fiction,OVERDUE,*,*
 2021-04,Bristol,Henbury Library,U DVD Standard,CHARGE,*,*
-2021-04,Bristol,Henleaze Library,12 DVD Premium,CHARGE,*,*
-2021-04,Bristol,Henleaze Library,12 DVD Standard,CHARGE,15,15
+2021-04,Bristol,Henleaze Library,12 DVD Standard,CHARGE,16,17
 2021-04,Bristol,Henleaze Library,15 DVD Standard,CHARGE,24,24
 2021-04,Bristol,Henleaze Library,18 DVD Standard,CHARGE,*,*
 2021-04,Bristol,Henleaze Library,Adult Fiction,LOST,*,*
@@ -43253,7 +43248,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Bristol,Stockwood Library,15 DVD Standard,CHARGE,*,*
 2021-04,Bristol,Stockwood Library,Boxed Set 18 DVD,CHARGE,*,*
 2021-04,Bristol,Stockwood Library,PG DVD Standard,CHARGE,*,*
-2021-04,Dorset,Beaminster Library,Adult Fiction,OVERDUE,5,3.6
+2021-04,Dorset,Beaminster Library,Adult Fiction,OVERDUE,6,4.2
 2021-04,Dorset,Beaminster Library,Adult Non Fiction,OVERDUE,*,*
 2021-04,Dorset,Beaminster Library,Child Fiction,LOST,*,*
 2021-04,Dorset,Beaminster Library,U DVD Standard,CHARGE,*,*
@@ -43318,7 +43313,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Dorset,Dorchester Library,15 DVD Premium,CHARGE,*,*
 2021-04,Dorset,Dorchester Library,15 DVD Standard,CHARGE,6,15.0
 2021-04,Dorset,Dorchester Library,Adult Fiction,OVERDUE,37,28.6
-2021-04,Dorset,Dorchester Library,Adult Non Fiction,OVERDUE,27,39.2
+2021-04,Dorset,Dorchester Library,Adult Non Fiction,OVERDUE,28,45.6
 2021-04,Dorset,Dorchester Library,Adult Spoken Word,CHARGE,10,22.0
 2021-04,Dorset,Dorchester Library,Adult Spoken Word,OVERDUE,*,*
 2021-04,Dorset,Dorchester Library,Child Fiction,OVERDUE,*,*
@@ -43394,7 +43389,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Dorset,Portland Tophill Library,PG DVD Standard,CHARGE,*,*
 2021-04,Dorset,Puddletown Library,Adult Fiction,OVERDUE,*,*
 2021-04,Dorset,Shaftesbury Library,12 DVD Standard,CHARGE,*,*
-2021-04,Dorset,Shaftesbury Library,Adult Fiction,OVERDUE,47,29.0
+2021-04,Dorset,Shaftesbury Library,Adult Fiction,OVERDUE,48,29.2
 2021-04,Dorset,Shaftesbury Library,Adult Non Fiction,OVERDUE,6,5.4
 2021-04,Dorset,Shaftesbury Library,Adult Spoken Word,CHARGE,*,*
 2021-04,Dorset,Shaftesbury Library,Adult Spoken Word,OVERDUE,*,*
@@ -43424,7 +43419,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Dorset,Sturminster Library,Adult Spoken Word,CHARGE,*,*
 2021-04,Dorset,Sturminster Library,Child Non Fiction,OVERDUE,*,*
 2021-04,Dorset,Sturminster Library,Large Print - Adult Fiction,OVERDUE,*,*
-2021-04,Dorset,Sturminster Library,Reading Group Set,OVERDUE,*,*
+2021-04,Dorset,Sturminster Library,Reading Group Set,OVERDUE,5,10.0
 2021-04,Dorset,Swanage Library,12 DVD Standard,CHARGE,*,*
 2021-04,Dorset,Swanage Library,Adult Fiction,OVERDUE,15,18.8
 2021-04,Dorset,Swanage Library,Adult Non Fiction,OVERDUE,*,*
@@ -43550,8 +43545,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,North Somerset,Nailsea Library,Language Course,CHARGE,*,*
 2021-04,North Somerset,Nailsea Library,Large Print - Adult Fiction,OVERDUE,*,*
 2021-04,North Somerset,Nailsea Library,Music CD,CHARGE,*,*
-2021-04,North Somerset,Nailsea Library,PG DVD Premium,CHARGE,*,*
-2021-04,North Somerset,Nailsea Library,PG DVD Standard,CHARGE,6,8
+2021-04,North Somerset,Nailsea Library,PG DVD Standard,CHARGE,7,11
 2021-04,North Somerset,Nailsea Library,PG DVD Standard,OVERDUE,*,*
 2021-04,North Somerset,Nailsea Library,U DVD Standard,CHARGE,7,9
 2021-04,North Somerset,Nailsea Library,U DVD Standard,OVERDUE,*,*
@@ -43585,7 +43579,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,North Somerset,Weston-super-Mare Library,Fastrack,OVERDUE,*,*
 2021-04,North Somerset,Weston-super-Mare Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2021-04,North Somerset,Weston-super-Mare Library,Music CD,CHARGE,*,*
-2021-04,North Somerset,Weston-super-Mare Library,PG DVD Premium,CHARGE,*,*
 2021-04,North Somerset,Weston-super-Mare Library,PG DVD Standard,CHARGE,*,*
 2021-04,North Somerset,Weston-super-Mare Library,PG DVD Standard,OVERDUE,*,*
 2021-04,North Somerset,Winscombe Library,12 DVD Standard,CHARGE,*,*
@@ -43603,9 +43596,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,North Somerset,Worle Library,Adult Spoken Word,OVERDUE,*,*
 2021-04,North Somerset,Worle Library,Large Print - Adult Fiction,OVERDUE,16,160
 2021-04,North Somerset,Worle Library,Large Print - Adult Non Fiction,OVERDUE,5,50
-2021-04,North Somerset,Worle Library,PG DVD Premium,CHARGE,*,*
-2021-04,North Somerset,Worle Library,PG DVD Premium,OVERDUE,*,*
 2021-04,North Somerset,Worle Library,PG DVD Standard,CHARGE,*,*
+2021-04,North Somerset,Worle Library,PG DVD Standard,OVERDUE,*,*
 2021-04,North Somerset,Worle Library,U DVD Standard,CHARGE,*,*
 2021-04,North Somerset,Worle Library,U DVD Standard,OVERDUE,*,*
 2021-04,North Somerset,Yatton Library,12 DVD Standard,CHARGE,*,*
@@ -43848,7 +43840,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Somerset,Frome Library,12 DVD Standard,CHARGE,15,30
 2021-04,Somerset,Frome Library,12 DVD Standard,HOLD,*,*
 2021-04,Somerset,Frome Library,15 DVD Premium,CHARGE,*,*
-2021-04,Somerset,Frome Library,15 DVD Standard,CHARGE,5,10
+2021-04,Somerset,Frome Library,15 DVD Standard,CHARGE,6,13
 2021-04,Somerset,Frome Library,15 DVD Standard,HOLD,*,*
 2021-04,Somerset,Frome Library,Adult Fiction,DAMAGE,*,*
 2021-04,Somerset,Frome Library,Adult Fiction,HOLD,153,152.0
@@ -43875,10 +43867,9 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Somerset,Frome Library,Large Print - Adult Non Fiction,HOLD,*,*
 2021-04,Somerset,Frome Library,Music CD,CHARGE,8,6.00
 2021-04,Somerset,Frome Library,PG DVD Premium,CHARGE,*,*
-2021-04,Somerset,Frome Library,PG DVD Standard,CHARGE,6,11.5
+2021-04,Somerset,Frome Library,PG DVD Standard,CHARGE,8,16.75
 2021-04,Somerset,Frome Library,PG DVD Standard,HOLD,*,*
-2021-04,Somerset,Frome Library,U  DVD Premium,CHARGE,*,*
-2021-04,Somerset,Frome Library,U DVD Standard,CHARGE,14,28
+2021-04,Somerset,Frome Library,U DVD Standard,CHARGE,15,31
 2021-04,Somerset,Frome Library,YA / Teen Fiction,HOLD,*,*
 2021-04,Somerset,Glastonbury Library,12 DVD Standard,CHARGE,*,*
 2021-04,Somerset,Glastonbury Library,15 DVD Standard,CHARGE,5,10
@@ -44027,8 +44018,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Somerset,Taunton Library,12 DVD Premium,CHARGE,*,*
 2021-04,Somerset,Taunton Library,12 DVD Standard,CHARGE,8,16
 2021-04,Somerset,Taunton Library,12 DVD Standard,HOLD,*,*
-2021-04,Somerset,Taunton Library,15 DVD Premium,CHARGE,*,*
-2021-04,Somerset,Taunton Library,15 DVD Standard,CHARGE,14,27.0
+2021-04,Somerset,Taunton Library,15 DVD Standard,CHARGE,15,30.0
 2021-04,Somerset,Taunton Library,15 DVD Standard,HOLD,*,*
 2021-04,Somerset,Taunton Library,Adult Fiction,HOLD,234,227.5
 2021-04,Somerset,Taunton Library,Adult Fiction,LOST,6,54
@@ -44050,7 +44040,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Somerset,Taunton Library,Language Course,CHARGE,*,*
 2021-04,Somerset,Taunton Library,Large Print - Adult Fiction,HOLD,6,6
 2021-04,Somerset,Taunton Library,PG DVD Premium,CHARGE,*,*
-2021-04,Somerset,Taunton Library,PG DVD Standard,CHARGE,13,25.5
+2021-04,Somerset,Taunton Library,PG DVD Standard,CHARGE,14,28.5
 2021-04,Somerset,Taunton Library,PG DVD Standard,HOLD,*,*
 2021-04,Somerset,Taunton Library,U DVD Standard,CHARGE,14,28
 2021-04,Somerset,Taunton Library,YA / Teen Fiction,HOLD,17,17
@@ -44209,7 +44199,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,South Gloucestershire,Downend Library,Child Non Fiction,HOLD,*,*
 2021-04,South Gloucestershire,Downend Library,Child Non Fiction,OVERDUE,*,*
 2021-04,South Gloucestershire,Downend Library,Fastrack,OVERDUE,*,*
-2021-04,South Gloucestershire,Downend Library,PG DVD Premium,CHARGE,*,*
 2021-04,South Gloucestershire,Downend Library,PG DVD Standard,CHARGE,*,*
 2021-04,South Gloucestershire,Downend Library,U DVD Standard,CHARGE,*,*
 2021-04,South Gloucestershire,Downend Library,YA / Teen Fiction,HOLD,*,*
@@ -44307,7 +44296,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,South Gloucestershire,Thornbury Library,ILL,HOLD,*,*
 2021-04,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,OVERDUE,*,*
 2021-04,South Gloucestershire,Thornbury Library,Music Score,HOLD,5,2.5
-2021-04,South Gloucestershire,Thornbury Library,PG DVD Premium,CHARGE,*,*
 2021-04,South Gloucestershire,Thornbury Library,PG DVD Standard,CHARGE,*,*
 2021-04,South Gloucestershire,Thornbury Library,U DVD Standard,CHARGE,6,8.4
 2021-04,South Gloucestershire,Thornbury Library,U DVD Standard,HOLD,*,*
@@ -44324,6 +44312,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,South Gloucestershire,Winterbourne Library,PG DVD Standard,HOLD,*,*
 2021-04,South Gloucestershire,Yate Library,12 DVD Standard,CHARGE,*,*
 2021-04,South Gloucestershire,Yate Library,15 DVD Standard,CHARGE,*,*
+2021-04,South Gloucestershire,Yate Library,15 DVD Standard,OVERDUE,*,*
 2021-04,South Gloucestershire,Yate Library,Adult Fiction,HOLD,95,47.5
 2021-04,South Gloucestershire,Yate Library,Adult Fiction,OVERDUE,92,76.8
 2021-04,South Gloucestershire,Yate Library,Adult Non Fiction,HOLD,35,17.5
@@ -44333,8 +44322,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,South Gloucestershire,Yate Library,Child Fiction,OVERDUE,16,13.9
 2021-04,South Gloucestershire,Yate Library,Fastrack,OVERDUE,*,*
 2021-04,South Gloucestershire,Yate Library,Large Print - Adult Fiction,OVERDUE,9,18.6
-2021-04,South Gloucestershire,Yate Library,PG DVD Premium,CHARGE,*,*
-2021-04,South Gloucestershire,Yate Library,PG DVD Standard,CHARGE,5,7.0
+2021-04,South Gloucestershire,Yate Library,PG DVD Standard,CHARGE,6,9.3
 2021-04,South Gloucestershire,Yate Library,PG DVD Standard,HOLD,*,*
 2021-04,South Gloucestershire,Yate Library,PG DVD Standard,OVERDUE,*,*
 2021-04,South Gloucestershire,Yate Library,U DVD Standard,CHARGE,8,11.2
