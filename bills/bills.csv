@@ -2913,11 +2913,12 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-05,South Gloucestershire,Thornbury Library,Boxed Set 12 DVD,CHARGE,*,*
 2019-05,South Gloucestershire,Thornbury Library,Boxed Set 12 DVD,OVERDUE,*,*
 2019-05,South Gloucestershire,Thornbury Library,Boxed Set 15 DVD,CHARGE,*,*
-2019-05,South Gloucestershire,Thornbury Library,Child Fiction,LOST,97,485
+2019-05,South Gloucestershire,Thornbury Library,Child Fiction,LOST,98,492
+2019-05,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,*,*
 2019-05,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,11,55
 2019-05,South Gloucestershire,Thornbury Library,Classification Exempt,LOST,*,*
 2019-05,South Gloucestershire,Thornbury Library,Fastrack,LOST,*,*
-2019-05,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,5,5.8
+2019-05,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,*,*
 2019-05,South Gloucestershire,Thornbury Library,Language Course,OVERDUE,*,*
 2019-05,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,LOST,11,77
 2019-05,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,OVERDUE,9,6.0
@@ -5855,6 +5856,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-06,South Gloucestershire,Thornbury Library,Adult Spoken Word,HOLD,8,4.0
 2019-06,South Gloucestershire,Thornbury Library,Adult Spoken Word,OVERDUE,*,*
 2019-06,South Gloucestershire,Thornbury Library,Child Fiction,LOST,50,249
+2019-06,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,*,*
 2019-06,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,8,40
 2019-06,South Gloucestershire,Thornbury Library,Child Spoken Word,LOST,*,*
 2019-06,South Gloucestershire,Thornbury Library,Fastrack,LOST,*,*
@@ -8799,9 +8801,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-07,South Gloucestershire,Thornbury Library,Boxed Set 15 DVD,HOLD,*,*
 2019-07,South Gloucestershire,Thornbury Library,Boxed Set 15 DVD,OVERDUE,*,*
 2019-07,South Gloucestershire,Thornbury Library,Child Fiction,LOST,55,275
+2019-07,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,*,*
 2019-07,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,22,110
 2019-07,South Gloucestershire,Thornbury Library,Child Spoken Word,LOST,*,*
-2019-07,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,5,2.4
+2019-07,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,*,*
 2019-07,South Gloucestershire,Thornbury Library,ILL,ILL,*,*
 2019-07,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,OVERDUE,11,6.8
 2019-07,South Gloucestershire,Thornbury Library,Music CD,CHARGE,*,*
@@ -11804,6 +11807,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,South Gloucestershire,Thornbury Library,B.O.P.,OVERDUE,*,*
 2019-08,South Gloucestershire,Thornbury Library,Boxed Set 15 DVD,CHARGE,*,*
 2019-08,South Gloucestershire,Thornbury Library,Child Fiction,LOST,51,255
+2019-08,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,*,*
 2019-08,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,5,25
 2019-08,South Gloucestershire,Thornbury Library,Classification Exempt,CHARGE,*,*
 2019-08,South Gloucestershire,Thornbury Library,Drama single copy,HOLD,*,*
@@ -14849,11 +14853,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,South Gloucestershire,Thornbury Library,Boxed Set 15 DVD,CHARGE,*,*
 2019-09,South Gloucestershire,Thornbury Library,Boxed Set 15 DVD,HOLD,*,*
 2019-09,South Gloucestershire,Thornbury Library,Child Fiction,HOLD,*,*
-2019-09,South Gloucestershire,Thornbury Library,Child Fiction,LOST,33,165
+2019-09,South Gloucestershire,Thornbury Library,Child Fiction,LOST,35,179
 2019-09,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,9,45
 2019-09,South Gloucestershire,Thornbury Library,Child Spoken Word,LOST,*,*
 2019-09,South Gloucestershire,Thornbury Library,Classification Exempt,LOST,*,*
-2019-09,South Gloucestershire,Thornbury Library,Fastrack,LOST,*,*
 2019-09,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,*,*
 2019-09,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,LOST,14,98
 2019-09,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,OVERDUE,6,2.0
@@ -18066,11 +18069,11 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,South Gloucestershire,Thornbury Library,B.O.P.,OVERDUE,*,*
 2019-10,South Gloucestershire,Thornbury Library,Child Fiction,HOLD,6,6
 2019-10,South Gloucestershire,Thornbury Library,Child Fiction,LOST,138,690
+2019-10,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,*,*
 2019-10,South Gloucestershire,Thornbury Library,Child Non Fiction,HOLD,*,*
 2019-10,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,13,65
 2019-10,South Gloucestershire,Thornbury Library,Child Spoken Word,LOST,*,*
 2019-10,South Gloucestershire,Thornbury Library,Fastrack,LOST,*,*
-2019-10,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,*,*
 2019-10,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-10,South Gloucestershire,Thornbury Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2019-10,South Gloucestershire,Thornbury Library,Music CD,CHARGE,11,7.0
@@ -27212,7 +27215,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Thornbury Library,Boxed Set 15 DVD,CHARGE,*,*
 2020-01,South Gloucestershire,Thornbury Library,Boxed Set 15 DVD,HOLD,*,*
 2020-01,South Gloucestershire,Thornbury Library,Child Fiction,HOLD,14,14
-2020-01,South Gloucestershire,Thornbury Library,Child Fiction,LOST,75,375
+2020-01,South Gloucestershire,Thornbury Library,Child Fiction,LOST,76,382
 2020-01,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,64,88.4
 2020-01,South Gloucestershire,Thornbury Library,Child Non Fiction,HOLD,*,*
 2020-01,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,15,75
@@ -27220,7 +27223,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Thornbury Library,Classification Exempt,CHARGE,*,*
 2020-01,South Gloucestershire,Thornbury Library,Classification Exempt,HOLD,*,*
 2020-01,South Gloucestershire,Thornbury Library,Classification Exempt,LOST,*,*
-2020-01,South Gloucestershire,Thornbury Library,Fastrack,LOST,*,*
 2020-01,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,*,*
 2020-01,South Gloucestershire,Thornbury Library,ILL,ILL,*,*
 2020-01,South Gloucestershire,Thornbury Library,ILL,LOST,*,*
@@ -27436,7 +27438,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,Bristol,Bishopston Library,12 DVD Standard,OVERDUE,*,*
 2020-02,Bristol,Bishopston Library,15 DVD Standard,CHARGE,8,8
 2020-02,Bristol,Bishopston Library,Adult Fiction,LOST,14,126
-2020-02,Bristol,Bishopston Library,Adult Fiction,OVERDUE,190,168.60
+2020-02,Bristol,Bishopston Library,Adult Fiction,OVERDUE,191,168.75
 2020-02,Bristol,Bishopston Library,Adult Graphic Novel,LOST,*,*
 2020-02,Bristol,Bishopston Library,Adult Graphic Novel,OVERDUE,7,5.25
 2020-02,Bristol,Bishopston Library,Adult Non Fiction,LOST,9,81
@@ -32726,8 +32728,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-04,South Gloucestershire,Hanham Library,Adult Fiction,HOLD,*,*
 2020-04,South Gloucestershire,Hanham Library,PG DVD Standard,CHARGE,*,*
 2020-04,South Gloucestershire,Thornbury Library,Adult Fiction,HOLD,*,*
+2020-04,South Gloucestershire,Thornbury Library,Adult Fiction,OVERDUE,*,*
 2020-04,South Gloucestershire,Thornbury Library,Adult Non Fiction,HOLD,*,*
-2020-04,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,*,*
 2020-04,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-04,South Gloucestershire,Winterbourne Library,12 DVD Standard,CHARGE,*,*
 2020-04,South Gloucestershire,Winterbourne Library,Adult Non Fiction,OVERDUE,*,*
@@ -38832,11 +38834,11 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,South Gloucestershire,Thornbury Library,Adult Spoken Word,OVERDUE,7,11.1
 2020-11,South Gloucestershire,Thornbury Library,B.O.P.,LOST,*,*
 2020-11,South Gloucestershire,Thornbury Library,Child Fiction,HOLD,*,*
-2020-11,South Gloucestershire,Thornbury Library,Child Fiction,LOST,121,605
-2020-11,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,12,47.4
+2020-11,South Gloucestershire,Thornbury Library,Child Fiction,LOST,125,633
+2020-11,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,13,54.8
 2020-11,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,12,60
 2020-11,South Gloucestershire,Thornbury Library,Child Spoken Word,LOST,*,*
-2020-11,South Gloucestershire,Thornbury Library,Fastrack,LOST,6,42
+2020-11,South Gloucestershire,Thornbury Library,Fastrack,LOST,*,*
 2020-11,South Gloucestershire,Thornbury Library,Fastrack,OVERDUE,*,*
 2020-11,South Gloucestershire,Thornbury Library,ILL,LOST,*,*
 2020-11,South Gloucestershire,Thornbury Library,Large Print - Adult Fiction,LOST,31,217
@@ -39021,7 +39023,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Bristol,Henleaze Library,15 DVD Standard,CHARGE,14,14
 2020-12,Bristol,Henleaze Library,15 DVD Standard,OVERDUE,*,*
 2020-12,Bristol,Henleaze Library,18 DVD Standard,CHARGE,*,*
-2020-12,Bristol,Henleaze Library,Adult Fiction,OVERDUE,31,19.95
+2020-12,Bristol,Henleaze Library,Adult Fiction,OVERDUE,32,20.25
 2020-12,Bristol,Henleaze Library,Adult Non Fiction,OVERDUE,6,0.90
 2020-12,Bristol,Henleaze Library,Boxed Set 12 DVD,CHARGE,*,*
 2020-12,Bristol,Henleaze Library,Boxed Set 15 DVD,CHARGE,*,*
@@ -39491,7 +39493,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,North Somerset,Weston-super-Mare Library,15 DVD Standard,CHARGE,9,20
 2020-12,North Somerset,Weston-super-Mare Library,18 DVD Standard,CHARGE,*,*
 2020-12,North Somerset,Weston-super-Mare Library,Adult Fiction,LOST,6,54
-2020-12,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,35,83.6
+2020-12,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,36,83.8
 2020-12,North Somerset,Weston-super-Mare Library,Adult Non Fiction,LOST,*,*
 2020-12,North Somerset,Weston-super-Mare Library,Adult Non Fiction,OVERDUE,41,115.6
 2020-12,North Somerset,Weston-super-Mare Library,Adult Spoken Word,CHARGE,28,28
@@ -39501,7 +39503,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,North Somerset,Weston-super-Mare Library,Child Non Fiction,LOST,11,55
 2020-12,North Somerset,Weston-super-Mare Library,Child Spoken Word,CHARGE,*,*
 2020-12,North Somerset,Weston-super-Mare Library,Child Spoken Word,OVERDUE,*,*
-2020-12,North Somerset,Weston-super-Mare Library,Fastrack,OVERDUE,*,*
 2020-12,North Somerset,Weston-super-Mare Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2020-12,North Somerset,Weston-super-Mare Library,Music CD,CHARGE,10,11.0
 2020-12,North Somerset,Weston-super-Mare Library,PG DVD Standard,CHARGE,*,*
@@ -40594,7 +40595,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,South Gloucestershire,Thornbury Library,Adult Spoken Word,LOST,*,*
 2020-12,South Gloucestershire,Thornbury Library,B.O.P.,LOST,*,*
 2020-12,South Gloucestershire,Thornbury Library,Child Fiction,HOLD,*,*
-2020-12,South Gloucestershire,Thornbury Library,Child Fiction,LOST,118,590
+2020-12,South Gloucestershire,Thornbury Library,Child Fiction,LOST,121,611
 2020-12,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,11,49.2
 2020-12,South Gloucestershire,Thornbury Library,Child Non Fiction,HOLD,*,*
 2020-12,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,13,69
@@ -42248,7 +42249,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-02,South Gloucestershire,Thornbury Library,Adult Spoken Word,LOST,6,180
 2021-02,South Gloucestershire,Thornbury Library,Adult Spoken Word,OVERDUE,*,*
 2021-02,South Gloucestershire,Thornbury Library,B.O.P.,LOST,*,*
-2021-02,South Gloucestershire,Thornbury Library,Child Fiction,LOST,165,825
+2021-02,South Gloucestershire,Thornbury Library,Child Fiction,LOST,167,839
 2021-02,South Gloucestershire,Thornbury Library,Child Fiction,OVERDUE,7,31.2
 2021-02,South Gloucestershire,Thornbury Library,Child Non Fiction,HOLD,*,*
 2021-02,South Gloucestershire,Thornbury Library,Child Non Fiction,LOST,25,125
@@ -43572,7 +43573,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,North Somerset,Weston-super-Mare Library,15 DVD Standard,CHARGE,5,10
 2021-04,North Somerset,Weston-super-Mare Library,15 DVD Standard,OVERDUE,*,*
 2021-04,North Somerset,Weston-super-Mare Library,Adult Fiction,LOST,*,*
-2021-04,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,16,122.6
+2021-04,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,17,123.2
 2021-04,North Somerset,Weston-super-Mare Library,Adult Non Fiction,OVERDUE,8,42.2
 2021-04,North Somerset,Weston-super-Mare Library,Adult Reference,OVERDUE,*,*
 2021-04,North Somerset,Weston-super-Mare Library,Adult Spoken Word,CHARGE,11,11
