@@ -606,7 +606,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,Dorset,Wimborne Library,LOST,CASH,10,30,30
 2019-05,Dorset,Wimborne Library,LOST,CREDITCARD,0,0,0
 2019-05,Dorset,Wimborne Library,OVERDUE,CANCEL,0,20,0
-2019-05,Dorset,Wimborne Library,OVERDUE,CASH,160,190,190
+2019-05,Dorset,Wimborne Library,OVERDUE,CASH,150,190,190
 2019-05,Dorset,Wimborne Library,OVERDUE,CREDITCARD,20,20,20
 2019-05,Dorset,Wimborne Library,OVERDUE,FORGIVEN,30,20,0
 2019-05,Dorset,Wimborne Library,OVERDUEX,CANCEL,0,0,0
@@ -3727,7 +3727,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Dorset,Wimborne Library,LOST,CASH,0,10,10
 2019-07,Dorset,Wimborne Library,LOST,CREDITCARD,0,0,0
 2019-07,Dorset,Wimborne Library,OVERDUE,CANCEL,0,10,0
-2019-07,Dorset,Wimborne Library,OVERDUE,CASH,170,180,180
+2019-07,Dorset,Wimborne Library,OVERDUE,CASH,170,170,170
 2019-07,Dorset,Wimborne Library,OVERDUE,CREDITCARD,50,70,70
 2019-07,Dorset,Wimborne Library,OVERDUE,FORGIVEN,0,10,0
 2019-07,Dorset,Wool Library,CHARGE,CASH,0,0,0
@@ -15358,7 +15358,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-02,Somerset,Bruton Library,OVERDUE,FORGIVEN,10,10,0
 2020-02,Somerset,Burnham Library,CHARGE,CANCEL,0,0,0
 2020-02,Somerset,Burnham Library,CHARGE,CASH,60,140,140
-2020-02,Somerset,Burnham Library,CHARGE,CREDITCARD,40,80,80
+2020-02,Somerset,Burnham Library,CHARGE,CREDITCARD,30,80,80
 2020-02,Somerset,Burnham Library,CHARGE,FORGIVEN,10,20,0
 2020-02,Somerset,Burnham Library,CHARGE,PAYPAL,0,0,0
 2020-02,Somerset,Burnham Library,GROUP,CASH,0,20,20
@@ -15373,7 +15373,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-02,Somerset,Burnham Library,LOSTCARD,CREDITCARD,0,0,0
 2020-02,Somerset,Burnham Library,OVERDUE,CANCEL,0,0,0
 2020-02,Somerset,Burnham Library,OVERDUE,CASH,150,60,60
-2020-02,Somerset,Burnham Library,OVERDUE,CREDITCARD,140,110,110
+2020-02,Somerset,Burnham Library,OVERDUE,CREDITCARD,140,100,100
 2020-02,Somerset,Burnham Library,OVERDUE,FORGIVEN,30,30,0
 2020-02,Somerset,Burnham Library,OVERDUE,PAYPAL,30,20,20
 2020-02,Somerset,Burnham Library,SALENOVAT,CANCEL,0,0,0
