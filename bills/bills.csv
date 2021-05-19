@@ -30515,7 +30515,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,Bristol,Henleaze Library,18 DVD Standard,CHARGE,5,5
 2020-03,Bristol,Henleaze Library,18 DVD Standard,OVERDUE,*,*
 2020-03,Bristol,Henleaze Library,Adult Fiction,LOST,*,*
-2020-03,Bristol,Henleaze Library,Adult Fiction,OVERDUE,114,81.45
+2020-03,Bristol,Henleaze Library,Adult Fiction,OVERDUE,115,83.70
 2020-03,Bristol,Henleaze Library,Adult Graphic Novel,LOST,*,*
 2020-03,Bristol,Henleaze Library,Adult Graphic Novel,OVERDUE,*,*
 2020-03,Bristol,Henleaze Library,Adult Non Fiction,LOST,7,63
@@ -40432,8 +40432,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,South Gloucestershire,Emersons Green Library,15 DVD Standard,CHARGE,7,9.1
 2020-12,South Gloucestershire,Emersons Green Library,18 DVD Standard,CHARGE,*,*
 2020-12,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,26,19.0
-2020-12,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,7,61
-2020-12,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,26,41.2
+2020-12,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,8,68
+2020-12,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,27,48.2
 2020-12,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,24,18.5
 2020-12,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,8,72
 2020-12,South Gloucestershire,Emersons Green Library,Adult Non Fiction,OVERDUE,18,25.4
@@ -40446,7 +40446,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,South Gloucestershire,Emersons Green Library,Child Non Fiction,LOST,16,80
 2020-12,South Gloucestershire,Emersons Green Library,Child Non Fiction,OVERDUE,*,*
 2020-12,South Gloucestershire,Emersons Green Library,Child Spoken Word,LOST,*,*
-2020-12,South Gloucestershire,Emersons Green Library,Fastrack,LOST,*,*
 2020-12,South Gloucestershire,Emersons Green Library,Fastrack,OVERDUE,*,*
 2020-12,South Gloucestershire,Emersons Green Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-12,South Gloucestershire,Emersons Green Library,Music CD,CHARGE,*,*
