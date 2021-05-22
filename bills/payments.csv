@@ -1489,8 +1489,8 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-05,South Gloucestershire,Kingswood Library,HOLDX,CANCEL,0,0,0
 2019-05,South Gloucestershire,Kingswood Library,LOST,CANCEL,40,250,0
 2019-05,South Gloucestershire,Kingswood Library,LOST,FORGIVEN,0,0,0
-2019-05,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,20,20,0
-2019-05,South Gloucestershire,Kingswood Library,OVERDUE,CASH,100,100,100
+2019-05,South Gloucestershire,Kingswood Library,OVERDUE,CANCEL,10,10,0
+2019-05,South Gloucestershire,Kingswood Library,OVERDUE,CASH,90,100,100
 2019-05,South Gloucestershire,Kingswood Library,OVERDUE,FORGIVEN,30,160,0
 2019-05,South Gloucestershire,Kingswood Library,REFERRAL,FORGIVEN,0,10,0
 2019-05,South Gloucestershire,Kingswood Library,SALENOVAT,CANCEL,0,0,0
@@ -10465,7 +10465,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-11,Dorset,Wool Library,LOST,CANCEL,0,20,0
 2019-11,Dorset,Wool Library,OVERDUE,CASH,10,0,0
 2019-11,Dorset,Wool Library,OVERDUE,FORGIVEN,10,0,0
-2019-11,Dorset,Wyke Regis Library,CHARGE,CANCEL,0,0,0
 2019-11,Dorset,Wyke Regis Library,CHARGE,CASH,0,10,10
 2019-11,Dorset,Wyke Regis Library,LOST,CANCEL,20,130,0
 2019-11,Dorset,Wyke Regis Library,LOST,CASH,0,10,10
