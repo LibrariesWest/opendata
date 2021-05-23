@@ -35982,7 +35982,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Somerset,Frome Library,18 DVD Standard,CHARGE,7,14.5
 2020-10,Somerset,Frome Library,Adult Fiction,HOLD,160,156.5
 2020-10,Somerset,Frome Library,Adult Fiction,LOST,20,180
-2020-10,Somerset,Frome Library,Adult Fiction,OVERDUE,186,248.0
+2020-10,Somerset,Frome Library,Adult Fiction,OVERDUE,187,248.2
 2020-10,Somerset,Frome Library,Adult Graphic Novel,HOLD,*,*
 2020-10,Somerset,Frome Library,Adult Graphic Novel,LOST,*,*
 2020-10,Somerset,Frome Library,Adult Graphic Novel,OVERDUE,6,17.6
@@ -36009,7 +36009,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Somerset,Frome Library,Child Spoken Word,LOST,*,*
 2020-10,Somerset,Frome Library,Child Spoken Word,OVERDUE,*,*
 2020-10,Somerset,Frome Library,Drama single copy,HOLD,*,*
-2020-10,Somerset,Frome Library,Fastrack,OVERDUE,*,*
 2020-10,Somerset,Frome Library,Language Course,CHARGE,*,*
 2020-10,Somerset,Frome Library,Language Course,HOLD,*,*
 2020-10,Somerset,Frome Library,Language Course,OVERDUE,*,*
@@ -39064,7 +39063,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Bristol,Henleaze Library,15 DVD Standard,CHARGE,14,14
 2020-12,Bristol,Henleaze Library,15 DVD Standard,OVERDUE,*,*
 2020-12,Bristol,Henleaze Library,18 DVD Standard,CHARGE,*,*
-2020-12,Bristol,Henleaze Library,Adult Fiction,OVERDUE,32,20.25
+2020-12,Bristol,Henleaze Library,Adult Fiction,OVERDUE,33,20.55
 2020-12,Bristol,Henleaze Library,Adult Non Fiction,OVERDUE,6,0.90
 2020-12,Bristol,Henleaze Library,Boxed Set 12 DVD,CHARGE,*,*
 2020-12,Bristol,Henleaze Library,Boxed Set 15 DVD,CHARGE,*,*
@@ -39072,7 +39071,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Bristol,Henleaze Library,Child Fiction,OVERDUE,11,1.65
 2020-12,Bristol,Henleaze Library,Child Non Fiction,OVERDUE,*,*
 2020-12,Bristol,Henleaze Library,Classification Exempt,CHARGE,*,*
-2020-12,Bristol,Henleaze Library,Fastrack,OVERDUE,*,*
 2020-12,Bristol,Henleaze Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-12,Bristol,Henleaze Library,PG DVD Standard,CHARGE,*,*
 2020-12,Bristol,Henleaze Library,U DVD Standard,OVERDUE,*,*
@@ -40904,8 +40902,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-01,Dorset,Sturminster Library,Adult Non Fiction,LOST,*,*
 2021-01,Dorset,Sturminster Library,Adult Non Fiction,OVERDUE,*,*
 2021-01,Dorset,Sturminster Library,Child Fiction,LOST,38,190
+2021-01,Dorset,Sturminster Library,Child Fiction,OVERDUE,*,*
 2021-01,Dorset,Sturminster Library,Child Non Fiction,LOST,*,*
 2021-01,Dorset,Sturminster Library,Large Print - Adult Fiction,LOST,*,*
+2021-01,Dorset,Sturminster Library,Large Print - Adult Fiction,OVERDUE,*,*
 2021-01,Dorset,Swanage Library,Adult Fiction,OVERDUE,18,9.0
 2021-01,Dorset,Swanage Library,Adult Non Fiction,OVERDUE,20,5.8
 2021-01,Dorset,Swanage Library,Adult Spoken Word,CHARGE,*,*
