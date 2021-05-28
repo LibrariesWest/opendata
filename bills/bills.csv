@@ -3211,7 +3211,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-06,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,50,72.30
 2019-06,Bristol,Bristol Central Lending Library,Adult Non Fiction,CHARGE,*,*
 2019-06,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,156,1399.6
-2019-06,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1596,2204.55
+2019-06,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1595,2203.95
+2019-06,Bristol,Bristol Central Lending Library,Adult Reference,OVERDUE,*,*
 2019-06,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,103,195.7
 2019-06,Bristol,Bristol Central Lending Library,Adult Spoken Word,LOST,*,*
 2019-06,Bristol,Bristol Central Lending Library,Adult Spoken Word,OVERDUE,7,9.75
@@ -12117,7 +12118,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Bristol,Bristol Central Lending Library,18 DVD Standard,OVERDUE,*,*
 2019-09,Bristol,Bristol Central Lending Library,Adult Fiction,DAMAGE,*,*
 2019-09,Bristol,Bristol Central Lending Library,Adult Fiction,LOST,33,297
-2019-09,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,667,710.85
+2019-09,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,666,710.70
 2019-09,Bristol,Bristol Central Lending Library,Adult Graphic Novel,LOST,8,56
 2019-09,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,62,60.15
 2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,CHARGE,*,*
@@ -12161,6 +12162,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Bristol,Bristol Central Lending Library,Music Score,OVERDUE,30,44.40
 2019-09,Bristol,Bristol Central Lending Library,PG DVD Standard,CHARGE,72,76
 2019-09,Bristol,Bristol Central Lending Library,PG DVD Standard,OVERDUE,22,26.40
+2019-09,Bristol,Bristol Central Lending Library,Reading Group Set,OVERDUE,*,*
 2019-09,Bristol,Bristol Central Lending Library,U DVD Standard,CHARGE,76,80
 2019-09,Bristol,Bristol Central Lending Library,U DVD Standard,LOST,*,*
 2019-09,Bristol,Bristol Central Lending Library,U DVD Standard,OVERDUE,29,33.30
@@ -17451,7 +17453,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,Somerset,Taunton Library,18 DVD Standard,CHARGE,15,34.75
 2019-10,Somerset,Taunton Library,18 DVD Standard,OVERDUE,*,*
 2019-10,Somerset,Taunton Library,Adult Fiction,DAMAGE,*,*
-2019-10,Somerset,Taunton Library,Adult Fiction,HOLD,331,327.5
+2019-10,Somerset,Taunton Library,Adult Fiction,HOLD,330,326.5
 2019-10,Somerset,Taunton Library,Adult Fiction,LOST,20,180
 2019-10,Somerset,Taunton Library,Adult Fiction,OVERDUE,349,451.4
 2019-10,Somerset,Taunton Library,Adult Graphic Novel,LOST,6,42
@@ -17500,6 +17502,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,Somerset,Taunton Library,PG DVD Standard,CHARGE,58,128
 2019-10,Somerset,Taunton Library,PG DVD Standard,HOLD,*,*
 2019-10,Somerset,Taunton Library,PG DVD Standard,OVERDUE,5,4.4
+2019-10,Somerset,Taunton Library,Reading Group Set,HOLD,*,*
 2019-10,Somerset,Taunton Library,U DVD Standard,CHARGE,46,99
 2019-10,Somerset,Taunton Library,U DVD Standard,HOLD,*,*
 2019-10,Somerset,Taunton Library,U DVD Standard,OVERDUE,5,6.8
@@ -17824,7 +17827,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,South Gloucestershire,Downend Library,15 DVD Standard,HOLD,*,*
 2019-10,South Gloucestershire,Downend Library,Adult Fiction,HOLD,48,35.5
 2019-10,South Gloucestershire,Downend Library,Adult Fiction,LOST,*,*
-2019-10,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,78,71.2
+2019-10,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,79,71.8
 2019-10,South Gloucestershire,Downend Library,Adult Graphic Novel,OVERDUE,*,*
 2019-10,South Gloucestershire,Downend Library,Adult Non Fiction,HOLD,31,26.5
 2019-10,South Gloucestershire,Downend Library,Adult Non Fiction,LOST,10,90
@@ -20570,7 +20573,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,Somerset,Taunton Library,18 DVD Standard,OVERDUE,*,*
 2019-11,Somerset,Taunton Library,Adult Fiction,HOLD,301,292.0
 2019-11,Somerset,Taunton Library,Adult Fiction,LOST,6,54
-2019-11,Somerset,Taunton Library,Adult Fiction,OVERDUE,301,343.2
+2019-11,Somerset,Taunton Library,Adult Fiction,OVERDUE,300,342.2
 2019-11,Somerset,Taunton Library,Adult Graphic Novel,HOLD,*,*
 2019-11,Somerset,Taunton Library,Adult Graphic Novel,LOST,*,*
 2019-11,Somerset,Taunton Library,Adult Graphic Novel,OVERDUE,21,47.0
@@ -20620,6 +20623,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,Somerset,Taunton Library,PG DVD Standard,HOLD,*,*
 2019-11,Somerset,Taunton Library,PG DVD Standard,OVERDUE,8,26.4
 2019-11,Somerset,Taunton Library,Reading Group Set,HOLD,*,*
+2019-11,Somerset,Taunton Library,Reading Group Set,OVERDUE,*,*
 2019-11,Somerset,Taunton Library,U DVD Standard,CHARGE,44,99.25
 2019-11,Somerset,Taunton Library,U DVD Standard,OVERDUE,11,23.6
 2019-11,Somerset,Taunton Library,YA / Teen Fiction,HOLD,14,14
@@ -20955,7 +20959,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,South Gloucestershire,Downend Library,18 DVD Standard,CHARGE,*,*
 2019-11,South Gloucestershire,Downend Library,Adult Fiction,HOLD,39,27.0
 2019-11,South Gloucestershire,Downend Library,Adult Fiction,LOST,*,*
-2019-11,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,73,65.6
+2019-11,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,74,65.8
 2019-11,South Gloucestershire,Downend Library,Adult Non Fiction,HOLD,34,25.5
 2019-11,South Gloucestershire,Downend Library,Adult Non Fiction,LOST,*,*
 2019-11,South Gloucestershire,Downend Library,Adult Non Fiction,OVERDUE,44,76.4
@@ -23383,6 +23387,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,Somerset,Milborne Port Library,Boxed Set 18 DVD,CHARGE,*,*
 2019-12,Somerset,Milborne Port Library,Boxed Set 18 DVD,HOLD,*,*
 2019-12,Somerset,Milborne Port Library,Child Fiction,OVERDUE,*,*
+2019-12,Somerset,Milborne Port Library,Reading Group Set,HOLD,*,*
 2019-12,Somerset,Milborne Port Library,YA / Teen Fiction,HOLD,*,*
 2019-12,Somerset,Minehead Library,12 DVD Standard,CHARGE,16,36
 2019-12,Somerset,Minehead Library,12 DVD Standard,HOLD,*,*
@@ -26998,7 +27003,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Downend Library,18 DVD Standard,HOLD,*,*
 2020-01,South Gloucestershire,Downend Library,18 DVD Standard,OVERDUE,*,*
 2020-01,South Gloucestershire,Downend Library,Adult Fiction,HOLD,53,37.0
-2020-01,South Gloucestershire,Downend Library,Adult Fiction,LOST,7,63
+2020-01,South Gloucestershire,Downend Library,Adult Fiction,LOST,8,70
 2020-01,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,78,56.6
 2020-01,South Gloucestershire,Downend Library,Adult Non Fiction,HOLD,26,19.5
 2020-01,South Gloucestershire,Downend Library,Adult Non Fiction,LOST,*,*
@@ -27010,12 +27015,11 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Downend Library,Boxed Set 15 DVD,HOLD,*,*
 2020-01,South Gloucestershire,Downend Library,Child Fiction,HOLD,*,*
 2020-01,South Gloucestershire,Downend Library,Child Fiction,LOST,21,105
-2020-01,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,67,57.2
+2020-01,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,68,57.6
 2020-01,South Gloucestershire,Downend Library,Child Non Fiction,HOLD,*,*
 2020-01,South Gloucestershire,Downend Library,Child Non Fiction,LOST,*,*
 2020-01,South Gloucestershire,Downend Library,Child Non Fiction,OVERDUE,5,4.4
 2020-01,South Gloucestershire,Downend Library,Fastrack,DAMAGE,*,*
-2020-01,South Gloucestershire,Downend Library,Fastrack,LOST,*,*
 2020-01,South Gloucestershire,Downend Library,Fastrack,OVERDUE,*,*
 2020-01,South Gloucestershire,Downend Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-01,South Gloucestershire,Downend Library,Music CD,CHARGE,*,*
@@ -29914,7 +29918,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,South Gloucestershire,Downend Library,18 DVD Standard,CHARGE,*,*
 2020-02,South Gloucestershire,Downend Library,Adult Fiction,HOLD,43,26.0
 2020-02,South Gloucestershire,Downend Library,Adult Fiction,LOST,*,*
-2020-02,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,43,49.6
+2020-02,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,44,55.6
 2020-02,South Gloucestershire,Downend Library,Adult Non Fiction,HOLD,20,14.0
 2020-02,South Gloucestershire,Downend Library,Adult Non Fiction,LOST,*,*
 2020-02,South Gloucestershire,Downend Library,Adult Non Fiction,OVERDUE,22,20.0
@@ -39917,7 +39921,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Somerset,Frome Library,18 DVD Standard,CHARGE,*,*
 2020-12,Somerset,Frome Library,Adult Fiction,HOLD,130,129.5
 2020-12,Somerset,Frome Library,Adult Fiction,LOST,5,45
-2020-12,Somerset,Frome Library,Adult Fiction,OVERDUE,86,165.8
+2020-12,Somerset,Frome Library,Adult Fiction,OVERDUE,87,167.2
 2020-12,Somerset,Frome Library,Adult Non Fiction,HOLD,85,83.0
 2020-12,Somerset,Frome Library,Adult Non Fiction,LOST,13,117
 2020-12,Somerset,Frome Library,Adult Non Fiction,OVERDUE,81,236.6
@@ -40169,7 +40173,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Somerset,Taunton Library,18 DVD Standard,CHARGE,*,*
 2020-12,Somerset,Taunton Library,18 DVD Standard,HOLD,*,*
 2020-12,Somerset,Taunton Library,Adult Fiction,HOLD,198,194.5
-2020-12,Somerset,Taunton Library,Adult Fiction,LOST,24,216
+2020-12,Somerset,Taunton Library,Adult Fiction,LOST,25,223
 2020-12,Somerset,Taunton Library,Adult Fiction,OVERDUE,108,225.0
 2020-12,Somerset,Taunton Library,Adult Graphic Novel,HOLD,*,*
 2020-12,Somerset,Taunton Library,Adult Graphic Novel,OVERDUE,*,*
@@ -40506,7 +40510,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,South Gloucestershire,Hanham Library,15 DVD Standard,CHARGE,*,*
 2020-12,South Gloucestershire,Hanham Library,15 DVD Standard,HOLD,*,*
 2020-12,South Gloucestershire,Hanham Library,15 DVD Standard,OVERDUE,*,*
-2020-12,South Gloucestershire,Hanham Library,Adult Fiction,HOLD,26,16.5
+2020-12,South Gloucestershire,Hanham Library,Adult Fiction,HOLD,25,15.5
 2020-12,South Gloucestershire,Hanham Library,Adult Fiction,LOST,29,261
 2020-12,South Gloucestershire,Hanham Library,Adult Fiction,OVERDUE,50,122.4
 2020-12,South Gloucestershire,Hanham Library,Adult Non Fiction,HOLD,8,6.5
@@ -40533,6 +40537,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,South Gloucestershire,Hanham Library,PG DVD Standard,CHARGE,*,*
 2020-12,South Gloucestershire,Hanham Library,PG DVD Standard,HOLD,*,*
 2020-12,South Gloucestershire,Hanham Library,PG DVD Standard,OVERDUE,*,*
+2020-12,South Gloucestershire,Hanham Library,Reading Group Set,HOLD,*,*
 2020-12,South Gloucestershire,Hanham Library,U DVD Standard,CHARGE,*,*
 2020-12,South Gloucestershire,Hanham Library,YA / Teen Fiction,HOLD,*,*
 2020-12,South Gloucestershire,Hanham Library,YA / Teen Fiction,LOST,*,*
@@ -42007,7 +42012,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-02,Somerset,Frome Library,12 DVD Standard,CHARGE,6,11.0
 2021-02,Somerset,Frome Library,15 DVD Standard,CHARGE,*,*
 2021-02,Somerset,Frome Library,Adult Fiction,HOLD,148,139.0
-2021-02,Somerset,Frome Library,Adult Fiction,OVERDUE,21,55.2
+2021-02,Somerset,Frome Library,Adult Fiction,OVERDUE,22,56.0
 2021-02,Somerset,Frome Library,Adult Graphic Novel,HOLD,*,*
 2021-02,Somerset,Frome Library,Adult Non Fiction,HOLD,124,120.5
 2021-02,Somerset,Frome Library,Adult Non Fiction,LOST,*,*
@@ -43029,7 +43034,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-03,Somerset,Yeovil Library,15 DVD Standard,HOLD,*,*
 2021-03,Somerset,Yeovil Library,Adult Fiction,HOLD,114,113.0
 2021-03,Somerset,Yeovil Library,Adult Fiction,LOST,29,261
-2021-03,Somerset,Yeovil Library,Adult Fiction,OVERDUE,77,125.4
+2021-03,Somerset,Yeovil Library,Adult Fiction,OVERDUE,78,126.2
 2021-03,Somerset,Yeovil Library,Adult Graphic Novel,OVERDUE,*,*
 2021-03,Somerset,Yeovil Library,Adult Non Fiction,HOLD,58,57.0
 2021-03,Somerset,Yeovil Library,Adult Non Fiction,LOST,11,99
@@ -43045,7 +43050,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-03,Somerset,Yeovil Library,Child Non Fiction,LOST,*,*
 2021-03,Somerset,Yeovil Library,Child Non Fiction,OVERDUE,8,4.4
 2021-03,Somerset,Yeovil Library,Fastrack,HOLD,*,*
-2021-03,Somerset,Yeovil Library,Fastrack,OVERDUE,*,*
 2021-03,Somerset,Yeovil Library,Language Course,CHARGE,*,*
 2021-03,Somerset,Yeovil Library,Language Course,OVERDUE,*,*
 2021-03,Somerset,Yeovil Library,Large Print - Adult Fiction,HOLD,6,6
@@ -43604,12 +43608,11 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,North Somerset,Pill Library,PG DVD Standard,CHARGE,*,*
 2021-04,North Somerset,Portishead Library,12 DVD Standard,CHARGE,*,*
 2021-04,North Somerset,Portishead Library,12 DVD Standard,OVERDUE,*,*
-2021-04,North Somerset,Portishead Library,Adult Fiction,OVERDUE,10,32.0
+2021-04,North Somerset,Portishead Library,Adult Fiction,OVERDUE,11,33.0
 2021-04,North Somerset,Portishead Library,Adult Non Fiction,OVERDUE,6,13.6
 2021-04,North Somerset,Portishead Library,Adult Spoken Word,CHARGE,13,13
 2021-04,North Somerset,Portishead Library,Adult Spoken Word,OVERDUE,*,*
 2021-04,North Somerset,Portishead Library,Child Fiction,OVERDUE,*,*
-2021-04,North Somerset,Portishead Library,Fastrack,OVERDUE,*,*
 2021-04,North Somerset,Portishead Library,PG DVD Premium,CHARGE,*,*
 2021-04,North Somerset,Portishead Library,PG DVD Standard,CHARGE,*,*
 2021-04,North Somerset,Portishead Library,U DVD Standard,CHARGE,*,*
