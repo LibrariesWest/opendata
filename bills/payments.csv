@@ -9472,7 +9472,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-10,Somerset,Street Library,LOST,CASH,0,20,20
 2019-10,Somerset,Street Library,LOST,PAYPAL,0,10,10
 2019-10,Somerset,Street Library,LOSTCARD,CASH,0,10,10
-2019-10,Somerset,Street Library,OVERDUE,CANCEL,0,10,0
 2019-10,Somerset,Street Library,OVERDUE,CASH,80,60,60
 2019-10,Somerset,Street Library,OVERDUE,FORGIVEN,10,0,0
 2019-10,Somerset,Street Library,OVERDUE,PAYPAL,0,0,0
@@ -13054,7 +13053,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Bristol,Bristol Central Lending Library,OVERDUE,CHEQUE,10,30,30
 2020-01,Bristol,Bristol Central Lending Library,OVERDUE,CREDITCARD,790,750,750
 2020-01,Bristol,Bristol Central Lending Library,OVERDUE,DEBITCARD,270,490,490
-2020-01,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,280,530,0
+2020-01,Bristol,Bristol Central Lending Library,OVERDUE,FORGIVEN,270,530,0
 2020-01,Bristol,Bristol Central Lending Library,OVERDUE,PAYPAL,220,360,360
 2020-01,Bristol,Bristol Central Lending Library,REFERRAL,CASH,0,10,10
 2020-01,Bristol,Bristol Central Lending Library,REFERRAL,CHEQUE,0,10,10
