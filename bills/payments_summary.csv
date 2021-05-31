@@ -367,7 +367,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2021/2022,Bath and North East Somerset,OVERDUE,CREDITCARD,40,40,40
 2021/2022,Bath and North East Somerset,OVERDUE,DEBITCARD,0,0,0
 2021/2022,Bath and North East Somerset,OVERDUE,FORGIVEN,120,110,0
-2021/2022,Bath and North East Somerset,OVERDUE,PAYPAL,30,20,20
+2021/2022,Bath and North East Somerset,OVERDUE,PAYPAL,40,30,30
 2021/2022,Bath and North East Somerset,OVERDUEX,CANCEL,0,0,0
 2021/2022,Bath and North East Somerset,OVERDUEX,FORGIVEN,10,0,0
 2021/2022,Bath and North East Somerset,PROCESSFEE,FORGIVEN,0,0,0
@@ -397,8 +397,8 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2021/2022,Bristol,OVERDUE,CASH,300,200,200
 2021/2022,Bristol,OVERDUE,CREDITCARD,630,490,490
 2021/2022,Bristol,OVERDUE,DEBITCARD,30,70,70
-2021/2022,Bristol,OVERDUE,FORGIVEN,700,750,0
-2021/2022,Bristol,OVERDUE,PAYPAL,230,260,260
+2021/2022,Bristol,OVERDUE,FORGIVEN,700,760,0
+2021/2022,Bristol,OVERDUE,PAYPAL,240,270,270
 2021/2022,Bristol,REFERRAL,CASH,0,10,10
 2021/2022,Bristol,REFERRAL,DEBITCARD,0,10,10
 2021/2022,Bristol,REFERRAL,FORGIVEN,0,10,0
@@ -482,8 +482,8 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2021/2022,North Somerset,OVERDUE,CANCEL,140,300,0
 2021/2022,North Somerset,OVERDUE,CASH,180,110,110
 2021/2022,North Somerset,OVERDUE,CREDITCARD,230,300,300
-2021/2022,North Somerset,OVERDUE,FORGIVEN,510,1110,0
-2021/2022,North Somerset,OVERDUE,PAYPAL,120,130,130
+2021/2022,North Somerset,OVERDUE,FORGIVEN,520,1110,0
+2021/2022,North Somerset,OVERDUE,PAYPAL,130,130,130
 2021/2022,North Somerset,SALENOVAT,CANCEL,0,0,0
 2021/2022,North Somerset,SALENOVAT,CREDITCARD,10,40,40
 2021/2022,North Somerset,SALENOVAT,FORGIVEN,0,0,0
@@ -546,7 +546,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2021/2022,Somerset,LOST,CREDITCARD,10,30,30
 2021/2022,Somerset,LOST,DEBITCARD,20,120,120
 2021/2022,Somerset,LOST,FORGIVEN,20,120,0
-2021/2022,Somerset,LOST,PAYPAL,20,90,90
+2021/2022,Somerset,LOST,PAYPAL,20,100,100
 2021/2022,Somerset,LOSTCARD,CANCEL,0,0,0
 2021/2022,Somerset,LOSTCARD,CASH,20,30,30
 2021/2022,Somerset,LOSTCARD,CREDITCARD,0,0,0
@@ -585,7 +585,7 @@ financial_year_paid,payment_authority,bill_reason,payment_type,number_of_payment
 2021/2022,South Gloucestershire,HOLD,DEBITCARD,10,10,10
 2021/2022,South Gloucestershire,HOLD,FORGIVEN,160,110,0
 2021/2022,South Gloucestershire,HOLD,NONE,0,0,0
-2021/2022,South Gloucestershire,HOLD,PAYPAL,330,220,220
+2021/2022,South Gloucestershire,HOLD,PAYPAL,350,230,230
 2021/2022,South Gloucestershire,LOST,CANCEL,710,4120,0
 2021/2022,South Gloucestershire,LOST,CASH,10,40,40
 2021/2022,South Gloucestershire,LOST,FORGIVEN,20,90,0
