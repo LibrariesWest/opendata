@@ -2,7 +2,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,Bath and North East Somerset,CHARGE,460,960
 2020/2021,Bath and North East Somerset,DAMAGE,10,40
 2020/2021,Bath and North East Somerset,HOLD,0,20
-2020/2021,Bath and North East Somerset,LOST,4980,32090
+2020/2021,Bath and North East Somerset,LOST,4970,32060
 2020/2021,Bath and North East Somerset,LOSTCARD,10,10
 2020/2021,Bath and North East Somerset,OVERDUE,50,240
 2020/2021,Bath and North East Somerset,PROCESSFEE,0,10
@@ -72,23 +72,23 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2020/2021,South Gloucestershire,SALEVAT,480,470
 2021/2022,Bath and North East Somerset,CHARGE,230,450
 2021/2022,Bath and North East Somerset,HOLD,0,30
-2021/2022,Bath and North East Somerset,LOST,680,4780
+2021/2022,Bath and North East Somerset,LOST,690,4810
 2021/2022,Bath and North East Somerset,LOSTCARD,0,10
 2021/2022,Bath and North East Somerset,OVERDUE,30,130
-2021/2022,Bristol,CHARGE,680,810
+2021/2022,Bristol,CHARGE,700,830
 2021/2022,Bristol,DAMAGE,0,20
 2021/2022,Bristol,HOLD,0,10
 2021/2022,Bristol,LOST,20,150
-2021/2022,Bristol,OVERDUE,3610,3100
+2021/2022,Bristol,OVERDUE,3770,3200
 2021/2022,Bristol,SALENOVAT,20,10
 2021/2022,Bristol,SALEVAT,10,10
-2021/2022,Dorset,CHARGE,610,1410
+2021/2022,Dorset,CHARGE,620,1430
 2021/2022,Dorset,DAMAGE,10,50
 2021/2022,Dorset,GROUP,0,50
 2021/2022,Dorset,HOLD,10,10
-2021/2022,Dorset,LOST,450,2990
+2021/2022,Dorset,LOST,500,3210
 2021/2022,Dorset,LOSTCARD,40,80
-2021/2022,Dorset,OVERDUE,2890,3060
+2021/2022,Dorset,OVERDUE,3010,3200
 2021/2022,Dorset,PRIVILEGE,10,10
 2021/2022,Dorset,SALENOVAT,60,170
 2021/2022,Dorset,SALEVAT,20,100
@@ -99,32 +99,32 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,North Somerset,ILL,0,10
 2021/2022,North Somerset,LOST,60,410
 2021/2022,North Somerset,LOSTCARD,0,0
-2021/2022,North Somerset,OVERDUE,1230,2210
+2021/2022,North Somerset,OVERDUE,1300,2280
 2021/2022,North Somerset,SALENOVAT,10,50
-2021/2022,North Somerset,SALEVAT,20,50
+2021/2022,North Somerset,SALEVAT,30,60
 2021/2022,Poole,CHARGE,210,310
 2021/2022,Poole,DAMAGE,0,10
-2021/2022,Poole,HOLD,1180,1180
+2021/2022,Poole,HOLD,1200,1200
 2021/2022,Poole,LOST,0,10
 2021/2022,Poole,LOSTCARD,0,0
-2021/2022,Poole,OVERDUE,3130,4890
+2021/2022,Poole,OVERDUE,3180,5090
 2021/2022,Poole,SALENOVAT,20,20
 2021/2022,Poole,SALEVAT,0,10
-2021/2022,Somerset,CHARGE,1210,2470
+2021/2022,Somerset,CHARGE,1230,2530
 2021/2022,Somerset,DAMAGE,10,70
-2021/2022,Somerset,GROUP,100,520
-2021/2022,Somerset,HOLD,6790,6810
+2021/2022,Somerset,GROUP,100,550
+2021/2022,Somerset,HOLD,6900,6920
 2021/2022,Somerset,LOST,150,1030
-2021/2022,Somerset,LOSTCARD,40,90
-2021/2022,Somerset,OVERDUE,7510,6630
+2021/2022,Somerset,LOSTCARD,50,100
+2021/2022,Somerset,OVERDUE,7730,6930
 2021/2022,Somerset,PRIVILEGE,0,0
 2021/2022,Somerset,SALENOVAT,40,40
 2021/2022,Somerset,SALEVAT,80,120
-2021/2022,South Gloucestershire,CHARGE,270,410
+2021/2022,South Gloucestershire,CHARGE,280,420
 2021/2022,South Gloucestershire,GROUP,50,240
-2021/2022,South Gloucestershire,HOLD,2000,1020
+2021/2022,South Gloucestershire,HOLD,2050,1040
 2021/2022,South Gloucestershire,ILL,0,60
-2021/2022,South Gloucestershire,LOST,50,390
-2021/2022,South Gloucestershire,OVERDUE,2150,3280
+2021/2022,South Gloucestershire,LOST,60,420
+2021/2022,South Gloucestershire,OVERDUE,2230,3440
 2021/2022,South Gloucestershire,SALENOVAT,30,40
 2021/2022,South Gloucestershire,SALEVAT,50,50
