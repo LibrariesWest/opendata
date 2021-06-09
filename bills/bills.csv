@@ -2814,10 +2814,9 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-06,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,34,125.2
 2019-06,South Gloucestershire,Patchway Library,Adult Spoken Word,OVERDUE,*,*
 2019-06,South Gloucestershire,Patchway Library,Child Fiction,LOST,33,165
-2019-06,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,*,*
+2019-06,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,5,50
 2019-06,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,9,45
 2019-06,South Gloucestershire,Patchway Library,Child Spoken Word,HOLD,*,*
-2019-06,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2019-06,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-06,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,8,14.6
 2019-06,South Gloucestershire,Patchway Library,PG DVD Standard,LOST,*,*
@@ -5746,7 +5745,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-07,South Gloucestershire,Patchway Library,15 DVD Standard,OVERDUE,*,*
 2019-07,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,17,9.5
 2019-07,South Gloucestershire,Patchway Library,Adult Fiction,LOST,*,*
-2019-07,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,36,26.0
+2019-07,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,37,26.4
 2019-07,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,10,7.5
 2019-07,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,*,*
 2019-07,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,32,109.6
@@ -8769,15 +8768,16 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,39,81.2
 2019-08,South Gloucestershire,Patchway Library,Adult Spoken Word,OVERDUE,*,*
 2019-08,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
-2019-08,South Gloucestershire,Patchway Library,Child Fiction,LOST,26,130
+2019-08,South Gloucestershire,Patchway Library,Child Fiction,LOST,28,144
+2019-08,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,*,*
 2019-08,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,6,30
-2019-08,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
-2019-08,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2019-08,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,7,10.4
 2019-08,South Gloucestershire,Patchway Library,PG DVD Standard,LOST,*,*
 2019-08,South Gloucestershire,Patchway Library,PG DVD Standard,OVERDUE,*,*
 2019-08,South Gloucestershire,Patchway Library,U DVD Standard,CHARGE,17,20.4
 2019-08,South Gloucestershire,Patchway Library,U DVD Standard,OVERDUE,*,*
+2019-08,South Gloucestershire,Patchway Library,YA / Teen Fiction,LOST,*,*
+2019-08,South Gloucestershire,Patchway Library,YA / Teen Fiction,OVERDUE,*,*
 2019-08,South Gloucestershire,Scholars Chase Stoke Gifford Library,12 DVD Standard,CHARGE,*,*
 2019-08,South Gloucestershire,Scholars Chase Stoke Gifford Library,15 DVD Standard,CHARGE,*,*
 2019-08,South Gloucestershire,Scholars Chase Stoke Gifford Library,Adult Non Fiction,HOLD,*,*
@@ -9136,7 +9136,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,62,60.15
 2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,CHARGE,*,*
 2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,88,792
-2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1638,1938.90
+2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1639,1939.35
 2019-09,Bristol,Bristol Central Lending Library,Adult Reference,LOST,*,*
 2019-09,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,78,148.2
 2019-09,Bristol,Bristol Central Lending Library,Adult Spoken Word,LOST,*,*
@@ -11698,7 +11698,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,South Gloucestershire,Emersons Green Library,18 DVD Standard,CHARGE,*,*
 2019-09,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,59,39.5
 2019-09,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,*,*
-2019-09,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,103,76.8
+2019-09,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,104,77.4
 2019-09,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,29,22.5
 2019-09,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,*,*
 2019-09,South Gloucestershire,Emersons Green Library,Adult Non Fiction,OVERDUE,58,88.0
@@ -11808,7 +11808,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,South Gloucestershire,Patchway Library,15 DVD Standard,CHARGE,*,*
 2019-09,South Gloucestershire,Patchway Library,15 DVD Standard,OVERDUE,*,*
 2019-09,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,24,13.5
-2019-09,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,23,41.4
+2019-09,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,24,44.6
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,8,8
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,*,*
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,24,30.2
@@ -15020,19 +15020,18 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,South Gloucestershire,Patchway Library,15 DVD Standard,CHARGE,6,7.2
 2019-10,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,22,14.0
 2019-10,South Gloucestershire,Patchway Library,Adult Fiction,LOST,7,63
-2019-10,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,25,29.6
+2019-10,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,26,29.8
 2019-10,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,*,*
 2019-10,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,16,144
 2019-10,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,16,41.0
 2019-10,South Gloucestershire,Patchway Library,Adult Spoken Word,OVERDUE,*,*
 2019-10,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
 2019-10,South Gloucestershire,Patchway Library,Child Fiction,HOLD,*,*
-2019-10,South Gloucestershire,Patchway Library,Child Fiction,LOST,46,229
+2019-10,South Gloucestershire,Patchway Library,Child Fiction,LOST,47,236
 2019-10,South Gloucestershire,Patchway Library,Child Non Fiction,HOLD,*,*
 2019-10,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,8,40
 2019-10,South Gloucestershire,Patchway Library,Child Spoken Word,LOST,*,*
 2019-10,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
-2019-10,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2019-10,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,LOST,*,*
 2019-10,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-10,South Gloucestershire,Patchway Library,Music CD,CHARGE,*,*
@@ -15042,6 +15041,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,South Gloucestershire,Patchway Library,U DVD Standard,LOST,*,*
 2019-10,South Gloucestershire,Patchway Library,U DVD Standard,OVERDUE,*,*
 2019-10,South Gloucestershire,Patchway Library,YA / Teen Fiction,LOST,6,24
+2019-10,South Gloucestershire,Patchway Library,YA / Teen Fiction,OVERDUE,*,*
 2019-10,South Gloucestershire,Scholars Chase Stoke Gifford Library,Large Print - Adult Non Fiction,OVERDUE,*,*
 2019-10,South Gloucestershire,St Michaels Church Community Library,12 DVD Standard,CHARGE,*,*
 2019-10,South Gloucestershire,St Michaels Church Community Library,Adult Fiction,HOLD,5,2.5
@@ -18016,7 +18016,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,South Gloucestershire,Emersons Green Library,15 DVD Standard,OVERDUE,*,*
 2019-11,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,66,43.5
 2019-11,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,5,45
-2019-11,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,70,59.8
+2019-11,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,72,60.2
 2019-11,South Gloucestershire,Emersons Green Library,Adult Graphic Novel,OVERDUE,*,*
 2019-11,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,40,37.5
 2019-11,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,*,*
@@ -18030,7 +18030,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,South Gloucestershire,Emersons Green Library,Child Non Fiction,LOST,*,*
 2019-11,South Gloucestershire,Emersons Green Library,Child Non Fiction,OVERDUE,23,18.2
 2019-11,South Gloucestershire,Emersons Green Library,Drama single copy,HOLD,*,*
-2019-11,South Gloucestershire,Emersons Green Library,Fastrack,OVERDUE,6,2.4
+2019-11,South Gloucestershire,Emersons Green Library,Fastrack,OVERDUE,*,*
 2019-11,South Gloucestershire,Emersons Green Library,Music CD,CHARGE,*,*
 2019-11,South Gloucestershire,Emersons Green Library,PG DVD Standard,CHARGE,17,20.4
 2019-11,South Gloucestershire,Emersons Green Library,PG DVD Standard,OVERDUE,*,*
@@ -18153,10 +18153,9 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
 2019-11,South Gloucestershire,Patchway Library,Child Fiction,HOLD,5,5
 2019-11,South Gloucestershire,Patchway Library,Child Fiction,LOST,38,190
-2019-11,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,29,24.8
+2019-11,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,30,25.2
 2019-11,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,*,*
 2019-11,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,6,2.4
-2019-11,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2019-11,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-11,South Gloucestershire,Patchway Library,Music CD,CHARGE,*,*
 2019-11,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,*,*
@@ -20972,7 +20971,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,South Gloucestershire,Emersons Green Library,18 DVD Standard,CHARGE,*,*
 2019-12,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,35,21.0
 2019-12,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,*,*
-2019-12,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,48,49.0
+2019-12,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,50,49.8
 2019-12,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,18,15.0
 2019-12,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,*,*
 2019-12,South Gloucestershire,Emersons Green Library,Adult Non Fiction,OVERDUE,40,23.6
@@ -21087,7 +21086,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,South Gloucestershire,Patchway Library,15 DVD Standard,CHARGE,*,*
 2019-12,South Gloucestershire,Patchway Library,15 DVD Standard,LOST,*,*
 2019-12,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,21,13.5
-2019-12,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,27,24.2
+2019-12,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,30,25.4
 2019-12,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,13,10.5
 2019-12,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,7,63
 2019-12,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,23,31.8
@@ -21098,8 +21097,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,60,76.2
 2019-12,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,*,*
 2019-12,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,6,11.0
-2019-12,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
-2019-12,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2019-12,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,LOST,*,*
 2019-12,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-12,South Gloucestershire,Patchway Library,Music CD,CHARGE,*,*
@@ -21107,6 +21104,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,South Gloucestershire,Patchway Library,PG DVD Standard,OVERDUE,*,*
 2019-12,South Gloucestershire,Patchway Library,U DVD Standard,CHARGE,*,*
 2019-12,South Gloucestershire,Patchway Library,U DVD Standard,OVERDUE,*,*
+2019-12,South Gloucestershire,Patchway Library,YA / Teen Fiction,LOST,*,*
 2019-12,South Gloucestershire,Scholars Chase Stoke Gifford Library,Adult Fiction,OVERDUE,7,1.4
 2019-12,South Gloucestershire,St Michaels Church Community Library,Adult Spoken Word,HOLD,*,*
 2019-12,South Gloucestershire,Staple Hill Library,12 DVD Standard,CHARGE,13,18.6
@@ -24055,7 +24053,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Emersons Green Library,18 DVD Standard,CHARGE,6,11.2
 2020-01,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,39,26.5
 2020-01,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,*,*
-2020-01,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,82,81.6
+2020-01,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,84,84.8
 2020-01,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,52,46.5
 2020-01,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,15,135
 2020-01,South Gloucestershire,Emersons Green Library,Adult Non Fiction,OVERDUE,35,59.0
@@ -24184,7 +24182,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Patchway Library,15 DVD Standard,OVERDUE,*,*
 2020-01,South Gloucestershire,Patchway Library,18 DVD Standard,CHARGE,*,*
 2020-01,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,21,14.5
-2020-01,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,28,17.6
+2020-01,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,29,18.4
 2020-01,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,10,7.0
 2020-01,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,6,54
 2020-01,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,30,54.4
@@ -24192,12 +24190,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,South Gloucestershire,Patchway Library,B.O.P.,LOST,*,*
 2020-01,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
 2020-01,South Gloucestershire,Patchway Library,Boxed Set U DVD,OVERDUE,*,*
-2020-01,South Gloucestershire,Patchway Library,Child Fiction,LOST,65,325
+2020-01,South Gloucestershire,Patchway Library,Child Fiction,LOST,66,332
 2020-01,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,54,107.8
 2020-01,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,8,40
 2020-01,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,9,29.6
-2020-01,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
-2020-01,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2020-01,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-01,South Gloucestershire,Patchway Library,Music CD,CHARGE,5,2.5
 2020-01,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,6,8.2
@@ -26966,7 +26962,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,South Gloucestershire,Emersons Green Library,18 DVD Standard,CHARGE,*,*
 2020-02,South Gloucestershire,Emersons Green Library,Adult Fiction,HOLD,59,41.0
 2020-02,South Gloucestershire,Emersons Green Library,Adult Fiction,LOST,*,*
-2020-02,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,60,60.2
+2020-02,South Gloucestershire,Emersons Green Library,Adult Fiction,OVERDUE,62,62.4
 2020-02,South Gloucestershire,Emersons Green Library,Adult Graphic Novel,HOLD,*,*
 2020-02,South Gloucestershire,Emersons Green Library,Adult Non Fiction,HOLD,53,42.5
 2020-02,South Gloucestershire,Emersons Green Library,Adult Non Fiction,LOST,*,*
@@ -27080,7 +27076,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,South Gloucestershire,Patchway Library,15 DVD Standard,LOST,*,*
 2020-02,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,18,10.5
 2020-02,South Gloucestershire,Patchway Library,Adult Fiction,LOST,*,*
-2020-02,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,32,22.4
+2020-02,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,33,23.0
 2020-02,South Gloucestershire,Patchway Library,Adult Graphic Novel,HOLD,*,*
 2020-02,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,9,8.5
 2020-02,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,*,*
@@ -27088,12 +27084,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,South Gloucestershire,Patchway Library,Adult Spoken Word,OVERDUE,*,*
 2020-02,South Gloucestershire,Patchway Library,B.O.P.,LOST,*,*
 2020-02,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
-2020-02,South Gloucestershire,Patchway Library,Child Fiction,LOST,20,100
+2020-02,South Gloucestershire,Patchway Library,Child Fiction,LOST,23,121
 2020-02,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,9,11.0
 2020-02,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,*,*
 2020-02,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,*,*
-2020-02,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
-2020-02,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2020-02,South Gloucestershire,Patchway Library,Language Course,HOLD,*,*
 2020-02,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-02,South Gloucestershire,Patchway Library,Music CD,CHARGE,*,*
@@ -29618,7 +29612,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,South Gloucestershire,Patchway Library,Child Fiction,LOST,*,*
 2020-03,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,*,*
 2020-03,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,*,*
-2020-03,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
 2020-03,South Gloucestershire,Patchway Library,Language Course,HOLD,*,*
 2020-03,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,*,*
 2020-03,South Gloucestershire,Patchway Library,PG DVD Standard,LOST,*,*
@@ -31425,9 +31418,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,South Gloucestershire,Patchway Library,Adult Spoken Word,LOST,*,*
 2020-09,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
 2020-09,South Gloucestershire,Patchway Library,Child Fiction,HOLD,*,*
-2020-09,South Gloucestershire,Patchway Library,Child Fiction,LOST,15,75
+2020-09,South Gloucestershire,Patchway Library,Child Fiction,LOST,16,82
 2020-09,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,*,*
-2020-09,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
 2020-09,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,HOLD,*,*
 2020-09,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,*,*
 2020-09,South Gloucestershire,Patchway Library,PG DVD Standard,HOLD,*,*
@@ -31644,7 +31636,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,8,8
 2020-10,Bristol,Bristol Central Lending Library,Adult Fiction,DAMAGE,*,*
 2020-10,Bristol,Bristol Central Lending Library,Adult Fiction,LOST,72,648
-2020-10,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,685,1000.05
+2020-10,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,686,1000.35
 2020-10,Bristol,Bristol Central Lending Library,Adult Graphic Novel,LOST,23,161
 2020-10,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,54,76.20
 2020-10,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,198,1777.63
@@ -31668,7 +31660,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Bristol,Bristol Central Lending Library,Drama single copy,LOST,*,*
 2020-10,Bristol,Bristol Central Lending Library,Drama single copy,OVERDUE,15,19.20
 2020-10,Bristol,Bristol Central Lending Library,Equipment,LOST,*,*
-2020-10,Bristol,Bristol Central Lending Library,Fastrack,OVERDUE,7,4.65
+2020-10,Bristol,Bristol Central Lending Library,Fastrack,OVERDUE,6,4.35
 2020-10,Bristol,Bristol Central Lending Library,Language Course,CHARGE,10,19.0
 2020-10,Bristol,Bristol Central Lending Library,Large Print - Adult Fiction,LOST,*,*
 2020-10,Bristol,Bristol Central Lending Library,Large Print - Adult Fiction,OVERDUE,7,9.00
@@ -33777,7 +33769,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Patchway Library,15 DVD Standard,CHARGE,*,*
 2020-10,South Gloucestershire,Patchway Library,15 DVD Standard,OVERDUE,*,*
 2020-10,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,15,9.5
-2020-10,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,38,32.6
+2020-10,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,39,32.8
 2020-10,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,9,7.0
 2020-10,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,*,*
 2020-10,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,24,32.6
@@ -33785,7 +33777,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Patchway Library,Child Fiction,LOST,*,*
 2020-10,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,27,31.2
 2020-10,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,*,*
-2020-10,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2020-10,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,8,2.6
 2020-10,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,*,*
 2020-10,South Gloucestershire,Patchway Library,U DVD Standard,CHARGE,*,*
@@ -33868,7 +33859,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Yate Library,Adult Fiction,DAMAGE,*,*
 2020-10,South Gloucestershire,Yate Library,Adult Fiction,HOLD,138,124.3
 2020-10,South Gloucestershire,Yate Library,Adult Fiction,LOST,8,72
-2020-10,South Gloucestershire,Yate Library,Adult Fiction,OVERDUE,310,342.8
+2020-10,South Gloucestershire,Yate Library,Adult Fiction,OVERDUE,311,343.0
 2020-10,South Gloucestershire,Yate Library,Adult Graphic Novel,HOLD,*,*
 2020-10,South Gloucestershire,Yate Library,Adult Graphic Novel,OVERDUE,*,*
 2020-10,South Gloucestershire,Yate Library,Adult Non Fiction,HOLD,64,54.2
@@ -33885,7 +33876,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,South Gloucestershire,Yate Library,Child Non Fiction,LOST,*,*
 2020-10,South Gloucestershire,Yate Library,Child Non Fiction,OVERDUE,21,39.8
 2020-10,South Gloucestershire,Yate Library,Fastrack,LOST,*,*
-2020-10,South Gloucestershire,Yate Library,Fastrack,OVERDUE,44,54.2
+2020-10,South Gloucestershire,Yate Library,Fastrack,OVERDUE,43,54.0
 2020-10,South Gloucestershire,Yate Library,Large Print - Adult Fiction,HOLD,*,*
 2020-10,South Gloucestershire,Yate Library,Large Print - Adult Fiction,LOST,*,*
 2020-10,South Gloucestershire,Yate Library,Large Print - Adult Fiction,OVERDUE,35,44.6
@@ -35832,11 +35823,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,South Gloucestershire,Patchway Library,Adult Spoken Word,HOLD,6,4.5
 2020-11,South Gloucestershire,Patchway Library,Adult Spoken Word,LOST,*,*
 2020-11,South Gloucestershire,Patchway Library,Child Fiction,HOLD,12,12
-2020-11,South Gloucestershire,Patchway Library,Child Fiction,LOST,95,477
+2020-11,South Gloucestershire,Patchway Library,Child Fiction,LOST,97,491
 2020-11,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,9,62.2
 2020-11,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,7,35
 2020-11,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,*,*
-2020-11,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
 2020-11,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-11,South Gloucestershire,Patchway Library,Large Print - Children,LOST,*,*
 2020-11,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,*,*
@@ -37582,7 +37572,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,South Gloucestershire,Patchway Library,12 DVD Standard,CHARGE,*,*
 2020-12,South Gloucestershire,Patchway Library,15 DVD Standard,OVERDUE,*,*
 2020-12,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,18,11.0
-2020-12,South Gloucestershire,Patchway Library,Adult Fiction,LOST,5,45
+2020-12,South Gloucestershire,Patchway Library,Adult Fiction,LOST,7,59
 2020-12,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,8,4.0
 2020-12,South Gloucestershire,Patchway Library,Adult Graphic Novel,HOLD,*,*
 2020-12,South Gloucestershire,Patchway Library,Adult Graphic Novel,LOST,*,*
@@ -37598,7 +37588,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,8,40
 2020-12,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,7,62.8
 2020-12,South Gloucestershire,Patchway Library,Child Spoken Word,LOST,*,*
-2020-12,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
 2020-12,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,LOST,*,*
 2020-12,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-12,South Gloucestershire,Patchway Library,Large Print - Adult Non Fiction,LOST,*,*
@@ -39260,12 +39249,11 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-02,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,*,*
 2021-02,South Gloucestershire,Patchway Library,Adult Spoken Word,HOLD,*,*
 2021-02,South Gloucestershire,Patchway Library,Child Fiction,HOLD,9,9
-2021-02,South Gloucestershire,Patchway Library,Child Fiction,LOST,68,340
+2021-02,South Gloucestershire,Patchway Library,Child Fiction,LOST,69,347
 2021-02,South Gloucestershire,Patchway Library,Child Fiction,OVERDUE,*,*
 2021-02,South Gloucestershire,Patchway Library,Child Non Fiction,HOLD,*,*
 2021-02,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,11,55
 2021-02,South Gloucestershire,Patchway Library,Child Non Fiction,OVERDUE,*,*
-2021-02,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
 2021-02,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,LOST,*,*
 2021-02,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,*,*
 2021-02,South Gloucestershire,Patchway Library,YA / Teen Fiction,HOLD,*,*
@@ -41465,7 +41453,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,348,289.65
 2021-05,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,24,22.35
 2021-05,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,*,*
-2021-05,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,510,478.20
+2021-05,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,509,478.05
 2021-05,Bristol,Bristol Central Lending Library,B.O.P.,OVERDUE,*,*
 2021-05,Bristol,Bristol Central Lending Library,Boxed Set 12 DVD,CHARGE,*,*
 2021-05,Bristol,Bristol Central Lending Library,Boxed Set 15 DVD,CHARGE,10,30
@@ -41478,7 +41466,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Bristol,Bristol Central Lending Library,Drama single copy,OVERDUE,7,4.80
 2021-05,Bristol,Bristol Central Lending Library,Fastrack,OVERDUE,10,8.40
 2021-05,Bristol,Bristol Central Lending Library,Large Print - Adult Fiction,OVERDUE,6,1.65
-2021-05,Bristol,Bristol Central Lending Library,Music Score,OVERDUE,19,14.25
+2021-05,Bristol,Bristol Central Lending Library,Music Score,OVERDUE,20,14.40
 2021-05,Bristol,Bristol Central Lending Library,PG DVD Premium,CHARGE,*,*
 2021-05,Bristol,Bristol Central Lending Library,PG DVD Standard,CHARGE,23,23
 2021-05,Bristol,Bristol Central Lending Library,PG DVD Standard,OVERDUE,*,*
