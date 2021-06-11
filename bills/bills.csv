@@ -11297,6 +11297,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Somerset,Taunton Library,Adult Spoken Word,HOLD,*,*
 2019-09,Somerset,Taunton Library,Adult Spoken Word,OVERDUE,36,52.2
 2019-09,Somerset,Taunton Library,B.O.P.,LOST,*,*
+2019-09,Somerset,Taunton Library,B.O.P.,OVERDUE,*,*
 2019-09,Somerset,Taunton Library,Boxed Set 15 DVD,CHARGE,6,24
 2019-09,Somerset,Taunton Library,Boxed Set 15 DVD,HOLD,*,*
 2019-09,Somerset,Taunton Library,Boxed Set 18 DVD,CHARGE,6,24
@@ -11309,7 +11310,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Somerset,Taunton Library,Child Non Fiction,DAMAGE,*,*
 2019-09,Somerset,Taunton Library,Child Non Fiction,HOLD,*,*
 2019-09,Somerset,Taunton Library,Child Non Fiction,LOST,*,*
-2019-09,Somerset,Taunton Library,Child Non Fiction,OVERDUE,247,192.50
+2019-09,Somerset,Taunton Library,Child Non Fiction,OVERDUE,246,192.25
 2019-09,Somerset,Taunton Library,Child Spoken Word,CHARGE,9,18
 2019-09,Somerset,Taunton Library,Child Spoken Word,DAMAGE,*,*
 2019-09,Somerset,Taunton Library,Child Spoken Word,LOST,*,*
@@ -39010,7 +39011,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-02,Somerset,Frome Library,12 DVD Standard,CHARGE,6,11.0
 2021-02,Somerset,Frome Library,15 DVD Standard,CHARGE,*,*
 2021-02,Somerset,Frome Library,Adult Fiction,HOLD,148,139.0
-2021-02,Somerset,Frome Library,Adult Fiction,OVERDUE,22,56.0
+2021-02,Somerset,Frome Library,Adult Fiction,OVERDUE,23,57.6
 2021-02,Somerset,Frome Library,Adult Graphic Novel,HOLD,*,*
 2021-02,Somerset,Frome Library,Adult Non Fiction,HOLD,124,120.5
 2021-02,Somerset,Frome Library,Adult Non Fiction,LOST,*,*
@@ -39025,7 +39026,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-02,Somerset,Frome Library,Child Non Fiction,LOST,7,35
 2021-02,Somerset,Frome Library,Child Non Fiction,OVERDUE,*,*
 2021-02,Somerset,Frome Library,Child Spoken Word,CHARGE,*,*
-2021-02,Somerset,Frome Library,Fastrack,OVERDUE,*,*
 2021-02,Somerset,Frome Library,Language Course,CHARGE,*,*
 2021-02,Somerset,Frome Library,Language Course,HOLD,*,*
 2021-02,Somerset,Frome Library,Large Print - Adult Fiction,HOLD,9,9
@@ -42662,7 +42662,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Somerset,Taunton Library,Adult Graphic Novel,HOLD,*,*
 2021-05,Somerset,Taunton Library,Adult Graphic Novel,OVERDUE,8,18.6
 2021-05,Somerset,Taunton Library,Adult Non Fiction,HOLD,95,93.0
-2021-05,Somerset,Taunton Library,Adult Non Fiction,OVERDUE,260,328.0
+2021-05,Somerset,Taunton Library,Adult Non Fiction,OVERDUE,263,330.2
 2021-05,Somerset,Taunton Library,Adult Spoken Word,CHARGE,28,56
 2021-05,Somerset,Taunton Library,Adult Spoken Word,HOLD,*,*
 2021-05,Somerset,Taunton Library,Adult Spoken Word,LOST,*,*
@@ -42676,7 +42676,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Somerset,Taunton Library,Child Non Fiction,OVERDUE,88,69.40
 2021-05,Somerset,Taunton Library,Child Spoken Word,CHARGE,*,*
 2021-05,Somerset,Taunton Library,Child Spoken Word,OVERDUE,*,*
-2021-05,Somerset,Taunton Library,Fastrack,OVERDUE,10,4.4
+2021-05,Somerset,Taunton Library,Fastrack,OVERDUE,7,2.2
 2021-05,Somerset,Taunton Library,ILL,HOLD,5,20
 2021-05,Somerset,Taunton Library,Language Course,CHARGE,*,*
 2021-05,Somerset,Taunton Library,Large Print - Adult Fiction,HOLD,10,10
