@@ -5745,7 +5745,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-07,South Gloucestershire,Patchway Library,15 DVD Standard,OVERDUE,*,*
 2019-07,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,17,9.5
 2019-07,South Gloucestershire,Patchway Library,Adult Fiction,LOST,*,*
-2019-07,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,37,26.4
+2019-07,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,38,27.0
 2019-07,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,10,7.5
 2019-07,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,*,*
 2019-07,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,32,109.6
@@ -5753,7 +5753,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-07,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
 2019-07,South Gloucestershire,Patchway Library,Child Fiction,LOST,28,140
 2019-07,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,*,*
-2019-07,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2019-07,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-07,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,7,9.4
 2019-07,South Gloucestershire,Patchway Library,PG DVD Standard,OVERDUE,*,*
@@ -11809,13 +11808,12 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,South Gloucestershire,Patchway Library,15 DVD Standard,CHARGE,*,*
 2019-09,South Gloucestershire,Patchway Library,15 DVD Standard,OVERDUE,*,*
 2019-09,South Gloucestershire,Patchway Library,Adult Fiction,HOLD,24,13.5
-2019-09,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,24,44.6
+2019-09,South Gloucestershire,Patchway Library,Adult Fiction,OVERDUE,25,44.8
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,HOLD,8,8
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,LOST,*,*
 2019-09,South Gloucestershire,Patchway Library,Adult Non Fiction,OVERDUE,24,30.2
 2019-09,South Gloucestershire,Patchway Library,Child Fiction,LOST,29,147
 2019-09,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,5,25
-2019-09,South Gloucestershire,Patchway Library,Fastrack,OVERDUE,*,*
 2019-09,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,LOST,*,*
 2019-09,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-09,South Gloucestershire,Patchway Library,PG DVD Standard,CHARGE,9,10.8
@@ -15028,11 +15026,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,South Gloucestershire,Patchway Library,Adult Spoken Word,OVERDUE,*,*
 2019-10,South Gloucestershire,Patchway Library,B.O.P.,OVERDUE,*,*
 2019-10,South Gloucestershire,Patchway Library,Child Fiction,HOLD,*,*
-2019-10,South Gloucestershire,Patchway Library,Child Fiction,LOST,47,236
+2019-10,South Gloucestershire,Patchway Library,Child Fiction,LOST,48,243
 2019-10,South Gloucestershire,Patchway Library,Child Non Fiction,HOLD,*,*
 2019-10,South Gloucestershire,Patchway Library,Child Non Fiction,LOST,8,40
 2019-10,South Gloucestershire,Patchway Library,Child Spoken Word,LOST,*,*
-2019-10,South Gloucestershire,Patchway Library,Fastrack,LOST,*,*
 2019-10,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,LOST,*,*
 2019-10,South Gloucestershire,Patchway Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-10,South Gloucestershire,Patchway Library,Music CD,CHARGE,*,*
@@ -31360,7 +31357,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-09,South Gloucestershire,Downend Library,12 DVD Standard,HOLD,*,*
 2020-09,South Gloucestershire,Downend Library,15 DVD Standard,CHARGE,5,7.4
 2020-09,South Gloucestershire,Downend Library,Adult Fiction,HOLD,28,42.6
-2020-09,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,*,*
+2020-09,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,5,1.0
 2020-09,South Gloucestershire,Downend Library,Adult Non Fiction,HOLD,12,7.5
 2020-09,South Gloucestershire,Downend Library,Adult Non Fiction,OVERDUE,*,*
 2020-09,South Gloucestershire,Downend Library,Adult Spoken Word,HOLD,*,*
@@ -34723,7 +34720,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Poole,Broadstone Library,12 DVD Standard,OVERDUE,*,*
 2020-11,Poole,Broadstone Library,15 DVD Standard,CHARGE,*,*
 2020-11,Poole,Broadstone Library,15 DVD Standard,OVERDUE,*,*
-2020-11,Poole,Broadstone Library,Adult Fiction,HOLD,93,93
+2020-11,Poole,Broadstone Library,Adult Fiction,HOLD,94,94
 2020-11,Poole,Broadstone Library,Adult Fiction,OVERDUE,65,150.6
 2020-11,Poole,Broadstone Library,Adult Non Fiction,HOLD,17,17
 2020-11,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,33,52.8
@@ -34739,7 +34736,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Poole,Broadstone Library,Child Fiction,HOLD,*,*
 2020-11,Poole,Broadstone Library,Child Fiction,OVERDUE,*,*
 2020-11,Poole,Broadstone Library,Classification Exempt,CHARGE,*,*
-2020-11,Poole,Broadstone Library,Fastrack,HOLD,*,*
 2020-11,Poole,Broadstone Library,Large Print - Adult Fiction,HOLD,*,*
 2020-11,Poole,Broadstone Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-11,Poole,Broadstone Library,Music CD,CHARGE,*,*
@@ -34790,7 +34786,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Poole,Hamworthy Library,Reading Group Set,OVERDUE,*,*
 2020-11,Poole,Hamworthy Library,U DVD Standard,CHARGE,*,*
 2020-11,Poole,Hamworthy Library,U DVD Standard,OVERDUE,*,*
-2020-11,Poole,Oakdale Library,Adult Fiction,HOLD,21,21
+2020-11,Poole,Oakdale Library,Adult Fiction,HOLD,22,22
 2020-11,Poole,Oakdale Library,Adult Fiction,OVERDUE,6,14.8
 2020-11,Poole,Oakdale Library,Adult Non Fiction,HOLD,13,13
 2020-11,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,13,11.0
@@ -34798,7 +34794,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Poole,Oakdale Library,Child Fiction,HOLD,*,*
 2020-11,Poole,Oakdale Library,Child Fiction,OVERDUE,*,*
 2020-11,Poole,Oakdale Library,Child Non Fiction,OVERDUE,*,*
-2020-11,Poole,Oakdale Library,Fastrack,HOLD,*,*
 2020-11,Poole,Oakdale Library,Large Print - Adult Fiction,HOLD,*,*
 2020-11,Poole,Oakdale Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-11,Poole,Oakdale Library,YA / Teen Fiction,HOLD,*,*
@@ -35481,7 +35476,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Somerset,Wells Library,12 DVD Standard,CHARGE,*,*
 2020-11,Somerset,Wells Library,15 DVD Standard,CHARGE,5,10
 2020-11,Somerset,Wells Library,15 DVD Standard,HOLD,*,*
-2020-11,Somerset,Wells Library,Adult Fiction,HOLD,95,95
+2020-11,Somerset,Wells Library,Adult Fiction,HOLD,96,96
 2020-11,Somerset,Wells Library,Adult Fiction,LOST,54,486
 2020-11,Somerset,Wells Library,Adult Fiction,OVERDUE,47,131.0
 2020-11,Somerset,Wells Library,Adult Graphic Novel,HOLD,*,*
@@ -35500,7 +35495,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Somerset,Wells Library,Child Non Fiction,OVERDUE,10,11.10
 2020-11,Somerset,Wells Library,Child Spoken Word,LOST,*,*
 2020-11,Somerset,Wells Library,Classification Exempt,CHARGE,*,*
-2020-11,Somerset,Wells Library,Fastrack,HOLD,*,*
 2020-11,Somerset,Wells Library,Large Print - Adult Fiction,HOLD,5,5
 2020-11,Somerset,Wells Library,Large Print - Adult Fiction,LOST,*,*
 2020-11,Somerset,Wells Library,Large Print - Adult Fiction,OVERDUE,*,*
@@ -35688,7 +35682,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,South Gloucestershire,Downend Library,B.O.P.,LOST,*,*
 2020-11,South Gloucestershire,Downend Library,B.O.P.,OVERDUE,*,*
 2020-11,South Gloucestershire,Downend Library,Boxed Set 15 DVD,CHARGE,*,*
-2020-11,South Gloucestershire,Downend Library,Child Fiction,LOST,136,680
+2020-11,South Gloucestershire,Downend Library,Child Fiction,LOST,137,687
 2020-11,South Gloucestershire,Downend Library,Child Fiction,OVERDUE,8,40.8
 2020-11,South Gloucestershire,Downend Library,Child Non Fiction,LOST,25,125
 2020-11,South Gloucestershire,Downend Library,Child Non Fiction,OVERDUE,*,*
@@ -36029,7 +36023,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,9,12
 2020-12,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,32,32
 2020-12,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,*,*
-2020-12,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,28,15.90
+2020-12,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,29,16.05
 2020-12,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,*,*
 2020-12,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,*,*
 2020-12,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,42,72.15
@@ -36037,7 +36031,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Bristol,Bristol Central Lending Library,Boxed Set 18 DVD,CHARGE,7,21
 2020-12,Bristol,Bristol Central Lending Library,Child Fiction,OVERDUE,8,6.90
 2020-12,Bristol,Bristol Central Lending Library,Child Non Fiction,OVERDUE,*,*
-2020-12,Bristol,Bristol Central Lending Library,Fastrack,OVERDUE,*,*
 2020-12,Bristol,Bristol Central Lending Library,Large Print - Adult Fiction,OVERDUE,*,*
 2020-12,Bristol,Bristol Central Lending Library,Music Score,OVERDUE,8,1.20
 2020-12,Bristol,Bristol Central Lending Library,PG DVD Standard,CHARGE,7,7
@@ -36610,7 +36603,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Poole,Broadstone Library,15 DVD Standard,OVERDUE,*,*
 2020-12,Poole,Broadstone Library,18 DVD Standard,CHARGE,*,*
 2020-12,Poole,Broadstone Library,18 DVD Standard,HOLD,*,*
-2020-12,Poole,Broadstone Library,Adult Fiction,HOLD,47,47
+2020-12,Poole,Broadstone Library,Adult Fiction,HOLD,48,48
 2020-12,Poole,Broadstone Library,Adult Fiction,OVERDUE,42,56.0
 2020-12,Poole,Broadstone Library,Adult Non Fiction,DAMAGE,*,*
 2020-12,Poole,Broadstone Library,Adult Non Fiction,HOLD,36,36
@@ -36626,7 +36619,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Poole,Broadstone Library,Child Fiction,OVERDUE,9,4.8
 2020-12,Poole,Broadstone Library,Child Non Fiction,OVERDUE,*,*
 2020-12,Poole,Broadstone Library,Child Spoken Word,OVERDUE,*,*
-2020-12,Poole,Broadstone Library,Fastrack,HOLD,*,*
 2020-12,Poole,Broadstone Library,Large Print - Adult Fiction,HOLD,*,*
 2020-12,Poole,Broadstone Library,Large Print - Adult Non Fiction,HOLD,*,*
 2020-12,Poole,Broadstone Library,Large Print - Adult Non Fiction,OVERDUE,*,*
@@ -36871,7 +36863,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Somerset,Chard Library,YA / Teen Fiction,OVERDUE,*,*
 2020-12,Somerset,Cheddar Library,15 DVD Standard,CHARGE,*,*
 2020-12,Somerset,Cheddar Library,15 DVD Standard,HOLD,*,*
-2020-12,Somerset,Cheddar Library,Adult Fiction,HOLD,54,53.0
+2020-12,Somerset,Cheddar Library,Adult Fiction,HOLD,55,54.0
 2020-12,Somerset,Cheddar Library,Adult Fiction,OVERDUE,*,*
 2020-12,Somerset,Cheddar Library,Adult Non Fiction,HOLD,20,20
 2020-12,Somerset,Cheddar Library,Adult Non Fiction,LOST,*,*
@@ -36883,7 +36875,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-12,Somerset,Cheddar Library,Child Fiction,OVERDUE,5,0.65
 2020-12,Somerset,Cheddar Library,Child Non Fiction,LOST,5,25
 2020-12,Somerset,Cheddar Library,Child Spoken Word,OVERDUE,*,*
-2020-12,Somerset,Cheddar Library,Fastrack,HOLD,*,*
 2020-12,Somerset,Cheddar Library,Large Print - Adult Fiction,HOLD,*,*
 2020-12,Somerset,Cheddar Library,U DVD Standard,CHARGE,*,*
 2020-12,Somerset,Crewkerne Library,12 DVD Standard,CHARGE,*,*
@@ -41450,7 +41441,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Bristol,Bristol Central Lending Library,18 DVD Standard,OVERDUE,*,*
 2021-05,Bristol,Bristol Central Lending Library,Adult Fiction,DAMAGE,*,*
 2021-05,Bristol,Bristol Central Lending Library,Adult Fiction,LOST,*,*
-2021-05,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,348,289.65
+2021-05,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,351,291.60
 2021-05,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,24,22.35
 2021-05,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,*,*
 2021-05,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,509,478.05
@@ -41464,7 +41455,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Bristol,Bristol Central Lending Library,Child Non Fiction,OVERDUE,13,9.45
 2021-05,Bristol,Bristol Central Lending Library,Classification Exempt,CHARGE,*,*
 2021-05,Bristol,Bristol Central Lending Library,Drama single copy,OVERDUE,7,4.80
-2021-05,Bristol,Bristol Central Lending Library,Fastrack,OVERDUE,10,8.40
+2021-05,Bristol,Bristol Central Lending Library,Fastrack,OVERDUE,7,6.45
 2021-05,Bristol,Bristol Central Lending Library,Large Print - Adult Fiction,OVERDUE,6,1.65
 2021-05,Bristol,Bristol Central Lending Library,Music Score,OVERDUE,20,14.40
 2021-05,Bristol,Bristol Central Lending Library,PG DVD Premium,CHARGE,*,*
@@ -41505,12 +41496,12 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Bristol,Henbury Library,12 DVD Premium,CHARGE,*,*
 2021-05,Bristol,Henbury Library,12 DVD Standard,CHARGE,*,*
 2021-05,Bristol,Henbury Library,15 DVD Standard,CHARGE,6,6
-2021-05,Bristol,Henbury Library,Adult Fiction,OVERDUE,92,43.65
+2021-05,Bristol,Henbury Library,Adult Fiction,OVERDUE,93,44.10
 2021-05,Bristol,Henbury Library,Adult Non Fiction,OVERDUE,28,15.15
 2021-05,Bristol,Henbury Library,Boxed Set 15 DVD,CHARGE,*,*
 2021-05,Bristol,Henbury Library,Child Fiction,OVERDUE,42,38.25
 2021-05,Bristol,Henbury Library,Child Non Fiction,OVERDUE,*,*
-2021-05,Bristol,Henbury Library,Fastrack,OVERDUE,11,3.15
+2021-05,Bristol,Henbury Library,Fastrack,OVERDUE,10,2.70
 2021-05,Bristol,Henbury Library,Large Print - Adult Fiction,OVERDUE,15,15.75
 2021-05,Bristol,Henbury Library,PG DVD Standard,CHARGE,*,*
 2021-05,Bristol,Henbury Library,U DVD Standard,CHARGE,*,*
@@ -42902,7 +42893,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,South Gloucestershire,Downend Library,12 DVD Standard,CHARGE,*,*
 2021-05,South Gloucestershire,Downend Library,15 DVD Standard,CHARGE,*,*
 2021-05,South Gloucestershire,Downend Library,Adult Fiction,HOLD,51,25.5
-2021-05,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,46,25.8
+2021-05,South Gloucestershire,Downend Library,Adult Fiction,OVERDUE,47,26.0
 2021-05,South Gloucestershire,Downend Library,Adult Non Fiction,HOLD,28,14.0
 2021-05,South Gloucestershire,Downend Library,Adult Non Fiction,OVERDUE,7,3.4
 2021-05,South Gloucestershire,Downend Library,Adult Spoken Word,HOLD,*,*
