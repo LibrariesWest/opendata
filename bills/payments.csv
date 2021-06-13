@@ -2142,7 +2142,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Dorset,Weymouth Library,CHARGE,FORGIVEN,10,10,0
 2019-07,Dorset,Weymouth Library,CHARGEX,CASH,0,20,20
 2019-07,Dorset,Weymouth Library,HOLD,CASH,0,0,0
-2019-07,Dorset,Weymouth Library,LOST,CANCEL,170,950,0
+2019-07,Dorset,Weymouth Library,LOST,CANCEL,170,940,0
 2019-07,Dorset,Weymouth Library,LOST,CASH,10,60,60
 2019-07,Dorset,Weymouth Library,LOSTCARD,CASH,0,10,10
 2019-07,Dorset,Weymouth Library,OVERDUE,CANCEL,0,0,0
@@ -18399,7 +18399,6 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-10,Somerset,Dulverton Library,HOLD,DEBITCARD,0,0,0
 2020-10,Somerset,Dulverton Library,HOLD,PAYPAL,0,0,0
 2020-10,Somerset,Dulverton Library,LOST,CANCEL,10,40,0
-2020-10,Somerset,Dulverton Library,OVERDUE,CANCEL,0,0,0
 2020-10,Somerset,Dulverton Library,OVERDUE,CASH,10,10,10
 2020-10,Somerset,Dulverton Library,OVERDUE,DEBITCARD,0,0,0
 2020-10,Somerset,Dulverton Library,OVERDUE,FORGIVEN,10,0,0
@@ -19402,7 +19401,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-11,Poole,Canford Heath Library,OVERDUE,FORGIVEN,10,20,0
 2020-11,Poole,Creekmoor Library,HOLD,CASH,0,0,0
 2020-11,Poole,Creekmoor Library,HOLD,PAYPAL,0,0,0
-2020-11,Poole,Creekmoor Library,OVERDUE,CANCEL,10,10,0
+2020-11,Poole,Creekmoor Library,OVERDUE,CANCEL,0,10,0
 2020-11,Poole,Creekmoor Library,OVERDUE,CASH,0,0,0
 2020-11,Poole,Hamworthy Library,CHARGE,FORGIVEN,0,0,0
 2020-11,Poole,Hamworthy Library,CHARGE,NONE,0,0,0
@@ -20635,7 +20634,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-12,Somerset,Dulverton Library,CHARGE,CASH,10,20,20
 2020-12,Somerset,Dulverton Library,HOLD,CASH,30,30,30
 2020-12,Somerset,Dulverton Library,LOST,CANCEL,10,80,0
-2020-12,Somerset,Dulverton Library,OVERDUE,CANCEL,20,10,0
+2020-12,Somerset,Dulverton Library,OVERDUE,CANCEL,10,10,0
 2020-12,Somerset,Dulverton Library,OVERDUE,CASH,20,10,10
 2020-12,Somerset,Dulverton Library,OVERDUE,DEBITCARD,0,0,0
 2020-12,Somerset,Dulverton Library,OVERDUE,FORGIVEN,10,10,0
