@@ -79,7 +79,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,Bristol,DAMAGE,0,30
 2021/2022,Bristol,HOLD,0,20
 2021/2022,Bristol,LOST,30,200
-2021/2022,Bristol,OVERDUE,4970,4490
+2021/2022,Bristol,OVERDUE,5030,4520
 2021/2022,Bristol,SALENOVAT,20,10
 2021/2022,Bristol,SALEVAT,10,10
 2021/2022,Dorset,CHARGE,680,1580
@@ -88,7 +88,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,Dorset,HOLD,10,10
 2021/2022,Dorset,LOST,510,3310
 2021/2022,Dorset,LOSTCARD,50,90
-2021/2022,Dorset,OVERDUE,3750,3990
+2021/2022,Dorset,OVERDUE,3760,4000
 2021/2022,Dorset,PRIVILEGE,10,10
 2021/2022,Dorset,SALENOVAT,70,190
 2021/2022,Dorset,SALEVAT,30,110
@@ -99,7 +99,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,North Somerset,ILL,0,10
 2021/2022,North Somerset,LOST,90,570
 2021/2022,North Somerset,LOSTCARD,0,0
-2021/2022,North Somerset,OVERDUE,1650,2690
+2021/2022,North Somerset,OVERDUE,1670,2700
 2021/2022,North Somerset,SALENOVAT,20,70
 2021/2022,North Somerset,SALEVAT,30,60
 2021/2022,Poole,CHARGE,230,340
@@ -116,7 +116,7 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,Somerset,HOLD,7660,7670
 2021/2022,Somerset,LOST,160,1070
 2021/2022,Somerset,LOSTCARD,60,110
-2021/2022,Somerset,OVERDUE,9650,9090
+2021/2022,Somerset,OVERDUE,9730,9120
 2021/2022,Somerset,PRIVILEGE,0,0
 2021/2022,Somerset,SALENOVAT,40,50
 2021/2022,Somerset,SALEVAT,100,140
@@ -125,6 +125,6 @@ financial_year_billed,bill_authority,bill_reason,number_of_bills,total_billed
 2021/2022,South Gloucestershire,HOLD,2330,1190
 2021/2022,South Gloucestershire,ILL,0,60
 2021/2022,South Gloucestershire,LOST,100,680
-2021/2022,South Gloucestershire,OVERDUE,2730,4100
+2021/2022,South Gloucestershire,OVERDUE,2740,4100
 2021/2022,South Gloucestershire,SALENOVAT,40,50
 2021/2022,South Gloucestershire,SALEVAT,50,50
