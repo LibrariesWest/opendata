@@ -3405,7 +3405,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Bristol,Henbury Library,OVERDUE,CANCEL,10,0,0
 2019-08,Bristol,Henbury Library,OVERDUE,CASH,60,40,40
 2019-08,Bristol,Henbury Library,OVERDUE,CREDITACCT,0,0,0
-2019-08,Bristol,Henbury Library,OVERDUE,FORGIVEN,70,60,0
+2019-08,Bristol,Henbury Library,OVERDUE,FORGIVEN,60,60,0
 2019-08,Bristol,Henbury Library,OVERDUEX,CANCEL,10,0,0
 2019-08,Bristol,Henleaze Library,CHARGE,CANCEL,10,20,0
 2019-08,Bristol,Henleaze Library,CHARGE,CASH,330,410,410
@@ -8607,12 +8607,12 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-11,Bristol,St George Library,CHARGE,CASH,90,100,100
 2019-11,Bristol,St George Library,CHARGE,FORGIVEN,10,10,0
 2019-11,Bristol,St George Library,CREDIT,CASH,0,0,0
-2019-11,Bristol,St George Library,LOST,CANCEL,110,590,0
+2019-11,Bristol,St George Library,LOST,CANCEL,100,540,0
 2019-11,Bristol,St George Library,LOST,CASH,0,20,20
 2019-11,Bristol,St George Library,LOST,PAYPAL,0,10,10
 2019-11,Bristol,St George Library,OVERDUE,CANCEL,10,20,0
 2019-11,Bristol,St George Library,OVERDUE,CASH,220,160,160
-2019-11,Bristol,St George Library,OVERDUE,FORGIVEN,30,70,0
+2019-11,Bristol,St George Library,OVERDUE,FORGIVEN,20,50,0
 2019-11,Bristol,St George Library,OVERDUE,PAYPAL,30,30,30
 2019-11,Bristol,St George Library,SALENOVAT,CASH,0,0,0
 2019-11,Bristol,St Pauls Library,CHARGE,CANCEL,0,0,0
