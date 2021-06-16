@@ -10728,7 +10728,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-12,Somerset,Burnham Library,SALENOVAT,CREDITCARD,0,0,0
 2019-12,Somerset,Castle Cary Library,CHARGE,CASH,10,10,10
 2019-12,Somerset,Castle Cary Library,CHARGE,FORGIVEN,0,0,0
-2019-12,Somerset,Castle Cary Library,HOLD,CASH,70,60,60
+2019-12,Somerset,Castle Cary Library,HOLD,CASH,60,60,60
 2019-12,Somerset,Castle Cary Library,LOST,CANCEL,0,10,0
 2019-12,Somerset,Castle Cary Library,OVERDUE,CANCEL,0,0,0
 2019-12,Somerset,Castle Cary Library,OVERDUE,CASH,30,30,30
@@ -12271,7 +12271,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-01,Somerset,Castle Cary Library,HOLD,CANCEL,0,0,0
 2020-01,Somerset,Castle Cary Library,HOLD,CASH,70,60,60
 2020-01,Somerset,Castle Cary Library,HOLD,FORGIVEN,0,0,0
-2020-01,Somerset,Castle Cary Library,OVERDUE,CANCEL,10,0,0
+2020-01,Somerset,Castle Cary Library,OVERDUE,CANCEL,0,0,0
 2020-01,Somerset,Castle Cary Library,OVERDUE,CASH,30,20,20
 2020-01,Somerset,Castle Cary Library,OVERDUE,FORGIVEN,0,0,0
 2020-01,Somerset,Chard Library,CHARGE,CASH,20,40,40
