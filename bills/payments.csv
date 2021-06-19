@@ -2629,7 +2629,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-07,Somerset,Glastonbury Library,HOLD,DEBITCARD,40,50,50
 2019-07,Somerset,Glastonbury Library,HOLD,FORGIVEN,0,0,0
 2019-07,Somerset,Glastonbury Library,HOLDX,FORGIVEN,0,0,0
-2019-07,Somerset,Glastonbury Library,LOST,CANCEL,30,170,0
+2019-07,Somerset,Glastonbury Library,LOST,CANCEL,10,60,0
 2019-07,Somerset,Glastonbury Library,LOST,CASH,0,10,10
 2019-07,Somerset,Glastonbury Library,LOST,CREDITCARD,0,10,10
 2019-07,Somerset,Glastonbury Library,LOST,DEBITCARD,0,20,20
@@ -6033,12 +6033,12 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-09,Somerset,Glastonbury Library,HOLD,DEBITCARD,10,10,10
 2019-09,Somerset,Glastonbury Library,HOLD,FORGIVEN,10,10,0
 2019-09,Somerset,Glastonbury Library,HOLD,PAYPAL,10,10,10
-2019-09,Somerset,Glastonbury Library,LOST,CANCEL,20,90,0
-2019-09,Somerset,Glastonbury Library,LOST,CASH,0,10,10
+2019-09,Somerset,Glastonbury Library,LOST,CANCEL,10,90,0
+2019-09,Somerset,Glastonbury Library,LOST,CASH,0,0,0
 2019-09,Somerset,Glastonbury Library,LOST,DEBITCARD,0,10,10
 2019-09,Somerset,Glastonbury Library,LOST,PAYPAL,0,10,10
 2019-09,Somerset,Glastonbury Library,LOSTCARD,CASH,10,10,10
-2019-09,Somerset,Glastonbury Library,OVERDUE,CASH,210,130,130
+2019-09,Somerset,Glastonbury Library,OVERDUE,CASH,200,120,120
 2019-09,Somerset,Glastonbury Library,OVERDUE,CREDITACCT,0,0,0
 2019-09,Somerset,Glastonbury Library,OVERDUE,CREDITCARD,10,10,10
 2019-09,Somerset,Glastonbury Library,OVERDUE,DEBITCARD,20,30,30
@@ -24527,7 +24527,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2021-05,Somerset,Glastonbury Library,LOST,DEBITCARD,0,10,10
 2021-05,Somerset,Glastonbury Library,LOST,PAYPAL,0,10,10
 2021-05,Somerset,Glastonbury Library,OVERDUE,CANCEL,0,0,0
-2021-05,Somerset,Glastonbury Library,OVERDUE,CASH,40,20,20
+2021-05,Somerset,Glastonbury Library,OVERDUE,CASH,30,20,20
 2021-05,Somerset,Glastonbury Library,OVERDUE,CREDITCARD,0,0,0
 2021-05,Somerset,Glastonbury Library,OVERDUE,DEBITCARD,10,30,30
 2021-05,Somerset,Glastonbury Library,OVERDUE,FORGIVEN,20,0,0
