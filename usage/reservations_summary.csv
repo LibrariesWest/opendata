@@ -72,7 +72,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2019-07,North Somerset,Bath and North East Somerset,381,24
 2019-07,North Somerset,Bristol,688,25
 2019-07,North Somerset,Dorset,768,31
-2019-07,North Somerset,North Somerset,1942,9
+2019-07,North Somerset,North Somerset,1941,9
 2019-07,North Somerset,Poole,124,23
 2019-07,North Somerset,Somerset,447,24
 2019-07,North Somerset,South Gloucestershire,257,20
@@ -129,7 +129,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2019-08,Poole,Bristol,675,25
 2019-08,Poole,Dorset,883,24
 2019-08,Poole,North Somerset,349,20
-2019-08,Poole,Poole,618,10
+2019-08,Poole,Poole,617,10
 2019-08,Poole,Somerset,452,21
 2019-08,Poole,South Gloucestershire,279,20
 2019-08,Somerset,Bath and North East Somerset,1091,25
@@ -211,7 +211,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2019-10,Bristol,South Gloucestershire,726,17
 2019-10,Dorset,Bath and North East Somerset,743,25
 2019-10,Dorset,Bristol,1339,29
-2019-10,Dorset,Dorset,6944,11
+2019-10,Dorset,Dorset,6942,11
 2019-10,Dorset,North Somerset,779,19
 2019-10,Dorset,Poole,298,24
 2019-10,Dorset,Somerset,1008,26
@@ -232,7 +232,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2019-10,Poole,South Gloucestershire,266,21
 2019-10,Somerset,Bath and North East Somerset,1119,22
 2019-10,Somerset,Bristol,2034,27
-2019-10,Somerset,Dorset,2392,29
+2019-10,Somerset,Dorset,2391,29
 2019-10,Somerset,North Somerset,1016,20
 2019-10,Somerset,Poole,414,22
 2019-10,Somerset,Somerset,5088,11
@@ -292,7 +292,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2019-11,South Gloucestershire,North Somerset,388,22
 2019-11,South Gloucestershire,Poole,104,28
 2019-11,South Gloucestershire,Somerset,489,26
-2019-11,South Gloucestershire,South Gloucestershire,1543,10
+2019-11,South Gloucestershire,South Gloucestershire,1542,10
 2019-12,Bath and North East Somerset,Bath and North East Somerset,1027,14
 2019-12,Bath and North East Somerset,Bristol,318,30
 2019-12,Bath and North East Somerset,Dorset,326,37
@@ -341,7 +341,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2019-12,South Gloucestershire,North Somerset,273,29
 2019-12,South Gloucestershire,Poole,98,32
 2019-12,South Gloucestershire,Somerset,405,31
-2019-12,South Gloucestershire,South Gloucestershire,1203,12
+2019-12,South Gloucestershire,South Gloucestershire,1202,12
 2020-01,Bath and North East Somerset,Bath and North East Somerset,1509,13
 2020-01,Bath and North East Somerset,Bristol,512,37
 2020-01,Bath and North East Somerset,Dorset,417,39
@@ -351,14 +351,14 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-01,Bath and North East Somerset,South Gloucestershire,203,24
 2020-01,Bristol,Bath and North East Somerset,947,30
 2020-01,Bristol,Bristol,7024,13
-2020-01,Bristol,Dorset,1925,26
+2020-01,Bristol,Dorset,1924,26
 2020-01,Bristol,North Somerset,1006,17
 2020-01,Bristol,Poole,258,25
 2020-01,Bristol,Somerset,1297,19
 2020-01,Bristol,South Gloucestershire,774,18
 2020-01,Dorset,Bath and North East Somerset,826,39
-2020-01,Dorset,Bristol,1548,39
-2020-01,Dorset,Dorset,7436,14
+2020-01,Dorset,Bristol,1549,39
+2020-01,Dorset,Dorset,7435,14
 2020-01,Dorset,North Somerset,841,30
 2020-01,Dorset,Poole,273,35
 2020-01,Dorset,Somerset,1064,32
@@ -379,7 +379,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-01,Poole,South Gloucestershire,273,24
 2020-01,Somerset,Bath and North East Somerset,1164,31
 2020-01,Somerset,Bristol,2200,38
-2020-01,Somerset,Dorset,2400,40
+2020-01,Somerset,Dorset,2399,40
 2020-01,Somerset,North Somerset,1112,28
 2020-01,Somerset,Poole,309,30
 2020-01,Somerset,Somerset,5375,15
@@ -390,7 +390,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-01,South Gloucestershire,North Somerset,435,30
 2020-01,South Gloucestershire,Poole,107,41
 2020-01,South Gloucestershire,Somerset,588,31
-2020-01,South Gloucestershire,South Gloucestershire,1913,13
+2020-01,South Gloucestershire,South Gloucestershire,1912,13
 2020-02,Bath and North East Somerset,Bath and North East Somerset,1426,21
 2020-02,Bath and North East Somerset,Bristol,448,48
 2020-02,Bath and North East Somerset,Dorset,390,50
@@ -439,7 +439,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-02,South Gloucestershire,North Somerset,456,38
 2020-02,South Gloucestershire,Poole,131,47
 2020-02,South Gloucestershire,Somerset,442,57
-2020-02,South Gloucestershire,South Gloucestershire,1820,18
+2020-02,South Gloucestershire,South Gloucestershire,1821,18
 2020-03,Bath and North East Somerset,Bath and North East Somerset,694,58
 2020-03,Bath and North East Somerset,Bristol,189,137
 2020-03,Bath and North East Somerset,Dorset,183,103
@@ -455,7 +455,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-03,Bristol,Somerset,450,58
 2020-03,Bristol,South Gloucestershire,311,57
 2020-03,Dorset,Bath and North East Somerset,392,126
-2020-03,Dorset,Bristol,582,171
+2020-03,Dorset,Bristol,583,171
 2020-03,Dorset,Dorset,3961,34
 2020-03,Dorset,North Somerset,518,94
 2020-03,Dorset,Poole,136,97
@@ -616,15 +616,15 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-10,Bath and North East Somerset,South Gloucestershire,169,36
 2020-10,Bristol,Bath and North East Somerset,403,41
 2020-10,Bristol,Bristol,3352,34
-2020-10,Bristol,Dorset,924,38
-2020-10,Bristol,North Somerset,417,26
+2020-10,Bristol,Dorset,925,38
+2020-10,Bristol,North Somerset,418,26
 2020-10,Bristol,Poole,129,41
 2020-10,Bristol,Somerset,615,32
 2020-10,Bristol,South Gloucestershire,372,34
 2020-10,Dorset,Bath and North East Somerset,545,41
 2020-10,Dorset,Bristol,834,81
 2020-10,Dorset,Dorset,5825,16
-2020-10,Dorset,North Somerset,615,40
+2020-10,Dorset,North Somerset,616,41
 2020-10,Dorset,Poole,244,45
 2020-10,Dorset,Somerset,825,49
 2020-10,Dorset,South Gloucestershire,514,43
@@ -637,7 +637,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-10,North Somerset,South Gloucestershire,216,32
 2020-10,Poole,Bath and North East Somerset,215,34
 2020-10,Poole,Bristol,366,71
-2020-10,Poole,Dorset,595,29
+2020-10,Poole,Dorset,596,30
 2020-10,Poole,North Somerset,256,27
 2020-10,Poole,Poole,390,14
 2020-10,Poole,Somerset,311,35
@@ -666,9 +666,9 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-11,Bristol,Bath and North East Somerset,214,57
 2020-11,Bristol,Bristol,638,58
 2020-11,Bristol,Dorset,436,73
-2020-11,Bristol,North Somerset,205,44
+2020-11,Bristol,North Somerset,206,45
 2020-11,Bristol,Poole,58,69
-2020-11,Bristol,Somerset,324,73
+2020-11,Bristol,Somerset,325,74
 2020-11,Bristol,South Gloucestershire,140,57
 2020-11,Dorset,Bath and North East Somerset,640,35
 2020-11,Dorset,Bristol,327,87
@@ -687,7 +687,7 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-11,Poole,Bath and North East Somerset,233,26
 2020-11,Poole,Bristol,134,71
 2020-11,Poole,Dorset,474,32
-2020-11,Poole,North Somerset,197,25
+2020-11,Poole,North Somerset,198,26
 2020-11,Poole,Poole,397,10
 2020-11,Poole,Somerset,284,29
 2020-11,Poole,South Gloucestershire,155,29
@@ -708,30 +708,30 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-12,Bath and North East Somerset,Bath and North East Somerset,777,17
 2020-12,Bath and North East Somerset,Bristol,222,80
 2020-12,Bath and North East Somerset,Dorset,316,49
-2020-12,Bath and North East Somerset,North Somerset,135,31
+2020-12,Bath and North East Somerset,North Somerset,136,32
 2020-12,Bath and North East Somerset,Poole,36,61
 2020-12,Bath and North East Somerset,Somerset,169,52
 2020-12,Bath and North East Somerset,South Gloucestershire,117,32
-2020-12,Bristol,Bath and North East Somerset,258,60
-2020-12,Bristol,Bristol,2461,26
-2020-12,Bristol,Dorset,615,58
+2020-12,Bristol,Bath and North East Somerset,259,60
+2020-12,Bristol,Bristol,2462,26
+2020-12,Bristol,Dorset,617,59
 2020-12,Bristol,North Somerset,271,40
-2020-12,Bristol,Poole,78,64
+2020-12,Bristol,Poole,79,66
 2020-12,Bristol,Somerset,373,62
-2020-12,Bristol,South Gloucestershire,253,54
+2020-12,Bristol,South Gloucestershire,254,55
 2020-12,Dorset,Bath and North East Somerset,479,41
-2020-12,Dorset,Bristol,746,88
-2020-12,Dorset,Dorset,4661,14
-2020-12,Dorset,North Somerset,483,38
+2020-12,Dorset,Bristol,748,88
+2020-12,Dorset,Dorset,4663,14
+2020-12,Dorset,North Somerset,486,39
 2020-12,Dorset,Poole,156,55
-2020-12,Dorset,Somerset,592,71
+2020-12,Dorset,Somerset,593,71
 2020-12,Dorset,South Gloucestershire,369,45
 2020-12,North Somerset,Bath and North East Somerset,204,39
 2020-12,North Somerset,Bristol,370,69
 2020-12,North Somerset,Dorset,505,49
-2020-12,North Somerset,North Somerset,1195,11
+2020-12,North Somerset,North Somerset,1197,11
 2020-12,North Somerset,Poole,57,65
-2020-12,North Somerset,Somerset,286,63
+2020-12,North Somerset,Somerset,287,64
 2020-12,North Somerset,South Gloucestershire,176,38
 2020-12,Poole,Bath and North East Somerset,179,35
 2020-12,Poole,Bristol,291,78
@@ -740,42 +740,42 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2020-12,Poole,Poole,310,12
 2020-12,Poole,Somerset,222,58
 2020-12,Poole,South Gloucestershire,145,38
-2020-12,Somerset,Bath and North East Somerset,501,38
-2020-12,Somerset,Bristol,980,72
-2020-12,Somerset,Dorset,1371,45
+2020-12,Somerset,Bath and North East Somerset,502,39
+2020-12,Somerset,Bristol,981,72
+2020-12,Somerset,Dorset,1372,45
 2020-12,Somerset,North Somerset,591,30
 2020-12,Somerset,Poole,160,63
 2020-12,Somerset,Somerset,2460,33
 2020-12,Somerset,South Gloucestershire,428,36
-2020-12,South Gloucestershire,Bath and North East Somerset,180,43
+2020-12,South Gloucestershire,Bath and North East Somerset,181,44
 2020-12,South Gloucestershire,Bristol,339,78
 2020-12,South Gloucestershire,Dorset,521,51
-2020-12,South Gloucestershire,North Somerset,177,41
+2020-12,South Gloucestershire,North Somerset,178,42
 2020-12,South Gloucestershire,Poole,55,83
-2020-12,South Gloucestershire,Somerset,219,62
+2020-12,South Gloucestershire,Somerset,220,62
 2020-12,South Gloucestershire,South Gloucestershire,747,22
 2021-01,Bath and North East Somerset,Bath and North East Somerset,1378,9
 2021-01,Bath and North East Somerset,Bristol,60,86
 2021-01,Bath and North East Somerset,Dorset,529,34
-2021-01,Bath and North East Somerset,North Somerset,284,26
+2021-01,Bath and North East Somerset,North Somerset,285,27
 2021-01,Bath and North East Somerset,Poole,17,68
 2021-01,Bath and North East Somerset,Somerset,157,30
 2021-01,Bath and North East Somerset,South Gloucestershire,199,24
 2021-01,Bristol,Bath and North East Somerset,109,91
 2021-01,Bristol,Bristol,325,68
-2021-01,Bristol,Dorset,249,89
+2021-01,Bristol,Dorset,250,89
 2021-01,Bristol,North Somerset,73,75
-2021-01,Bristol,Poole,19,106
+2021-01,Bristol,Poole,20,109
 2021-01,Bristol,Somerset,60,78
 2021-01,Bristol,South Gloucestershire,75,92
-2021-01,Dorset,Bath and North East Somerset,812,31
+2021-01,Dorset,Bath and North East Somerset,813,31
 2021-01,Dorset,Bristol,195,95
-2021-01,Dorset,Dorset,5912,11
+2021-01,Dorset,Dorset,5913,11
 2021-01,Dorset,North Somerset,824,32
 2021-01,Dorset,Poole,47,76
-2021-01,Dorset,Somerset,471,36
+2021-01,Dorset,Somerset,472,36
 2021-01,Dorset,South Gloucestershire,595,35
-2021-01,North Somerset,Bath and North East Somerset,387,25
+2021-01,North Somerset,Bath and North East Somerset,388,26
 2021-01,North Somerset,Bristol,117,88
 2021-01,North Somerset,Dorset,786,42
 2021-01,North Somerset,North Somerset,1651,10
@@ -787,16 +787,16 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2021-01,Poole,Dorset,364,55
 2021-01,Poole,North Somerset,153,48
 2021-01,Poole,Poole,63,34
-2021-01,Poole,Somerset,89,62
+2021-01,Poole,Somerset,90,63
 2021-01,Poole,South Gloucestershire,129,56
 2021-01,Somerset,Bath and North East Somerset,634,34
-2021-01,Somerset,Bristol,211,98
-2021-01,Somerset,Dorset,1395,46
+2021-01,Somerset,Bristol,212,98
+2021-01,Somerset,Dorset,1398,46
 2021-01,Somerset,North Somerset,601,35
 2021-01,Somerset,Poole,50,89
 2021-01,Somerset,Somerset,1092,19
 2021-01,Somerset,South Gloucestershire,446,35
-2021-01,South Gloucestershire,Bath and North East Somerset,459,29
+2021-01,South Gloucestershire,Bath and North East Somerset,460,30
 2021-01,South Gloucestershire,Bristol,109,89
 2021-01,South Gloucestershire,Dorset,790,42
 2021-01,South Gloucestershire,North Somerset,397,26
@@ -812,22 +812,22 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2021-02,Bath and North East Somerset,South Gloucestershire,150,26
 2021-02,Bristol,Bath and North East Somerset,105,61
 2021-02,Bristol,Bristol,19,42
-2021-02,Bristol,Dorset,247,72
-2021-02,Bristol,North Somerset,117,56
+2021-02,Bristol,Dorset,248,72
+2021-02,Bristol,North Somerset,118,57
 2021-02,Bristol,Poole,5,49
 2021-02,Bristol,Somerset,61,63
 2021-02,Bristol,South Gloucestershire,88,64
-2021-02,Dorset,Bath and North East Somerset,855,28
+2021-02,Dorset,Bath and North East Somerset,856,28
 2021-02,Dorset,Bristol,33,69
-2021-02,Dorset,Dorset,5972,11
-2021-02,Dorset,North Somerset,811,32
+2021-02,Dorset,Dorset,5974,11
+2021-02,Dorset,North Somerset,812,32
 2021-02,Dorset,Poole,15,38
-2021-02,Dorset,Somerset,421,31
+2021-02,Dorset,Somerset,422,31
 2021-02,Dorset,South Gloucestershire,592,33
-2021-02,North Somerset,Bath and North East Somerset,373,23
+2021-02,North Somerset,Bath and North East Somerset,375,24
 2021-02,North Somerset,Bristol,7,58
 2021-02,North Somerset,Dorset,703,36
-2021-02,North Somerset,North Somerset,1715,8
+2021-02,North Somerset,North Somerset,1719,8
 2021-02,North Somerset,Poole,9,46
 2021-02,North Somerset,Somerset,193,25
 2021-02,North Somerset,South Gloucestershire,282,22
@@ -838,164 +838,164 @@ month_placed,item_authority,pickup_authority,reservations,days_taken
 2021-02,Poole,Poole,38,9
 2021-02,Poole,Somerset,62,42
 2021-02,Poole,South Gloucestershire,112,50
-2021-02,Somerset,Bath and North East Somerset,713,27
+2021-02,Somerset,Bath and North East Somerset,715,27
 2021-02,Somerset,Bristol,36,66
-2021-02,Somerset,Dorset,1477,39
-2021-02,Somerset,North Somerset,690,28
+2021-02,Somerset,Dorset,1478,39
+2021-02,Somerset,North Somerset,692,28
 2021-02,Somerset,Poole,18,52
 2021-02,Somerset,Somerset,1194,14
-2021-02,Somerset,South Gloucestershire,446,31
-2021-02,South Gloucestershire,Bath and North East Somerset,378,27
+2021-02,Somerset,South Gloucestershire,447,31
+2021-02,South Gloucestershire,Bath and North East Somerset,380,28
 2021-02,South Gloucestershire,Bristol,13,44
 2021-02,South Gloucestershire,Dorset,700,39
 2021-02,South Gloucestershire,North Somerset,368,23
 2021-02,South Gloucestershire,Poole,11,36
-2021-02,South Gloucestershire,Somerset,159,25
+2021-02,South Gloucestershire,Somerset,160,25
 2021-02,South Gloucestershire,South Gloucestershire,1019,13
 2021-03,Bath and North East Somerset,Bath and North East Somerset,1341,7
 2021-03,Bath and North East Somerset,Bristol,277,31
 2021-03,Bath and North East Somerset,Dorset,364,30
-2021-03,Bath and North East Somerset,North Somerset,185,21
+2021-03,Bath and North East Somerset,North Somerset,187,22
 2021-03,Bath and North East Somerset,Poole,40,22
 2021-03,Bath and North East Somerset,Somerset,200,25
 2021-03,Bath and North East Somerset,South Gloucestershire,129,24
-2021-03,Bristol,Bath and North East Somerset,342,28
-2021-03,Bristol,Bristol,2027,20
-2021-03,Bristol,Dorset,653,46
-2021-03,Bristol,North Somerset,343,29
+2021-03,Bristol,Bath and North East Somerset,345,29
+2021-03,Bristol,Bristol,2030,20
+2021-03,Bristol,Dorset,654,46
+2021-03,Bristol,North Somerset,345,29
 2021-03,Bristol,Poole,61,37
-2021-03,Bristol,Somerset,398,35
+2021-03,Bristol,Somerset,399,35
 2021-03,Bristol,South Gloucestershire,247,28
-2021-03,Dorset,Bath and North East Somerset,602,31
+2021-03,Dorset,Bath and North East Somerset,605,32
 2021-03,Dorset,Bristol,763,37
-2021-03,Dorset,Dorset,5751,9
-2021-03,Dorset,North Somerset,680,30
+2021-03,Dorset,Dorset,5754,9
+2021-03,Dorset,North Somerset,683,30
 2021-03,Dorset,Poole,142,28
-2021-03,Dorset,Somerset,683,35
+2021-03,Dorset,Somerset,684,35
 2021-03,Dorset,South Gloucestershire,471,32
 2021-03,North Somerset,Bath and North East Somerset,263,22
-2021-03,North Somerset,Bristol,426,32
+2021-03,North Somerset,Bristol,430,33
 2021-03,North Somerset,Dorset,553,35
-2021-03,North Somerset,North Somerset,1649,8
+2021-03,North Somerset,North Somerset,1650,8
 2021-03,North Somerset,Poole,46,27
 2021-03,North Somerset,Somerset,297,26
 2021-03,North Somerset,South Gloucestershire,180,24
 2021-03,Poole,Bath and North East Somerset,209,30
-2021-03,Poole,Bristol,261,34
+2021-03,Poole,Bristol,262,34
 2021-03,Poole,Dorset,494,31
-2021-03,Poole,North Somerset,207,24
+2021-03,Poole,North Somerset,208,25
 2021-03,Poole,Poole,220,11
-2021-03,Poole,Somerset,274,29
+2021-03,Poole,Somerset,275,29
 2021-03,Poole,South Gloucestershire,148,30
-2021-03,Somerset,Bath and North East Somerset,871,24
-2021-03,Somerset,Bristol,1077,33
-2021-03,Somerset,Dorset,1649,35
-2021-03,Somerset,North Somerset,829,21
+2021-03,Somerset,Bath and North East Somerset,874,24
+2021-03,Somerset,Bristol,1079,33
+2021-03,Somerset,Dorset,1652,35
+2021-03,Somerset,North Somerset,831,22
 2021-03,Somerset,Poole,169,28
-2021-03,Somerset,Somerset,3092,14
+2021-03,Somerset,Somerset,3097,14
 2021-03,Somerset,South Gloucestershire,508,27
-2021-03,South Gloucestershire,Bath and North East Somerset,274,26
-2021-03,South Gloucestershire,Bristol,351,33
-2021-03,South Gloucestershire,Dorset,553,40
+2021-03,South Gloucestershire,Bath and North East Somerset,275,27
+2021-03,South Gloucestershire,Bristol,352,33
+2021-03,South Gloucestershire,Dorset,554,40
 2021-03,South Gloucestershire,North Somerset,291,25
 2021-03,South Gloucestershire,Poole,55,37
-2021-03,South Gloucestershire,Somerset,294,33
+2021-03,South Gloucestershire,Somerset,295,33
 2021-03,South Gloucestershire,South Gloucestershire,976,14
-2021-04,Bath and North East Somerset,Bath and North East Somerset,1001,8
-2021-04,Bath and North East Somerset,Bristol,241,23
+2021-04,Bath and North East Somerset,Bath and North East Somerset,1003,8
+2021-04,Bath and North East Somerset,Bristol,242,23
 2021-04,Bath and North East Somerset,Dorset,296,26
-2021-04,Bath and North East Somerset,North Somerset,164,18
+2021-04,Bath and North East Somerset,North Somerset,165,18
 2021-04,Bath and North East Somerset,Poole,39,20
 2021-04,Bath and North East Somerset,Somerset,159,20
 2021-04,Bath and North East Somerset,South Gloucestershire,137,18
-2021-04,Bristol,Bath and North East Somerset,398,21
-2021-04,Bristol,Bristol,2839,11
-2021-04,Bristol,Dorset,879,32
-2021-04,Bristol,North Somerset,408,16
-2021-04,Bristol,Poole,94,24
-2021-04,Bristol,Somerset,492,23
-2021-04,Bristol,South Gloucestershire,387,20
-2021-04,Dorset,Bath and North East Somerset,417,32
-2021-04,Dorset,Bristol,698,28
-2021-04,Dorset,Dorset,5172,8
-2021-04,Dorset,North Somerset,477,29
-2021-04,Dorset,Poole,149,22
+2021-04,Bristol,Bath and North East Somerset,401,21
+2021-04,Bristol,Bristol,2842,11
+2021-04,Bristol,Dorset,885,32
+2021-04,Bristol,North Somerset,409,17
+2021-04,Bristol,Poole,97,25
+2021-04,Bristol,Somerset,494,23
+2021-04,Bristol,South Gloucestershire,390,21
+2021-04,Dorset,Bath and North East Somerset,420,32
+2021-04,Dorset,Bristol,700,28
+2021-04,Dorset,Dorset,5175,8
+2021-04,Dorset,North Somerset,479,29
+2021-04,Dorset,Poole,153,23
 2021-04,Dorset,Somerset,565,29
 2021-04,Dorset,South Gloucestershire,348,33
 2021-04,North Somerset,Bath and North East Somerset,198,19
-2021-04,North Somerset,Bristol,354,21
-2021-04,North Somerset,Dorset,500,30
-2021-04,North Somerset,North Somerset,1535,7
-2021-04,North Somerset,Poole,78,25
-2021-04,North Somerset,Somerset,263,22
+2021-04,North Somerset,Bristol,357,21
+2021-04,North Somerset,Dorset,502,30
+2021-04,North Somerset,North Somerset,1537,7
+2021-04,North Somerset,Poole,79,25
+2021-04,North Somerset,Somerset,264,22
 2021-04,North Somerset,South Gloucestershire,173,18
 2021-04,Poole,Bath and North East Somerset,164,26
-2021-04,Poole,Bristol,282,26
+2021-04,Poole,Bristol,283,26
 2021-04,Poole,Dorset,519,21
-2021-04,Poole,North Somerset,223,22
+2021-04,Poole,North Somerset,225,23
 2021-04,Poole,Poole,348,6
-2021-04,Poole,Somerset,223,24
+2021-04,Poole,Somerset,224,24
 2021-04,Poole,South Gloucestershire,150,23
-2021-04,Somerset,Bath and North East Somerset,661,21
-2021-04,Somerset,Bristol,954,24
-2021-04,Somerset,Dorset,1318,28
-2021-04,Somerset,North Somerset,726,18
-2021-04,Somerset,Poole,180,21
-2021-04,Somerset,Somerset,2951,13
-2021-04,Somerset,South Gloucestershire,566,22
-2021-04,South Gloucestershire,Bath and North East Somerset,236,23
-2021-04,South Gloucestershire,Bristol,363,25
-2021-04,South Gloucestershire,Dorset,449,31
+2021-04,Somerset,Bath and North East Somerset,668,22
+2021-04,Somerset,Bristol,956,24
+2021-04,Somerset,Dorset,1322,28
+2021-04,Somerset,North Somerset,730,18
+2021-04,Somerset,Poole,181,22
+2021-04,Somerset,Somerset,2957,13
+2021-04,Somerset,South Gloucestershire,568,22
+2021-04,South Gloucestershire,Bath and North East Somerset,241,24
+2021-04,South Gloucestershire,Bristol,364,25
+2021-04,South Gloucestershire,Dorset,451,31
 2021-04,South Gloucestershire,North Somerset,218,20
-2021-04,South Gloucestershire,Poole,61,27
+2021-04,South Gloucestershire,Poole,62,28
 2021-04,South Gloucestershire,Somerset,242,27
-2021-04,South Gloucestershire,South Gloucestershire,995,12
-2021-05,Bath and North East Somerset,Bath and North East Somerset,894,7
-2021-05,Bath and North East Somerset,Bristol,226,18
-2021-05,Bath and North East Somerset,Dorset,207,22
-2021-05,Bath and North East Somerset,North Somerset,132,16
+2021-04,South Gloucestershire,South Gloucestershire,996,12
+2021-05,Bath and North East Somerset,Bath and North East Somerset,895,7
+2021-05,Bath and North East Somerset,Bristol,232,18
+2021-05,Bath and North East Somerset,Dorset,210,22
+2021-05,Bath and North East Somerset,North Somerset,135,16
 2021-05,Bath and North East Somerset,Poole,34,19
 2021-05,Bath and North East Somerset,Somerset,146,18
 2021-05,Bath and North East Somerset,South Gloucestershire,98,17
-2021-05,Bristol,Bath and North East Somerset,266,17
-2021-05,Bristol,Bristol,3591,9
-2021-05,Bristol,Dorset,560,25
-2021-05,Bristol,North Somerset,351,14
-2021-05,Bristol,Poole,94,23
-2021-05,Bristol,Somerset,497,17
-2021-05,Bristol,South Gloucestershire,354,17
-2021-05,Dorset,Bath and North East Somerset,276,19
-2021-05,Dorset,Bristol,652,20
-2021-05,Dorset,Dorset,5168,6
-2021-05,Dorset,North Somerset,429,17
-2021-05,Dorset,Poole,129,17
-2021-05,Dorset,Somerset,480,19
-2021-05,Dorset,South Gloucestershire,322,20
-2021-05,North Somerset,Bath and North East Somerset,158,15
-2021-05,North Somerset,Bristol,320,15
-2021-05,North Somerset,Dorset,331,21
-2021-05,North Somerset,North Somerset,1426,6
-2021-05,North Somerset,Poole,58,17
-2021-05,North Somerset,Somerset,210,16
+2021-05,Bristol,Bath and North East Somerset,268,18
+2021-05,Bristol,Bristol,3605,9
+2021-05,Bristol,Dorset,567,25
+2021-05,Bristol,North Somerset,355,14
+2021-05,Bristol,Poole,102,25
+2021-05,Bristol,Somerset,499,18
+2021-05,Bristol,South Gloucestershire,358,18
+2021-05,Dorset,Bath and North East Somerset,291,20
+2021-05,Dorset,Bristol,662,20
+2021-05,Dorset,Dorset,5181,6
+2021-05,Dorset,North Somerset,444,18
+2021-05,Dorset,Poole,133,17
+2021-05,Dorset,Somerset,493,19
+2021-05,Dorset,South Gloucestershire,326,20
+2021-05,North Somerset,Bath and North East Somerset,163,16
+2021-05,North Somerset,Bristol,329,16
+2021-05,North Somerset,Dorset,336,22
+2021-05,North Somerset,North Somerset,1428,6
+2021-05,North Somerset,Poole,59,18
+2021-05,North Somerset,Somerset,213,16
 2021-05,North Somerset,South Gloucestershire,167,13
-2021-05,Poole,Bath and North East Somerset,119,22
-2021-05,Poole,Bristol,267,20
-2021-05,Poole,Dorset,459,16
-2021-05,Poole,North Somerset,192,19
+2021-05,Poole,Bath and North East Somerset,122,22
+2021-05,Poole,Bristol,272,21
+2021-05,Poole,Dorset,461,16
+2021-05,Poole,North Somerset,196,19
 2021-05,Poole,Poole,345,6
-2021-05,Poole,Somerset,190,18
+2021-05,Poole,Somerset,192,18
 2021-05,Poole,South Gloucestershire,126,21
-2021-05,Somerset,Bath and North East Somerset,501,17
-2021-05,Somerset,Bristol,876,18
-2021-05,Somerset,Dorset,917,22
-2021-05,Somerset,North Somerset,661,14
-2021-05,Somerset,Poole,173,17
-2021-05,Somerset,Somerset,2834,11
-2021-05,Somerset,South Gloucestershire,446,17
-2021-05,South Gloucestershire,Bath and North East Somerset,139,17
-2021-05,South Gloucestershire,Bristol,344,18
-2021-05,South Gloucestershire,Dorset,306,26
-2021-05,South Gloucestershire,North Somerset,223,15
-2021-05,South Gloucestershire,Poole,58,24
-2021-05,South Gloucestershire,Somerset,214,18
-2021-05,South Gloucestershire,South Gloucestershire,1040,10
+2021-05,Somerset,Bath and North East Somerset,508,17
+2021-05,Somerset,Bristol,888,18
+2021-05,Somerset,Dorset,937,22
+2021-05,Somerset,North Somerset,664,14
+2021-05,Somerset,Poole,175,17
+2021-05,Somerset,Somerset,2850,11
+2021-05,Somerset,South Gloucestershire,449,17
+2021-05,South Gloucestershire,Bath and North East Somerset,157,19
+2021-05,South Gloucestershire,Bristol,351,19
+2021-05,South Gloucestershire,Dorset,311,27
+2021-05,South Gloucestershire,North Somerset,229,16
+2021-05,South Gloucestershire,Poole,59,25
+2021-05,South Gloucestershire,Somerset,218,18
+2021-05,South Gloucestershire,South Gloucestershire,1043,10
