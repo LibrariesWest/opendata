@@ -4494,7 +4494,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-08,Somerset,Shepton Mallet Library,OVERDUE,PAYPAL,10,10,10
 2019-08,Somerset,Shepton Mallet Library,PROCESSFEE,CASH,0,0,0
 2019-08,Somerset,Somerton Library,CHARGE,CANCEL,10,10,0
-2019-08,Somerset,Somerton Library,CHARGE,CASH,50,110,110
+2019-08,Somerset,Somerton Library,CHARGE,CASH,50,100,100
 2019-08,Somerset,Somerton Library,CHARGE,VOUCH,0,10,10
 2019-08,Somerset,Somerton Library,DAMAGE,CASH,0,0,0
 2019-08,Somerset,Somerton Library,GROUP,CASH,10,40,40
@@ -10810,7 +10810,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2019-12,Somerset,Frome Library,LOSTCARD,CREDITCARD,0,0,0
 2019-12,Somerset,Frome Library,LOSTCARD,DEBITCARD,0,0,0
 2019-12,Somerset,Frome Library,OVERDUE,CANCEL,0,10,0
-2019-12,Somerset,Frome Library,OVERDUE,CASH,360,260,260
+2019-12,Somerset,Frome Library,OVERDUE,CASH,350,250,250
 2019-12,Somerset,Frome Library,OVERDUE,CREDITCARD,50,40,40
 2019-12,Somerset,Frome Library,OVERDUE,DEBITCARD,290,320,320
 2019-12,Somerset,Frome Library,OVERDUE,FORGIVEN,30,20,0
@@ -15295,7 +15295,7 @@ month_paid,payment_authority,payment_library,bill_reason,payment_type,number_of_
 2020-03,Somerset,Frome Library,OVERDUE,CREDITCARD,10,10,10
 2020-03,Somerset,Frome Library,OVERDUE,DEBITCARD,130,170,170
 2020-03,Somerset,Frome Library,OVERDUE,FORGIVEN,0,0,0
-2020-03,Somerset,Frome Library,OVERDUE,PAYPAL,100,110,110
+2020-03,Somerset,Frome Library,OVERDUE,PAYPAL,100,100,100
 2020-03,Somerset,Glastonbury Library,CHARGE,CANCEL,0,0,0
 2020-03,Somerset,Glastonbury Library,CHARGE,CASH,90,190,190
 2020-03,Somerset,Glastonbury Library,CHARGE,CREDITCARD,10,20,20
