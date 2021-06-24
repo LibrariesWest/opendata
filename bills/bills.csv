@@ -11524,8 +11524,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Somerset,Wiveliscombe Library,YA / Teen Fiction,OVERDUE,*,*
 2019-09,Somerset,Yeovil Library,12 DVD Standard,CHARGE,38,87
 2019-09,Somerset,Yeovil Library,12 DVD Standard,OVERDUE,*,*
-2019-09,Somerset,Yeovil Library,15 DVD Standard,CHARGE,38,90
-2019-09,Somerset,Yeovil Library,15 DVD Standard,HOLD,5,5
+2019-09,Somerset,Yeovil Library,15 DVD Standard,CHARGE,36,86
+2019-09,Somerset,Yeovil Library,15 DVD Standard,HOLD,*,*
 2019-09,Somerset,Yeovil Library,15 DVD Standard,OVERDUE,*,*
 2019-09,Somerset,Yeovil Library,18 DVD Standard,CHARGE,*,*
 2019-09,Somerset,Yeovil Library,18 DVD Standard,HOLD,*,*
@@ -11545,8 +11545,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Somerset,Yeovil Library,B.O.P.,LOST,*,*
 2019-09,Somerset,Yeovil Library,Boxed Set 12 DVD,CHARGE,*,*
 2019-09,Somerset,Yeovil Library,Boxed Set 12 DVD,HOLD,*,*
-2019-09,Somerset,Yeovil Library,Boxed Set 15 DVD,CHARGE,5,20
-2019-09,Somerset,Yeovil Library,Boxed Set 15 DVD,HOLD,5,5
+2019-09,Somerset,Yeovil Library,Boxed Set 15 DVD,CHARGE,7,24
+2019-09,Somerset,Yeovil Library,Boxed Set 15 DVD,HOLD,6,6
 2019-09,Somerset,Yeovil Library,Child Fiction,DAMAGE,*,*
 2019-09,Somerset,Yeovil Library,Child Fiction,HOLD,7,7
 2019-09,Somerset,Yeovil Library,Child Fiction,LOST,42,210
@@ -24535,7 +24535,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,Bristol,Bristol Central Lending Library,Adult Graphic Novel,LOST,8,56
 2020-02,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,29,25.20
 2020-02,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,83,747
-2020-02,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1253,1408.80
+2020-02,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1254,1410.90
 2020-02,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,55,104.5
 2020-02,Bristol,Bristol Central Lending Library,Adult Spoken Word,OVERDUE,8,9.60
 2020-02,Bristol,Bristol Central Lending Library,B.O.P.,OVERDUE,*,*
@@ -24557,7 +24557,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,Bristol,Bristol Central Lending Library,Drama single copy,LOST,*,*
 2020-02,Bristol,Bristol Central Lending Library,Drama single copy,OVERDUE,22,31.35
 2020-02,Bristol,Bristol Central Lending Library,Fastrack,LOST,*,*
-2020-02,Bristol,Bristol Central Lending Library,Fastrack,OVERDUE,5,4.65
+2020-02,Bristol,Bristol Central Lending Library,Fastrack,OVERDUE,*,*
 2020-02,Bristol,Bristol Central Lending Library,Language Course,CHARGE,30,57.0
 2020-02,Bristol,Bristol Central Lending Library,Language Course,LOST,*,*
 2020-02,Bristol,Bristol Central Lending Library,Language Course,OVERDUE,*,*
@@ -41480,12 +41480,12 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Bristol,Fishponds Library,YA / Teen Non Fiction,OVERDUE,*,*
 2021-05,Bristol,Henbury Library,12 DVD Standard,CHARGE,*,*
 2021-05,Bristol,Henbury Library,15 DVD Standard,CHARGE,6,6
-2021-05,Bristol,Henbury Library,Adult Fiction,OVERDUE,93,44.10
+2021-05,Bristol,Henbury Library,Adult Fiction,OVERDUE,94,44.40
 2021-05,Bristol,Henbury Library,Adult Non Fiction,OVERDUE,28,15.15
 2021-05,Bristol,Henbury Library,Boxed Set 15 DVD,CHARGE,*,*
 2021-05,Bristol,Henbury Library,Child Fiction,OVERDUE,42,38.25
 2021-05,Bristol,Henbury Library,Child Non Fiction,OVERDUE,*,*
-2021-05,Bristol,Henbury Library,Fastrack,OVERDUE,10,2.70
+2021-05,Bristol,Henbury Library,Fastrack,OVERDUE,9,2.40
 2021-05,Bristol,Henbury Library,Large Print - Adult Fiction,OVERDUE,15,15.75
 2021-05,Bristol,Henbury Library,PG DVD Standard,CHARGE,*,*
 2021-05,Bristol,Henbury Library,U DVD Standard,CHARGE,*,*
