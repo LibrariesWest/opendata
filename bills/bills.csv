@@ -214,7 +214,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-07,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,104,128
 2019-07,Bristol,Bristol Central Lending Library,12 DVD Standard,LOST,*,*
 2019-07,Bristol,Bristol Central Lending Library,12 DVD Standard,OVERDUE,16,24.30
-2019-07,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,171,216
+2019-07,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,169,214
 2019-07,Bristol,Bristol Central Lending Library,15 DVD Standard,LOST,*,*
 2019-07,Bristol,Bristol Central Lending Library,15 DVD Standard,OVERDUE,32,27.15
 2019-07,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,20,23
@@ -226,7 +226,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-07,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,67,88.80
 2019-07,Bristol,Bristol Central Lending Library,Adult Non Fiction,CHARGE,*,*
 2019-07,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,124,1116
-2019-07,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1534,1764.30
+2019-07,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1533,1764.00
 2019-07,Bristol,Bristol Central Lending Library,Adult Reference,LOST,*,*
 2019-07,Bristol,Bristol Central Lending Library,Adult Reference,OVERDUE,*,*
 2019-07,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,83,157.7
@@ -1003,7 +1003,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-07,Dorset,Shaftesbury Library,15 DVD Standard,CHARGE,*,*
 2019-07,Dorset,Shaftesbury Library,Adult Fiction,DAMAGE,*,*
 2019-07,Dorset,Shaftesbury Library,Adult Fiction,LOST,*,*
-2019-07,Dorset,Shaftesbury Library,Adult Fiction,OVERDUE,58,55.0
+2019-07,Dorset,Shaftesbury Library,Adult Fiction,OVERDUE,57,54.8
 2019-07,Dorset,Shaftesbury Library,Adult Non Fiction,OVERDUE,23,21.6
 2019-07,Dorset,Shaftesbury Library,Adult Spoken Word,CHARGE,13,28.4
 2019-07,Dorset,Shaftesbury Library,Adult Spoken Word,OVERDUE,*,*
@@ -3153,8 +3153,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,Bristol,Bishopsworth Library,YA / Teen Non Fiction,OVERDUE,*,*
 2019-08,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,104,121
 2019-08,Bristol,Bristol Central Lending Library,12 DVD Standard,OVERDUE,18,20.25
-2019-08,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,219,243
-2019-08,Bristol,Bristol Central Lending Library,15 DVD Standard,OVERDUE,43,31.35
+2019-08,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,218,242
+2019-08,Bristol,Bristol Central Lending Library,15 DVD Standard,OVERDUE,42,31.20
 2019-08,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,21,22
 2019-08,Bristol,Bristol Central Lending Library,18 DVD Standard,OVERDUE,*,*
 2019-08,Bristol,Bristol Central Lending Library,Adult Fiction,LOST,45,405
@@ -3163,7 +3163,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,74,68.40
 2019-08,Bristol,Bristol Central Lending Library,Adult Non Fiction,CHARGE,*,*
 2019-08,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,79,707
-2019-08,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1606,1815.45
+2019-08,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1605,1813.05
 2019-08,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,89,169.1
 2019-08,Bristol,Bristol Central Lending Library,Adult Spoken Word,LOST,6,180
 2019-08,Bristol,Bristol Central Lending Library,Adult Spoken Word,OVERDUE,10,9.75
@@ -4016,7 +4016,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,Dorset,Stalbridge Library,PG DVD Standard,CHARGE,*,*
 2019-08,Dorset,Stalbridge Library,U DVD Standard,CHARGE,*,*
 2019-08,Dorset,Sturminster Library,12 DVD Standard,CHARGE,*,*
-2019-08,Dorset,Sturminster Library,15 DVD Standard,CHARGE,5,12.5
+2019-08,Dorset,Sturminster Library,15 DVD Standard,CHARGE,*,*
 2019-08,Dorset,Sturminster Library,Adult Fiction,LOST,19,171
 2019-08,Dorset,Sturminster Library,Adult Fiction,OVERDUE,41,53.6
 2019-08,Dorset,Sturminster Library,Adult Graphic Novel,OVERDUE,*,*
@@ -4098,7 +4098,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,Dorset,Verwood Library,YA / Teen Non Fiction,LOST,*,*
 2019-08,Dorset,Wareham Library,12 DVD Standard,CHARGE,*,*
 2019-08,Dorset,Wareham Library,12 DVD Standard,OVERDUE,*,*
-2019-08,Dorset,Wareham Library,15 DVD Standard,CHARGE,*,*
 2019-08,Dorset,Wareham Library,Adult Fiction,OVERDUE,84,91.4
 2019-08,Dorset,Wareham Library,Adult Non Fiction,LOST,*,*
 2019-08,Dorset,Wareham Library,Adult Non Fiction,OVERDUE,50,49.0
@@ -5317,7 +5316,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,Somerset,Taunton Library,Adult Fiction,DAMAGE,*,*
 2019-08,Somerset,Taunton Library,Adult Fiction,HOLD,319,315.0
 2019-08,Somerset,Taunton Library,Adult Fiction,LOST,5,45
-2019-08,Somerset,Taunton Library,Adult Fiction,OVERDUE,360,379.2
+2019-08,Somerset,Taunton Library,Adult Fiction,OVERDUE,359,378.8
 2019-08,Somerset,Taunton Library,Adult Graphic Novel,LOST,*,*
 2019-08,Somerset,Taunton Library,Adult Graphic Novel,OVERDUE,14,37.4
 2019-08,Somerset,Taunton Library,Adult Non Fiction,HOLD,201,198.5
@@ -5665,9 +5664,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-08,South Gloucestershire,Chipping Sodbury Library,Adult Non Fiction,OVERDUE,*,*
 2019-08,South Gloucestershire,Chipping Sodbury Library,Adult Spoken Word,HOLD,*,*
 2019-08,South Gloucestershire,Chipping Sodbury Library,Boxed Set 12 DVD,CHARGE,*,*
-2019-08,South Gloucestershire,Chipping Sodbury Library,Child Fiction,LOST,6,30
-2019-08,South Gloucestershire,Chipping Sodbury Library,Fastrack,LOST,*,*
-2019-08,South Gloucestershire,Chipping Sodbury Library,Fastrack,OVERDUE,*,*
+2019-08,South Gloucestershire,Chipping Sodbury Library,Child Fiction,LOST,7,37
+2019-08,South Gloucestershire,Chipping Sodbury Library,Child Fiction,OVERDUE,*,*
 2019-08,South Gloucestershire,Chipping Sodbury Library,Large Print - Adult Fiction,OVERDUE,*,*
 2019-08,South Gloucestershire,Chipping Sodbury Library,PG DVD Standard,CHARGE,16,21.2
 2019-08,South Gloucestershire,Chipping Sodbury Library,PG DVD Standard,OVERDUE,*,*
@@ -6193,7 +6191,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,62,60.15
 2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,CHARGE,*,*
 2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,88,792
-2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1639,1939.35
+2019-09,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1638,1938.75
 2019-09,Bristol,Bristol Central Lending Library,Adult Reference,LOST,*,*
 2019-09,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,78,148.2
 2019-09,Bristol,Bristol Central Lending Library,Adult Spoken Word,LOST,*,*
@@ -6355,7 +6353,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Bristol,Henleaze Library,15 DVD Standard,OVERDUE,10,12.45
 2019-09,Bristol,Henleaze Library,18 DVD Standard,CHARGE,*,*
 2019-09,Bristol,Henleaze Library,Adult Fiction,LOST,22,196
-2019-09,Bristol,Henleaze Library,Adult Fiction,OVERDUE,261,204.30
+2019-09,Bristol,Henleaze Library,Adult Fiction,OVERDUE,260,204.15
 2019-09,Bristol,Henleaze Library,Adult Graphic Novel,LOST,*,*
 2019-09,Bristol,Henleaze Library,Adult Graphic Novel,OVERDUE,8,17.40
 2019-09,Bristol,Henleaze Library,Adult Non Fiction,LOST,11,99
@@ -8535,7 +8533,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-09,Somerset,Wincanton Library,Adult Fiction,HOLD,56,54.0
 2019-09,Somerset,Wincanton Library,Adult Fiction,LOST,*,*
 2019-09,Somerset,Wincanton Library,Adult Fiction,OVERDUE,56,31.2
-2019-09,Somerset,Wincanton Library,Adult Non Fiction,HOLD,28,28
+2019-09,Somerset,Wincanton Library,Adult Non Fiction,HOLD,27,27
 2019-09,Somerset,Wincanton Library,Adult Non Fiction,LOST,*,*
 2019-09,Somerset,Wincanton Library,Adult Non Fiction,OVERDUE,25,21.0
 2019-09,Somerset,Wincanton Library,Adult Spoken Word,CHARGE,14,28
@@ -10796,7 +10794,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,Poole,Poole Central Library,Adult Graphic Novel,OVERDUE,*,*
 2019-10,Poole,Poole Central Library,Adult Non Fiction,HOLD,70,70
 2019-10,Poole,Poole Central Library,Adult Non Fiction,LOST,*,*
-2019-10,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,241,381.8
+2019-10,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,240,381.6
 2019-10,Poole,Poole Central Library,Adult Spoken Word,CHARGE,20,30.0
 2019-10,Poole,Poole Central Library,Adult Spoken Word,HOLD,*,*
 2019-10,Poole,Poole Central Library,B.O.P.,OVERDUE,*,*
@@ -11466,7 +11464,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,Somerset,Somerton Library,YA / Teen Fiction,LOST,*,*
 2019-10,Somerset,Somerton Library,YA / Teen Fiction,OVERDUE,*,*
 2019-10,Somerset,South Petherton Library,15 DVD Standard,CHARGE,*,*
-2019-10,Somerset,South Petherton Library,Adult Fiction,HOLD,49,49
+2019-10,Somerset,South Petherton Library,Adult Fiction,HOLD,48,48
 2019-10,Somerset,South Petherton Library,Adult Fiction,OVERDUE,23,10.0
 2019-10,Somerset,South Petherton Library,Adult Non Fiction,HOLD,24,23.0
 2019-10,Somerset,South Petherton Library,Adult Non Fiction,OVERDUE,8,12.2
@@ -11485,8 +11483,6 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-10,Somerset,Street Library,12 DVD Standard,CHARGE,12,26.0
 2019-10,Somerset,Street Library,12 DVD Standard,OVERDUE,*,*
 2019-10,Somerset,Street Library,15 DVD Standard,CHARGE,6,14.25
-2019-10,Somerset,Street Library,18 DVD Standard,CHARGE,*,*
-2019-10,Somerset,Street Library,18 DVD Standard,HOLD,*,*
 2019-10,Somerset,Street Library,Adult Fiction,HOLD,90,87.5
 2019-10,Somerset,Street Library,Adult Fiction,LOST,*,*
 2019-10,Somerset,Street Library,Adult Fiction,OVERDUE,24,17.8
@@ -13126,7 +13122,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-11,Dorset,Dorchester Library,18 DVD Standard,CHARGE,*,*
 2019-11,Dorset,Dorchester Library,Adult Fiction,DAMAGE,*,*
 2019-11,Dorset,Dorchester Library,Adult Fiction,LOST,6,51
-2019-11,Dorset,Dorchester Library,Adult Fiction,OVERDUE,127,122.4
+2019-11,Dorset,Dorchester Library,Adult Fiction,OVERDUE,126,118.8
 2019-11,Dorset,Dorchester Library,Adult Graphic Novel,OVERDUE,*,*
 2019-11,Dorset,Dorchester Library,Adult Non Fiction,LOST,18,162
 2019-11,Dorset,Dorchester Library,Adult Non Fiction,OVERDUE,123,133.0
@@ -15552,7 +15548,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,Bristol,Bishopsworth Library,YA / Teen Non Fiction,OVERDUE,*,*
 2019-12,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,83,95
 2019-12,Bristol,Bristol Central Lending Library,12 DVD Standard,OVERDUE,12,6.60
-2019-12,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,172,183
+2019-12,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,169,180
 2019-12,Bristol,Bristol Central Lending Library,15 DVD Standard,OVERDUE,33,20.55
 2019-12,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,16,21
 2019-12,Bristol,Bristol Central Lending Library,18 DVD Standard,LOST,*,*
@@ -15563,7 +15559,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,Bristol,Bristol Central Lending Library,Adult Graphic Novel,LOST,23,161
 2019-12,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,70,110.70
 2019-12,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,152,1368
-2019-12,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1502,1661.55
+2019-12,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1500,1661.10
 2019-12,Bristol,Bristol Central Lending Library,Adult Reference,OVERDUE,*,*
 2019-12,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,52,98.8
 2019-12,Bristol,Bristol Central Lending Library,Adult Spoken Word,LOST,*,*
@@ -16528,7 +16524,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,Dorset,Wimborne Library,Adult Fiction,LOST,*,*
 2019-12,Dorset,Wimborne Library,Adult Fiction,OVERDUE,113,111.2
 2019-12,Dorset,Wimborne Library,Adult Non Fiction,LOST,*,*
-2019-12,Dorset,Wimborne Library,Adult Non Fiction,OVERDUE,44,41.6
+2019-12,Dorset,Wimborne Library,Adult Non Fiction,OVERDUE,43,41.4
 2019-12,Dorset,Wimborne Library,Adult Spoken Word,CHARGE,22,48.4
 2019-12,Dorset,Wimborne Library,Adult Spoken Word,OVERDUE,*,*
 2019-12,Dorset,Wimborne Library,B.O.P.,OVERDUE,*,*
@@ -16850,7 +16846,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,Poole,Broadstone Library,Adult Fiction,OVERDUE,150,176.8
 2019-12,Poole,Broadstone Library,Adult Non Fiction,HOLD,31,31
 2019-12,Poole,Broadstone Library,Adult Non Fiction,LOST,*,*
-2019-12,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,82,125.4
+2019-12,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,81,124.8
 2019-12,Poole,Broadstone Library,Adult Non Fiction,PROCESSFEE,*,*
 2019-12,Poole,Broadstone Library,Adult Spoken Word,CHARGE,34,51.0
 2019-12,Poole,Broadstone Library,Adult Spoken Word,OVERDUE,*,*
@@ -16949,7 +16945,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2019-12,Poole,Oakdale Library,Adult Fiction,OVERDUE,32,51.6
 2019-12,Poole,Oakdale Library,Adult Graphic Novel,HOLD,*,*
 2019-12,Poole,Oakdale Library,Adult Non Fiction,HOLD,10,10
-2019-12,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,20,39.4
+2019-12,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,18,38.6
 2019-12,Poole,Oakdale Library,Adult Spoken Word,CHARGE,5,7.5
 2019-12,Poole,Oakdale Library,Child Non Fiction,OVERDUE,*,*
 2019-12,Poole,Oakdale Library,Large Print - Adult Fiction,HOLD,*,*
@@ -18525,7 +18521,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,84,92.70
 2020-01,Bristol,Bristol Central Lending Library,Adult Non Fiction,DAMAGE,*,*
 2020-01,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,177,1593
-2020-01,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1494,1998.90
+2020-01,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1493,1997.25
 2020-01,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,63,119.7
 2020-01,Bristol,Bristol Central Lending Library,Adult Spoken Word,OVERDUE,15,12.60
 2020-01,Bristol,Bristol Central Lending Library,B.O.P.,OVERDUE,*,*
@@ -19847,7 +19843,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,Poole,Broadstone Library,Adult Fiction,LOST,*,*
 2020-01,Poole,Broadstone Library,Adult Fiction,OVERDUE,123,230.4
 2020-01,Poole,Broadstone Library,Adult Non Fiction,HOLD,52,52
-2020-01,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,111,112.2
+2020-01,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,110,111.4
 2020-01,Poole,Broadstone Library,Adult Spoken Word,CHARGE,40,60.0
 2020-01,Poole,Broadstone Library,Adult Spoken Word,HOLD,*,*
 2020-01,Poole,Broadstone Library,Adult Spoken Word,OVERDUE,*,*
@@ -19957,7 +19953,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,Poole,Oakdale Library,Adult Fiction,HOLD,15,15
 2020-01,Poole,Oakdale Library,Adult Fiction,OVERDUE,32,63.4
 2020-01,Poole,Oakdale Library,Adult Non Fiction,HOLD,15,15
-2020-01,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,21,15.4
+2020-01,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,19,14.2
 2020-01,Poole,Oakdale Library,Adult Spoken Word,CHARGE,*,*
 2020-01,Poole,Oakdale Library,Child Fiction,OVERDUE,5,26.0
 2020-01,Poole,Oakdale Library,Child Non Fiction,OVERDUE,*,*
@@ -21588,11 +21584,11 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,26,32
 2020-02,Bristol,Bristol Central Lending Library,18 DVD Standard,OVERDUE,*,*
 2020-02,Bristol,Bristol Central Lending Library,Adult Fiction,LOST,34,306
-2020-02,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,468,475.65
+2020-02,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,467,474.30
 2020-02,Bristol,Bristol Central Lending Library,Adult Graphic Novel,LOST,8,56
 2020-02,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,29,25.20
 2020-02,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,83,747
-2020-02,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1254,1410.90
+2020-02,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1253,1410.60
 2020-02,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,55,104.5
 2020-02,Bristol,Bristol Central Lending Library,Adult Spoken Word,OVERDUE,8,9.60
 2020-02,Bristol,Bristol Central Lending Library,B.O.P.,OVERDUE,*,*
@@ -22834,7 +22830,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,Poole,Broadstone Library,Adult Fiction,HOLD,94,94
 2020-02,Poole,Broadstone Library,Adult Fiction,OVERDUE,130,142.6
 2020-02,Poole,Broadstone Library,Adult Non Fiction,HOLD,61,61
-2020-02,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,74,121.8
+2020-02,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,73,121.0
 2020-02,Poole,Broadstone Library,Adult Spoken Word,CHARGE,30,45.0
 2020-02,Poole,Broadstone Library,Adult Spoken Word,OVERDUE,5,12.4
 2020-02,Poole,Broadstone Library,B.O.P.,HOLD,*,*
@@ -22930,7 +22926,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,Poole,Oakdale Library,Adult Fiction,HOLD,21,21
 2020-02,Poole,Oakdale Library,Adult Fiction,OVERDUE,22,49.8
 2020-02,Poole,Oakdale Library,Adult Non Fiction,HOLD,13,13
-2020-02,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,11,19.0
+2020-02,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,9,17.4
 2020-02,Poole,Oakdale Library,Adult Spoken Word,CHARGE,5,7.5
 2020-02,Poole,Oakdale Library,Adult Spoken Word,HOLD,*,*
 2020-02,Poole,Oakdale Library,Child Fiction,OVERDUE,14,71.0
@@ -22969,7 +22965,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,Poole,Poole Central Library,Adult Graphic Novel,OVERDUE,7,1.8
 2020-02,Poole,Poole Central Library,Adult Non Fiction,HOLD,56,56
 2020-02,Poole,Poole Central Library,Adult Non Fiction,LOST,*,*
-2020-02,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,205,288.4
+2020-02,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,203,286.8
 2020-02,Poole,Poole Central Library,Adult Spoken Word,CHARGE,20,30.0
 2020-02,Poole,Poole Central Library,Adult Spoken Word,OVERDUE,6,31.2
 2020-02,Poole,Poole Central Library,Boxed Set 12 DVD,CHARGE,7,17.5
@@ -24477,7 +24473,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,Bristol,Bristol Central Lending Library,Adult Non Fiction,BFR,*,*
 2020-03,Bristol,Bristol Central Lending Library,Adult Non Fiction,DAMAGE,*,*
 2020-03,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,47,423
-2020-03,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,891,866.40
+2020-03,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,890,866.25
 2020-03,Bristol,Bristol Central Lending Library,Adult Spoken Word,CHARGE,74,140.6
 2020-03,Bristol,Bristol Central Lending Library,Adult Spoken Word,LOST,*,*
 2020-03,Bristol,Bristol Central Lending Library,Adult Spoken Word,OVERDUE,6,9.15
@@ -25521,7 +25517,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,Poole,Broadstone Library,Adult Fiction,OVERDUE,62,49.2
 2020-03,Poole,Broadstone Library,Adult Non Fiction,HOLD,40,40
 2020-03,Poole,Broadstone Library,Adult Non Fiction,LOST,*,*
-2020-03,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,55,78.4
+2020-03,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,54,78.2
 2020-03,Poole,Broadstone Library,Adult Spoken Word,CHARGE,26,39.0
 2020-03,Poole,Broadstone Library,Adult Spoken Word,HOLD,12,12
 2020-03,Poole,Broadstone Library,Adult Spoken Word,OVERDUE,19,31.0
@@ -25651,7 +25647,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,Poole,Poole Central Library,Adult Fiction,OVERDUE,100,96.4
 2020-03,Poole,Poole Central Library,Adult Non Fiction,HOLD,24,24
 2020-03,Poole,Poole Central Library,Adult Non Fiction,LOST,*,*
-2020-03,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,119,151.4
+2020-03,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,117,151.0
 2020-03,Poole,Poole Central Library,Adult Spoken Word,CHARGE,18,27.0
 2020-03,Poole,Poole Central Library,Adult Spoken Word,HOLD,*,*
 2020-03,Poole,Poole Central Library,B.O.P.,OVERDUE,*,*
@@ -26312,7 +26308,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,Somerset,Wells Library,15 DVD Standard,CHARGE,22,54.25
 2020-03,Somerset,Wells Library,15 DVD Standard,OVERDUE,*,*
 2020-03,Somerset,Wells Library,Adult Fiction,DAMAGE,*,*
-2020-03,Somerset,Wells Library,Adult Fiction,HOLD,56,55.0
+2020-03,Somerset,Wells Library,Adult Fiction,HOLD,55,54.0
 2020-03,Somerset,Wells Library,Adult Fiction,OVERDUE,65,74.4
 2020-03,Somerset,Wells Library,Adult Graphic Novel,HOLD,*,*
 2020-03,Somerset,Wells Library,Adult Graphic Novel,OVERDUE,*,*
@@ -28689,8 +28685,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,689,1001.40
 2020-10,Bristol,Bristol Central Lending Library,Adult Graphic Novel,LOST,23,161
 2020-10,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,54,76.20
-2020-10,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,198,1777.63
-2020-10,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1290,2042.85
+2020-10,Bristol,Bristol Central Lending Library,Adult Non Fiction,LOST,197,1768.63
+2020-10,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1289,2042.70
 2020-10,Bristol,Bristol Central Lending Library,Adult Spoken Word,LOST,10,300
 2020-10,Bristol,Bristol Central Lending Library,B.O.P.,LOST,*,*
 2020-10,Bristol,Bristol Central Lending Library,B.O.P.,OVERDUE,*,*
@@ -29295,7 +29291,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-10,Dorset,Verwood Library,15 DVD Standard,CHARGE,*,*
 2020-10,Dorset,Verwood Library,15 DVD Standard,OVERDUE,*,*
 2020-10,Dorset,Verwood Library,Adult Fiction,LOST,6,54
-2020-10,Dorset,Verwood Library,Adult Fiction,OVERDUE,59,47.4
+2020-10,Dorset,Verwood Library,Adult Fiction,OVERDUE,58,47.2
 2020-10,Dorset,Verwood Library,Adult Non Fiction,LOST,*,*
 2020-10,Dorset,Verwood Library,Adult Non Fiction,OVERDUE,25,25.6
 2020-10,Dorset,Verwood Library,Adult Spoken Word,CHARGE,11,24.2
@@ -31278,7 +31274,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Dorset,Crossways Library,Large Print - Adult Non Fiction,LOST,*,*
 2020-11,Dorset,Crossways Library,YA / Teen Fiction,LOST,*,*
 2020-11,Dorset,Dorchester Library,12 DVD Standard,CHARGE,*,*
-2020-11,Dorset,Dorchester Library,15 DVD Standard,CHARGE,11,28.0
+2020-11,Dorset,Dorchester Library,15 DVD Standard,CHARGE,10,25.5
 2020-11,Dorset,Dorchester Library,15 DVD Standard,LOST,*,*
 2020-11,Dorset,Dorchester Library,Adult Fiction,LOST,27,243
 2020-11,Dorset,Dorchester Library,Adult Fiction,OVERDUE,42,101.4
@@ -31773,7 +31769,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Poole,Broadstone Library,Adult Fiction,HOLD,94,94
 2020-11,Poole,Broadstone Library,Adult Fiction,OVERDUE,65,150.6
 2020-11,Poole,Broadstone Library,Adult Non Fiction,HOLD,17,17
-2020-11,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,33,52.8
+2020-11,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,32,52.2
 2020-11,Poole,Broadstone Library,Adult Spoken Word,CHARGE,14,21.0
 2020-11,Poole,Broadstone Library,Adult Spoken Word,HOLD,*,*
 2020-11,Poole,Broadstone Library,Adult Spoken Word,OVERDUE,*,*
@@ -31839,7 +31835,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Poole,Oakdale Library,Adult Fiction,HOLD,22,22
 2020-11,Poole,Oakdale Library,Adult Fiction,OVERDUE,6,14.8
 2020-11,Poole,Oakdale Library,Adult Non Fiction,HOLD,13,13
-2020-11,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,13,11.0
+2020-11,Poole,Oakdale Library,Adult Non Fiction,OVERDUE,11,9.8
 2020-11,Poole,Oakdale Library,B.O.P.,OVERDUE,*,*
 2020-11,Poole,Oakdale Library,Child Fiction,HOLD,*,*
 2020-11,Poole,Oakdale Library,Child Fiction,OVERDUE,*,*
@@ -31870,7 +31866,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Poole,Poole Central Library,Adult Fiction,OVERDUE,71,153.2
 2020-11,Poole,Poole Central Library,Adult Graphic Novel,OVERDUE,*,*
 2020-11,Poole,Poole Central Library,Adult Non Fiction,HOLD,18,18
-2020-11,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,50,184.6
+2020-11,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,48,183.4
 2020-11,Poole,Poole Central Library,Adult Spoken Word,CHARGE,*,*
 2020-11,Poole,Poole Central Library,Boxed Set 15 DVD,CHARGE,*,*
 2020-11,Poole,Poole Central Library,Boxed Set PG DVD,CHARGE,*,*
@@ -32169,9 +32165,9 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-11,Somerset,Glastonbury Library,Adult Spoken Word,OVERDUE,*,*
 2020-11,Somerset,Glastonbury Library,Child Fiction,HOLD,6,6
 2020-11,Somerset,Glastonbury Library,Child Fiction,LOST,128,640
-2020-11,Somerset,Glastonbury Library,Child Fiction,OVERDUE,32,55.15
+2020-11,Somerset,Glastonbury Library,Child Fiction,OVERDUE,34,58.25
 2020-11,Somerset,Glastonbury Library,Child Non Fiction,LOST,19,95
-2020-11,Somerset,Glastonbury Library,Child Non Fiction,OVERDUE,7,8.20
+2020-11,Somerset,Glastonbury Library,Child Non Fiction,OVERDUE,8,9.75
 2020-11,Somerset,Glastonbury Library,Child Spoken Word,CHARGE,*,*
 2020-11,Somerset,Glastonbury Library,Child Spoken Word,LOST,*,*
 2020-11,Somerset,Glastonbury Library,Child Spoken Word,OVERDUE,*,*
@@ -37277,7 +37273,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-04,Bristol,Bishopston Library,PG DVD Standard,CHARGE,*,*
 2021-04,Bristol,Bishopston Library,U DVD Standard,CHARGE,*,*
 2021-04,Bristol,Bishopsworth Library,15 DVD Standard,CHARGE,*,*
-2021-04,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,21,21
+2021-04,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,20,20
 2021-04,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,49,52
 2021-04,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,9,9
 2021-04,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,12,10.35
@@ -38534,12 +38530,12 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Bristol,Fishponds Library,YA / Teen Non Fiction,OVERDUE,*,*
 2021-05,Bristol,Henbury Library,12 DVD Standard,CHARGE,*,*
 2021-05,Bristol,Henbury Library,15 DVD Standard,CHARGE,6,6
-2021-05,Bristol,Henbury Library,Adult Fiction,OVERDUE,94,44.40
+2021-05,Bristol,Henbury Library,Adult Fiction,OVERDUE,95,44.55
 2021-05,Bristol,Henbury Library,Adult Non Fiction,OVERDUE,28,15.15
 2021-05,Bristol,Henbury Library,Boxed Set 15 DVD,CHARGE,*,*
 2021-05,Bristol,Henbury Library,Child Fiction,OVERDUE,42,38.25
 2021-05,Bristol,Henbury Library,Child Non Fiction,OVERDUE,*,*
-2021-05,Bristol,Henbury Library,Fastrack,OVERDUE,9,2.40
+2021-05,Bristol,Henbury Library,Fastrack,OVERDUE,8,2.25
 2021-05,Bristol,Henbury Library,Large Print - Adult Fiction,OVERDUE,15,15.75
 2021-05,Bristol,Henbury Library,PG DVD Standard,CHARGE,*,*
 2021-05,Bristol,Henbury Library,U DVD Standard,CHARGE,*,*
@@ -39130,7 +39126,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Poole,Broadstone Library,Adult Fiction,HOLD,69,69
 2021-05,Poole,Broadstone Library,Adult Fiction,OVERDUE,317,435.0
 2021-05,Poole,Broadstone Library,Adult Non Fiction,HOLD,30,30
-2021-05,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,127,157.4
+2021-05,Poole,Broadstone Library,Adult Non Fiction,OVERDUE,126,155.2
 2021-05,Poole,Broadstone Library,Adult Spoken Word,CHARGE,12,18.0
 2021-05,Poole,Broadstone Library,Adult Spoken Word,HOLD,*,*
 2021-05,Poole,Broadstone Library,Adult Spoken Word,OVERDUE,10,10.2
@@ -39218,7 +39214,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-05,Poole,Poole Central Library,Adult Fiction,OVERDUE,327,584.6
 2021-05,Poole,Poole Central Library,Adult Graphic Novel,OVERDUE,*,*
 2021-05,Poole,Poole Central Library,Adult Non Fiction,HOLD,33,33
-2021-05,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,233,496.8
+2021-05,Poole,Poole Central Library,Adult Non Fiction,OVERDUE,231,491.6
 2021-05,Poole,Poole Central Library,Adult Spoken Word,CHARGE,*,*
 2021-05,Poole,Poole Central Library,Adult Spoken Word,OVERDUE,21,45.2
 2021-05,Poole,Poole Central Library,B.O.P.,OVERDUE,*,*
@@ -40143,7 +40139,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,Bath and North East Somerset,Midsomer Norton Library,18 DVD Standard,OVERDUE,*,*
 2021-06,Bath and North East Somerset,Midsomer Norton Library,Adult Fiction,LOST,14,126
 2021-06,Bath and North East Somerset,Midsomer Norton Library,Adult Non Fiction,LOST,10,90
-2021-06,Bath and North East Somerset,Midsomer Norton Library,Adult Spoken Word,CHARGE,19,38
+2021-06,Bath and North East Somerset,Midsomer Norton Library,Adult Spoken Word,CHARGE,17,34
 2021-06,Bath and North East Somerset,Midsomer Norton Library,Adult Spoken Word,LOST,*,*
 2021-06,Bath and North East Somerset,Midsomer Norton Library,Child Fiction,LOST,35,175
 2021-06,Bath and North East Somerset,Midsomer Norton Library,Child Non Fiction,LOST,*,*
@@ -40200,10 +40196,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,Bristol,Bishopsworth Library,Large Print - Adult Fiction,OVERDUE,*,*
 2021-06,Bristol,Bishopsworth Library,YA / Teen Fiction,OVERDUE,5,6.45
 2021-06,Bristol,Bristol Central Lending Library,12 DVD Premium,CHARGE,5,10
-2021-06,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,27,29
+2021-06,Bristol,Bristol Central Lending Library,12 DVD Standard,CHARGE,26,28
 2021-06,Bristol,Bristol Central Lending Library,12 DVD Standard,OVERDUE,*,*
 2021-06,Bristol,Bristol Central Lending Library,15 DVD Premium,CHARGE,10,20
-2021-06,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,53,59
+2021-06,Bristol,Bristol Central Lending Library,15 DVD Standard,CHARGE,51,57
 2021-06,Bristol,Bristol Central Lending Library,15 DVD Standard,OVERDUE,*,*
 2021-06,Bristol,Bristol Central Lending Library,18 DVD Premium,CHARGE,*,*
 2021-06,Bristol,Bristol Central Lending Library,18 DVD Standard,CHARGE,10,10
@@ -40211,7 +40207,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,Bristol,Bristol Central Lending Library,Adult Fiction,OVERDUE,654,649.05
 2021-06,Bristol,Bristol Central Lending Library,Adult Graphic Novel,OVERDUE,46,37.80
 2021-06,Bristol,Bristol Central Lending Library,Adult Non Fiction,DAMAGE,*,*
-2021-06,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1212,1247.85
+2021-06,Bristol,Bristol Central Lending Library,Adult Non Fiction,OVERDUE,1198,1234.95
 2021-06,Bristol,Bristol Central Lending Library,B.O.P.,OVERDUE,*,*
 2021-06,Bristol,Bristol Central Lending Library,Boxed Set 15 DVD,CHARGE,14,42
 2021-06,Bristol,Bristol Central Lending Library,Boxed Set 15 DVD,OVERDUE,*,*
@@ -40717,7 +40713,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,Dorset,Upton Library,PG DVD Standard,CHARGE,*,*
 2021-06,Dorset,Upton Library,YA / Teen Fiction,OVERDUE,*,*
 2021-06,Dorset,Verwood Library,Adult Fiction,LOST,*,*
-2021-06,Dorset,Verwood Library,Adult Fiction,OVERDUE,88,90.4
+2021-06,Dorset,Verwood Library,Adult Fiction,OVERDUE,85,84.4
 2021-06,Dorset,Verwood Library,Adult Graphic Novel,LOST,*,*
 2021-06,Dorset,Verwood Library,Adult Non Fiction,OVERDUE,31,31.4
 2021-06,Dorset,Verwood Library,Adult Spoken Word,CHARGE,6,13.2
@@ -41047,7 +41043,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,Poole,Broadstone Library,YA / Teen Fiction,LOST,*,*
 2021-06,Poole,Broadstone Library,YA / Teen Fiction,OVERDUE,5,10.8
 2021-06,Poole,Canford Cliffs Library,Adult Fiction,HOLD,53,53
-2021-06,Poole,Canford Cliffs Library,Adult Fiction,OVERDUE,37,22.8
+2021-06,Poole,Canford Cliffs Library,Adult Fiction,OVERDUE,39,24.8
 2021-06,Poole,Canford Cliffs Library,Adult Non Fiction,HOLD,23,23
 2021-06,Poole,Canford Cliffs Library,Adult Non Fiction,OVERDUE,16,11.0
 2021-06,Poole,Canford Cliffs Library,Adult Spoken Word,CHARGE,*,*
@@ -41133,7 +41129,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,Poole,Poole Central Library,Child Fiction,OVERDUE,80,280.0
 2021-06,Poole,Poole Central Library,Child Non Fiction,OVERDUE,14,23.6
 2021-06,Poole,Poole Central Library,Large Print - Adult Fiction,HOLD,*,*
-2021-06,Poole,Poole Central Library,Large Print - Adult Fiction,OVERDUE,10,12.0
+2021-06,Poole,Poole Central Library,Large Print - Adult Fiction,OVERDUE,13,41.4
 2021-06,Poole,Poole Central Library,Large Print - Adult Non Fiction,HOLD,*,*
 2021-06,Poole,Poole Central Library,Large Print - Adult Non Fiction,OVERDUE,7,19.8
 2021-06,Poole,Poole Central Library,Music CD,CHARGE,11,11
@@ -41586,7 +41582,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,Somerset,Taunton Library,18 DVD Standard,OVERDUE,*,*
 2021-06,Somerset,Taunton Library,Adult Fiction,HOLD,225,218.5
 2021-06,Somerset,Taunton Library,Adult Fiction,LOST,*,*
-2021-06,Somerset,Taunton Library,Adult Fiction,OVERDUE,448,583.4
+2021-06,Somerset,Taunton Library,Adult Fiction,OVERDUE,446,577.4
 2021-06,Somerset,Taunton Library,Adult Graphic Novel,OVERDUE,14,14.0
 2021-06,Somerset,Taunton Library,Adult Non Fiction,HOLD,122,118.0
 2021-06,Somerset,Taunton Library,Adult Non Fiction,LOST,*,*
