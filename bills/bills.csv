@@ -19136,8 +19136,8 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-01,Dorset,Lyme Regis Library,Adult Non Fiction,LOST,*,*
 2020-01,Dorset,Lyme Regis Library,Adult Non Fiction,OVERDUE,18,16.6
 2020-01,Dorset,Lyme Regis Library,Adult Spoken Word,CHARGE,6,13.2
-2020-01,Dorset,Lyme Regis Library,Child Fiction,LOST,17,85
-2020-01,Dorset,Lyme Regis Library,Child Non Fiction,LOST,7,35
+2020-01,Dorset,Lyme Regis Library,Child Fiction,LOST,18,90
+2020-01,Dorset,Lyme Regis Library,Child Non Fiction,LOST,6,30
 2020-01,Dorset,Lyme Regis Library,Language Course,CHARGE,*,*
 2020-01,Dorset,Lyme Regis Library,Language Course,OVERDUE,*,*
 2020-01,Dorset,Lyme Regis Library,Large Print - Adult Fiction,OVERDUE,*,*
@@ -23121,13 +23121,13 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-02,Somerset,Frome Library,15 DVD Standard,OVERDUE,13,32.8
 2020-02,Somerset,Frome Library,18 DVD Standard,CHARGE,17,39
 2020-02,Somerset,Frome Library,Adult Fiction,DAMAGE,*,*
-2020-02,Somerset,Frome Library,Adult Fiction,HOLD,173,170.0
+2020-02,Somerset,Frome Library,Adult Fiction,HOLD,172,169.0
 2020-02,Somerset,Frome Library,Adult Fiction,LOST,*,*
 2020-02,Somerset,Frome Library,Adult Fiction,OVERDUE,156,162.0
 2020-02,Somerset,Frome Library,Adult Graphic Novel,HOLD,*,*
 2020-02,Somerset,Frome Library,Adult Graphic Novel,LOST,*,*
 2020-02,Somerset,Frome Library,Adult Graphic Novel,OVERDUE,*,*
-2020-02,Somerset,Frome Library,Adult Non Fiction,HOLD,165,159.5
+2020-02,Somerset,Frome Library,Adult Non Fiction,HOLD,166,160.5
 2020-02,Somerset,Frome Library,Adult Non Fiction,LOST,*,*
 2020-02,Somerset,Frome Library,Adult Non Fiction,OVERDUE,193,250.4
 2020-02,Somerset,Frome Library,Adult Spoken Word,CHARGE,70,146
@@ -26474,10 +26474,10 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2020-03,South Gloucestershire,Hanham Library,12 DVD Standard,OVERDUE,*,*
 2020-03,South Gloucestershire,Hanham Library,15 DVD Standard,CHARGE,9,11.8
 2020-03,South Gloucestershire,Hanham Library,18 DVD Standard,CHARGE,*,*
-2020-03,South Gloucestershire,Hanham Library,Adult Fiction,HOLD,26,17.5
+2020-03,South Gloucestershire,Hanham Library,Adult Fiction,HOLD,25,17.0
 2020-03,South Gloucestershire,Hanham Library,Adult Fiction,OVERDUE,37,20.2
 2020-03,South Gloucestershire,Hanham Library,Adult Graphic Novel,HOLD,*,*
-2020-03,South Gloucestershire,Hanham Library,Adult Non Fiction,HOLD,22,17.5
+2020-03,South Gloucestershire,Hanham Library,Adult Non Fiction,HOLD,23,18.0
 2020-03,South Gloucestershire,Hanham Library,Adult Non Fiction,OVERDUE,21,36.2
 2020-03,South Gloucestershire,Hanham Library,Adult Spoken Word,HOLD,*,*
 2020-03,South Gloucestershire,Hanham Library,B.O.P.,OVERDUE,*,*
@@ -40790,7 +40790,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,North Somerset,Weston-super-Mare Library,18 DVD Standard,CHARGE,*,*
 2021-06,North Somerset,Weston-super-Mare Library,18 DVD Standard,OVERDUE,*,*
 2021-06,North Somerset,Weston-super-Mare Library,Adult Fiction,LOST,*,*
-2021-06,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,105,136.0
+2021-06,North Somerset,Weston-super-Mare Library,Adult Fiction,OVERDUE,106,137.2
 2021-06,North Somerset,Weston-super-Mare Library,Adult Non Fiction,LOST,12,108
 2021-06,North Somerset,Weston-super-Mare Library,Adult Non Fiction,OVERDUE,104,147.2
 2021-06,North Somerset,Weston-super-Mare Library,Adult Spoken Word,CHARGE,18,18
@@ -40800,7 +40800,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,North Somerset,Weston-super-Mare Library,Child Non Fiction,LOST,*,*
 2021-06,North Somerset,Weston-super-Mare Library,Child Non Fiction,OVERDUE,*,*
 2021-06,North Somerset,Weston-super-Mare Library,Child Spoken Word,CHARGE,*,*
-2021-06,North Somerset,Weston-super-Mare Library,Fastrack,OVERDUE,5,3.4
+2021-06,North Somerset,Weston-super-Mare Library,Fastrack,OVERDUE,*,*
 2021-06,North Somerset,Weston-super-Mare Library,Large Print - Adult Fiction,OVERDUE,17,10.7
 2021-06,North Somerset,Weston-super-Mare Library,Large Print - Adult Non Fiction,OVERDUE,5,5.8
 2021-06,North Somerset,Weston-super-Mare Library,Music Score,LOST,*,*
@@ -41173,7 +41173,7 @@ month_billed,bill_authority,bill_library,item_type,bill_reason,number_of_bills,t
 2021-06,Somerset,Frome Library,15 DVD Standard,OVERDUE,*,*
 2021-06,Somerset,Frome Library,Adult Fiction,HOLD,143,137.5
 2021-06,Somerset,Frome Library,Adult Fiction,LOST,*,*
-2021-06,Somerset,Frome Library,Adult Fiction,OVERDUE,249,325.2
+2021-06,Somerset,Frome Library,Adult Fiction,OVERDUE,250,325.6
 2021-06,Somerset,Frome Library,Adult Graphic Novel,HOLD,*,*
 2021-06,Somerset,Frome Library,Adult Graphic Novel,OVERDUE,5,11.8
 2021-06,Somerset,Frome Library,Adult Non Fiction,HOLD,150,143.5
